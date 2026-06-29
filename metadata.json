@@ -1,0 +1,6 @@
+{
+  "name": "SiddhaVerse",
+  "description": "An Evidence-Based Digital Library of Siddha Wisdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
