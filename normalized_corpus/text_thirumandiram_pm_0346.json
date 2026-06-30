@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0346",
+  "text_id": "thirumandiram_pm_0346",
+  "title": "Thirumandiram - Verse 894",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "894",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாறே சதாசிவ மாறிலா ஆகமம்\nவாறே சிவகதி வண்டுறை புன்னையும்\nவாறே திருக்கூத்து ஆகம வசனங்கள்\nவாறே பொதுவாகும் மன்றின் அமலமே.",
+  "transliteration": "vāṟē ctāciv māṟilā ākmm\nvāṟē civkti vṇṭuṟai puṉṉaiyum\nvāṟē tirukkūttu ākm vcṉṅkḷ\nvāṟē potuvākum mṉṟiṉ amlmē.",
+  "english_translation": null,
+  "content_hash": "46e59e426e12a03f6bd3d4da028f2cae51780fa0ee109afe980192cd659f0a9b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_potigai",
+    "concept_agama",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

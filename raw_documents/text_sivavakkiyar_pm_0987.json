@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0987",
+  "text_id": "sivavakkiyar_pm_0987",
+  "title": "Sivavakkiyam - Verse 378",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "378",
+  "tamil_text": "ஆடிநின்ற சீவன்ஓர் அஞ்சுபஞ்ச பூதமோ\nகூடிநின்ற சோதியோ, குலாவிநின்ற மூலமோ?\nநாடுகண்டு நின்றதோ, நாவுகற்ற கல்வியோ?\nவீடுகண்டு விண்டிடினி வெட்டவெளியும் ஆனதே.",
+  "transliteration": "āṭiniṉṟ cīvṉōr añcupñc pūtmō\nkūṭiniṉṟ cōtiyō, kulāviniṉṟ mūlmō?\nnāṭukṇṭu niṉṟtō, nāvukṟṟ klviyō?\nvīṭukṇṭu viṇṭiṭiṉi veṭṭveḷiyum āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "07f3d5d181747914ddee1cce908f46dac5e1cfaea1aacb14c186af60be2752bc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

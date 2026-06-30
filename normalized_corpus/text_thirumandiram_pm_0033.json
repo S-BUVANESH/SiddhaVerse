@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0033",
+  "text_id": "thirumandiram_pm_0033",
+  "title": "Thirumandiram - Verse 33",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "33",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பதிபல வாயது பண்டுஇவ் வுலகம்\nவிதிபல செய்தொன்றும் மெய்ம்மை உணரார்\nதுதிபல தோத்திரம் சொல்ல வல்லாரும்\nமதியிலர் நெஞ்சினுள் வாடுகின் றாரே.",
+  "transliteration": "ptipl vāytu pṇṭuiv vulkm\nvitipl ceytoṉṟum meymmai uṇrār\ntutipl tōttirm coll vllārum\nmtiyilr neñciṉuḷ vāṭukiṉ ṟārē.",
+  "english_translation": null,
+  "content_hash": "8b86165e1933f857e04b7ee3e8b956cbec692be45315be2ecce4aef9eeba5943",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_heart",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "symbol_eighteen",
+    "plant_thippili",
+    "concept_dhyana"
+  ]
+}

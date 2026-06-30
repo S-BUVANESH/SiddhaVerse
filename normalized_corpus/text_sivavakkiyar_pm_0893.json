@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0893",
+  "text_id": "sivavakkiyar_pm_0893",
+  "title": "Sivavakkiyam - Verse 284",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "284",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பத்தொடொத்த வாசலில் பரந்துமூல வக்கரம்\nமுத்திசித்தி தொந்தமென்று இயங்குகின்ற மூலமே\nமத்தசித்த ஐம்புலன் மாகரமான கூத்தையே\nஅத்தியூரர் தம்முளே அமைந்ததே சிவாயமே.",
+  "transliteration": "pttoṭott vāclil prntumūl vkkrm\nmutticitti tontmeṉṟu iyṅkukiṉṟ mūlmē\nmttcitt aimpulṉ mākrmāṉ kūttaiyē\nattiyūrr tmmuḷē amainttē civāymē.",
+  "english_translation": null,
+  "content_hash": "786d513822184e19bd258dcd316d727ebdfefb81ae20bc586b80f616681f219f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_siddhi",
+    "concept_pancha_bootham",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "body_moolam",
+    "practice_mudra",
+    "deity_shiva",
+    "concept_dhyana"
+  ]
+}

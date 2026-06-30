@@ -1,0 +1,78 @@
+﻿[17:46:07] ============================================================
+[17:46:07] Phase 2B-1R: Real Corpus Acquisition
+[17:46:07] Target: 1000 unique verses
+[17:46:07] ============================================================
+[17:46:07] Step 1: Archiving replicated pilot files...
+[17:46:07] Archive: 0 raw + 0 metadata files moved to archive/
+[17:46:07] 
+Step 2: Fetching verses from Project Madurai...
+
+[17:46:07] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html
+[17:46:13]   Downloaded 115,451 bytes
+[17:46:13]   Parsed 335 candidate verses
+[17:46:14]   Written: 335  |  Duplicates rejected: 0
+[17:46:14]   Running unique total: 335
+[17:46:15] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_01.html
+[17:46:19]   Downloaded 61,802 bytes
+[17:46:19]   Parsed 0 candidate verses
+[17:46:19]   Written: 0  |  Duplicates rejected: 0
+[17:46:19]   Running unique total: 335
+[17:46:20] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html
+[17:46:23]   Downloaded 49,861 bytes
+[17:46:23]   Parsed 260 candidate verses
+[17:46:24]   Written: 260  |  Duplicates rejected: 0
+[17:46:24]   Running unique total: 595
+[17:46:25] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0010_01.html
+[17:46:35]   Downloaded 78,790 bytes
+[17:46:35]   Parsed 0 candidate verses
+[17:46:35]   Written: 0  |  Duplicates rejected: 0
+[17:46:35]   Running unique total: 595
+[17:46:36] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0010_02.html
+[17:46:42]   Downloaded 97,489 bytes
+[17:46:42]   Parsed 0 candidate verses
+[17:46:42]   Written: 0  |  Duplicates rejected: 0
+[17:46:42]   Running unique total: 595
+[17:46:43] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0011_01.html
+[17:46:50]   Downloaded 125,766 bytes
+[17:46:50]   Parsed 0 candidate verses
+[17:46:50]   Written: 0  |  Duplicates rejected: 0
+[17:46:50]   Running unique total: 595
+[17:46:51] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0011_02.html
+[17:46:58]   Downloaded 134,045 bytes
+[17:46:58]   Parsed 0 candidate verses
+[17:46:58]   Written: 0  |  Duplicates rejected: 0
+[17:46:58]   Running unique total: 595
+[17:46:59] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0013.html
+[17:47:06]   Downloaded 119,618 bytes
+[17:47:06]   Parsed 0 candidate verses
+[17:47:06]   Written: 0  |  Duplicates rejected: 0
+[17:47:06]   Running unique total: 595
+[17:47:07] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0014.html
+[17:47:11]   Downloaded 55,876 bytes
+[17:47:11]   Parsed 13 candidate verses
+[17:47:11]   Written: 13  |  Duplicates rejected: 0
+[17:47:11]   Running unique total: 608
+[17:47:12] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0015.html
+[17:47:18]   Downloaded 78,157 bytes
+[17:47:18]   Parsed 0 candidate verses
+[17:47:18]   Written: 0  |  Duplicates rejected: 0
+[17:47:18]   Running unique total: 608
+[17:47:19] Fetching [Thirumandiram]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0016.html
+[17:47:23]   Downloaded 69,967 bytes
+[17:47:23]   Parsed 0 candidate verses
+[17:47:23]   Written: 0  |  Duplicates rejected: 0
+[17:47:23]   Running unique total: 608
+[17:47:24] Fetching [Sivavakkiyam]: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html
+[17:47:30]   Downloaded 124,129 bytes
+[17:47:30]   Parsed 525 candidate verses
+[17:47:31]   Written: 392  |  Duplicates rejected: 0
+[17:47:31]   Running unique total: 1000
+[17:47:32] 
+[17:47:32] ============================================================
+[17:47:32] ACQUISITION COMPLETE
+[17:47:32]   Unique verses acquired  : 1000
+[17:47:32]   Duplicates rejected     : 0
+[17:47:32]   Total candidates parsed : 1133
+[17:47:32]   Duplicate rate          : 0.0%
+[17:47:32] ============================================================
+[17:47:32] Summary saved to acquisition_summary.json

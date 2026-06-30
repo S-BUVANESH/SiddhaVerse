@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0478",
+  "text_id": "thirumandiram_pm_0478",
+  "title": "Thirumandiram - Verse 1036",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1036",
+  "tamil_text": "சேர்ந்த கலையஞ்சும் சேரும்இக் குண்டமும்\nஆர்ந்த திசைகளும் அங்கே அமர்ந்திடும்\nபாய்ந்தஐம் பூதமும் பார்க்கின்ற வன்னியைக்\nகாய்ந்தவர் என்றும் கலந்தவர் தாமே.",
+  "transliteration": "cērnt klaiyñcum cērumik kuṇṭmum\nārnt ticaikḷum aṅkē amrntiṭum\npāyntaim pūtmum pārkkiṉṟ vṉṉiyaik\nkāyntvr eṉṟum klntvr tāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c8db52547a947d2ccb42eb8edce2961f39a9970e0158e004595c6c5886a2b2e8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

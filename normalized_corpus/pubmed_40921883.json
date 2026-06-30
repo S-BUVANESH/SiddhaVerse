@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_40921883",
+  "text_id": "pubmed_40921883",
+  "title": "Enhancing healthspan with Ashwagandha (Withania somnifera): a comprehensive review of its multifaceted geroprotective benefits.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Vittal M",
+    "Vinciguerra M"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "65a1daa7752d84deb39daeb46bd9f5002c63ae373f9924454415f350a85eeed9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "40921883",
+  "authors": [
+    "Vittal M",
+    "Vinciguerra M"
+  ],
+  "journal": "Biogerontology",
+  "pubdate": "2025 Sep 08",
+  "doi": "10.1007/s10522-025-10320-0",
+  "abstract": "Ashwagandha (Withania somnifera), a revered herb in Ayurvedic medicine, has gained significant scientific recognition for its potential to promote healthy aging. Traditionally used as a Rasayana or rejuvenator, this potent adaptogen helps the body manage stress and enhance vitality. This review synthesises extensive evidence for its multifaceted anti-aging capabilities, which target key hallmarks of the aging process. The mechanisms underpinning its effects include enhancing telomerase activity to support cellular longevity, combating systemic oxidative stress, and powerfully countering inflammaging by modulating immune responses and lowering inflammatory markers like C-reactive protein. Robust clinical evidence demonstrates its efficacy in improving crucial physiological parameters, including significant gains in muscle strength and size, enhanced cardiorespiratory fitness, hormonal balance, skin health, and improved sleep quality in older adults. Furthermore, trials have consistently shown its ability to improve cognitive function, including memory and information-processing speed, particularly in adults with mild cognitive impairment. Promising preclinical data also highlight its neuroprotective potential in models of Alzheimer's and Parkinson's disease. Here, we review the current evidence supports Ashwagandha's therapeutic potential in extending healthspan and enhancing quality of life. Large-scale, long-term clinical trials using standardized extracts are essential to fully confirm its role in healthy aging within the global population.",
+  "search_text": "pubmed 40921883 Enhancing healthspan with Ashwagandha (Withania somnifera): a comprehensive review of its multifaceted geroprotective benefits. PubMed Research Scientific Literature Vittal M Vinciguerra M Tamil Tamil script open_access PubMed Central 40921883 Vittal M Vinciguerra M Biogerontology 2025 Sep 08 10.1007/s10522-025-10320-0 Ashwagandha (Withania somnifera), a revered herb in Ayurvedic medicine, has gained significant scientific recognition for its potential to promote healthy aging. Traditionally used as a Rasayana or rejuvenator, this potent adaptogen helps the body manage stress and enhance vitality. This review synthesises extensive evidence for its multifaceted anti-aging capabilities, which target key hallmarks of the aging process. The mechanisms underpinning its effects include enhancing telomerase activity to support cellular longevity, combating systemic oxidative stress, and powerfully countering inflammaging by modulating immune responses and lowering inflammatory markers like C-reactive protein. Robust clinical evidence demonstrates its efficacy in improving crucial physiological parameters, including significant gains in muscle strength and size, enhanced cardiorespiratory fitness, hormonal balance, skin health, and improved sleep quality in older adults. Furthermore, trials have consistently shown its ability to improve cognitive function, including memory and information-processing speed, particularly in adults with mild cognitive impairment. Promising preclinical data also highlight its neuroprotective potential in models of Alzheimer's and Parkinson's disease. Here, we review the current evidence supports Ashwagandha's therapeutic potential in extending healthspan and enhancing quality of life. Large-scale, long-term clinical trials using standardized extracts are essential to fully confirm its role in healthy aging within the global population."
+}

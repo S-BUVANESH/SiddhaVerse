@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0162",
+  "text_id": "thirumandiram_pm_0162",
+  "title": "Thirumandiram - Verse 165",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "165",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மடல்விரி கொன்றையன் மாயன் படைத்த\nஉடலும் உயிரும் உருவந் தொழாமல்\nஇடர்ப்படந்து ஏழா நரகிற் கிடப்பர்\nகுடர்ப்பட வெந்தமர் கூப்பிடு மாறே.",
+  "transliteration": "mṭlviri koṉṟaiyṉ māyṉ pṭaitt\nuṭlum uyirum uruvn toḻāml\niṭrppṭntu ēḻā nrkiṟ kiṭppr\nkuṭrppṭ ventmr kūppiṭu māṟē.",
+  "english_translation": null,
+  "content_hash": "1c50c8309a1f56b5d17eaf392891d5e6ac7f8a02f5ef0a57b63fc354a65a9e2b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_udal",
+    "concept_maya",
+    "deity_vishnu",
+    "body_uyir",
+    "siddhar_kudambai",
+    "concept_atman"
+  ]
+}

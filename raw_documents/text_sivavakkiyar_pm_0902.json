@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0902",
+  "text_id": "sivavakkiyar_pm_0902",
+  "title": "Sivavakkiyam - Verse 293",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "293",
+  "tamil_text": "கொள்ளொணாது மெல்லொணாது கோதாறக் குதட்டடா\nதள்ளொணாது அணுகொணாது ஆகலான் மனத்துளே\nதெள்ளொணாது தெளியொணாது சிற்பரத்தின் உட்பயன்\nவிள்ளொணாது பொருளைநான் விளம்புமாறது எங்ஙனே?",
+  "transliteration": "koḷḷoṇātu melloṇātu kōtāṟk kutṭṭṭā\ntḷḷoṇātu aṇukoṇātu āklāṉ mṉttuḷē\nteḷḷoṇātu teḷiyoṇātu ciṟprttiṉ uṭpyṉ\nviḷḷoṇātu poruḷaināṉ viḷmpumāṟtu eṅṅṉē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3c425cc92faecb92cef37712b174f60f4e633b418d60590456753d3068e6e714",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

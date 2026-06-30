@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0691",
+  "text_id": "sivavakkiyar_pm_0691",
+  "title": "Sivavakkiyam - Verse 82",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "82",
+  "tamil_text": "மாடுகன்று செல்வமும் மனைவிமைந்தர் மகிழவே\nமாடமாளி கைப்புறத்தில் வாழுகின்ற நாளிலே\nஓடிவந்து காலதூதர் சடுதியாக மோதவே\nஉடல்கிடந்து உயிர்கழன்ற உண்மைகண்டும் உணர்கிலீர்!",
+  "transliteration": "māṭukṉṟu celvmum mṉaivimaintr mkiḻvē\nmāṭmāḷi kaippuṟttil vāḻukiṉṟ nāḷilē\nōṭivntu kāltūtr cṭutiyāk mōtvē\nuṭlkiṭntu uyirkḻṉṟ uṇmaikṇṭum uṇrkilīr!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "de7cf18cb99940888a70387887f395bfb100ecef98f8a9ec3a70e0a533ac6484",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

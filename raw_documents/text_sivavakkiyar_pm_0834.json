@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0834",
+  "text_id": "sivavakkiyar_pm_0834",
+  "title": "Sivavakkiyam - Verse 225",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "225",
+  "tamil_text": "அகாரகார ணத்திலே அனேகனேக ரூபமாய்\nஉகாரகார ணத்திலே உருத்தரித்து நின்றனன்\nமகாரகார ணத்திலே மயங்குகின்ற வையகம்\nசிகாரகார ணத்திலே தெளிந்ததே சிவாயமே.",
+  "transliteration": "akārkār ṇttilē aṉēkṉēk rūpmāy\nukārkār ṇttilē uruttrittu niṉṟṉṉ\nmkārkār ṇttilē myṅkukiṉṟ vaiykm\ncikārkār ṇttilē teḷinttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4f9720ba2c37563ace8fda6d801e2bde286e1733c1d65389f42b72ce871a5c20",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

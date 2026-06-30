@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0684",
+  "text_id": "sivavakkiyar_pm_0684",
+  "title": "Sivavakkiyam - Verse 75",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "75",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அறிவிலே புறந்திருந்த ஆகமங்கள் ஓதுறீர்;\nநெறியிலே மயங்குகின்ற நேர்மைஒன்று அரிகிலீர்;\nஉறியிலே தயிர்இருக்க ஊர்புகுந்து வெண்ணெய்தேடும்\nஅறிவிலாத மாந்தரோடு அணுகுமாறது எங்ஙனே?",
+  "transliteration": "aṟivilē puṟntirunt ākmṅkḷ ōtuṟīr;\nneṟiyilē myṅkukiṉṟ nērmaioṉṟu arikilīr;\nuṟiyilē tyirirukk ūrpukuntu veṇṇeytēṭum\naṟivilāt māntrōṭu aṇukumāṟtu eṅṅṉē?",
+  "english_translation": null,
+  "content_hash": "c15387b402d669ddcaf0b405d64ee0c56beb1955a40a299fb69dbb5227c0dbf5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_agama",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0124",
+  "text_id": "thirumandiram_pm_0124",
+  "title": "Thirumandiram - Verse 126",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "126",
+  "tamil_text": "முப்பதும் ஆறும் படிமுத்தி ஏணியாய்\nஒப்பிலா ஆனந்தத் துள்ளொளி புக்குச்\nசெப்ப அரிய சிவங்கண்டு தான்தெளிந்து\nஅப்பரி சாக அமர்ந்திருந் தாரே.",
+  "transliteration": "mupptum āṟum pṭimutti ēṇiyāy\noppilā āṉntt tuḷḷoḷi pukkuc\ncepp ariy civṅkṇṭu tāṉteḷintu\nappri cāk amrntirun tārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7bcca8e9f392bc64996d35fe38672f9bfa4695ae44c3bfba151a665f007b4f1c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

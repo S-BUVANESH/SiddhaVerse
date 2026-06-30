@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0048",
+  "text_id": "thirumandiram_pm_0048",
+  "title": "Thirumandiram - Verse 48",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "48",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அடியார் பரவும் அமரர் பிரானை\nமுடியால் வணங்கி முதல்வனை முன்னிப்\nபடியால் அருளும் பரம்பரன் எந்தை\nவிடியா விளக்கென்று மேவிநின் றேனே.",
+  "transliteration": "aṭiyār prvum amrr pirāṉai\nmuṭiyāl vṇṅki mutlvṉai muṉṉip\npṭiyāl aruḷum prmprṉ entai\nviṭiyā viḷkkeṉṟu mēviniṉ ṟēṉē.",
+  "english_translation": null,
+  "content_hash": "3555ace82bd6655968801bf6762857c73359af776f40836f1eb45975666fbb4a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_three",
+    "deity_brahma",
+    "concept_pranava",
+    "concept_brahman",
+    "body_seed",
+    "practice_pranayama",
+    "practice_mudra",
+    "deity_shiva",
+    "deity_ganesha"
+  ]
+}

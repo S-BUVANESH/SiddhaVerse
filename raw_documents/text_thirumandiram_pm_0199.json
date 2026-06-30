@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0199",
+  "text_id": "thirumandiram_pm_0199",
+  "title": "Thirumandiram - Verse 202",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "202",
+  "tamil_text": "திருத்தி வளர்த்ததோர் தேமாங் கனியை\nஅருத்தமென் றெண்ணி அறையில் புதைத்துப்\nபொருத்தம் இலாத புளிமாங் கொம்பேறிக்\nகருத்தறி யாதவர் காலற்ற வாறே.",
+  "transliteration": "tirutti vḷrtttōr tēmāṅ kṉiyai\naruttmeṉ ṟeṇṇi aṟaiyil putaittup\nporuttm ilāt puḷimāṅ kompēṟik\nkruttṟi yātvr kālṟṟ vāṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ccdf35c3dbd1a2733bc8e655ff90ec496985f0b6097c225f477152515e5495dc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0803",
+  "text_id": "sivavakkiyar_pm_0803",
+  "title": "Sivavakkiyam - Verse 194",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "194",
+  "tamil_text": "வேடமிட்டு மின்துலக்கி மிக்கதூப தீபமாய்\nஆடறுத்து கூறுபோட்ட அவர்கள்போலும் பண்ணுறீர்\nதேடிவத்த செம்பெலாம் திரள்படப் பரப்பியே\nபோடுகின்ற புட்பபூசை பூசைஎன்ன பூசையே?",
+  "transliteration": "vēṭmiṭṭu miṉtulkki mikktūp tīpmāy\nāṭṟuttu kūṟupōṭṭ avrkḷpōlum pṇṇuṟīr\ntēṭivtt cempelām tirḷpṭp prppiyē\npōṭukiṉṟ puṭppūcai pūcaieṉṉ pūcaiyē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f91dbacf6f69990d8e76e4a90f27bb157c16edf497372a3aa523e019ddd9b8b1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

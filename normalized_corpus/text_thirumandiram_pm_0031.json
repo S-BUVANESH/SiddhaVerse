@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0031",
+  "text_id": "thirumandiram_pm_0031",
+  "title": "Thirumandiram - Verse 31",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "31",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மண்ணகத் தான்ஒக்கும் வானகத் தான்ஒக்கும்\nவிண்ணகத் தான்ஒக்கும் வேதகத் தான்ஒக்கும்\nபண்ணகத்து இன்னிசை பாடலுற் றானுக்கே\nகண்ணகத் தேநின்று காதலித் தேனே.",
+  "transliteration": "mṇṇkt tāṉokkum vāṉkt tāṉokkum\nviṇṇkt tāṉokkum vētkt tāṉokkum\npṇṇkttu iṉṉicai pāṭluṟ ṟāṉukkē\nkṇṇkt tēniṉṟu kātlit tēṉē.",
+  "english_translation": null,
+  "content_hash": "609ded8ea6629e1abeb1b0a52ee592f3c84693708d0c9504cf36529f9e275cd6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka",
+    "body_eye"
+  ]
+}

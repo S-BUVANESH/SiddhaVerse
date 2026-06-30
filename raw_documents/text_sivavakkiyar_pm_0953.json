@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0953",
+  "text_id": "sivavakkiyar_pm_0953",
+  "title": "Sivavakkiyam - Verse 344",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "344",
+  "tamil_text": "நாதமான வாயிலில் நடித்துநின்ற சாயலில்\nவேதமான வீதியில் விரிந்தமுச் சுடரிலே\nகீதமான கீயிலே கிளர்ந்துநின்ற கூவிலே\nபூதமான வாயிலைப் புகலறிவன் ஆதியே.",
+  "transliteration": "nātmāṉ vāyilil nṭittuniṉṟ cāylil\nvētmāṉ vītiyil virintmuc cuṭrilē\nkītmāṉ kīyilē kiḷrntuniṉṟ kūvilē\npūtmāṉ vāyilaip puklṟivṉ ātiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3ce0fe4458f79708a788da8daac3bfc6ce34397e5056e35cb0fef89823b33056",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

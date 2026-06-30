@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0302",
+  "text_id": "thirumandiram_pm_0302",
+  "title": "Thirumandiram - Verse 306",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "306",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சிறியார் மணற்சோற்றில் தேக்கிடு மாபோல்\nசெறிவால் அனுபோகம் சித்திக்கும் என்னில்\nகுறியாதது ஒன்றைக் குறியாதார் தம்மை\nஅறியாது இருந்தார் அவராவார் அன்றே.",
+  "transliteration": "ciṟiyār mṇṟcōṟṟil tēkkiṭu māpōl\nceṟivāl aṉupōkm cittikkum eṉṉil\nkuṟiyāttu oṉṟaik kuṟiyātār tmmai\naṟiyātu iruntār avrāvār aṉṟē.",
+  "english_translation": null,
+  "content_hash": "96da21c46419481d0fd53f7daa4804dc1be31ae45cc27c8934240cec1905c86c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "siddhar_bogar",
+    "place_chidambaram",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0665",
+  "text_id": "sivavakkiyar_pm_0665",
+  "title": "Sivavakkiyam - Verse 56",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "56",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எத்திசைக்கும் எவ்வுயிர்க்கும் எங்கள் அப்பன் எம்பிரான்\nசத்தியான வித்துளே முளைத்தெழும் அச்சுடர்\nசித்தமும் தெளிந்துவேத கோயிலும் திறந்தபின்\nஅத்தன்ஆடல் கண்டபின் அடங்கல்ஆடல் காணுமே.",
+  "transliteration": "etticaikkum evvuyirkkum eṅkḷ appṉ empirāṉ\ncttiyāṉ vittuḷē muḷaitteḻum accuṭr\ncittmum teḷintuvēt kōyilum tiṟntpiṉ\nattṉāṭl kṇṭpiṉ aṭṅklāṭl kāṇumē.",
+  "english_translation": null,
+  "content_hash": "b13833aa6293f3c17c705a4643f508ef4912b9ee34c309dcab407e963bf28f42",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_siddhi",
+    "symbol_three",
+    "place_chidambaram",
+    "plant_tulsi",
+    "body_eye",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

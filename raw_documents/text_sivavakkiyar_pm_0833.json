@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0833",
+  "text_id": "sivavakkiyar_pm_0833",
+  "title": "Sivavakkiyam - Verse 224",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "224",
+  "tamil_text": "வெந்தநீறு மெய்க்கணிந்து வேடமும் தரிக்கிறீர்\nசிந்தையுள் நினைந்துமே தினம்செபிக்கு மந்திரம்\nமுந்துமந்தி ரத்திலோ, மூலமந்திரத்திலோ,\nஎந்தமந்தி ரத்திலோ ஈசன்வந்து இயங்குமே?",
+  "transliteration": "ventnīṟu meykkṇintu vēṭmum trikkiṟīr\ncintaiyuḷ niṉaintumē tiṉmcepikku mntirm\nmuntumnti rttilō, mūlmntirttilō,\nentmnti rttilō īcṉvntu iyṅkumē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "47da988e0499cdd29c0e4aab87721db8818a47963468435383a8873362de7ea9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

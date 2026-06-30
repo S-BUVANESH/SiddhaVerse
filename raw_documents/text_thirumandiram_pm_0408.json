@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0408",
+  "text_id": "thirumandiram_pm_0408",
+  "title": "Thirumandiram - Verse 958",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "958",
+  "tamil_text": "மந்திரம் ஒன்றுள் மலரால் உதிப்பது\nஉந்தியின் உள்ளே உதயம்பண் ணாநிற்குஞ்\nசந்திசெய் யாநிற்பர் தாமது அறிகிலர்\nஅந்தி தொழுதுபோய் ஆர்த்துஅகன் றார்களே.",
+  "transliteration": "mntirm oṉṟuḷ mlrāl utipptu\nuntiyiṉ uḷḷē utympṇ ṇāniṟkuñ\ncnticey yāniṟpr tāmtu aṟikilr\nanti toḻutupōy ārttuakṉ ṟārkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a9c05b0747d5682ef505da444ccaac7e27754234bdc395a8f7e2903728c5d352",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

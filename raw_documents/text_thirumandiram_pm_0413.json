@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0413",
+  "text_id": "thirumandiram_pm_0413",
+  "title": "Thirumandiram - Verse 963",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "963",
+  "tamil_text": "ஓதும் எழுத்தோடு உயிர்க்கலை மூவைஞ்சும்\nஆதி எழுத்தவை ஐம்பதோடு ஒன்றென்பர்\nசோதி எழுத்தினில் ஐயிரு மூன்றுள\nநாத எழுத்திட்டு நாடிக்கொள் ளீரே.",
+  "transliteration": "ōtum eḻuttōṭu uyirkklai mūvaiñcum\nāti eḻuttvai aimptōṭu oṉṟeṉpr\ncōti eḻuttiṉil aiyiru mūṉṟuḷ\nnāt eḻuttiṭṭu nāṭikkoḷ ḷīrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fc8cc168f166258f1a662b9eece910ee049d9fa74e496832cacd5db9ff7e77d1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

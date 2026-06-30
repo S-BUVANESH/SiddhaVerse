@@ -1,0 +1,47 @@
+{
+  "document_id": "plant_keelanelli",
+  "text_id": "plant_keelanelli",
+  "title": "Stonebreaker",
+  "source_work": "Siddha Materia Medica",
+  "collection": "Medicinal Plants",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "கீழாநெல்லி",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "485e656cc694fade399ec2a93f743712728d86eb849e8b98477fff318e843bc7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [
+    "plant_keezhanelli"
+  ],
+  "search_text": "Stonebreaker கீழாநெல்லி Stonebreaker Phyllanthus niruri Euphorbiaceae Whole plant Phyllanthin, Hypophyllanthin Jaundice, liver diseases, kidney stones, diabetes Fresh juice, decoction plant_keezhanelli",
+  "translation_status": "unavailable",
+  "tamil": "கீழாநெல்லி",
+  "english": "Stonebreaker",
+  "scientific": "Phyllanthus niruri",
+  "family": "Euphorbiaceae",
+  "part": "Whole plant",
+  "phytochem": "Phyllanthin, Hypophyllanthin",
+  "uses": "Jaundice, liver diseases, kidney stones, diabetes",
+  "prep": "Fresh juice, decoction",
+  "verse_entity": "plant_keezhanelli"
+}

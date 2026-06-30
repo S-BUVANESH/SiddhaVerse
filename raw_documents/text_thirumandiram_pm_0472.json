@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0472",
+  "text_id": "thirumandiram_pm_0472",
+  "title": "Thirumandiram - Verse 1030",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1030",
+  "tamil_text": "எடுக்கின்ற பாதங்கள் மூன்றது எழுத்தைக்\nகடுத்த முகம்இரண்டு ஆறுகண் ஆகப்\nபடித்துஎண்ணும் நாவெழு கொம்பொரு நாலும்\nஅடுத்தெழு கண்ணான தந்தமி லாற்கே.",
+  "transliteration": "eṭukkiṉṟ pātṅkḷ mūṉṟtu eḻuttaik\nkṭutt mukmirṇṭu āṟukṇ ākp\npṭittueṇṇum nāveḻu komporu nālum\naṭutteḻu kṇṇāṉ tntmi lāṟkē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a49a9a802286efbca35417daf413eafccd2188ffcbecb98a2fa26610240d3824",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0706",
+  "text_id": "sivavakkiyar_pm_0706",
+  "title": "Sivavakkiyam - Verse 97",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "97",
+  "tamil_text": "இரண்டுமொன்று மூலமாய் இயங்கு சக்கரத்துளே\nசுருண்டுமூன்று வளையமாய் சுணங்குபோல் கிடந்தநீ\nமுரண்டெழுந்த சங்கின்ஓசை மூலநாடி ஊடுபோய்\nஅரங்கன் பட்டணத்திலே அமர்ந்ததே சிவாயமே!",
+  "transliteration": "irṇṭumoṉṟu mūlmāy iyṅku ckkrttuḷē\ncuruṇṭumūṉṟu vḷaiymāy cuṇṅkupōl kiṭntnī\nmurṇṭeḻunt cṅkiṉōcai mūlnāṭi ūṭupōy\narṅkṉ pṭṭṇttilē amrnttē civāymē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d557345c1a9a76c38d7ad4d5ba2ef499322da653917026e3337b61c791de4f3d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

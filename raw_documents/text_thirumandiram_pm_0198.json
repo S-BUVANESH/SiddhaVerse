@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0198",
+  "text_id": "thirumandiram_pm_0198",
+  "title": "Thirumandiram - Verse 201",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "201",
+  "tamil_text": "ஆத்த மனையாள் அகத்தில் இருக்கவே\nகாத்த மனையாளைக் காமுறுங் காளையர்\nகாய்ச்ச பலாவின் கனியுண்ண மாட்டாமல்\nஈச்சம் பழத்துக்கு இடருற்ற வாறே.",
+  "transliteration": "ātt mṉaiyāḷ akttil irukkvē\nkātt mṉaiyāḷaik kāmuṟuṅ kāḷaiyr\nkāycc plāviṉ kṉiyuṇṇ māṭṭāml\nīccm pḻttukku iṭruṟṟ vāṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7e96659578fb6de7693a72bef0664cd4928377522b2628dc3010f7a1b4dbab7c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

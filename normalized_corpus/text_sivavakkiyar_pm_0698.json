@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0698",
+  "text_id": "sivavakkiyar_pm_0698",
+  "title": "Sivavakkiyam - Verse 89",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "89",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தில்லையை வணங்கிநின்ற தெண்டனிட்ட வாயுவே\nஎல்லையைக் கடந்துநின்ற ஏகபோக மாய்கையே\nஎல்லையைக் கடந்துநின்ற சொர்க்கலோக வெளியிலே\nவெள்ளையும் சிவப்புமாகி மெய்கலந்து நின்றதே.",
+  "transliteration": "tillaiyai vṇṅkiniṉṟ teṇṭṉiṭṭ vāyuvē\nellaiyaik kṭntuniṉṟ ēkpōk māykaiyē\nellaiyaik kṭntuniṉṟ corkklōk veḷiyilē\nveḷḷaiyum civppumāki meyklntu niṉṟtē.",
+  "english_translation": null,
+  "content_hash": "01c45effc04ae25a59eeb2552fd9423f85bfc9515721214654fa38810cbbe116",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_bogar",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "place_chidambaram",
+    "deity_vishnu",
+    "deity_shiva"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_26728196",
+  "text_id": "pubmed_26728196",
+  "title": "Benefits of antioxidant supplements for knee osteoarthritis: rationale and reality.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Grover AK",
+    "Samson SE"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "bc005ca89f03d40e193ad4417e58f2352522c0e64e9cca7e6ed39fbe245471f0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "26728196",
+  "authors": [
+    "Grover AK",
+    "Samson SE"
+  ],
+  "journal": "Nutrition journal",
+  "pubdate": "2016 Jan 05",
+  "doi": "10.1186/s12937-015-0115-z",
+  "abstract": "Arthritis causes disability due to pain and inflammation in joints. There are many forms of arthritis, one of which is osteoarthritis whose prevalence increases with age. It occurs in various joints including hip, knee and hand with knee osteoarthritis being more prevalent. There is no cure for it. The management strategies include exercise, glucosamine plus chondroitin sulfate and NSAIDs. In vitro and animal studies provide a rationale for the use of antioxidant supplements for its management. This review assesses the reality of the benefits of antioxidant supplements in the management of knee osteoarthritis. Several difficulties were encountered in examining this issue: poorly conducted studies, a lack of uniformity in disease definition and diagnosis, and muddling of conclusions from attempts to isolate the efficacious molecules. The antioxidant supplements with most evidence for benefit for pain relief and function in knee osteoarthritis were based on curcumin and avocado-soya bean unsaponifiables. Boswellia and some herbs used in Ayurvedic and Chinese medicine may also be useful. The benefits of cuisines with the appropriate antioxidants should be assessed because they may be more economical and easier to incorporate into the lifestyle.",
+  "search_text": "pubmed 26728196 Benefits of antioxidant supplements for knee osteoarthritis: rationale and reality. PubMed Research Scientific Literature Grover AK Samson SE Tamil Tamil script open_access PubMed Central 26728196 Grover AK Samson SE Nutrition journal 2016 Jan 05 10.1186/s12937-015-0115-z Arthritis causes disability due to pain and inflammation in joints. There are many forms of arthritis, one of which is osteoarthritis whose prevalence increases with age. It occurs in various joints including hip, knee and hand with knee osteoarthritis being more prevalent. There is no cure for it. The management strategies include exercise, glucosamine plus chondroitin sulfate and NSAIDs. In vitro and animal studies provide a rationale for the use of antioxidant supplements for its management. This review assesses the reality of the benefits of antioxidant supplements in the management of knee osteoarthritis. Several difficulties were encountered in examining this issue: poorly conducted studies, a lack of uniformity in disease definition and diagnosis, and muddling of conclusions from attempts to isolate the efficacious molecules. The antioxidant supplements with most evidence for benefit for pain relief and function in knee osteoarthritis were based on curcumin and avocado-soya bean unsaponifiables. Boswellia and some herbs used in Ayurvedic and Chinese medicine may also be useful. The benefits of cuisines with the appropriate antioxidants should be assessed because they may be more economical and easier to incorporate into the lifestyle."
+}

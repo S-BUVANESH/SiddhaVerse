@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0585",
+  "text_id": "thirumandiram_pm_0585",
+  "title": "Thirumandiram - Verse 1144",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1144",
+  "tamil_text": "அடுக்குத் தாமரை ஆதி இருப்பிடம்\nஎடுக்கும் தாமரை இல்லகத்து உள்ளது\nமடுக்கும் தாமரை மத்தகச் தேசெல\nமுடுக்கும் தாமரை முச்சது ரத்தே.",
+  "transliteration": "aṭukkut tāmrai āti iruppiṭm\neṭukkum tāmrai illkttu uḷḷtu\nmṭukkum tāmrai mttkc tēcel\nmuṭukkum tāmrai mucctu rttē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1c668bc7605fac49a35a17be52b7cb420e97ab8b528f613dc0ffd47e0ec8cd60",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

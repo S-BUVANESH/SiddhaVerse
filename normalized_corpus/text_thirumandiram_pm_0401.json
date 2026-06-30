@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0401",
+  "text_id": "thirumandiram_pm_0401",
+  "title": "Thirumandiram - Verse 951",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "951",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அகார உகார சிகார நடுவாய்\nவகாரமோடு ஆறும் வளியுடன் கூடிச்\nசிகார முடனே சிவன்சிந்தை செய்ய\nஓகார முதல்வன் உவந்துநின் றானே.",
+  "transliteration": "akār ukār cikār nṭuvāy\nvkārmōṭu āṟum vḷiyuṭṉ kūṭic\ncikār muṭṉē civṉcintai ceyy\nōkār mutlvṉ uvntuniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "189288301aef3bb4d76f5c49cd6a80e693a0c50d23c685959ccbe8176ac7e9a1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_mudra",
+    "deity_shiva",
+    "concept_mukti"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "thirumandiram_pm_0467",
+  "text_id": "thirumandiram_pm_0467",
+  "title": "Thirumandiram - Verse 1025",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1025",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "முக்கணன் தானே முழுச்சுடர் ஆயவன்\nஅக்கணன் தானே அகிலமும் உண்டவன்\nதிக்கணன் ஆகித் திகைஎட்டும் கண்டவன்\nஎக்கணன் தானுக்கும் எந்தை பிரானே.",
+  "transliteration": "mukkṇṉ tāṉē muḻuccuṭr āyvṉ\nakkṇṉ tāṉē akilmum uṇṭvṉ\ntikkṇṉ ākit tikaieṭṭum kṇṭvṉ\nekkṇṉ tāṉukkum entai pirāṉē.",
+  "english_translation": null,
+  "content_hash": "3581421934ccaea0b985ea6586c6b9e803632719188f345269806ef0a5827c6b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_three",
+    "body_eye",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_ashta_siddhi",
+    "concept_mukti",
+    "symbol_eight",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

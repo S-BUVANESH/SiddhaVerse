@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0041",
+  "text_id": "thirumandiram_pm_0041",
+  "title": "Thirumandiram - Verse 41",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "41",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சினஞ்செய்த நஞ்சுண்ட தேவர் பிரானைப்\nபுனஞ்செய்த நெஞ்சிடை போற்றவல் லார்க்குக்\nகனஞ்செய்த வாள்நுதல் பாகனும் அங்கே\nஇனஞ்செய்த மான்போல் இணங்கிநின் றானே.",
+  "transliteration": "ciṉñceyt nñcuṇṭ tēvr pirāṉaip\npuṉñceyt neñciṭai pōṟṟvl lārkkuk\nkṉñceyt vāḷnutl pākṉum aṅkē\niṉñceyt māṉpōl iṇṅkiniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "6d7af2afed1407acb7f70f01423c2dea90e4b6db4ad5ec807b793175f301dc33",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "body_heart",
+    "plant_vallarai",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama"
+  ]
+}

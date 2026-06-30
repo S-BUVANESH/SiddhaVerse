@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0623",
+  "text_id": "sivavakkiyar_pm_0623",
+  "title": "Sivavakkiyam - Verse 14",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "14",
+  "tamil_text": "நாலுவேதம் ஓதுவீர், ஞானபாதம் அறிகிலீர்.\nபாலுள்நெய் கலந்தவாறு பாவிகாள், அறிகிலீர்!\nஆலம்உண்ட கண்டனார் அகத்துளே இருக்கவே\nகாலன்என்று சொல்லுவீர், கனவிலும் அஃதில்லையே.",
+  "transliteration": "nāluvētm ōtuvīr, ñāṉpātm aṟikilīr.\npāluḷney klntvāṟu pāvikāḷ, aṟikilīr!\nālmuṇṭ kṇṭṉār akttuḷē irukkvē\nkālṉeṉṟu colluvīr, kṉvilum aḥtillaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "eecd0a71d395cd3066765b74902da78f86cdc8b10519143df6c6e638961e5a07",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

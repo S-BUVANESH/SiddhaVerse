@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0882",
+  "text_id": "sivavakkiyar_pm_0882",
+  "title": "Sivavakkiyam - Verse 273",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "273",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்செழுத்தும் மூன்றெழுத்தும் என்றுரைக்கும் அன்பர்காள்\nஅஞ்செழுத்தும் மூன்றெழுத்தும் அல்லகாணும் அப்பொருள்\nஅஞ்செழுத்தை நெஞ்சழுத்தி அவ்வெழுத்தை அறிந்தபின்\nஅஞ்செழுத்தும் மூன்றெழுத்தும் அவ்வுமாம் சிவாயமே.",
+  "transliteration": "añceḻuttum mūṉṟeḻuttum eṉṟuraikkum aṉprkāḷ\nañceḻuttum mūṉṟeḻuttum allkāṇum apporuḷ\nañceḻuttai neñcḻutti avveḻuttai aṟintpiṉ\nañceḻuttum mūṉṟeḻuttum avvumām civāymē.",
+  "english_translation": null,
+  "content_hash": "969c918245f791153a158c73933efceca45fd9307f1dd9524fb5fd66a666f1df",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "body_heart",
+    "siddhar_sivavakkiyar",
+    "deity_kali",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0926",
+  "text_id": "sivavakkiyar_pm_0926",
+  "title": "Sivavakkiyam - Verse 317",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "317",
+  "tamil_text": "மண்ணுளோரும் விண்ணுளோரும் வந்தவாறது எங்கெனில்\nமண்ணினோடு சோதிபோல் கலந்தநாத விந்துவும்\nஅண்ணலோடு சத்தியும் அஞ்சுபஞ்சு பூதமும்\nமண்ணினோடு கொடுத்தழிப் பாரொடேழும் இன்றுமே.",
+  "transliteration": "mṇṇuḷōrum viṇṇuḷōrum vntvāṟtu eṅkeṉil\nmṇṇiṉōṭu cōtipōl klntnāt vintuvum\naṇṇlōṭu cttiyum añcupñcu pūtmum\nmṇṇiṉōṭu koṭuttḻip pāroṭēḻum iṉṟumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ad1906290ccd0c3184d80f9921af0c935dc288690518467c58be027cca31abef",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

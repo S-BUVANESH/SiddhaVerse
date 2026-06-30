@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_sml_palm_312",
+  "text_id": "manuscript_sml_palm_312",
+  "title": "Gunapadam Mooligai (Materia Medica)",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3691db6778e116be308d1a8205e00c4fd731066e237e8ef166c9ea14a6580255",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "SML-PALM-312",
+  "repository": "Saraswathi Mahal Library, Thanjavur",
+  "era": "18th Century",
+  "material": "Palm Leaf",
+  "subject": "Medicinal Plant Properties",
+  "search_text": "manuscript sml palm 312 Gunapadam Mooligai (Materia Medica) Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs SML-PALM-312 Saraswathi Mahal Library, Thanjavur 18th Century Palm Leaf Medicinal Plant Properties"
+}

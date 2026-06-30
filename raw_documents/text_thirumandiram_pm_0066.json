@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0066",
+  "text_id": "thirumandiram_pm_0066",
+  "title": "Thirumandiram - Verse 66",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "66",
+  "tamil_text": "அவிழ்கின்ற வாறும் அதுகட்டு மாறும்\nசிமிட்டலைப் பட்டுயிர் போகின்ற வாறும்\nதமிழ்ச்சொல் வடசொல் எனும்இவ் விரண்டும்\nஉணர்த்தும் அவனை உணரலு மாமே.",
+  "transliteration": "aviḻkiṉṟ vāṟum atukṭṭu māṟum\ncimiṭṭlaip pṭṭuyir pōkiṉṟ vāṟum\ntmiḻccol vṭcol eṉumiv virṇṭum\nuṇrttum avṉai uṇrlu māmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4167ed3d8f11ae9f4fc918d9d3dd9d1f06de094631e4acd5897ca04add4d351e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

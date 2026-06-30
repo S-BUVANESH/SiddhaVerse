@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0018",
+  "text_id": "thirumandiram_pm_0018",
+  "title": "Thirumandiram - Verse 18",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "18",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அதிபதி செய்து அளகை வேந்தனை\nநிதிபதி செய்த நிறைதவம் நோக்கி\nஅதுபதி ஆதரித்து ஆக்கமது ஆக்கின்\nஇதுபதி கொள்என்ற எம்பெரு மானே.",
+  "transliteration": "atipti ceytu aḷkai vēntṉai\nnitipti ceyt niṟaitvm nōkki\natupti ātrittu ākkmtu ākkiṉ\nitupti koḷeṉṟ emperu māṉē.",
+  "english_translation": null,
+  "content_hash": "d751fcdd17a0d92158470baba58d0ca841aa39f0f35b890e079d0cbc43a28719",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_madurai",
+    "concept_tapas",
+    "plant_thippili",
+    "symbol_eighteen"
+  ]
+}

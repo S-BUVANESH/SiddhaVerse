@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0787",
+  "text_id": "sivavakkiyar_pm_0787",
+  "title": "Sivavakkiyam - Verse 178",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "178",
+  "tamil_text": "திரும்பியாடு வாசல்எட்டு திறம்உரைத்த வாசல்எட்டு,\nமருங்கிலாத கோலம்எட்டு வன்னியாடு வாசல்எட்டு,\nதுரும்பிலாத கோலம்எட்டு சுற்றிவந்த மருளரே!\nஅரும்பிலாத பூவும்உண்டு ஐயன்ஆணை உண்மையே!",
+  "transliteration": "tirumpiyāṭu vācleṭṭu tiṟmuraitt vācleṭṭu,\nmruṅkilāt kōlmeṭṭu vṉṉiyāṭu vācleṭṭu,\nturumpilāt kōlmeṭṭu cuṟṟivnt mruḷrē!\narumpilāt pūvumuṇṭu aiyṉāṇai uṇmaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bcbc4509ff46e5997771db1c25aa88eafe0027fa28f7e7cac956bdd3fe2cafd9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

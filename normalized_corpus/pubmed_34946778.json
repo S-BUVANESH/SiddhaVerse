@@ -1,0 +1,59 @@
+{
+  "document_id": "pubmed_34946778",
+  "text_id": "pubmed_34946778",
+  "title": "Withaferin A: From Ancient Remedy to Potential Drug Candidate.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Sultana T",
+    "Okla MK",
+    "Ahmed M",
+    "Akhtar N",
+    "Al-Hashimi A",
+    "Abdelgawad H",
+    "Haq IU"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "85a65fc755ec22a0dca54302440d76ebcc7362c335266ea0afc83d30bd49fe54",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "34946778",
+  "authors": [
+    "Sultana T",
+    "Okla MK",
+    "Ahmed M",
+    "Akhtar N",
+    "Al-Hashimi A",
+    "Abdelgawad H",
+    "Haq IU"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "pubdate": "2021 Dec 20",
+  "doi": "10.3390/molecules26247696",
+  "abstract": "Withaferin A (WA) is a pivotal withanolide that has conquered a conspicuous place in research, owning to its multidimensional biological properties. It is an abundant constituent in Withania somnifera Dunal. (Ashwagandha, WS) that is one of the prehistoric pivotal remedies in Ayurveda. This article reviews the literature about the pharmacological profile of WA with special emphasis on its anticancer aspect. We reviewed research publications concerning WA through four databases and provided a descriptive analysis of literature without statistical or qualitative analysis. WA has been found as an effective remedy with multifaceted mechanisms and a broad spectrum of pharmacological profiles. It has anticancer, anti-inflammatory, antiherpetic, antifibrotic, antiplatelet, profibrinolytic, immunosuppressive, antipigmentation, antileishmanial, and healing potentials. Evidence for wide pharmacological actions of WA has been established by both in vivo and in vitro studies. Further, the scientific literature accentuates the role of WA harboring a variable therapeutic spectrum for integrative cancer chemoprevention and cure. WA is a modern drug from traditional medicine that is necessary to be advanced to clinical trials for advocating its utility as a commercial drug.",
+  "search_text": "pubmed 34946778 Withaferin A: From Ancient Remedy to Potential Drug Candidate. PubMed Research Scientific Literature Sultana T Okla MK Ahmed M Akhtar N Al-Hashimi A Abdelgawad H Haq IU Tamil Tamil script open_access PubMed Central 34946778 Sultana T Okla MK Ahmed M Akhtar N Al-Hashimi A Abdelgawad H Haq IU Molecules (Basel, Switzerland) 2021 Dec 20 10.3390/molecules26247696 Withaferin A (WA) is a pivotal withanolide that has conquered a conspicuous place in research, owning to its multidimensional biological properties. It is an abundant constituent in Withania somnifera Dunal. (Ashwagandha, WS) that is one of the prehistoric pivotal remedies in Ayurveda. This article reviews the literature about the pharmacological profile of WA with special emphasis on its anticancer aspect. We reviewed research publications concerning WA through four databases and provided a descriptive analysis of literature without statistical or qualitative analysis. WA has been found as an effective remedy with multifaceted mechanisms and a broad spectrum of pharmacological profiles. It has anticancer, anti-inflammatory, antiherpetic, antifibrotic, antiplatelet, profibrinolytic, immunosuppressive, antipigmentation, antileishmanial, and healing potentials. Evidence for wide pharmacological actions of WA has been established by both in vivo and in vitro studies. Further, the scientific literature accentuates the role of WA harboring a variable therapeutic spectrum for integrative cancer chemoprevention and cure. WA is a modern drug from traditional medicine that is necessary to be advanced to clinical trials for advocating its utility as a commercial drug."
+}

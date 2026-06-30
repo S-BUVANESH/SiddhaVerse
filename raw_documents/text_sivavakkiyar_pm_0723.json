@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0723",
+  "text_id": "sivavakkiyar_pm_0723",
+  "title": "Sivavakkiyam - Verse 114",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "114",
+  "tamil_text": "மண்கிடார மேசுமந்து மலையுள்ஏறி மறுகுறீர்,\nஎண்படாத காரியங்கள் இயலும் என்று கூறுகிறீர்,\nதம்பிரானை நாள்தோறும் தரையிலே தலைபடக்\nகும்பிடாத மாந்தரோடு கூடிவாழ்வது எங்ஙனே?",
+  "transliteration": "mṇkiṭār mēcumntu mlaiyuḷēṟi mṟukuṟīr,\neṇpṭāt kāriyṅkḷ iylum eṉṟu kūṟukiṟīr,\ntmpirāṉai nāḷtōṟum traiyilē tlaipṭk\nkumpiṭāt māntrōṭu kūṭivāḻvtu eṅṅṉē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "34faf34b7cd5e4994d5f75659b40f7b51354bcad8eb99227f2e767aa6a44f9aa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

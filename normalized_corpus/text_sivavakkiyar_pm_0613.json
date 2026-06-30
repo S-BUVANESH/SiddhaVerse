@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0613",
+  "text_id": "sivavakkiyar_pm_0613",
+  "title": "Sivavakkiyam - Verse 4",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "4",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "யோக நிலை\n\nஉருத்தரித்த நாடியில் ஒடுங்குகின்ற வாயுவைக்\nகருத்தினால் இருத்தியே கபாலம் ஏற்றவல்லீரேல்\nவிருத்தரரும் பாலராவீர் மேனியும் சிவந்திடும்\nஅருள்தரித்த நாதர்பாதம் அம்மைபாதம் உண்மையே.",
+  "transliteration": "yōk nilai\n\nuruttritt nāṭiyil oṭuṅkukiṉṟ vāyuvaik\nkruttiṉāl iruttiyē kpālm ēṟṟvllīrēl\nviruttrrum pālrāvīr mēṉiyum civntiṭum\naruḷtritt nātrpātm ammaipātm uṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "36317ed97f3c74f8a7d4d5e2f0e4323a4c7fd91e6a9f8ed3f0ee2e8f3f12fed0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "siddhar_yugi",
+    "plant_vallarai",
+    "concept_nadi",
+    "concept_yoga",
+    "deity_shakti",
+    "deity_shiva",
+    "concept_dhyana",
+    "siddhar_karuvoorar"
+  ]
+}

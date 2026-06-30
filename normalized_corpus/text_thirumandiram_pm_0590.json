@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0590",
+  "text_id": "thirumandiram_pm_0590",
+  "title": "Thirumandiram - Verse 1149",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1149",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "புனையவல் லாள் புவனத்துஇறை எங்கள்\nவனையவல் லாள் அண்டகோடிகள் உள்ளே\nபுனையவல் லாள்மண் லடத்தொளி தன்னைப்\nபுனையவல் லாளையும் போற்றியென் பேனே.",
+  "transliteration": "puṉaiyvl lāḷ puvṉttuiṟai eṅkḷ\nvṉaiyvl lāḷ aṇṭkōṭikḷ uḷḷē\npuṉaiyvl lāḷmṇ lṭttoḷi tṉṉaip\npuṉaiyvl lāḷaiyum pōṟṟiyeṉ pēṉē.",
+  "english_translation": null,
+  "content_hash": "c2e6818da71c23083dcb86ae82c985e549293669ef1bb8418f8a339c6fe975e6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "plant_vallarai"
+  ]
+}

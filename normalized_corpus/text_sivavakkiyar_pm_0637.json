@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0637",
+  "text_id": "sivavakkiyar_pm_0637",
+  "title": "Sivavakkiyam - Verse 28",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "28",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தூரம்தூரம் தூரம்என்று சொல்லுவார்கள் சோம்பர்கள்\nபாரும்விண்ணும் எங்குமாய்ப் பரந்தஅப் பராபரம்\nஊருநாடு காடுமோடி உழன்றுதேடும் ஊமைகாள்!\nநேரதாக உம்முளே அறிந்துணர்ந்து நில்லுமே!",
+  "transliteration": "tūrmtūrm tūrmeṉṟu colluvārkḷ cōmprkḷ\npārumviṇṇum eṅkumāyp prntap prāprm\nūrunāṭu kāṭumōṭi uḻṉṟutēṭum ūmaikāḷ!\nnērtāk ummuḷē aṟintuṇrntu nillumē!",
+  "english_translation": null,
+  "content_hash": "412ce117b3dd7977c47724bfa357aa50ceb9936a7ef3a0cc25baedd68b23c0dc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "deity_kali",
+    "concept_nadi",
+    "deity_vishnu",
+    "deity_murugan",
+    "concept_brahman",
+    "deity_shakti",
+    "practice_pranayama",
+    "place_kashi",
+    "deity_shiva",
+    "concept_mukti",
+    "practice_kumbhaka"
+  ]
+}

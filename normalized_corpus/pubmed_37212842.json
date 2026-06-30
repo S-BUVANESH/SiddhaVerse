@@ -1,0 +1,63 @@
+{
+  "document_id": "pubmed_37212842",
+  "text_id": "pubmed_37212842",
+  "title": "[Recommendations of the committee on complementary medicine and nutrition in ayurvedic medicine, homeopathy, nutrition and Mediterranean diet].",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Keyßer G",
+    "Michalsen A",
+    "Reuß-Borst M",
+    "Frohne I",
+    "Gläß M",
+    "Pfeil A",
+    "Schultz O",
+    "Seifert O",
+    "Sander O"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "778fee2cc2b47897a790d683337a2ebf34827c2abad963dd7fcc4d38b56f2eeb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "37212842",
+  "authors": [
+    "Keyßer G",
+    "Michalsen A",
+    "Reuß-Borst M",
+    "Frohne I",
+    "Gläß M",
+    "Pfeil A",
+    "Schultz O",
+    "Seifert O",
+    "Sander O"
+  ],
+  "journal": "Zeitschrift fur Rheumatologie",
+  "pubdate": "2023 Aug",
+  "doi": "10.1007/s00393-023-01356-z",
+  "abstract": "Methods of complementary and alternative medicine (CAM) are appealing for many patients with rheumatic diseases. The scientific data are currently characterized by a large number of publications that stand in contrast to a remarkable shortage of valid clinical studies. The applications of CAM procedures are situated in an area of conflict between efforts for an evidence-based medicine and high-quality therapeutic concepts on the one hand and ill-founded or even dubious offers on the other hand. In 2021 the German Society of Rheumatology (DGRh) launched a committee for CAM and nutrition, which aims to collect and to evaluate the current evidence for CAM applications and nutritional medical interventions in rheumatology, in order to elaborate recommendations for the clinical practice. The current article presents recommendations for nutritional interventions in the rheumatological routine for four areas: nutrition, Mediterranean diet, ayurvedic medicine and homeopathy.",
+  "search_text": "pubmed 37212842 [Recommendations of the committee on complementary medicine and nutrition in ayurvedic medicine, homeopathy, nutrition and Mediterranean diet]. PubMed Research Scientific Literature Keyßer G Michalsen A Reuß-Borst M Frohne I Gläß M Pfeil A Schultz O Seifert O Sander O Tamil Tamil script open_access PubMed Central 37212842 Keyßer G Michalsen A Reuß-Borst M Frohne I Gläß M Pfeil A Schultz O Seifert O Sander O Zeitschrift fur Rheumatologie 2023 Aug 10.1007/s00393-023-01356-z Methods of complementary and alternative medicine (CAM) are appealing for many patients with rheumatic diseases. The scientific data are currently characterized by a large number of publications that stand in contrast to a remarkable shortage of valid clinical studies. The applications of CAM procedures are situated in an area of conflict between efforts for an evidence-based medicine and high-quality therapeutic concepts on the one hand and ill-founded or even dubious offers on the other hand. In 2021 the German Society of Rheumatology (DGRh) launched a committee for CAM and nutrition, which aims to collect and to evaluate the current evidence for CAM applications and nutritional medical interventions in rheumatology, in order to elaborate recommendations for the clinical practice. The current article presents recommendations for nutritional interventions in the rheumatological routine for four areas: nutrition, Mediterranean diet, ayurvedic medicine and homeopathy."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0562",
+  "text_id": "thirumandiram_pm_0562",
+  "title": "Thirumandiram - Verse 1121",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1121",
+  "tamil_text": "ஓதிய வண்ணம் கலையின் உயர்கலை\nஆதியில் வேதமே யாம்என்று அறிகிலர்\nசாதியும் பேதமும் தத்துவ மாய்நிற்பன்\nஆதியென்று ஓதினள் ஆவின் கிழத்தியே.",
+  "transliteration": "ōtiy vṇṇm klaiyiṉ uyrklai\nātiyil vētmē yāmeṉṟu aṟikilr\ncātiyum pētmum tttuv māyniṟpṉ\nātiyeṉṟu ōtiṉḷ āviṉ kiḻttiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ee65c102fb815e2f3cea6674a0cfff100d1dc2100eaaf427d1f5e624d6ce9754",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0811",
+  "text_id": "sivavakkiyar_pm_0811",
+  "title": "Sivavakkiyam - Verse 202",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "202",
+  "tamil_text": "பொய்க்குடத்தில் ஐந்தொதுங்கிப் போகம்வீசு மாறுபோல்\nஇச்சடமும் இந்திரியமும் நீருமேல் அலைந்ததே\nஅக்குடம் சலத்தைமொண்டு அமர்ந்திருந்த வாறுபோல்\nஇச்சடம் சிவத்தைமொண்டு உகந்தமர்ந்து இருப்பதே.",
+  "transliteration": "poykkuṭttil aintotuṅkip pōkmvīcu māṟupōl\niccṭmum intiriymum nīrumēl alainttē\nakkuṭm clttaimoṇṭu amrntirunt vāṟupōl\niccṭm civttaimoṇṭu ukntmrntu irupptē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "808a324cc700a7a0d0e37bc625b874eddc975632c8d67fe4eadb2fcf8d6d50f3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

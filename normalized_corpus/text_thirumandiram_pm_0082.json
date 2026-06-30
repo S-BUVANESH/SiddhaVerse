@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0082",
+  "text_id": "thirumandiram_pm_0082",
+  "title": "Thirumandiram - Verse 84",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "84",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சித்தத்தின் உள்ளே சிறக்கின்ற நூல்களில்\nஉத்தம மாகவே ஓதிய வேதத்தின்\nஒத்த உடலையும் உள்நின்ற உற்பத்தி\nஅத்தன் எனக்குஇங்கு அருளால் அளித்ததே.",
+  "transliteration": "cittttiṉ uḷḷē ciṟkkiṉṟ nūlkḷil\nuttm mākvē ōtiy vētttiṉ\nott uṭlaiyum uḷniṉṟ uṟptti\nattṉ eṉkkuiṅku aruḷāl aḷitttē.",
+  "english_translation": null,
+  "content_hash": "709826c35c3444f29cadcb044058ac92964b073ef19635a5f7db6dc866b4c18e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_chidambaram",
+    "concept_siddhi",
+    "body_udal",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "National Medicinal Plants Board (NMPB)",
+  "url": "http://www.medicinalplants.in",
+  "organization": "Ministry of AYUSH, Government of India",
+  "source_type": "Government Publication",
+  "license_status": "open_access",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 2,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 60,
+    "formulations": 20,
+    "diseases": 10,
+    "manuscripts": 0,
+    "research": 10
+  },
+  "access_type": "open",
+  "contains": [
+    "Botanical Nomenclature",
+    "Vernacular Tamil Names",
+    "Geographical Distribution Records",
+    "Monographs of Medicinal Plants"
+  ],
+  "notes": "Authoritative botanical registry for identifying plants and mapping vernacular names to scientific nomenclature."
+}

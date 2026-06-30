@@ -1,0 +1,35 @@
+{
+  "document_id": "sivavakkiyar_pm_0974",
+  "text_id": "sivavakkiyar_pm_0974",
+  "title": "Sivavakkiyam - Verse 365",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "365",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அருளிருந்த வெளியிலே அருக்கன்நின்ற இருளிலே\nபொருளிருந்த சுழியிலே புரண்டெழுந்த வழியிலே\nதெருளிருந்த கலையிலே தியங்கிநின்ற வலையிலே\nகுருவிருந்த வழியினின்று ஊவும்ஈயும் ஆனதே.",
+  "transliteration": "aruḷirunt veḷiyilē arukkṉniṉṟ iruḷilē\nporuḷirunt cuḻiyilē purṇṭeḻunt vḻiyilē\nteruḷirunt klaiyilē tiyṅkiniṉṟ vlaiyilē\nkuruvirunt vḻiyiṉiṉṟu ūvumīyum āṉtē.",
+  "english_translation": null,
+  "content_hash": "009a2e88aaddc4c3bbebce1f93a94b80b7112c7aa57e403d86b9f50a81e39aa4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_guru",
+    "concept_dhyana"
+  ]
+}

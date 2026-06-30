@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0705",
+  "text_id": "sivavakkiyar_pm_0705",
+  "title": "Sivavakkiyam - Verse 96",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "96",
+  "tamil_text": "தற்பரம் - சுழிமுனை தானம்\n\nநவ்விரண்டு காலதாய், நவின்றமவ் வயிறதாய்ச்\nசிவ்விரண்டு தோளதாய்ச் சிறந்தவவ்வு வாயதாய்\nயவ்விரண்டு கண்ணதாய் அழுர்ந்துநின்ற நேர்மையில்\nசெவ்வைஒத்து நின்றதே சிவாயஅஞ் செழுத்துமே.",
+  "transliteration": "tṟprm - cuḻimuṉai tāṉm\n\nnvvirṇṭu kāltāy, nviṉṟmv vyiṟtāyc\ncivvirṇṭu tōḷtāyc ciṟntvvvu vāytāy\nyvvirṇṭu kṇṇtāy aḻurntuniṉṟ nērmaiyil\ncevvaiottu niṉṟtē civāyañ ceḻuttumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a2c76069271cad281a839206713867c2e0e64d0ef9dbdc42767b465f1bba1e4f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0228",
+  "text_id": "thirumandiram_pm_0228",
+  "title": "Thirumandiram - Verse 231",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "231",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சத்தியம் இன்றித் தனிஞானம் தானின்றி\nஒத்த விடயம்விட் டோ டும் உணர்வின்றிப்\nபத்தியும் இன்றிப் பரன் உண்மை யின்றிப்\nபித்தேறும் மூடர் பிராமணர் தாமன்றே.",
+  "transliteration": "cttiym iṉṟit tṉiñāṉm tāṉiṉṟi\nott viṭymviṭ ṭō ṭum uṇrviṉṟip\npttiyum iṉṟip prṉ uṇmai yiṉṟip\npittēṟum mūṭr pirāmṇr tāmṉṟē.",
+  "english_translation": null,
+  "content_hash": "e0357c5658b914ad396dff6a6b813d97a06f32cfd0eabbcd3affca691e403d8f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_jnana",
+    "deity_brahma",
+    "concept_pranava",
+    "plant_lotus",
+    "practice_pranayama",
+    "concept_karma",
+    "siddhar_ramadevar",
+    "concept_dhyana"
+  ]
+}

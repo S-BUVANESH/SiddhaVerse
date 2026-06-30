@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0089",
+  "text_id": "thirumandiram_pm_0089",
+  "title": "Thirumandiram - Verse 91",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "91",
+  "tamil_text": "விளக்கிப் பரமாகும் மெய்ஞ்ஞானச் சோதி\nஅளப்பில் பெருமையன் ஆனந்த நந்தி\nதுளக்கறும் ஆனந்தக் கூத்தன்சொற் போந்து\nவளப்பில் கயிலை வழியில்வந் தேனே.",
+  "transliteration": "viḷkkip prmākum meyññāṉc cōti\naḷppil perumaiyṉ āṉnt nnti\ntuḷkkṟum āṉntk kūttṉcoṟ pōntu\nvḷppil kyilai vḻiyilvn tēṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "091fd9e83460bc892b7ef58eea0ff172192debcfc51d6c76bf6e2aafdc1fa79a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

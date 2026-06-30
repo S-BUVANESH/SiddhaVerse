@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0498",
+  "text_id": "thirumandiram_pm_0498",
+  "title": "Thirumandiram - Verse 1056",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1056",
+  "tamil_text": "பராசத்தி மாசத்தி பல்வகை யாலும்\nதராசத்தி யாய்நின்ற தன்மை யுணராய்\nஉராசத்தி ஊழிகள் தோறும் உடனே\nபராசத்தி புண்ணிய மாகிய போகமே.",
+  "transliteration": "prāctti māctti plvkai yālum\ntrāctti yāyniṉṟ tṉmai yuṇrāy\nurāctti ūḻikḷ tōṟum uṭṉē\nprāctti puṇṇiy mākiy pōkmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b2ef5d65da79b2ea03ea014c0437e8f90b6abaccdbfa6b83e998c4cb31295bf1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

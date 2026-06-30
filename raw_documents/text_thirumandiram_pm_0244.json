@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0244",
+  "text_id": "thirumandiram_pm_0244",
+  "title": "Thirumandiram - Verse 247",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "247",
+  "tamil_text": "தத்தம்சமயத் தகுதிநில் லாதாரை\nஅத்தன் சிவன் சொன்ன ஆகம நூல்நெறி\nஎத்தண் டமுஞ்செயும் அம்மையில் இம்மைக்கே\nமெய்த்தண்டம் செய்வதுஅவ் வேந்தன் கடனே.",
+  "transliteration": "tttmcmyt tkutinil lātārai\nattṉ civṉ coṉṉ ākm nūlneṟi\nettṇ ṭmuñceyum ammaiyil immaikkē\nmeyttṇṭm ceyvtuav vēntṉ kṭṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "331ecbe7d8fb4fdd6a0d20dd805298245ab1c4ec1acd3f6ef65ce09b8539eb08",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

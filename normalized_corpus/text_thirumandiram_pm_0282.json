@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0282",
+  "text_id": "thirumandiram_pm_0282",
+  "title": "Thirumandiram - Verse 285",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "285",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கண்டேன் கமழ்தரு கொன்றையி னான்அடி\nகண்டேன் கரியுரி யான்தன் கழலிணை\nகண்டேன் கமல மலர்உறை வானடி\nகண்டேன் கழலதென் அன்பினுள் யானே.",
+  "transliteration": "kṇṭēṉ kmḻtru koṉṟaiyi ṉāṉaṭi\nkṇṭēṉ kriyuri yāṉtṉ kḻliṇai\nkṇṭēṉ kml mlruṟai vāṉṭi\nkṇṭēṉ kḻlteṉ aṉpiṉuḷ yāṉē.",
+  "english_translation": null,
+  "content_hash": "f05007a1a941728f23e1e185c35466878a0ff463b670cd4c49ecf8b424f4aabc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "body_eye"
+  ]
+}

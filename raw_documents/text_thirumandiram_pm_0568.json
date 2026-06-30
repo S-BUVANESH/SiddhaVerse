@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0568",
+  "text_id": "thirumandiram_pm_0568",
+  "title": "Thirumandiram - Verse 1127",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1127",
+  "tamil_text": "கும்பக் களிறுஐந்தும் கோலொடு பாகனும்\nவம்பில் திகழும் மணிமுடி வண்ணனும்\nஇன்பக் கலவி இனிதுறை தையலும்\nஅன்பிற் கலவியுள் ஆயொழிந் தாரே.",
+  "transliteration": "kumpk kḷiṟuaintum kōloṭu pākṉum\nvmpil tikḻum mṇimuṭi vṇṇṉum\niṉpk klvi iṉituṟai taiylum\naṉpiṟ klviyuḷ āyoḻin tārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6743a30b018649d4fc1b5b2ef346918d18b5514adecfbb3bbeb37595c7483e7c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

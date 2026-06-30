@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_36694399",
+  "text_id": "pubmed_36694399",
+  "title": "Confessions of an Ayurveda professor.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Patwardhan K"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "e5d5a876b07d578329d057b3b0ffd73453032b676555ae0e7fdf1e0a8ba654e9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "36694399",
+  "authors": [
+    "Patwardhan K"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2023",
+  "doi": "10.20529/IJME.2022.049",
+  "abstract": "In this essay, I narrate my experiences of teaching Ayurveda physiology through an approach that involved laborious re-interpretation of ancient literature using the recent advances in the field of medical physiology. Though this approach made the ancient concepts and theories appear modern and relevant, it did not contribute much except for apparently reducing cognitive dissonance among students. I cite examples describing the processes of formation of shukra (semen) and rakta (blood) to show how we often overinterpret Ayurveda concepts to make them sound rational by proposing ad hoc conjectures. I illustrate why my previous writings were faulty by applying the falsification principle proposed by Karl Popper. I further explain how this approach made these concepts only verifiable but not refutable, and hence, non-falsifiable. I argue that instead of using such re-interpretation to prove obsolete concepts, they can be dropped altogether from the curricula of Ayurveda programmes. There is a need to develop a reliable method to identify such outdated content.",
+  "search_text": "pubmed 36694399 Confessions of an Ayurveda professor. PubMed Research Scientific Literature Patwardhan K Tamil Tamil script open_access PubMed Central 36694399 Patwardhan K Indian journal of medical ethics 2023 10.20529/IJME.2022.049 In this essay, I narrate my experiences of teaching Ayurveda physiology through an approach that involved laborious re-interpretation of ancient literature using the recent advances in the field of medical physiology. Though this approach made the ancient concepts and theories appear modern and relevant, it did not contribute much except for apparently reducing cognitive dissonance among students. I cite examples describing the processes of formation of shukra (semen) and rakta (blood) to show how we often overinterpret Ayurveda concepts to make them sound rational by proposing ad hoc conjectures. I illustrate why my previous writings were faulty by applying the falsification principle proposed by Karl Popper. I further explain how this approach made these concepts only verifiable but not refutable, and hence, non-falsifiable. I argue that instead of using such re-interpretation to prove obsolete concepts, they can be dropped altogether from the curricula of Ayurveda programmes. There is a need to develop a reliable method to identify such outdated content."
+}

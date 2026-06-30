@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0942",
+  "text_id": "sivavakkiyar_pm_0942",
+  "title": "Sivavakkiyam - Verse 333",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "333",
+  "tamil_text": "வாதிவாதி வாதிவாதி வண்டலை அறிந்திடான்\nஊதிஊதி ஊதிஊதி ஒளிமழுங்கி உளறுவான்\nவீதிவீதி வீதிவீதி விடைஎருப் பொறுக்குவான்\nசாதிசாதி சாதிசாதி சகாரத்தைக் கண்டிடான்.",
+  "transliteration": "vātivāti vātivāti vṇṭlai aṟintiṭāṉ\nūtiūti ūtiūti oḷimḻuṅki uḷṟuvāṉ\nvītivīti vītivīti viṭaierup poṟukkuvāṉ\ncāticāti cāticāti ckārttaik kṇṭiṭāṉ.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "21e4a1ce55d133caa94087354f425843aad67b496fdf5ab842d7f1adf9ce37dd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

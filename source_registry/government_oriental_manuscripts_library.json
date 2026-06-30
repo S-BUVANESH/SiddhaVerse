@@ -1,0 +1,25 @@
+{
+  "title": "Government Oriental Manuscripts Library (GOML) Chennai",
+  "url": "http://www.tnarch.gov.in",
+  "organization": "Tamil Nadu State Department of Archaeology, Government of Tamil Nadu",
+  "source_type": "Palm Leaf",
+  "license_status": "mixed",
+  "trust_score": "9.8/10",
+  "priority": "critical",
+  "acquisition_difficulty": 6,
+  "coverage": {
+    "siddhars": 20,
+    "plants": 10,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 30,
+    "research": 0
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Ancient Palm Leaf Catalogues",
+    "Classical Medical Texts",
+    "Astro-Medical Treatises"
+  ],
+  "notes": "Major state-owned repository of palm-leaves. Part of the Department of Archaeology's digitization initiative."
+}

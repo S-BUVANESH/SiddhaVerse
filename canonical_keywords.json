@@ -1,0 +1,521 @@
+{
+  "version": "2B-4",
+  "generated_at": "2026-06-25T14:54:20.107070+00:00",
+  "total_entities": 89,
+  "description": "Canonical keyword expansion map for all 93 entities.",
+  "keywords": {
+    "deity_shiva": [
+      "Shiva",
+      "Sivan",
+      "Sivam",
+      "Maheswara",
+      "Nataraja",
+      "Lord Shiva",
+      "சிவம்"
+    ],
+    "deity_shakti": [
+      "Shakti",
+      "Devi",
+      "Parvati",
+      "Uma",
+      "Goddess",
+      "Divine Mother"
+    ],
+    "deity_murugan": [
+      "Murugan",
+      "Kartikeya",
+      "Skanda",
+      "Velayudham",
+      "Kumaran"
+    ],
+    "deity_vishnu": [
+      "Vishnu",
+      "Thirumal",
+      "Perumal",
+      "Narayana",
+      "Tirumaal"
+    ],
+    "deity_brahma": [
+      "Brahma",
+      "Piraman",
+      "Creator"
+    ],
+    "deity_ganesha": [
+      "Ganesha",
+      "Pillaiyar",
+      "Vinayaka",
+      "Ganapathi"
+    ],
+    "deity_kali": [
+      "Kali",
+      "Kaali",
+      "Durga",
+      "Chamundi"
+    ],
+    "concept_prana": [
+      "Prana",
+      "Pranam",
+      "life force",
+      "breath energy",
+      "vital force"
+    ],
+    "concept_dhyana": [
+      "Dhyana",
+      "meditation",
+      "contemplation",
+      "inner stillness"
+    ],
+    "concept_yoga": [
+      "Yoga",
+      "union",
+      "spiritual practice",
+      "yogam"
+    ],
+    "concept_mantra": [
+      "Mantra",
+      "sacred sound",
+      "chant",
+      "invocation"
+    ],
+    "concept_maya": [
+      "Maya",
+      "illusion",
+      "cosmic illusion",
+      "mithya"
+    ],
+    "concept_karma": [
+      "Karma",
+      "Vinai",
+      "action and consequence"
+    ],
+    "concept_mukti": [
+      "Mukti",
+      "liberation",
+      "moksha",
+      "freedom",
+      "enlightenment"
+    ],
+    "concept_jnana": [
+      "Jnana",
+      "Gnanam",
+      "wisdom",
+      "knowledge",
+      "divine insight"
+    ],
+    "concept_bhakti": [
+      "Bhakti",
+      "devotion",
+      "love of God",
+      "piety"
+    ],
+    "concept_pranava": [
+      "OM",
+      "Pranava",
+      "Aum",
+      "primordial sound"
+    ],
+    "concept_nadi": [
+      "Nadi",
+      "Nadi",
+      "energy channel",
+      "subtle channel",
+      "nadis"
+    ],
+    "concept_kundalini": [
+      "Kundalini",
+      "serpent energy",
+      "Kundalini Shakti"
+    ],
+    "concept_samadhi": [
+      "Samadhi",
+      "meditative absorption",
+      "nirvikalpa"
+    ],
+    "concept_tantra": [
+      "Tantra",
+      "Thanthiram",
+      "esoteric practice"
+    ],
+    "concept_chakra": [
+      "Chakra",
+      "energy center",
+      "psychic center"
+    ],
+    "concept_guru": [
+      "Guru",
+      "teacher",
+      "spiritual master",
+      "preceptor"
+    ],
+    "concept_shiva_shakti": [
+      "Shiva-Shakti",
+      "divine union",
+      "cosmic pair",
+      "Ardhanari"
+    ],
+    "concept_brahman": [
+      "Brahman",
+      "Parabrahman",
+      "supreme reality",
+      "Param"
+    ],
+    "concept_tapas": [
+      "Tapas",
+      "austerity",
+      "penance",
+      "spiritual discipline"
+    ],
+    "concept_atman": [
+      "Atman",
+      "self",
+      "soul",
+      "Uyir",
+      "Aatma"
+    ],
+    "practice_pranayama": [
+      "Pranayama",
+      "breath control",
+      "breathing exercise",
+      "pranaayamam"
+    ],
+    "practice_kumbhaka": [
+      "Kumbhaka",
+      "breath retention",
+      "inner breath lock",
+      "Kumbaham"
+    ],
+    "practice_mudra": [
+      "Mudra",
+      "gesture",
+      "seal",
+      "hand posture"
+    ],
+    "practice_bandha": [
+      "Bandha",
+      "energy lock",
+      "body lock"
+    ],
+    "practice_kayakalpa": [
+      "Kayakalpa",
+      "rejuvenation",
+      "body alchemy",
+      "immortality practice"
+    ],
+    "practice_varma": [
+      "Varma",
+      "vital points",
+      "pressure points",
+      "Varmam"
+    ],
+    "practice_moolamantra": [
+      "Namashivaya",
+      "Namasivaya",
+      "five-letter mantra",
+      "Panchaakshara"
+    ],
+    "practice_ashta_siddhi": [
+      "Ashta Siddhi",
+      "eight powers",
+      "supernatural powers",
+      "siddhis"
+    ],
+    "practice_rasayana": [
+      "Rasayana",
+      "alchemy",
+      "elixir",
+      "mercury alchemy"
+    ],
+    "practice_deekshai": [
+      "Diksha",
+      "Deekshai",
+      "initiation",
+      "spiritual initiation"
+    ],
+    "practice_japa": [
+      "Japa",
+      "repetitive chanting",
+      "mantra repetition"
+    ],
+    "practice_puja": [
+      "Puja",
+      "worship",
+      "ritual offering",
+      "devotional ritual"
+    ],
+    "siddhar_thirumoolar": [
+      "Thirumoolar",
+      "Thirumoolar Nayanar",
+      "author of Thirumandiram"
+    ],
+    "siddhar_sivavakkiyar": [
+      "Sivavakkiyar",
+      "Siva Vakkiyar",
+      "iconoclast poet"
+    ],
+    "siddhar_agasthiyar": [
+      "Agasthiyar",
+      "Agastya",
+      "sage Agasthiyar",
+      "Agasthiya Muni"
+    ],
+    "siddhar_bogar": [
+      "Bogar",
+      "Bhogar",
+      "Bogar 7000"
+    ],
+    "siddhar_nandidevar": [
+      "Nandidevar",
+      "Nandi",
+      "Nandikesvara",
+      "guru of Thirumoolar"
+    ],
+    "siddhar_karuvoorar": [
+      "Karuvoorar",
+      "Karuvar",
+      "Karuvur Siddhar"
+    ],
+    "siddhar_machamuni": [
+      "Machamuni",
+      "Matsyendranath",
+      "Machindranath"
+    ],
+    "siddhar_konkanar": [
+      "Konkanar",
+      "Konganar"
+    ],
+    "siddhar_pambatti": [
+      "Pambatti Siddhar",
+      "Snake Siddhar"
+    ],
+    "siddhar_ramadevar": [
+      "Ramadevar",
+      "Yacob Siddhar",
+      "Seyyed Mustafa"
+    ],
+    "siddhar_korakkar": [
+      "Korakkar",
+      "Goraksha",
+      "Gorakhnath"
+    ],
+    "siddhar_kudambai": [
+      "Kudambai",
+      "Kudambai Siddhar"
+    ],
+    "siddhar_idaikkadar": [
+      "Idaikkadar",
+      "Idaikadar Siddhar"
+    ],
+    "siddhar_theriyar": [
+      "Theriyar",
+      "Dhanvantari Siddhar"
+    ],
+    "siddhar_sattaimuni": [
+      "Sattaimuni",
+      "Sattai Muni",
+      "Chatamuni"
+    ],
+    "siddhar_yugi": [
+      "Yugi Muni",
+      "Yugi",
+      "Yogi Muni"
+    ],
+    "plant_vallarai": [
+      "Vallarai",
+      "Centella asiatica",
+      "Gotu Kola",
+      "brain herb"
+    ],
+    "plant_tulsi": [
+      "Tulsi",
+      "Holy Basil",
+      "Ocimum sanctum",
+      "sacred basil"
+    ],
+    "plant_lotus": [
+      "Lotus",
+      "Thamarai",
+      "Nelumbo nucifera"
+    ],
+    "plant_thippili": [
+      "Thippili",
+      "Long Pepper",
+      "Piper longum"
+    ],
+    "plant_ginger": [
+      "Ginger",
+      "Inji",
+      "Sukku",
+      "Zingiber officinale"
+    ],
+    "plant_nelli": [
+      "Nelli",
+      "Amla",
+      "Phyllanthus emblica",
+      "Indian gooseberry"
+    ],
+    "plant_manjal": [
+      "Turmeric",
+      "Manjal",
+      "Curcuma longa"
+    ],
+    "plant_milagu": [
+      "Pepper",
+      "Milagu",
+      "Piper nigrum",
+      "black pepper"
+    ],
+    "plant_ashwagandha": [
+      "Ashwagandha",
+      "Withania somnifera",
+      "Indian ginseng"
+    ],
+    "plant_kadukkai": [
+      "Kadukkai",
+      "Haritaki",
+      "Terminalia chebula"
+    ],
+    "plant_keezhanelli": [
+      "Keezhanelli",
+      "Phyllanthus niruri",
+      "stone breaker"
+    ],
+    "plant_neem": [
+      "Neem",
+      "Vembu",
+      "Azadirachta indica"
+    ],
+    "place_chidambaram": [
+      "Chidambaram",
+      "Thillai",
+      "Nataraja temple",
+      "Chidambara Natarajam"
+    ],
+    "place_tiruvannamalai": [
+      "Tiruvannamalai",
+      "Arunachala",
+      "sacred hill"
+    ],
+    "place_kailash": [
+      "Kailash",
+      "Kailasa",
+      "Mount Kailash",
+      "Shiva abode"
+    ],
+    "place_kashi": [
+      "Kashi",
+      "Varanasi",
+      "Banaras",
+      "Benares",
+      "holy city"
+    ],
+    "place_madurai": [
+      "Madurai",
+      "Mathurai",
+      "Meenakshi temple city"
+    ],
+    "place_potigai": [
+      "Potigai",
+      "Potiyil",
+      "Agasthiyar mountain"
+    ],
+    "place_himalaya": [
+      "Himalaya",
+      "Imayam",
+      "Himalayas"
+    ],
+    "body_eye": [
+      "eye",
+      "kan",
+      "inner eye",
+      "third eye",
+      "kaan"
+    ],
+    "body_light": [
+      "light",
+      "flame",
+      "jyoti",
+      "sothi",
+      "divine light",
+      "Siva jyoti"
+    ],
+    "body_sound": [
+      "sound",
+      "nadam",
+      "nada",
+      "divine sound",
+      "cosmic sound"
+    ],
+    "body_fire": [
+      "fire",
+      "agni",
+      "inner fire",
+      "gastric fire"
+    ],
+    "body_head": [
+      "head",
+      "thalai",
+      "crown",
+      "skull"
+    ],
+    "body_seed": [
+      "seed",
+      "vindu",
+      "bindu",
+      "seminal force"
+    ],
+    "body_heart": [
+      "heart",
+      "uyir",
+      "life",
+      "consciousness center"
+    ],
+    "body_moolam": [
+      "moolam",
+      "root",
+      "base",
+      "foundation"
+    ],
+    "body_breath": [
+      "breath",
+      "swaasam",
+      "moochu",
+      "prana vayu"
+    ],
+    "body_uyir": [
+      "uyir",
+      "life",
+      "soul breath",
+      "vital spirit"
+    ],
+    "body_udal": [
+      "udal",
+      "body",
+      "physical body",
+      "udalm"
+    ],
+    "symbol_three": [
+      "three",
+      "trinity",
+      "mummalam",
+      "three impurities",
+      "trimurti"
+    ],
+    "symbol_five": [
+      "five",
+      "five letters",
+      "pancha",
+      "Namashivaya"
+    ],
+    "symbol_eighteen": [
+      "eighteen",
+      "18",
+      "18 Siddhars",
+      "pathinettu siddhar"
+    ],
+    "symbol_eight": [
+      "eight",
+      "ashta",
+      "eight directions"
+    ]
+  }
+}

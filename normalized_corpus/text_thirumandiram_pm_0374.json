@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0374",
+  "text_id": "thirumandiram_pm_0374",
+  "title": "Thirumandiram - Verse 923",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "923",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆயும் சிவாய நமமசி வாயந\nஆயும் நமசிவா யயநம சிவா\nவாயுமே வாய நமசியெனும் மந்திரம்\nஆயும் சிகாரம் தொட்டநதத் தடைவிலே.",
+  "transliteration": "āyum civāy nmmci vāyn\nāyum nmcivā yynm civā\nvāyumē vāy nmciyeṉum mntirm\nāyum cikārm toṭṭntt tṭaivilē.",
+  "english_translation": null,
+  "content_hash": "8fbfc712423f042745f7cc9c65802ea8325f5d7b17fa92eebc47798dee75867d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_moolamantra",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

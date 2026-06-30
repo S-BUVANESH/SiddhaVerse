@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0389",
+  "text_id": "thirumandiram_pm_0389",
+  "title": "Thirumandiram - Verse 938",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "938",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கல்லொளி யேயென நின்ற வடதிசை\nகல்லொளி யேயென நின்ற னன் இந்திரன்\nகல்லொளி யேயென நின்ற சிகாரத்தைக்\nகல்லொளி யேயெனக் காட்டிநின் றானே.",
+  "transliteration": "klloḷi yēyeṉ niṉṟ vṭticai\nklloḷi yēyeṉ niṉṟ ṉṉ intirṉ\nklloḷi yēyeṉ niṉṟ cikārttaik\nklloḷi yēyeṉk kāṭṭiniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "9b5e534ec89f99e2e91f7cf86de744af16f7c43733ec2e14c1d67b3789d90d14",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_murugan",
+    "siddhar_thirumoolar",
+    "deity_vishnu"
+  ]
+}

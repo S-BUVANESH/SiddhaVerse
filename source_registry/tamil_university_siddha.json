@@ -1,0 +1,25 @@
+{
+  "title": "Tamil University Department of Siddha Medicine",
+  "url": "https://www.tamiluniversity.ac.in",
+  "organization": "Tamil University, Thanjavur",
+  "source_type": "Research Paper",
+  "license_status": "mixed",
+  "trust_score": "9.8/10",
+  "priority": "critical",
+  "acquisition_difficulty": 4,
+  "coverage": {
+    "siddhars": 15,
+    "plants": 20,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 10,
+    "research": 15
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Departmental Publications",
+    "Digitized Palm Leaf Copies",
+    "Siddha Medicine Dictionary Projects"
+  ],
+  "notes": "Core educational and research department focusing on Tamil palm leaf medicine transcription and analysis."
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0966",
+  "text_id": "sivavakkiyar_pm_0966",
+  "title": "Sivavakkiyam - Verse 357",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "357",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வயங்குமோனச் செஞ்சுடர் வடிந்தசோதி நாதமும்\nகயங்கள்போலக் கதறியே கருவூரற்ற வெளியிலே\nபயங்கொடின்றி இன்றியே படர்ந்துநின்ற பான்மையை\nநயங்கள்கோவென் றேநடுங்கி நங்கையான தீபமே.",
+  "transliteration": "vyṅkumōṉc ceñcuṭr vṭintcōti nātmum\nkyṅkḷpōlk ktṟiyē kruvūrṟṟ veḷiyilē\npyṅkoṭiṉṟi iṉṟiyē pṭrntuniṉṟ pāṉmaiyai\nnyṅkḷkōveṉ ṟēnṭuṅki nṅkaiyāṉ tīpmē.",
+  "english_translation": null,
+  "content_hash": "4086da28160226e9107f40bd26ac54a50babcc9707ee2eba0898186e5ecad50d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "body_sound",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_light",
+    "practice_kumbhaka",
+    "body_fire",
+    "siddhar_karuvoorar"
+  ]
+}

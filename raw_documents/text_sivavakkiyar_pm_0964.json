@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0964",
+  "text_id": "sivavakkiyar_pm_0964",
+  "title": "Sivavakkiyam - Verse 355",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "355",
+  "tamil_text": "சுடரதாகி எழும்பியங்குத் தூபமான காலமே\nஇடரதாய்ப் புவியும்விண்ணும் ஏகமாய் அமைக்கமுன்\nபடரதாக நின்றஆதி பஞ்சபூதம் ஆகியே\nஅடரதாக அண்டம்எங்கும் ஆண்மையாக நின்றதே.",
+  "transliteration": "cuṭrtāki eḻumpiyṅkut tūpmāṉ kālmē\niṭrtāyp puviyumviṇṇum ēkmāy amaikkmuṉ\npṭrtāk niṉṟāti pñcpūtm ākiyē\naṭrtāk aṇṭmeṅkum āṇmaiyāk niṉṟtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9239023fe1e5f7ffccda00946b35d4e4b5b8855e7f03cfc7fd07373e8914eac7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

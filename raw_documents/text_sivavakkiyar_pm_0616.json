@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0616",
+  "text_id": "sivavakkiyar_pm_0616",
+  "title": "Sivavakkiyam - Verse 7",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "7",
+  "tamil_text": "நினைப்பதொன்று கண்டிலேன் நீயலாது வேறிலை,\nநினைப்புமாய் மறப்புமாய் நின்றமாயை மாயையோ?\nஅனைத்துமாய் அகண்டமாய் அனாதிமுன் அனாதியாய்\nஎனக்குள்நீ உனக்குள்நான் இருக்குமாற தெங்ஙனே.",
+  "transliteration": "niṉaipptoṉṟu kṇṭilēṉ nīylātu vēṟilai,\nniṉaippumāy mṟppumāy niṉṟmāyai māyaiyō?\naṉaittumāy akṇṭmāy aṉātimuṉ aṉātiyāy\neṉkkuḷnī uṉkkuḷnāṉ irukkumāṟ teṅṅṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "090cb3cbdfb46bb5898d746cbdd0483a7ebfd42c1eb982666bdac4738d3710b4",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

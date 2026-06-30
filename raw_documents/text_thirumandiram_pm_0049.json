@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0049",
+  "text_id": "thirumandiram_pm_0049",
+  "title": "Thirumandiram - Verse 49",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "49",
+  "tamil_text": "நரைபசு பாசத்து நாதனை உள்ளி\nஉரைபசு பாசததுஒருங்கவல் லார்க்குத்\nதிரைபசு பாவச் செழுங்கடல் நீந்திக்\nகரைபசு பாசம் கடநது எய்த லாமே.",
+  "transliteration": "nraipcu pācttu nātṉai uḷḷi\nuraipcu pācttuoruṅkvl lārkkut\ntiraipcu pāvc ceḻuṅkṭl nīntik\nkraipcu pācm kṭntu eyt lāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "905d6b64358dc3df5c3d90ee4b74de857df01ee0b67e459cb31c01e67cf03b77",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_36694391",
+  "text_id": "pubmed_36694391",
+  "title": "Some thoughts on the undergraduate Ayurveda curriculum.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Chandra S"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "5093c7411bf8fa70e4e6a92b523c7f6812e09e96724c8c557377a4503f15d0e3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "36694391",
+  "authors": [
+    "Chandra S"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2023",
+  "doi": "10.20529/IJME.2023.004",
+  "abstract": "In his reflective piece in this issue, Kishor Patwardhan has exposed the hollowness of the Ayurvedic curriculum in some approaches to anatomy and physiology [1]. Being a teacher of Ayurvedic physiology at the Banaras Hindu University (BHU) and a widely published researcher, his views should be heeded by those responsible for designing the curricula of the Bachelor of Ayurvedic Medicine and Surgery (BAMS). His paper is not a one-off lament. Patwardhan and several others have been writing for over 10 years on the contradictions between recognised medical science and what is professed in the Ayurvedic curriculum [2, 3]. Having himself subscribed to such subterfuges in the past, he now warns that to \"superimpose modern science over classical references (is) unscientific,\" adding that \"such misinterpretations could lead to clinical misapplication, misjudgement\" and \"smother innovation\" [1].",
+  "search_text": "pubmed 36694391 Some thoughts on the undergraduate Ayurveda curriculum. PubMed Research Scientific Literature Chandra S Tamil Tamil script open_access PubMed Central 36694391 Chandra S Indian journal of medical ethics 2023 10.20529/IJME.2023.004 In his reflective piece in this issue, Kishor Patwardhan has exposed the hollowness of the Ayurvedic curriculum in some approaches to anatomy and physiology [1]. Being a teacher of Ayurvedic physiology at the Banaras Hindu University (BHU) and a widely published researcher, his views should be heeded by those responsible for designing the curricula of the Bachelor of Ayurvedic Medicine and Surgery (BAMS). His paper is not a one-off lament. Patwardhan and several others have been writing for over 10 years on the contradictions between recognised medical science and what is professed in the Ayurvedic curriculum [2, 3]. Having himself subscribed to such subterfuges in the past, he now warns that to \"superimpose modern science over classical references (is) unscientific,\" adding that \"such misinterpretations could lead to clinical misapplication, misjudgement\" and \"smother innovation\" [1]."
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0286",
+  "text_id": "thirumandiram_pm_0286",
+  "title": "Thirumandiram - Verse 289",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "289",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விட்டுப் பிடிப்பதென் மேதகு சோதியைத்\nதொட்டுத் தொடர்வன் தொலையாப் பெருமையை\nஎட்டும் என் ஆருயி ராய்நின்ற ஈசனை\nமட்டுக் கலப்பது மஞ்சனம் ஆமே.",
+  "transliteration": "viṭṭup piṭippteṉ mētku cōtiyait\ntoṭṭut toṭrvṉ tolaiyāp perumaiyai\neṭṭum eṉ āruyi rāyniṉṟ īcṉai\nmṭṭuk klpptu mñcṉm āmē.",
+  "english_translation": null,
+  "content_hash": "916145f20d0f2a6d1a205d0dd8247250af64fa23ead06ed881c152fd62336640",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_ashta_siddhi",
+    "deity_shiva",
+    "body_light",
+    "plant_manjal",
+    "symbol_eight",
+    "concept_dhyana"
+  ]
+}

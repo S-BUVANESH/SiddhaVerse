@@ -1,0 +1,46 @@
+{
+  "document_id": "thirumandiram_pm_0411",
+  "text_id": "thirumandiram_pm_0411",
+  "title": "Thirumandiram - Verse 961",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "961",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விந்துவும் நாதமும் மேவி யுடன்கூடிச்\nசந்திர னோடே தலைப்படு மாயிடில்\nஅந்தர வானத்து அமுதம்வந்து ஊறிடும்\nஅங்குதி மந்திரம் ஆகுதி யாமே.",
+  "transliteration": "vintuvum nātmum mēvi yuṭṉkūṭic\ncntir ṉōṭē tlaippṭu māyiṭil\nantr vāṉttu amutmvntu ūṟiṭum\naṅkuti mntirm ākuti yāmē.",
+  "english_translation": null,
+  "content_hash": "dd363ee6cb485ce732fec910c2678bec9d7d40003373a6b6be99a7fa4f26bfa7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ashwagandha",
+    "concept_maya",
+    "body_sound",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_mantra",
+    "deity_vishnu",
+    "body_seed",
+    "siddhar_kudambai",
+    "practice_mudra",
+    "body_head",
+    "deity_ganesha"
+  ]
+}

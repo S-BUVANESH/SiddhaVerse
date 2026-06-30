@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_theriyar_yamaga_venba",
+  "text_id": "classic_theriyar_yamaga_venba",
+  "title": "Theriyar Yamaga Venba",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Theriyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3ad1b8396f7525b5951fb801ee56ddf0a736f7cfcf27e86225365d9fc7d51b79",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "Classical Era",
+  "summary": "A complex poetic text on pulse reading, clinical pathology, and seasonal health guidelines.",
+  "verses_count": 800,
+  "search_text": "classic theriyar yamaga venba Theriyar Yamaga Venba Classical Siddha Literature Classical Texts Theriyar Tamil Tamil script public_domain Project Madurai / Academic Sources Classical Era A complex poetic text on pulse reading, clinical pathology, and seasonal health guidelines."
+}

@@ -1,0 +1,273 @@
+{
+  "run_ts": "2026-06-24T18:01:29.975753+00:00",
+  "normalization": {
+    "total_docs": 1150,
+    "docs_with_tamil_text": 1000,
+    "docs_normalized": 0,
+    "change_types": {},
+    "schema_fields_added": {}
+  },
+  "entity_extraction": {
+    "total_mentions": 6956,
+    "unique_entities": 93,
+    "documents_with_entities": 984,
+    "confidence_distribution": {
+      "high_1.0": 210,
+      "high_0.85": 761,
+      "medium_0.60": 5985
+    },
+    "categories": {
+      "siddhars": {
+        "entity_count": 16,
+        "total_occurrences": 778,
+        "avg_confidence": 0.627,
+        "top_entities": [
+          {
+            "id": "siddhar_thirumoolar",
+            "name": "Thirumoolar",
+            "count": 248
+          },
+          {
+            "id": "siddhar_sivavakkiyar",
+            "name": "Sivavakkiyar",
+            "count": 180
+          },
+          {
+            "id": "siddhar_karuvoorar",
+            "name": "Karuvoorar",
+            "count": 75
+          },
+          {
+            "id": "siddhar_kudambai",
+            "name": "Kudambai",
+            "count": 63
+          },
+          {
+            "id": "siddhar_nandidevar",
+            "name": "Nandidevar",
+            "count": 52
+          }
+        ]
+      },
+      "deities": {
+        "entity_count": 7,
+        "total_occurrences": 1446,
+        "avg_confidence": 0.613,
+        "top_entities": [
+          {
+            "id": "deity_murugan",
+            "name": "Murugan",
+            "count": 349
+          },
+          {
+            "id": "deity_vishnu",
+            "name": "Vishnu",
+            "count": 339
+          },
+          {
+            "id": "deity_shiva",
+            "name": "Shiva",
+            "count": 274
+          },
+          {
+            "id": "deity_shakti",
+            "name": "Shakti",
+            "count": 201
+          },
+          {
+            "id": "deity_brahma",
+            "name": "Brahma",
+            "count": 149
+          }
+        ]
+      },
+      "places": {
+        "entity_count": 7,
+        "total_occurrences": 598,
+        "avg_confidence": 0.625,
+        "top_entities": [
+          {
+            "id": "place_tiruvannamalai",
+            "name": "Tiruvannamalai",
+            "count": 288
+          },
+          {
+            "id": "place_chidambaram",
+            "name": "Chidambaram",
+            "count": 163
+          },
+          {
+            "id": "place_kashi",
+            "name": "Kashi",
+            "count": 100
+          },
+          {
+            "id": "place_madurai",
+            "name": "Madurai",
+            "count": 24
+          },
+          {
+            "id": "place_potigai",
+            "name": "Potigai",
+            "count": 18
+          }
+        ]
+      },
+      "concepts": {
+        "entity_count": 24,
+        "total_occurrences": 1717,
+        "avg_confidence": 0.678,
+        "top_entities": [
+          {
+            "id": "concept_prana",
+            "name": "Prana",
+            "count": 259
+          },
+          {
+            "id": "concept_dhyana",
+            "name": "Dhyana",
+            "count": 202
+          },
+          {
+            "id": "concept_shiva_shakti",
+            "name": "Shiva-Shakti",
+            "count": 180
+          },
+          {
+            "id": "concept_maya",
+            "name": "Maya",
+            "count": 135
+          },
+          {
+            "id": "concept_pranava",
+            "name": "Pranava/OM",
+            "count": 119
+          }
+        ]
+      },
+      "practices": {
+        "entity_count": 11,
+        "total_occurrences": 991,
+        "avg_confidence": 0.671,
+        "top_entities": [
+          {
+            "id": "practice_pranayama",
+            "name": "Pranayama",
+            "count": 352
+          },
+          {
+            "id": "practice_kumbhaka",
+            "name": "Kumbhaka",
+            "count": 286
+          },
+          {
+            "id": "practice_varma",
+            "name": "Varma",
+            "count": 157
+          },
+          {
+            "id": "practice_mudra",
+            "name": "Mudra",
+            "count": 77
+          },
+          {
+            "id": "practice_ashta_siddhi",
+            "name": "Ashta Siddhi",
+            "count": 43
+          }
+        ]
+      },
+      "symbolic": {
+        "entity_count": 4,
+        "total_occurrences": 350,
+        "avg_confidence": 0.633,
+        "top_entities": [
+          {
+            "id": "symbol_three",
+            "name": "Three/Trinity",
+            "count": 210
+          },
+          {
+            "id": "symbol_five",
+            "name": "Five Letters",
+            "count": 50
+          },
+          {
+            "id": "symbol_eighteen",
+            "name": "Eighteen Siddhars",
+            "count": 47
+          },
+          {
+            "id": "symbol_eight",
+            "name": "Eight",
+            "count": 43
+          }
+        ]
+      },
+      "body_terms": {
+        "entity_count": 11,
+        "total_occurrences": 714,
+        "avg_confidence": 0.741,
+        "top_entities": [
+          {
+            "id": "body_eye",
+            "name": "Eye",
+            "count": 158
+          },
+          {
+            "id": "body_light",
+            "name": "Light/Flame",
+            "count": 116
+          },
+          {
+            "id": "body_sound",
+            "name": "Nadam",
+            "count": 91
+          },
+          {
+            "id": "body_fire",
+            "name": "Agni/Fire",
+            "count": 71
+          },
+          {
+            "id": "body_head",
+            "name": "Head",
+            "count": 62
+          }
+        ]
+      },
+      "plants": {
+        "entity_count": 13,
+        "total_occurrences": 362,
+        "avg_confidence": 0.626,
+        "top_entities": [
+          {
+            "id": "plant_vallarai",
+            "name": "Vallarai",
+            "count": 98
+          },
+          {
+            "id": "plant_tulsi",
+            "name": "Tulsi",
+            "count": 95
+          },
+          {
+            "id": "plant_lotus",
+            "name": "Lotus",
+            "count": 62
+          },
+          {
+            "id": "plant_thippili",
+            "name": "Thippili",
+            "count": 43
+          },
+          {
+            "id": "plant_ginger",
+            "name": "Ginger/Sukku",
+            "count": 24
+          }
+        ]
+      }
+    }
+  }
+}

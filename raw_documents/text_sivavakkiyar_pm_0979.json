@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0979",
+  "text_id": "sivavakkiyar_pm_0979",
+  "title": "Sivavakkiyam - Verse 370",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "370",
+  "tamil_text": "வடிவுபத்ம ஆசனத்து இருத்திமூல அனலையே\nமாருதத்தி னால் எழுப்பி வாசல்ஐந்து நாலையும்\nமுடிவுமுத்தி ரைப்படுத்தி மூலவீணா தண்டினால்\nமுளரிஆல யம்கடந்து மூலநாடி ஊடுபோம்.",
+  "transliteration": "vṭivuptm ācṉttu iruttimūl aṉlaiyē\nmāruttti ṉāl eḻuppi vāclaintu nālaiyum\nmuṭivumutti raippṭutti mūlvīṇā tṇṭiṉāl\nmuḷriāl ymkṭntu mūlnāṭi ūṭupōm.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "45eec8611658254aacd8b8c3cded7b8c0f545630b7e6429a3b38a76313b69926",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

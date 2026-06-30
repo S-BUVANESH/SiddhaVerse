@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0499",
+  "text_id": "thirumandiram_pm_0499",
+  "title": "Thirumandiram - Verse 1057",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1057",
+  "tamil_text": "போகஞ்செய் சத்தி புரிகுழ லாளொடும்\nபாகஞ்செய்து ஆங்கே பராசத்தி யாய்நிற்கும்\nஆகஞ்செய்து ஆங்கே அடியவர் நாள்தொறும்\nபாகஞ்செய் ஞானம் படர்கின்ற கொம்பே.",
+  "transliteration": "pōkñcey ctti purikuḻ lāḷoṭum\npākñceytu āṅkē prāctti yāyniṟkum\nākñceytu āṅkē aṭiyvr nāḷtoṟum\npākñcey ñāṉm pṭrkiṉṟ kompē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "133d3b74ff3a70434c3608b8c6cca0c5cc3fecfe02584aa39d412c1cef1ac6e9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

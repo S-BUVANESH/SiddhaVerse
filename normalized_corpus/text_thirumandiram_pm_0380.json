@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0380",
+  "text_id": "thirumandiram_pm_0380",
+  "title": "Thirumandiram - Verse 929",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "929",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இயலும் இம் மந்திரம் எய்தும் வழியின்\nசெயலும் அறியத் தெளிவிக்கு நாதன்\nபுயலும் புனலும் பொருந்துஅங்கி மண்விண்\nமுயலும் எழுத்துக்கு முன்னா இருந்ததே.",
+  "transliteration": "iylum im mntirm eytum vḻiyiṉ\nceylum aṟiyt teḷivikku nātṉ\npuylum puṉlum poruntuaṅki mṇviṇ\nmuylum eḻuttukku muṉṉā irunttē.",
+  "english_translation": null,
+  "content_hash": "493e82e684ddeaef1849fab2ce369af88141d3c8ce0d540ece5f782d31666e96",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_mantra"
+  ]
+}

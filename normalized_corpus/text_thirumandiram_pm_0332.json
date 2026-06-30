@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0332",
+  "text_id": "thirumandiram_pm_0332",
+  "title": "Thirumandiram - Verse 336",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "336",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உண்ணீர் அமுத முறும் ஊறலைத்திறந்து\nஎண்ணீர் குரவன் இணையடித் தாமரை\nநண்ணீர் சமாதியின் நாடிநீ ரால்நலம்\nகண்ணாற் றொடேசென்று கால்வழி காணுமே.",
+  "transliteration": "uṇṇīr amut muṟum ūṟlaittiṟntu\neṇṇīr kurvṉ iṇaiyṭit tāmrai\nnṇṇīr cmātiyiṉ nāṭinī rālnlm\nkṇṇāṟ ṟoṭēceṉṟu kālvḻi kāṇumē.",
+  "english_translation": null,
+  "content_hash": "bcf1617bc0a62d2ebdfd1568ecff6b2b5adcdd9ab20118ddc58ae4bb90d49737",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ashwagandha",
+    "symbol_three",
+    "concept_nadi",
+    "body_eye",
+    "practice_mudra",
+    "plant_lotus",
+    "concept_samadhi",
+    "concept_guru",
+    "concept_dhyana"
+  ]
+}

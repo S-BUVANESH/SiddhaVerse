@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0860",
+  "text_id": "sivavakkiyar_pm_0860",
+  "title": "Sivavakkiyam - Verse 251",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "251",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "காயிலாத சோலையில் கனியுகந்த வண்டுகள்\nஈயிலாத தேனையுண்டு இராப்பகல் உறங்குறீர்\nபாயிலாத கப்பலேறி அக்கரைப் படுமுனே\nவாயினால் உரைப்பதாகு மோமவுன ஞானமே.",
+  "transliteration": "kāyilāt cōlaiyil kṉiyuknt vṇṭukḷ\nīyilāt tēṉaiyuṇṭu irāppkl uṟṅkuṟīr\npāyilāt kpplēṟi akkraip pṭumuṉē\nvāyiṉāl uraipptāku mōmvuṉ ñāṉmē.",
+  "english_translation": null,
+  "content_hash": "fad5bd2645d8251290f4bc44c12d6e859a6d96e01c4569aa811a1c5626e3e691",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_jnana",
+    "practice_kayakalpa",
+    "siddhar_ramadevar",
+    "body_fire"
+  ]
+}

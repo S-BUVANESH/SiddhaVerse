@@ -1,0 +1,35 @@
+{
+  "document_id": "sivavakkiyar_pm_0799",
+  "text_id": "sivavakkiyar_pm_0799",
+  "title": "Sivavakkiyam - Verse 190",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "190",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அன்னம்இட்ட பேரெலாம் அனேககோடி வாழவே\nசொன்னமிட்ட பேரெலாம் துரைத்தனங்கள் பண்ணலாம்\nவிண்ணம்இட்ட பேரேலாம் வீழ்வர்வெந் நரகிலே\nகன்னம்இட்ட பேரெலாம் கடந்துநின்றல் திண்ணமே!",
+  "transliteration": "aṉṉmiṭṭ pērelām aṉēkkōṭi vāḻvē\ncoṉṉmiṭṭ pērelām turaittṉṅkḷ pṇṇlām\nviṇṇmiṭṭ pērēlām vīḻvrven nrkilē\nkṉṉmiṭṭ pērelām kṭntuniṉṟl tiṇṇmē!",
+  "english_translation": null,
+  "content_hash": "feab75daefd1f5a2c685d3bcac4315fb29a72c9b04e4aa6f4b5b00745f57b2f9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_kali",
+    "practice_varma"
+  ]
+}

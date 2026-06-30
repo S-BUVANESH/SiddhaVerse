@@ -1,0 +1,48 @@
+{
+  "document_id": "formulation_siddha_makaradhwaja",
+  "text_id": "formulation_siddha_makaradhwaja",
+  "title": "Siddha Makaradhwaja",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "aa4c36bc37fb0d2fd4a4da013c1d662c1b4fa6841afb6f563fcf9e38762ed16e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Siddha Makaradhwaja",
+  "category": "Kuppipi Vaidyam (Sublimated calx)",
+  "ingredients": [
+    "Gold leaf",
+    "Mercury",
+    "Sulfur",
+    "Juice of Aloe vera"
+  ],
+  "method": "Triturate gold, mercury, and sulfur. Heat in a clay-wrapped glass bottle (Valuka Yantra).",
+  "indications": "Kayakalpa rejuvenator, immune booster, severe debility",
+  "dosage": "50-100 mg with honey",
+  "search_text": "formulation siddha makaradhwaja Siddha Makaradhwaja Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Siddha Makaradhwaja Kuppipi Vaidyam (Sublimated calx) Gold leaf Mercury Sulfur Juice of Aloe vera Triturate gold, mercury, and sulfur. Heat in a clay-wrapped glass bottle (Valuka Yantra). Kayakalpa rejuvenator, immune booster, severe debility 50-100 mg with honey"
+}

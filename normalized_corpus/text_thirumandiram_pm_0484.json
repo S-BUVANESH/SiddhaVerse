@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0484",
+  "text_id": "thirumandiram_pm_0484",
+  "title": "Thirumandiram - Verse 1042",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1042",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பார்த்திடம் எங்கும் பரந்தெழு சோதியை\nஆத்தம தாகவே ஆய்ந்தறி வார் இல்லை\nகாத்துடல் உள்ளே கருதி இருந்தவர்\nமூத்துடல் கோடி யுகங்கண்ட வாறே.",
+  "transliteration": "pārttiṭm eṅkum prnteḻu cōtiyai\nāttm tākvē āyntṟi vār illai\nkāttuṭl uḷḷē kruti iruntvr\nmūttuṭl kōṭi yukṅkṇṭ vāṟē.",
+  "english_translation": null,
+  "content_hash": "0087f6803aa92d3933f590440647c634eccf6cddf9c17bbfd9774f9b24e29f4f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "body_light",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "place_kashi",
+    "concept_atman",
+    "practice_kumbhaka",
+    "concept_dhyana",
+    "siddhar_karuvoorar"
+  ]
+}

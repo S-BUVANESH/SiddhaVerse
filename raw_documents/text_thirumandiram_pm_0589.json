@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0589",
+  "text_id": "thirumandiram_pm_0589",
+  "title": "Thirumandiram - Verse 1148",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1148",
+  "tamil_text": "நவிலும் பெருந்தெய்வம் நான்மறைச் சத்தி\nதுகிலுடை யாடை நிலம்பொதி பாதம்\nஅகிலமும் அண்ட முழுதும் செம்மாந்தும்\nபுகலும்முச் சோதி புனையநிற் பாளே.",
+  "transliteration": "nvilum perunteyvm nāṉmṟaic ctti\ntukiluṭai yāṭai nilmpoti pātm\nakilmum aṇṭ muḻutum cemmāntum\npuklummuc cōti puṉaiyniṟ pāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1240f78dd951924921224a8596f8026df8ba41d612c7a797a52080374ed6e13c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

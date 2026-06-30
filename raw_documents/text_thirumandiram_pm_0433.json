@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0433",
+  "text_id": "thirumandiram_pm_0433",
+  "title": "Thirumandiram - Verse 986",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "986",
+  "tamil_text": "எட்டும் இரண்டும் இனிதுஅறி கின்றிலர்\nஎட்டும் இரண்டும் அறியாத ஏழையர்\nஎட்டும் இரண்டும் இருமூன்று நான்கெனப்\nபட்டது சித்தாந்த சன்மார்க்க பாதமே. 73.",
+  "transliteration": "eṭṭum irṇṭum iṉituaṟi kiṉṟilr\neṭṭum irṇṭum aṟiyāt ēḻaiyr\neṭṭum irṇṭum irumūṉṟu nāṉkeṉp\npṭṭtu cittānt cṉmārkk pātmē. 73.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "36a44a8110bb05bd5aa3723546647acf63b97615a87ab9970161e7ecf197b35a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

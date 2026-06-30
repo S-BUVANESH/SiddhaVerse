@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0651",
+  "text_id": "sivavakkiyar_pm_0651",
+  "title": "Sivavakkiyam - Verse 42",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "42",
+  "tamil_text": "பிறப்பதற்கு முன்னெல்லாம் இருக்குமாற தெங்ஙனே?\nபிறந்துமண் ணிறந்துபோய் இருக்குமாறு தெங்ஙனே?\nகுறித்துநீர் சொலாவிடில் குறிப்பில்லாத மாந்தரே.\nஅறுப்பென செவிஇரண்டும் அஞ்செழுத்து வாளினால்.",
+  "transliteration": "piṟpptṟku muṉṉellām irukkumāṟ teṅṅṉē?\npiṟntumṇ ṇiṟntupōy irukkumāṟu teṅṅṉē?\nkuṟittunīr colāviṭil kuṟippillāt māntrē.\naṟuppeṉ ceviirṇṭum añceḻuttu vāḷiṉāl.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "966862800b5b7d128c8ed42a6d3139d0d66be8bc6a6904c908ca6af59b17d160",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

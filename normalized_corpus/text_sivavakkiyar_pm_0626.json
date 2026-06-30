@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0626",
+  "text_id": "sivavakkiyar_pm_0626",
+  "title": "Sivavakkiyam - Verse 17",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "17",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அண்டவாசல் ஆயிரம் பிரசண்டவாசல் ஆயிரம்\nஆறிரண்டு நூறுகோடி யானவாசல் ஆயிரம்\nஇந்தவாசல் ஏழைவாசல் ஏகபோக மானதாய்\nஎம்பிரான் இருக்கும்வாசல் யாவர்காண வல்லரே?",
+  "transliteration": "aṇṭvācl āyirm pircṇṭvācl āyirm\nāṟirṇṭu nūṟukōṭi yāṉvācl āyirm\nintvācl ēḻaivācl ēkpōk māṉtāy\nempirāṉ irukkumvācl yāvrkāṇ vllrē?",
+  "english_translation": null,
+  "content_hash": "01e86b3241cff98225b7ce8dc9bbbda3505c548bb335fb706c966f29f72daa09",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "siddhar_bogar",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

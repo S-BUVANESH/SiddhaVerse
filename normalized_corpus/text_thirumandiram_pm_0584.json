@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0584",
+  "text_id": "thirumandiram_pm_0584",
+  "title": "Thirumandiram - Verse 1143",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1143",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நடந்தது அம்மலர் நாலுடன் அஞ்சாய்\nஇருந்தனர் கன்னிகள் எட்டுடன் ஒன்றாய்ப்\nபடர்ந்தது தன்வழி பங்கயத் துள்ளே\nதொடர்ந்தது உள்வழி சோதி யடுத்தே.",
+  "transliteration": "nṭnttu ammlr nāluṭṉ añcāy\niruntṉr kṉṉikḷ eṭṭuṭṉ oṉṟāyp\npṭrnttu tṉvḻi pṅkyt tuḷḷē\ntoṭrnttu uḷvḻi cōti yṭuttē.",
+  "english_translation": null,
+  "content_hash": "69bf57b18f19f2e0fbdbcb04589e431b3800ef014426087a263309294a44ec54",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_tulsi",
+    "deity_shakti",
+    "practice_ashta_siddhi",
+    "body_light",
+    "symbol_eight"
+  ]
+}

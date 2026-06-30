@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0470",
+  "text_id": "thirumandiram_pm_0470",
+  "title": "Thirumandiram - Verse 1028",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1028",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நல்லொளி யாக நடந்துல கெங்கும்\nகல்லொளி யாகக் கலந்துள் இருந்திடும்\nசொல்லொளி யாகத் தொடர்ந்த உயிர்க்கெலாம்\nகல்லொளி கண்ணுள மாகிநின் றாளே.",
+  "transliteration": "nlloḷi yāk nṭntul keṅkum\nklloḷi yākk klntuḷ iruntiṭum\ncolloḷi yākt toṭrnt uyirkkelām\nklloḷi kṇṇuḷ mākiniṉ ṟāḷē.",
+  "english_translation": null,
+  "content_hash": "25ca14d32761ef62d2a8ba2b8f7a7124f25b2b6003947a27ce0453d938c67af9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_tulsi",
+    "body_eye",
+    "deity_murugan",
+    "body_uyir",
+    "practice_pranayama",
+    "concept_atman",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0206",
+  "text_id": "thirumandiram_pm_0206",
+  "title": "Thirumandiram - Verse 209",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "209",
+  "tamil_text": "புடைவை கிழிந்தது போயிற்று வாழ்க்கை\nஅடையப்பட் டார்களும் அன்பில ராயினார்\nகொடையில்லை கோளில்லை கொண்டாட்ட மில்லை\nநடையில்லை நாட்டில் இயங்குகின் றார்கட்கே.",
+  "transliteration": "puṭaivai kiḻinttu pōyiṟṟu vāḻkkai\naṭaiyppṭ ṭārkḷum aṉpil rāyiṉār\nkoṭaiyillai kōḷillai koṇṭāṭṭ millai\nnṭaiyillai nāṭṭil iyṅkukiṉ ṟārkṭkē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "92d394c845e743963296d03cbdebff8a0dfa3030659f1d15955b2f729e2c8523",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

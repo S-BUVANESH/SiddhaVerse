@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_37678112",
+  "text_id": "pubmed_37678112",
+  "title": "Of odysseys and miracles: A narrative approach on therapeutic mobilities for ayurveda treatment.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Kaspar H",
+    "Abegg A",
+    "Reddy S"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "54584636d158be5a0c41677e0822ac2b03f6cc3a8c9f2d8b8ad569a04bf6abfa",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "37678112",
+  "authors": [
+    "Kaspar H",
+    "Abegg A",
+    "Reddy S"
+  ],
+  "journal": "Social science & medicine (1982)",
+  "pubdate": "2023 Oct",
+  "doi": "10.1016/j.socscimed.2023.116152",
+  "abstract": "In the past two decades, health care has become a global market and transnational practice. An emerging body of literature examines the astounding variety of drivers, conditions, and experiences. However, the question of how traveling abroad for treatment emerges as an option and takes shape in people's illness trajectories has gained little attention thus far. This article attends to this gap by following the stories of people with chronic conditions who travel to India for Ayurveda treatment out of dissatisfaction with local biomedical health care. This study expands the focus of current research on transnational therapeutic mobilities in three ways: (1) by shifting the attention from being a foreign patient or medical traveler to becoming one, (2) by integrating quests for other-than-biomedical therapies, and (3) by applying a narrative approach to the field. Results show that apart from social, human, and financial resources, it takes certain patient-subjectivities to mobilize patients across borders and healing systems.",
+  "search_text": "pubmed 37678112 Of odysseys and miracles: A narrative approach on therapeutic mobilities for ayurveda treatment. PubMed Research Scientific Literature Kaspar H Abegg A Reddy S Tamil Tamil script open_access PubMed Central 37678112 Kaspar H Abegg A Reddy S Social science & medicine (1982) 2023 Oct 10.1016/j.socscimed.2023.116152 In the past two decades, health care has become a global market and transnational practice. An emerging body of literature examines the astounding variety of drivers, conditions, and experiences. However, the question of how traveling abroad for treatment emerges as an option and takes shape in people's illness trajectories has gained little attention thus far. This article attends to this gap by following the stories of people with chronic conditions who travel to India for Ayurveda treatment out of dissatisfaction with local biomedical health care. This study expands the focus of current research on transnational therapeutic mobilities in three ways: (1) by shifting the attention from being a foreign patient or medical traveler to becoming one, (2) by integrating quests for other-than-biomedical therapies, and (3) by applying a narrative approach to the field. Results show that apart from social, human, and financial resources, it takes certain patient-subjectivities to mobilize patients across borders and healing systems."
+}

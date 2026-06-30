@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0254",
+  "text_id": "thirumandiram_pm_0254",
+  "title": "Thirumandiram - Verse 257",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "257",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தான்தவம் செய்வதாம் செய்தவத்து அவ்வழி\nமான்தெய்வ மாக மதிக்கும் மனிதர்கள்\nஊன் தெய்வ மாக உயிர்க்கின்ற பல்லுயிர்\nநான்தெய்வம் என்று நமன்வரு வானே.",
+  "transliteration": "tāṉtvm ceyvtām ceytvttu avvḻi\nmāṉteyv māk mtikkum mṉitrkḷ\nūṉ teyv māk uyirkkiṉṟ plluyir\nnāṉteyvm eṉṟu nmṉvru vāṉē.",
+  "english_translation": null,
+  "content_hash": "50609338005780beb97c8e9c03f439059c7b5efb444a92e3735c95695992f82a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_brahma",
+    "deity_murugan",
+    "body_uyir",
+    "plant_lotus",
+    "practice_pranayama",
+    "concept_atman",
+    "concept_tapas",
+    "practice_kumbhaka"
+  ]
+}

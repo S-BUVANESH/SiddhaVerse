@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0106",
+  "text_id": "thirumandiram_pm_0106",
+  "title": "Thirumandiram - Verse 108",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "108",
+  "tamil_text": "ஓலக்கம் சூழ்ந்த உலப்பிலி தேவர்கள்\nபாலொத்த மேனி பணிந்தடி யேன் தொழ\nமாலுக்கும் ஆதிப் பிரமற்கும் ஒப்புநீ\nஞாலத்து நம்மடி நல்கிடுஎன் றானே.",
+  "transliteration": "ōlkkm cūḻnt ulppili tēvrkḷ\npālott mēṉi pṇintṭi yēṉ toḻ\nmālukkum ātip pirmṟkum oppunī\nñālttu nmmṭi nlkiṭueṉ ṟāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2b3c6ee8f5314622efe92c03fdefa8fc18e7b0822e42586e5f287e2e55da2f75",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

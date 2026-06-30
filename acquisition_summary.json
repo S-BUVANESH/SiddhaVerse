@@ -1,0 +1,123 @@
+{
+  "phase": "2B-1R",
+  "acquisition_ts": "2026-06-24T17:46:07.493552+00:00",
+  "unique_verses": 1000,
+  "total_fetched": 1133,
+  "duplicates_rejected": 0,
+  "duplicate_rate": 0.0,
+  "pilot_files_archived": {
+    "raw": 0,
+    "metadata": 0
+  },
+  "source_stats": {
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantirams 1-2",
+      "extracted": 335,
+      "written": 335,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_01.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 3 (Part 1)",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 3 (Part 2)",
+      "extracted": 260,
+      "written": 260,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0010_01.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 4 (Part 1)",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0010_02.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 4 (Part 2)",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0011_01.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 5 (Part 1)",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0011_02.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 5 (Part 2)",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0013.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 6",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0014.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 7",
+      "extracted": 13,
+      "written": 13,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0015.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 8",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0016.html": {
+      "work": "Thirumandiram",
+      "collection": "Tantiram 9",
+      "extracted": 0,
+      "written": 0,
+      "duplicates": 0,
+      "status": "ok"
+    },
+    "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html": {
+      "work": "Sivavakkiyam",
+      "collection": "Sivavakkiyam (Complete)",
+      "extracted": 525,
+      "written": 392,
+      "duplicates": 0,
+      "status": "ok"
+    }
+  },
+  "target": 1000,
+  "success_criteria": {
+    "unique_verses_target": 1000,
+    "max_duplicate_rate": 0.05,
+    "provenance_coverage": "100%",
+    "synthetic_content": 0
+  },
+  "achieved": {
+    "unique_verses": 1000,
+    "duplicate_rate": 0.0,
+    "provenance_coverage": "100%",
+    "synthetic_content": 0
+  }
+}

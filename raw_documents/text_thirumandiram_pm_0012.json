@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0012",
+  "text_id": "thirumandiram_pm_0012",
+  "title": "Thirumandiram - Verse 12",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "12",
+  "tamil_text": "கண்ணுத லான்ஒரு காதலின் நிற்கவும்\nஎண்ணிலி தேவர் இறந்தார் எனப்பலர்\nமண்ணுறு வார்களும் வானுறு வார்களும்\nஅண்ணல் இவன் என்றுஅறியகி லார்களே.",
+  "transliteration": "kṇṇut lāṉoru kātliṉ niṟkvum\neṇṇili tēvr iṟntār eṉpplr\nmṇṇuṟu vārkḷum vāṉuṟu vārkḷum\naṇṇl ivṉ eṉṟuaṟiyki lārkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bab4cf0fae54685182c927be48435f88dbf999e12c87c32781d09f0fe7887ece",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

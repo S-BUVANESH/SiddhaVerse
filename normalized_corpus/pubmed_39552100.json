@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_39552100",
+  "text_id": "pubmed_39552100",
+  "title": "Ayurvedic Ingredients in Dermatology: A Call for Research.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Singh N",
+    "Brown AN",
+    "Gold MH"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "98e8178bc6279915ed3df9c0baee34a74d598a790e8493accf0424820a1833bd",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "39552100",
+  "authors": [
+    "Singh N",
+    "Brown AN",
+    "Gold MH"
+  ],
+  "journal": "Journal of cosmetic dermatology",
+  "pubdate": "2025 Feb",
+  "doi": "10.1111/jocd.16673",
+  "abstract": "BACKGROUND: With the ever-changing cosmetic landscape, Ayurvedic skincare, rooted in the holistic medical system of Ayurveda from India, has gained popularity in Western countries due to its natural ingredients and multipurpose benefits. Originating from the earth's sources, such as plants and minerals, each ingredient like ashwagandha, turmeric, and neem among others are believed to address various cosmetic and medical issues.\nAIMS AND METHODS: Despite centuries of anecdotal evidence, modern clinical trials validating these claims are limited. This paper looked to investigate current literature regarding Ayurvedic skincare and promote its continued research.\nRESULTS: Existing in vitro studies have demonstrated significant potential, indicating the need for further large-scale testing. The rise of Ayurvedic ingredients is partially driven by the increasing cost of healthcare and the belief in the superiority of natural self-medication. However, healthcare providers must educate patients on the potential dangers of relying solely on natural products. Products like concentrated lemon juice or homemade sunscreens lack scientific validation and have been implicated in various cosmetic and medical issues, highlighting the need to prevent misinformation and improve education from trusted sources.\nCONCLUSIONS: This paper explores the current literature that establishes promising prospects for Ayurvedic skincare, emphasizing the need for quality control and clinical trials, and highlights how Ayurvedic medicine, as it modernizes, holds the potential to become a major player in cosmetic dermatology.",
+  "search_text": "pubmed 39552100 Ayurvedic Ingredients in Dermatology: A Call for Research. PubMed Research Scientific Literature Singh N Brown AN Gold MH Tamil Tamil script open_access PubMed Central 39552100 Singh N Brown AN Gold MH Journal of cosmetic dermatology 2025 Feb 10.1111/jocd.16673 BACKGROUND: With the ever-changing cosmetic landscape, Ayurvedic skincare, rooted in the holistic medical system of Ayurveda from India, has gained popularity in Western countries due to its natural ingredients and multipurpose benefits. Originating from the earth's sources, such as plants and minerals, each ingredient like ashwagandha, turmeric, and neem among others are believed to address various cosmetic and medical issues.\nAIMS AND METHODS: Despite centuries of anecdotal evidence, modern clinical trials validating these claims are limited. This paper looked to investigate current literature regarding Ayurvedic skincare and promote its continued research.\nRESULTS: Existing in vitro studies have demonstrated significant potential, indicating the need for further large-scale testing. The rise of Ayurvedic ingredients is partially driven by the increasing cost of healthcare and the belief in the superiority of natural self-medication. However, healthcare providers must educate patients on the potential dangers of relying solely on natural products. Products like concentrated lemon juice or homemade sunscreens lack scientific validation and have been implicated in various cosmetic and medical issues, highlighting the need to prevent misinformation and improve education from trusted sources.\nCONCLUSIONS: This paper explores the current literature that establishes promising prospects for Ayurvedic skincare, emphasizing the need for quality control and clinical trials, and highlights how Ayurvedic medicine, as it modernizes, holds the potential to become a major player in cosmetic dermatology."
+}

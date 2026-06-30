@@ -1,0 +1,44 @@
+{
+  "document_id": "siddhar_ramadevar",
+  "text_id": "siddhar_ramadevar",
+  "title": "Ramadevar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Ramadevar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "925a82e6e3565215d0c1be7da6a56a59d916efdab3b3653237f78b7df56e0148",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Ramadevar",
+  "period": "c. 3rd century BCE",
+  "biography": "Also known as Jacob. Traveled to Arabia and integrated Middle Eastern alchemical concepts into Siddha.",
+  "texts": [
+    "Ramadevar 1000",
+    "Ramadevar Vaidyam"
+  ],
+  "search_text": "siddhar ramadevar Ramadevar Siddhar Biography Siddhars Ramadevar Tamil Tamil script public_domain SiddhaVerse Corpus Ramadevar c. 3rd century BCE Also known as Jacob. Traveled to Arabia and integrated Middle Eastern alchemical concepts into Siddha. Ramadevar 1000 Ramadevar Vaidyam"
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0226",
+  "text_id": "thirumandiram_pm_0226",
+  "title": "Thirumandiram - Verse 229",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "229",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேதாந்தங் கேட்க விரும்பிய வேதியர்\nவேதாந்தங் கேட்டுந்தம் வேட்கை ஒழிந்திலர்\nவேதாந்த மாவது வேட்கை ஒழிந்திடம்\nவேதாந்தங் கேட்டவர் வேட்கை விட்டாரே.",
+  "transliteration": "vētāntṅ kēṭk virumpiy vētiyr\nvētāntṅ kēṭṭuntm vēṭkai oḻintilr\nvētānt māvtu vēṭkai oḻintiṭm\nvētāntṅ kēṭṭvr vēṭkai viṭṭārē.",
+  "english_translation": null,
+  "content_hash": "e35ccd7bef72fed1ca8ec23ae449af9ce13132c142003ff70bf72c8ee46eee36",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_chidambaram",
+    "practice_varma",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "National Institute of Siddha (NIS)",
+  "url": "https://nischennai.org/",
+  "organization": "Ministry of AYUSH, Government of India",
+  "source_type": "Government Publication",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "10.0/10",
+  "priority": "critical",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 10,
+    "plants": 20,
+    "formulations": 25,
+    "diseases": 20,
+    "manuscripts": 5,
+    "research": 20
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Academic Monographs",
+    "PG/PhD Dissertation Abstracts",
+    "Public Health Circulars",
+    "Clinical Trial Protocols"
+  ],
+  "notes": "Premium academic institute for post-graduate education and research. Store metadata, abstract summaries, and public research brochures."
+}

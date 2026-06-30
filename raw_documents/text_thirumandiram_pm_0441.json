@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0441",
+  "text_id": "thirumandiram_pm_0441",
+  "title": "Thirumandiram - Verse 994",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "994",
+  "tamil_text": "ஆறெழுத்தாவது ஆறு (1)மந்திரங்கள்\nஆறுக்கு நாலே இருபத்து நாலென்பர்\nசாவித் திரியில் தலையெழுத்து ஒன்றுள\nபேதிக்க வல்லார் பிறவியற் றார்களே.",
+  "transliteration": "āṟeḻuttāvtu āṟu (1)mntirṅkḷ\nāṟukku nālē irupttu nāleṉpr\ncāvit tiriyil tlaiyeḻuttu oṉṟuḷ\npētikk vllār piṟviyṟ ṟārkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "caa47955a7f4a68b91c9c5331f56a7e4ad56b6ad79dc3087f1ca507b4899667c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

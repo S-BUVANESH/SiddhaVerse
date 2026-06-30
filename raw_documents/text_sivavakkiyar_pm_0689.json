@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0689",
+  "text_id": "sivavakkiyar_pm_0689",
+  "title": "Sivavakkiyam - Verse 80",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "80",
+  "tamil_text": "மிக்கசெல்வம் நீபடைத்த விறகுமேவிப் பாவிகாள்\nவிறகுடன் கொளுத்திமேனி வெந்துபோவது அறிகிலீர்\nமக்கள்பெண்டீர் சுற்றம்என்று மாயைகாணும் இவையெலாம்\nமறலிவந்து அழைத்தபோது வந்துகூடலாகுமோ?",
+  "transliteration": "mikkcelvm nīpṭaitt viṟkumēvip pāvikāḷ\nviṟkuṭṉ koḷuttimēṉi ventupōvtu aṟikilīr\nmkkḷpeṇṭīr cuṟṟmeṉṟu māyaikāṇum ivaiyelām\nmṟlivntu aḻaittpōtu vntukūṭlākumō?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b8d88cab43cae064e79c7f6d29858d898ea1b35699862a8408fd2f8b5a3c166f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

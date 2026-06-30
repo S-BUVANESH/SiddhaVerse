@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0007",
+  "text_id": "thirumandiram_pm_0007",
+  "title": "Thirumandiram - Verse 7",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "7",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "முன்னைஒப் பாயுள்ள மூவர்க்கும் மூத்தவன்\nதன்னைஒப் பாய்ஒன்றும் இல்லாத் தலைமகன்\nதன்னைஅப் பாயெனில் அப்பனு மாயுளன்\nபொன்னைஒப் பாகின்ற போதகத் தானே.",
+  "transliteration": "muṉṉaiop pāyuḷḷ mūvrkkum mūttvṉ\ntṉṉaiop pāyoṉṟum illāt tlaimkṉ\ntṉṉaiap pāyeṉil appṉu māyuḷṉ\npoṉṉaiop pākiṉṟ pōtkt tāṉē.",
+  "english_translation": null,
+  "content_hash": "c5bac9f377f5e020897b2c344264db791b9b3f009ab5ec322368da90b7236a43",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "concept_maya",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_head",
+    "practice_kumbhaka"
+  ]
+}

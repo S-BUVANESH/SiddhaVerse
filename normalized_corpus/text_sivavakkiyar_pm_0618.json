@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0618",
+  "text_id": "sivavakkiyar_pm_0618",
+  "title": "Sivavakkiyam - Verse 9",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "9",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அரியும்அல்ல அயனும்அல்ல அப்புறத்தில் அப்புறம்\nகருமைசெம்மை வெண்மையைக் கடந்துநின்ற காரணம்\nபெரியதல்ல சிறியதல்ல பற்றுமின்கள் பற்றுமின்\nதுரியமும் கடந்துநின்ற தூரதூர தூரமே.",
+  "transliteration": "ariyumall ayṉumall appuṟttil appuṟm\nkrumaicemmai veṇmaiyaik kṭntuniṉṟ kārṇm\nperiytll ciṟiytll pṟṟumiṉkḷ pṟṟumiṉ\nturiymum kṭntuniṉṟ tūrtūr tūrmē.",
+  "english_translation": null,
+  "content_hash": "68acde74c55fc4da0125fb24230b2deeaaa4125444ead94ea14d9878e7d6b48c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_chidambaram",
+    "deity_kali",
+    "deity_murugan",
+    "siddhar_karuvoorar"
+  ]
+}

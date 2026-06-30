@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0168",
+  "text_id": "thirumandiram_pm_0168",
+  "title": "Thirumandiram - Verse 171",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "171",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஈட்டிய தேன்பூ மணங்கண் டிரதமும்\nகூட்டிக் கொணர்ந்தொரு கொம்பிடை வைத்திடும்\nஓட்டித் துரந்திட்டு அதுவலி யார்கொளக்\nகாட்டிக் கொடுத்தது கைவிட்ட வாறே.",
+  "transliteration": "īṭṭiy tēṉpū mṇṅkṇ ṭirtmum\nkūṭṭik koṇrntoru kompiṭai vaittiṭum\nōṭṭit turntiṭṭu atuvli yārkoḷk\nkāṭṭik koṭutttu kaiviṭṭ vāṟē.",
+  "english_translation": null,
+  "content_hash": "b92e1b399857ef0ff65a161df4ee847832b4b7f6e36ca306eed6839910fc34b2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_kali",
+    "concept_mukti",
+    "body_eye",
+    "symbol_three"
+  ]
+}

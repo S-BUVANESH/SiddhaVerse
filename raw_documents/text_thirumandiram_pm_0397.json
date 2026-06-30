@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0397",
+  "text_id": "thirumandiram_pm_0397",
+  "title": "Thirumandiram - Verse 946",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "946",
+  "tamil_text": "பரமாய அஞ்செழுத்து உள்நடு வாகப்\nபரமாய நவசிவ பார்க்கில் மவயரசி\nபரமாய சியநம வாம்பரத்து ஓதில்\nபரமாய வாசி மயநமாய் நின்றே.",
+  "transliteration": "prmāy añceḻuttu uḷnṭu vākp\nprmāy nvciv pārkkil mvyrci\nprmāy ciynm vāmprttu ōtil\nprmāy vāci mynmāy niṉṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "66d3c232d8a465d6268bd4946e7bba503eb957e2ff22a23b79b4c9cd5b7a562b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

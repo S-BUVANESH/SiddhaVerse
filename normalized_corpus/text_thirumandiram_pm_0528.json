@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0528",
+  "text_id": "thirumandiram_pm_0528",
+  "title": "Thirumandiram - Verse 1086",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1086",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பூசனை கெந்தம் புனைமலர் மாகொடி\nயோசனை பஞ்சத்து ஒலிவந்து உரைசெய்யும்\nவாசம்இ லாத மணிமந் திரயோகம்\nதேசம் திகழும் திரிபுரை காணே.",
+  "transliteration": "pūcṉai kentm puṉaimlr mākoṭi\nyōcṉai pñcttu olivntu uraiceyyum\nvācmi lāt mṇimn tiryōkm\ntēcm tikḻum tiripurai kāṇē.",
+  "english_translation": null,
+  "content_hash": "9625580d36cae2cee61c763990a873d63c8c882a5d10e4c5f0b3ec9e85b682b3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "symbol_five",
+    "siddhar_yugi",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_yoga",
+    "practice_moolamantra",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_25097272",
+  "text_id": "pubmed_25097272",
+  "title": "Approaches in fostering quality parameters for medicinal botanicals in the Indian context.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Gupta PD",
+    "Daswani PG",
+    "Birdi TJ"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "41361f24eb539c3f96655b8153cdf0072a2aa0f685fde2689d442b03fd7f67ae",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "25097272",
+  "authors": [
+    "Gupta PD",
+    "Daswani PG",
+    "Birdi TJ"
+  ],
+  "journal": "Indian journal of pharmacology",
+  "pubdate": "2014",
+  "doi": "10.4103/0253-7613.135946",
+  "abstract": "India is among the important megabiodiversity centers of the world with nearly 45,000 known plant species. This diversity coupled with a rich heritage of traditional knowledge has made India a home to several important time-honored systems of health care such as Ayurveda, Siddha and Unani. Herbal medicines, however, are associated with a number of shortcomings including uniform efficacy and lack of appropriate quality control measures at various stages of product development. The review intends to outline the importance of fostering quality parameters towards standardization and manufacturing of botanicals for India to emerge as a leader in global market of herbal products. Literature survey was carried out on important parameters for processing and manufacturing of botanicals. The review highlights that there have been constant efforts for developing state of the art technologies in the field of herbal research. It also reflects that Government authorities have also taken a number of initiatives to formulate appropriate guidelines from standardization of raw materials to obtaining botanical products. However, in the Indian context, there exist certain lacunae in the current regulatory mechanisms which need to be strengthened and stringently implemented to ensure safety, purity and efficacy of herbal medicines. Towards this the approaches being developed globally can be adopted. Based on the literature reviewed, in our opinion, four areas viz., benefit sharing, investment by industry, standardization and national/international networking structure need immediate attention for strengthening Traditional Systems of Medicine in India.",
+  "search_text": "pubmed 25097272 Approaches in fostering quality parameters for medicinal botanicals in the Indian context. PubMed Research Scientific Literature Gupta PD Daswani PG Birdi TJ Tamil Tamil script open_access PubMed Central 25097272 Gupta PD Daswani PG Birdi TJ Indian journal of pharmacology 2014 10.4103/0253-7613.135946 India is among the important megabiodiversity centers of the world with nearly 45,000 known plant species. This diversity coupled with a rich heritage of traditional knowledge has made India a home to several important time-honored systems of health care such as Ayurveda, Siddha and Unani. Herbal medicines, however, are associated with a number of shortcomings including uniform efficacy and lack of appropriate quality control measures at various stages of product development. The review intends to outline the importance of fostering quality parameters towards standardization and manufacturing of botanicals for India to emerge as a leader in global market of herbal products. Literature survey was carried out on important parameters for processing and manufacturing of botanicals. The review highlights that there have been constant efforts for developing state of the art technologies in the field of herbal research. It also reflects that Government authorities have also taken a number of initiatives to formulate appropriate guidelines from standardization of raw materials to obtaining botanical products. However, in the Indian context, there exist certain lacunae in the current regulatory mechanisms which need to be strengthened and stringently implemented to ensure safety, purity and efficacy of herbal medicines. Towards this the approaches being developed globally can be adopted. Based on the literature reviewed, in our opinion, four areas viz., benefit sharing, investment by industry, standardization and national/international networking structure need immediate attention for strengthening Traditional Systems of Medicine in India."
+}

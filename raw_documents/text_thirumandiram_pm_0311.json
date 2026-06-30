@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0311",
+  "text_id": "thirumandiram_pm_0311",
+  "title": "Thirumandiram - Verse 315",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "315",
+  "tamil_text": "விண்ணினின் உள்ளே விளைந்த விளங்கனி\nகண்ணினின் உள்ளே கலந்துஅங் கிருந்தது\nமண்ணினின் உள்ளே மதித்து மதித்துநின்\nறெண்ணி எழுதி இளைத்துவிட் டாரே.",
+  "transliteration": "viṇṇiṉiṉ uḷḷē viḷaint viḷṅkṉi\nkṇṇiṉiṉ uḷḷē klntuaṅ kirunttu\nmṇṇiṉiṉ uḷḷē mtittu mtittuniṉ\nṟeṇṇi eḻuti iḷaittuviṭ ṭārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3c9ef06d147f1aec64ea3306a22abae09912a2d65048337bf0154a488b8485c6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

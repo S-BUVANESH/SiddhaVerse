@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0261",
+  "text_id": "thirumandiram_pm_0261",
+  "title": "Thirumandiram - Verse 264",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "264",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பரவப் படுவான் பரமனை ஏத்தார்\nஇரவலர்க்கு ஈதலை யாயினும் ஈயார்\nகரகத்தால் நீராட்டிக் காவை வளர்க்கார்\nநரகத்தில் நிற்றிரோ நல்நெஞ்சி னீரே.",
+  "transliteration": "prvp pṭuvāṉ prmṉai ēttār\nirvlrkku ītlai yāyiṉum īyār\nkrkttāl nīrāṭṭik kāvai vḷrkkār\nnrkttil niṟṟirō nlneñci ṉīrē.",
+  "english_translation": null,
+  "content_hash": "5ba34a723bc345da854adaa33967612757d74a503f3ce3e93763919cea54c1ef",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_heart",
+    "place_chidambaram",
+    "concept_brahman",
+    "deity_murugan",
+    "body_head",
+    "deity_shiva"
+  ]
+}

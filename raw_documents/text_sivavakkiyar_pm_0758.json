@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0758",
+  "text_id": "sivavakkiyar_pm_0758",
+  "title": "Sivavakkiyam - Verse 149",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "149",
+  "tamil_text": "உண்டகல்லை எச்சில்என்று உள்ளெறிந்து போடுகிறீர்;\nகண்டஎச்சில் கையலோ பரமனுக்கும் வேறதோ?\nகண்டஎச்சில் கேளடா, கலந்தபாணி அப்பிலே\nகொண்டசுத்தம் ஏதடா? குறிப்பிலாத மூடரே!",
+  "transliteration": "uṇṭkllai eccileṉṟu uḷḷeṟintu pōṭukiṟīr;\nkṇṭeccil kaiylō prmṉukkum vēṟtō?\nkṇṭeccil kēḷṭā, klntpāṇi appilē\nkoṇṭcuttm ētṭā? kuṟippilāt mūṭrē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "153ddfe510948a2d93c386d950a47e5d6b72db201e70b9e53d056033030593d5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

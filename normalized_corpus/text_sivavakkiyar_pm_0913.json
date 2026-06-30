@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0913",
+  "text_id": "sivavakkiyar_pm_0913",
+  "title": "Sivavakkiyam - Verse 304",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "304",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சுற்றும்ஐந்து கூடமொன்று சொல்லிறந்த தோர்வெளி\nசத்தியும் சிவனுமாக நின்றதன்மை ஓர்கிலீர்\nசத்தியாவு தும்முடல், தயங்குசீவ னுட்சிவம்\nபித்தர்காள் அறிந்திலீர் பிரான்இருந்த கோலமே.",
+  "transliteration": "cuṟṟumaintu kūṭmoṉṟu colliṟnt tōrveḷi\ncttiyum civṉumāk niṉṟtṉmai ōrkilīr\ncttiyāvu tummuṭl, tyṅkucīv ṉuṭcivm\npittrkāḷ aṟintilīr pirāṉirunt kōlmē.",
+  "english_translation": null,
+  "content_hash": "3c14aed96f88665df97ad51582f9dee6e6e9d255969c858b1638836cb0d13e4c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_five",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "deity_kali",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_dhyana"
+  ]
+}

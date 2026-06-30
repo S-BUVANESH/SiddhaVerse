@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_goml_tam_540",
+  "text_id": "manuscript_goml_tam_540",
+  "title": "Theriyar Yamaga Venba",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "9d52560746bb4f571aa39724d13db515ece4fb7b0d852ae36ce0c475b5b4e262",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "GOML-TAM-540",
+  "repository": "Government Oriental Manuscripts Library, Chennai",
+  "era": "18th Century",
+  "material": "Palm Leaf",
+  "subject": "Diagnostic Pulse and Poetry",
+  "search_text": "manuscript goml tam 540 Theriyar Yamaga Venba Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs GOML-TAM-540 Government Oriental Manuscripts Library, Chennai 18th Century Palm Leaf Diagnostic Pulse and Poetry"
+}

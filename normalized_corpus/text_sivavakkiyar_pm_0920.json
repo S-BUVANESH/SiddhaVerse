@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0920",
+  "text_id": "sivavakkiyar_pm_0920",
+  "title": "Sivavakkiyam - Verse 311",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "311",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மனவிகாரம் அற்றுநீர் மதித்திருக்க வல்லீரேல்\nநினைவிலாத மணிவிளக்கு நித்தமாகி நின்றிடும்;\nஅனைவர் ஓதும் வேதமும் அகம்பிதற்ற வேணுமேல்\nகனவுகண்டது உண்மைநீர் தெளிந்ததே சிவாயமே.",
+  "transliteration": "mṉvikārm aṟṟunīr mtittirukk vllīrēl\nniṉaivilāt mṇiviḷkku nittmāki niṉṟiṭum;\naṉaivr ōtum vētmum akmpitṟṟ vēṇumēl\nkṉvukṇṭtu uṇmainīr teḷinttē civāymē.",
+  "english_translation": null,
+  "content_hash": "5943522cc7786521951d5d3b38ba4bbabf48a35fd28bb47ff0f1406c6c853033",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "practice_varma",
+    "plant_vallarai",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "symbol_three",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_murugan",
+    "deity_shiva"
+  ]
+}

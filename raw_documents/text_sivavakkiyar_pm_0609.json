@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0609",
+  "text_id": "sivavakkiyar_pm_0609",
+  "title": "Sivavakkiyam - Verse 0",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "0",
+  "tamil_text": "காப்பு\nஅரியதோர் நமச்சிவாயம் ஆதியந்தம் ஆனதும்\nஆறிரண்டு நூறுதேவர் அன்றுரைத்த மந்திரம்\nசுரியதோர் எழுத்தைஉன்னிச் சொல்லுவேன் சிவவாக்கியம்\nதோஷதோஷ பாவமாயை தூரதூர ஓடவே.",
+  "transliteration": "kāppu\nariytōr nmccivāym ātiyntm āṉtum\nāṟirṇṭu nūṟutēvr aṉṟuraitt mntirm\ncuriytōr eḻuttaiuṉṉic colluvēṉ civvākkiym\ntōṣtōṣ pāvmāyai tūrtūr ōṭvē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "71090b0e77d77638a28fb0252106269bd975cb4c79b6bba321d0b6a70082d034",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "sivavakkiyar_pm_0747",
+  "text_id": "sivavakkiyar_pm_0747",
+  "title": "Sivavakkiyam - Verse 138",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "138",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேணும்வேணும் என்றுநீர் வீண்உழன்று தேடுவீர்?\nவேணும்என்று தேடினும் உள்ளதல்லது இல்லையே,\nவேணும் என்று தேடுகின்ற வேட்கையைத் துறந்தபின்\nவேணும்என்ற அப்பொருள் விரைந்துகாணல் ஆகுமே!",
+  "transliteration": "vēṇumvēṇum eṉṟunīr vīṇuḻṉṟu tēṭuvīr?\nvēṇumeṉṟu tēṭiṉum uḷḷtlltu illaiyē,\nvēṇum eṉṟu tēṭukiṉṟ vēṭkaiyait tuṟntpiṉ\nvēṇumeṉṟ apporuḷ viraintukāṇl ākumē!",
+  "english_translation": null,
+  "content_hash": "c27fed3d73fc8d5f6ad4a079a6c4a005a76ecf69d7d0afd8270e808c35a41501",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

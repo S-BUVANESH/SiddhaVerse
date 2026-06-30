@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0727",
+  "text_id": "sivavakkiyar_pm_0727",
+  "title": "Sivavakkiyam - Verse 118",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "118",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நீடுபாரி லேபிறந்து நேரமான காயந்தான்\nவீடுபேறி தென்றபோது வேண்டிஇன்பம் வேண்டுமோ?\nபாடிநாலு வேதமும் பாரிலே படர்ந்ததோ?\nநாடுராம ராமராம ராமமென்னுன் நாமமே!",
+  "transliteration": "nīṭupāri lēpiṟntu nērmāṉ kāyntāṉ\nvīṭupēṟi teṉṟpōtu vēṇṭiiṉpm vēṇṭumō?\npāṭinālu vētmum pārilē pṭrnttō?\nnāṭurām rāmrām rāmmeṉṉuṉ nāmmē!",
+  "english_translation": null,
+  "content_hash": "8c9ae0a10e361b24d89b79f3ae708cce78a4de363493ef9342e9d1dcad3beaa9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "concept_nadi",
+    "deity_shakti",
+    "practice_kayakalpa",
+    "siddhar_ramadevar",
+    "concept_mukti"
+  ]
+}

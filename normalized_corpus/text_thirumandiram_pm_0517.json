@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0517",
+  "text_id": "thirumandiram_pm_0517",
+  "title": "Thirumandiram - Verse 1075",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1075",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பன்னிரண் டாங்கலை ஆதி பயிரவி\nதன்னில் ஆகாரமும் மாயையும் கற்பித்துப்\nபன்னிரண்டு ஆதியோடு அந்தம் பதினாலும்\nசொல்நிலை சோடம் அந்தம் என்று ஓதிடே.",
+  "transliteration": "pṉṉirṇ ṭāṅklai āti pyirvi\ntṉṉil ākārmum māyaiyum kṟpittup\npṉṉirṇṭu ātiyōṭu antm ptiṉālum\ncolnilai cōṭm antm eṉṟu ōtiṭē.",
+  "english_translation": null,
+  "content_hash": "30f9c14f7afffdb09beede66bad1af45a3ceb79dfd3e157bc40243a0ecb4279d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "deity_vishnu",
+    "symbol_eighteen",
+    "deity_murugan",
+    "deity_shakti",
+    "concept_dhyana"
+  ]
+}

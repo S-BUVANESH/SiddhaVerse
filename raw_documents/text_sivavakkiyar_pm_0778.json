@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0778",
+  "text_id": "sivavakkiyar_pm_0778",
+  "title": "Sivavakkiyam - Verse 169",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "169",
+  "tamil_text": "திருக்கு - சந்தேகம்\n\nதாதரான தாதரும் தலத்தில்உள்ள சைவரும்\nகூதரைப் பறைச்சிமக்கள் கூடிசெய்த காரியம்\nவீதிபோகும் ஞானியை விரைந்துகல் எறிந்ததும்\nபாதகங்கள் ஆகவே பலித்ததே சிவாயமே.",
+  "transliteration": "tirukku - cntēkm\n\ntātrāṉ tātrum tlttiluḷḷ caivrum\nkūtraip pṟaiccimkkḷ kūṭiceyt kāriym\nvītipōkum ñāṉiyai viraintukl eṟinttum\npātkṅkḷ ākvē plitttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "15924d543f3b9bb131bca4db3f963d47492fd031e4e8e71aa8d5016c50295415",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0225",
+  "text_id": "thirumandiram_pm_0225",
+  "title": "Thirumandiram - Verse 228",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "228",
+  "tamil_text": "சத்திய மும்தவம் தானவன் ஆதலும்\nஎய்த்தரும் இந்தியம் ஈட்டியே வாட்டலும்\nஒத்த உயிர்கள் உண்டா யுணர்வுற்று\nபெத்தம் அறுத்தலும் ஆகும் பிரமமே.",
+  "transliteration": "cttiy mumtvm tāṉvṉ ātlum\neyttrum intiym īṭṭiyē vāṭṭlum\nott uyirkḷ uṇṭā yuṇrvuṟṟu\npettm aṟuttlum ākum pirmmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4b08cea7dc62b5395a841bb6d5e779f8f1cf7a1ed9ba68c67838f85972a752b4",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

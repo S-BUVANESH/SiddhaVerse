@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0725",
+  "text_id": "sivavakkiyar_pm_0725",
+  "title": "Sivavakkiyam - Verse 116",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "116",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இல்லைஇல்லை என்றுநீர் இயம்புகின்ற ஏழைகாள்,\nஇல்லைஎன்று நின்றதொன்றை இல்லை என்னலாகுமோ?\nஇல்லைஅல்ல ஒன்றுமல்ல இரண்டும்ஒன்றி நின்றதை\nஎல்லைகண்டு கொண்டபேர் இனிப்பிறப்பது இல்லையே.",
+  "transliteration": "illaiillai eṉṟunīr iympukiṉṟ ēḻaikāḷ,\nillaieṉṟu niṉṟtoṉṟai illai eṉṉlākumō?\nillaiall oṉṟumll irṇṭumoṉṟi niṉṟtai\nellaikṇṭu koṇṭpēr iṉippiṟpptu illaiyē.",
+  "english_translation": null,
+  "content_hash": "2bbc77c82c6d343a5c75c3a6e8d75d3dd100eea9694517ef598dc750075467c0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_kali",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0704",
+  "text_id": "sivavakkiyar_pm_0704",
+  "title": "Sivavakkiyam - Verse 95",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "95",
+  "tamil_text": "அவ்வுதித்த மந்திரம் அகாரமாய் உகாரமாய்\nஎவ்வெழுத்து அறிந்தவர்க்கு எழுபிறப்பது இங்கிலை?\nசவ்வுதித்த மந்திரத்தைத் தற்பரத்து இருத்தினால்\nஅவ்வும்உவ்வும் மவ்வுமாய் அமர்ந்ததே சிவாயமே.",
+  "transliteration": "avvutitt mntirm akārmāy ukārmāy\nevveḻuttu aṟintvrkku eḻupiṟpptu iṅkilai?\ncvvutitt mntirttait tṟprttu iruttiṉāl\navvumuvvum mvvumāy amrnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d02851ad52b95f1ee54642e086251eb8c7c63f8e6edf8bdcd3852001beaa4045",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

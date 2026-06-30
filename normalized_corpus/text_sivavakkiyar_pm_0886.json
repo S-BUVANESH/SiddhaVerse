@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0886",
+  "text_id": "sivavakkiyar_pm_0886",
+  "title": "Sivavakkiyam - Verse 277",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "277",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வயலிலே முலைத்தநெல் களையதான வாறுபோல்\nஉலகினோரும் உண்மைகூறில் உய்யுமாறது எங்ஙனே\nவிரகிலே முளைத்தெழுந்த மெய்யலாது பொய்யதாய்\nநரகிலே பிறந்திருந்து நாடுபட்ட பாடதே.",
+  "transliteration": "vylilē mulaittnel kḷaiytāṉ vāṟupōl\nulkiṉōrum uṇmaikūṟil uyyumāṟtu eṅṅṉē\nvirkilē muḷaitteḻunt meyylātu poyytāy\nnrkilē piṟntiruntu nāṭupṭṭ pāṭtē.",
+  "english_translation": null,
+  "content_hash": "be0d810fec93bfd9aef6a7c8d2ab3bb60419765a99864064abf64e7bb127f35f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "concept_nadi",
+    "deity_vishnu",
+    "plant_nelli"
+  ]
+}

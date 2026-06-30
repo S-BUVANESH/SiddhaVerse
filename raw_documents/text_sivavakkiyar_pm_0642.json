@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0642",
+  "text_id": "sivavakkiyar_pm_0642",
+  "title": "Sivavakkiyam - Verse 33",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "33",
+  "tamil_text": "அறிவு நிலை\n\nமாறுபட்டு மணிதுலக்கி வண்டின்எச்சில் கொண்டுபோய்\nஊறுபட்ட கல்லின்மீதே ஊற்றுகின்ற மூடரே.\nமாறுபட்ட தேவரும் அறிந்துநோக்கும் என்னையும்\nகூறுபட்டுத் தீர்க்கவோ குருக்கள்பாதம் வைத்ததே.",
+  "transliteration": "aṟivu nilai\n\nmāṟupṭṭu mṇitulkki vṇṭiṉeccil koṇṭupōy\nūṟupṭṭ klliṉmītē ūṟṟukiṉṟ mūṭrē.\nmāṟupṭṭ tēvrum aṟintunōkkum eṉṉaiyum\nkūṟupṭṭut tīrkkvō kurukkḷpātm vaitttē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "03420bc053ee233fbaabd6926c44624bb9a7ab92987c5d59a5c967ee2af9a88f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

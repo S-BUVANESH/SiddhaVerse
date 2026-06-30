@@ -1,0 +1,34 @@
+{
+  "document_id": "thirumandiram_pm_0128",
+  "text_id": "thirumandiram_pm_0128",
+  "title": "Thirumandiram - Verse 130",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "130",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எவ்வாறு காண்பான் அறிவு தனக்கெல்லை\nஅவ்வாறு அருட்செய்வன் ஆதிஅரன் தானும்\nஒவ்வாத மன்றுள் உமைகாண ஆடிடும்\nசெவ்வானிற் செய்ய செழுஞ்சுடர் மாணிக்கமே.",
+  "transliteration": "evvāṟu kāṇpāṉ aṟivu tṉkkellai\navvāṟu aruṭceyvṉ ātiarṉ tāṉum\novvāt mṉṟuḷ umaikāṇ āṭiṭum\ncevvāṉiṟ ceyy ceḻuñcuṭr māṇikkmē.",
+  "english_translation": null,
+  "content_hash": "d809139b4615fb482c906bfe5653d2cfa5a553681798fb95400c7330b3fb8b7e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shakti"
+  ]
+}

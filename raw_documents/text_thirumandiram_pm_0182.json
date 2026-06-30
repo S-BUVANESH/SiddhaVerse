@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0182",
+  "text_id": "thirumandiram_pm_0182",
+  "title": "Thirumandiram - Verse 185",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "185",
+  "tamil_text": "ஒன்றிய ஈரெண் கலையும் உடனுற\nநின்றது கண்டு நினைக்கிலர் நீசர்கள்\nகன்றிய காலன் கருக்குழி வைத்தபின்\nசென்றதில் வீழ்வர் திகைப்பொழி யாரே.",
+  "transliteration": "oṉṟiy īreṇ klaiyum uṭṉuṟ\nniṉṟtu kṇṭu niṉaikkilr nīcrkḷ\nkṉṟiy kālṉ krukkuḻi vaittpiṉ\nceṉṟtil vīḻvr tikaippoḻi yārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "48ea964c94c3fe935f763b1314e1f03a386d304386c58a833d081f7424a564be",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

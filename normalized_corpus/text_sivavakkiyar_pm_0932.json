@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0932",
+  "text_id": "sivavakkiyar_pm_0932",
+  "title": "Sivavakkiyam - Verse 323",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "323",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஐம்புலனை வென்றவர்க்கு அன்னதானம் ஈவதால்\nநன்புலன்க ளாகிநின்ற நாதருக்கது ஏறுமோ\nஐம்புலனை வென்றிடாது அவத்துமே உழன்றிடும்\nவம்பருக்கும் ஈவதும் கொடுப்பதும் அவத்தமே.",
+  "transliteration": "aimpulṉai veṉṟvrkku aṉṉtāṉm īvtāl\nnṉpulṉk ḷākiniṉṟ nātrukktu ēṟumō\naimpulṉai veṉṟiṭātu avttumē uḻṉṟiṭum\nvmprukkum īvtum koṭupptum avttmē.",
+  "english_translation": null,
+  "content_hash": "996eb15b4e9839ed6031fbd70c6c1abcab60ca55c5b432e7781eebba8000ac30",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "concept_pancha_bootham",
+    "body_sound",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

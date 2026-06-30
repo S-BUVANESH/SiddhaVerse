@@ -1,0 +1,44 @@
+{
+  "document_id": "siddhar_sattaimuni",
+  "text_id": "siddhar_sattaimuni",
+  "title": "Sattaimuni",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Sattaimuni",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "f4c4761b20177b64f30473ba3fc344de7345625b370903e5a71afafad41142f5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Sattaimuni",
+  "period": "c. 10th century CE",
+  "biography": "Wrote extensively on alchemy, rejuvenation, and pulse diagnosis in simple, direct Tamil poetry.",
+  "texts": [
+    "Sattaimuni Vatha Kaviyam",
+    "Sattaimuni Gnana Vilakkam"
+  ],
+  "search_text": "siddhar sattaimuni Sattaimuni Siddhar Biography Siddhars Sattaimuni Tamil Tamil script public_domain SiddhaVerse Corpus Sattaimuni c. 10th century CE Wrote extensively on alchemy, rejuvenation, and pulse diagnosis in simple, direct Tamil poetry. Sattaimuni Vatha Kaviyam Sattaimuni Gnana Vilakkam"
+}

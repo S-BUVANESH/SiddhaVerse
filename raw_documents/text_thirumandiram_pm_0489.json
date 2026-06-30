@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0489",
+  "text_id": "thirumandiram_pm_0489",
+  "title": "Thirumandiram - Verse 1047",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1047",
+  "tamil_text": "தானா அமைந்தஅம் முப்புரம் தன்னிடைத்\nதானான மூவுரு ஓருருத் தன்மையுள்\nதானான பொன்செம்மை வெண்ணிறத் தாள்கல்வி\nதானான போகமும் முத்தியும் நல்குமே.",
+  "transliteration": "tāṉā amaintam muppurm tṉṉiṭait\ntāṉāṉ mūvuru ōrurut tṉmaiyuḷ\ntāṉāṉ poṉcemmai veṇṇiṟt tāḷklvi\ntāṉāṉ pōkmum muttiyum nlkumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8a454db456c2cc9b5f061606663919be15b7c43db7e07f4d528e8b5bfd9b5967",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

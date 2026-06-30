@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_24511547",
+  "text_id": "pubmed_24511547",
+  "title": "Phytochemical and pharmacological properties of Gymnema sylvestre: an important medicinal plant.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Tiwari P",
+    "Mishra BN",
+    "Sangwan NS"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "54434878968486dc6018030f3ecb8ce71de41f65088e0a2dfb911022ed617ab2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "24511547",
+  "authors": [
+    "Tiwari P",
+    "Mishra BN",
+    "Sangwan NS"
+  ],
+  "journal": "BioMed research international",
+  "pubdate": "2014",
+  "doi": "10.1155/2014/830285",
+  "abstract": "Gymnema sylvestre (Asclepiadaceae), popularly known as \"gurmar\" for its distinct property as sugar destroyer, is a reputed herb in the Ayurvedic system of medicine. The phytoconstituents responsible for sweet suppression activity includes triterpene saponins known as gymnemic acids, gymnemasaponins, and a polypeptide, gurmarin. The herb exhibits a broad range of therapeutic effects as an effective natural remedy for diabetes, besides being used for arthritis, diuretic, anemia, osteoporosis, hypercholesterolemia, cardiopathy, asthma, constipation, microbial infections, indigestion, and anti-inflammatory. G. sylvestre has good prospects in the treatment of diabetes as it shows positive effects on blood sugar homeostasis, controls sugar cravings, and promotes regeneration of pancreas. The herbal extract is used in dietary supplements since it reduces body weight, blood cholesterol, and triglyceride levels and holds great prospects in dietary as well as pharmacological applications. This review explores the transition of a traditional therapeutic to a modern contemporary medication with an overview of phytochemistry and pharmacological activities of the herb and its phytoconstituents.",
+  "search_text": "pubmed 24511547 Phytochemical and pharmacological properties of Gymnema sylvestre: an important medicinal plant. PubMed Research Scientific Literature Tiwari P Mishra BN Sangwan NS Tamil Tamil script open_access PubMed Central 24511547 Tiwari P Mishra BN Sangwan NS BioMed research international 2014 10.1155/2014/830285 Gymnema sylvestre (Asclepiadaceae), popularly known as \"gurmar\" for its distinct property as sugar destroyer, is a reputed herb in the Ayurvedic system of medicine. The phytoconstituents responsible for sweet suppression activity includes triterpene saponins known as gymnemic acids, gymnemasaponins, and a polypeptide, gurmarin. The herb exhibits a broad range of therapeutic effects as an effective natural remedy for diabetes, besides being used for arthritis, diuretic, anemia, osteoporosis, hypercholesterolemia, cardiopathy, asthma, constipation, microbial infections, indigestion, and anti-inflammatory. G. sylvestre has good prospects in the treatment of diabetes as it shows positive effects on blood sugar homeostasis, controls sugar cravings, and promotes regeneration of pancreas. The herbal extract is used in dietary supplements since it reduces body weight, blood cholesterol, and triglyceride levels and holds great prospects in dietary as well as pharmacological applications. This review explores the transition of a traditional therapeutic to a modern contemporary medication with an overview of phytochemistry and pharmacological activities of the herb and its phytoconstituents."
+}

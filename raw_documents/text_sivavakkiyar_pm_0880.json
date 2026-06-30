@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0880",
+  "text_id": "sivavakkiyar_pm_0880",
+  "title": "Sivavakkiyam - Verse 271",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "271",
+  "tamil_text": "வாசியாகி நேசம்ஒன்றி வந்தெதிர்த்த தென்னுக\nநேசமாக நாளுலாவ நன்மைசேர் பாவங்களில்\nவீசிமேல் நிமிர்ந்ததோளி யில்லையாக்கி னாய்கழல்\nஆசையாய் மறக்கலாது அமரர்ஆகல் ஆகுமே.",
+  "transliteration": "vāciyāki nēcmoṉṟi vntetirtt teṉṉuk\nnēcmāk nāḷulāv nṉmaicēr pāvṅkḷil\nvīcimēl nimirnttōḷi yillaiyākki ṉāykḻl\nācaiyāy mṟkklātu amrrākl ākumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7e6292c51ff5cac659e31ab75e70768712034d3f7036bdba6a639b479cf79138",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

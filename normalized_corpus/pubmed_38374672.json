@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_38374672",
+  "text_id": "pubmed_38374672",
+  "title": "Deluded confession: Response to Kishor Patwardhan.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Karthik KP",
+    "Shajin KJ"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ddd3d9b10baaee0a9a776504ae2d7c6d98dedb425bde37676f51b49907dcce19",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "38374672",
+  "authors": [
+    "Karthik KP",
+    "Shajin KJ"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2023",
+  "doi": "10.20529/IJME.2023.057",
+  "abstract": "\"Confessions of an Ayurveda Professor\", by Kishor Patwardhan, published in IJME, has set the stage for heated discussions within and outside the medical circles. It uses primitive philosophical criteria to argue that Ayurvedic principles relating to anatomy and physiology are obsolete, and that they need to be removed from the syllabus. As Ayurveda students, we explore the counterview to this, pointing out the fallacies behind each point raised, and suggest solutions that we find suitable for effective, competency-based Ayurveda education.",
+  "search_text": "pubmed 38374672 Deluded confession: Response to Kishor Patwardhan. PubMed Research Scientific Literature Karthik KP Shajin KJ Tamil Tamil script open_access PubMed Central 38374672 Karthik KP Shajin KJ Indian journal of medical ethics 2023 10.20529/IJME.2023.057 \"Confessions of an Ayurveda Professor\", by Kishor Patwardhan, published in IJME, has set the stage for heated discussions within and outside the medical circles. It uses primitive philosophical criteria to argue that Ayurvedic principles relating to anatomy and physiology are obsolete, and that they need to be removed from the syllabus. As Ayurveda students, we explore the counterview to this, pointing out the fallacies behind each point raised, and suggest solutions that we find suitable for effective, competency-based Ayurveda education."
+}

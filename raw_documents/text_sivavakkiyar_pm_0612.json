@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0612",
+  "text_id": "sivavakkiyar_pm_0612",
+  "title": "Sivavakkiyam - Verse 3",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "3",
+  "tamil_text": "சரியை விலக்கல்\n\nஓடிஓடி ஓடிஓடி உட்கலந்த சோதியை\nநாடிநாடி நாடிநாடி நாட்களும் கழிந்துபோய்\nவாடிவாடி வாடிவாடி மாண்டுபோன மாந்தர்கள்\nகோடிகோடி கோடிகோடி எண்ணிறந்த கோடியே.",
+  "transliteration": "criyai vilkkl\n\nōṭiōṭi ōṭiōṭi uṭklnt cōtiyai\nnāṭināṭi nāṭināṭi nāṭkḷum kḻintupōy\nvāṭivāṭi vāṭivāṭi māṇṭupōṉ māntrkḷ\nkōṭikōṭi kōṭikōṭi eṇṇiṟnt kōṭiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "78976e4414ddb1a88e6960a2faf06080ef8c25ffcc13116ec05e7ebb0ee1f832",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

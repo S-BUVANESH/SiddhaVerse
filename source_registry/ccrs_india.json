@@ -1,0 +1,26 @@
+{
+  "title": "Central Council for Research in Siddha (CCRS)",
+  "url": "https://ccrs.ayush.gov.in/",
+  "organization": "Ministry of AYUSH, Government of India",
+  "source_type": "Government Publication",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "10.0/10",
+  "priority": "critical",
+  "acquisition_difficulty": 2,
+  "coverage": {
+    "siddhars": 10,
+    "plants": 20,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 10,
+    "research": 20
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Clinical Research Studies",
+    "Pharmacological Standards",
+    "Institutional Newsletters",
+    "Siddha Formulary Outlines"
+  ],
+  "notes": "Official scientific reference layer under AYUSH. Ingestion should focus on extracting official clinical definitions, safety guidelines, and research summaries."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0187",
+  "text_id": "thirumandiram_pm_0187",
+  "title": "Thirumandiram - Verse 190",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "190",
+  "tamil_text": "வேங்கட நாதனை வேதாந்தக் கூத்தனை\nவேங்கடத் துள்ளே விளையாடு நந்தியை\nவேங்கடம் என்றே விரகுஅறி யாதவர்\nதாங்கவல் லாருயிர் தாமறி யாரே.",
+  "transliteration": "vēṅkṭ nātṉai vētāntk kūttṉai\nvēṅkṭt tuḷḷē viḷaiyāṭu nntiyai\nvēṅkṭm eṉṟē virkuaṟi yātvr\ntāṅkvl lāruyir tāmṟi yārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bb91375a39937263785f1e03f7eaff7721ac775d83faa2be8939a74e1b28208f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

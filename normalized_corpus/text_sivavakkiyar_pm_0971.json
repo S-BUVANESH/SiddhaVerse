@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0971",
+  "text_id": "sivavakkiyar_pm_0971",
+  "title": "Sivavakkiyam - Verse 362",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "362",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "செச்சையென்ற மூச்சினோடு சிகாரமும் வகாரமும்\nபச்சையாகி நின்றதே பரவெளியின் பான்மையே\nஇச்சையான ஊவிலே இருந்தெழுந்த ஈயிலே\nஉச்சியான கோணத்தில் உதித்ததே சிவாயமே.",
+  "transliteration": "ceccaiyeṉṟ mūcciṉōṭu cikārmum vkārmum\npccaiyāki niṉṟtē prveḷiyiṉ pāṉmaiyē\niccaiyāṉ ūvilē irunteḻunt īyilē\nucciyāṉ kōṇttil utitttē civāymē.",
+  "english_translation": null,
+  "content_hash": "0c86e6b23f0b472111e07acdf9667a711bbbf8b10cff25b8c0dbe1dfb7f3045f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "deity_murugan",
+    "body_breath",
+    "deity_shiva"
+  ]
+}

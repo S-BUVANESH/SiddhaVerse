@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0846",
+  "text_id": "sivavakkiyar_pm_0846",
+  "title": "Sivavakkiyam - Verse 237",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "237",
+  "tamil_text": "அருவமாய் இருந்தபோது அன்னைஅங்கு அறிந்திலை\nஉருவமாய் இருந்தபோது உன்னைநான் அறிந்தனன்\nகுருவினான் தெளிந்துகொண்டு கோதிலாத ஞானமாம்\nபருவமான போதலோ பரப்பிரமம் ஆனதே.",
+  "transliteration": "aruvmāy iruntpōtu aṉṉaiaṅku aṟintilai\nuruvmāy iruntpōtu uṉṉaināṉ aṟintṉṉ\nkuruviṉāṉ teḷintukoṇṭu kōtilāt ñāṉmām\npruvmāṉ pōtlō prppirmm āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a59305d69ffa07358b6fa836a244eb6509634641fae16b7f43a799f1b74fa43a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

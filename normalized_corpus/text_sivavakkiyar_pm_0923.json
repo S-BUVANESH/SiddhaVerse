@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0923",
+  "text_id": "sivavakkiyar_pm_0923",
+  "title": "Sivavakkiyam - Verse 314",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "314",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உறக்கிலென், விழிக்கிலென், உணர்வுசென்று ஒடுங்கிலென்\nசிறந்த ஐம்புலன்களும் திசைத்திசைகள் ஒன்றிலென்?\nபுறமும்உள்ளும் எங்ஙனம் பொருந்திருந்த தேகமாய்\nநிறைந்திருந்த ஞானிகாள் நினைப்பது ஏதும் இல்லையே.",
+  "transliteration": "uṟkkileṉ, viḻikkileṉ, uṇrvuceṉṟu oṭuṅkileṉ\nciṟnt aimpulṉkḷum ticaitticaikḷ oṉṟileṉ?\npuṟmumuḷḷum eṅṅṉm poruntirunt tēkmāy\nniṟaintirunt ñāṉikāḷ niṉaipptu ētum illaiyē.",
+  "english_translation": null,
+  "content_hash": "4e4849bfd5535307f20af388adbf44a2a73b80c78bf8d78b0524f396be812a7e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "concept_jnana",
+    "deity_vishnu"
+  ]
+}

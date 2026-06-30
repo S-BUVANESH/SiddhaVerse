@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0002",
+  "text_id": "thirumandiram_pm_0002",
+  "title": "Thirumandiram - Verse 2",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "2",
+  "tamil_text": "போற்றிசைத்து இன்னுயிர் மன்னும் புனிதனை\nநாற்றிசைக் கும்நல்ல மாதுக்கும் நாதனை\nமேற்றிசைக் குள்தென் திசைக்கொரு வேந்தனாம்\nகூற்றுதைத் தானையான் கூறுகின் றேனே.",
+  "transliteration": "pōṟṟicaittu iṉṉuyir mṉṉum puṉitṉai\nnāṟṟicaik kumnll mātukkum nātṉai\nmēṟṟicaik kuḷteṉ ticaikkoru vēntṉām\nkūṟṟutait tāṉaiyāṉ kūṟukiṉ ṟēṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f41cde3bc99d45242d40b1e997ac14797c3c1ed6382b66d523bbc232485ab37e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

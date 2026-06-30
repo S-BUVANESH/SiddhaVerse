@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0745",
+  "text_id": "sivavakkiyar_pm_0745",
+  "title": "Sivavakkiyam - Verse 136",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "136",
+  "tamil_text": "ஊறிநின்ற தூமையை உறைந்துநின்ற சீவனை\nவேறுபேசி மூடரே விளைந்தவாறது ஏதடா?\nநாறுகின்ற தூமையல்லோ நற்குலங்கள் ஆவன?\nசீறுகின்ற மூடனே அத்தூமைநின்ற் கோலமே.",
+  "transliteration": "ūṟiniṉṟ tūmaiyai uṟaintuniṉṟ cīvṉai\nvēṟupēci mūṭrē viḷaintvāṟtu ētṭā?\nnāṟukiṉṟ tūmaiyllō nṟkulṅkḷ āvṉ?\ncīṟukiṉṟ mūṭṉē attūmainiṉṟ kōlmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bdca9c4f5dd19fb59cc3ce73d22f48525cd9872db53be48c034397dc81892945",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

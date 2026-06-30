@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0734",
+  "text_id": "sivavakkiyar_pm_0734",
+  "title": "Sivavakkiyam - Verse 125",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "125",
+  "tamil_text": "இருக்கலாம் இருக்கலாம் அவனியில் இருக்கலாம்,\nஅரிக்குமால் பிரமனும் அண்டம்ஏழு அகற்றலாம்.\nகருக்கொளாத குழியிலே காலிலாத தூணிலே\nநெருப்பறை திறந்தபின்பு நீயும்நானும் ஈசனே!",
+  "transliteration": "irukklām irukklām avṉiyil irukklām,\narikkumāl pirmṉum aṇṭmēḻu akṟṟlām.\nkrukkoḷāt kuḻiyilē kālilāt tūṇilē\nneruppṟai tiṟntpiṉpu nīyumnāṉum īcṉē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "194c0414bd42594ce89b344dd71c69255db1a2173396542088dff68b89ab8555",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

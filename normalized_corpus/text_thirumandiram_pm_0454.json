@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0454",
+  "text_id": "thirumandiram_pm_0454",
+  "title": "Thirumandiram - Verse 1012",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1012",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓங்காரம் உந்திக்கீழ் உற்றிடும் எந்நாளும்\nநீங்கா வகாரமும் நீள்கண்டத்து ஆயிடும்\nபாங்கார் நகாரம் பயில்நெற்றி உற்றிடும்\nவீங்காகும் விந்துவும் நாதமே லாகுமே.",
+  "transliteration": "ōṅkārm untikkīḻ uṟṟiṭum ennāḷum\nnīṅkā vkārmum nīḷkṇṭttu āyiṭum\npāṅkār nkārm pyilneṟṟi uṟṟiṭum\nvīṅkākum vintuvum nātmē lākumē.",
+  "english_translation": null,
+  "content_hash": "d2485a78955e1a0a4d9c46f8486fe1028e9f7f6c8cfa5f0b3ffe322ed63d5665",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "body_sound",
+    "body_eye",
+    "deity_murugan",
+    "body_seed",
+    "concept_pranava",
+    "practice_pranayama",
+    "deity_ganesha",
+    "practice_kumbhaka",
+    "plant_keezhanelli"
+  ]
+}

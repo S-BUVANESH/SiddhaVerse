@@ -1,0 +1,46 @@
+{
+  "document_id": "thirumandiram_pm_0576",
+  "text_id": "thirumandiram_pm_0576",
+  "title": "Thirumandiram - Verse 1135",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1135",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பாலனும் ஆகும் பராசத்தி தன்னோடு\nமேலனு காவிந்து நாதங்கள் விட்டிட\nமூலம தாமெனும் முத்திக்கு நேர்படச்\nசாலவு மாய்நின்ற தற்பரத் தானே.",
+  "transliteration": "pālṉum ākum prāctti tṉṉōṭu\nmēlṉu kāvintu nātṅkḷ viṭṭiṭ\nmūlm tāmeṉum muttikku nērpṭc\ncālvu māyniṉṟ tṟprt tāṉē.",
+  "english_translation": null,
+  "content_hash": "168886b1b9f7d361953cff1efc78287671706ec6da5783dc61489f5eac54b5d2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "body_sound",
+    "symbol_three",
+    "deity_vishnu",
+    "body_moolam",
+    "deity_murugan",
+    "body_seed",
+    "deity_shakti",
+    "plant_lotus",
+    "practice_pranayama",
+    "practice_mudra",
+    "deity_ganesha",
+    "practice_kumbhaka"
+  ]
+}

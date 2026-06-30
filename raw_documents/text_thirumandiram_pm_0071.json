@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0071",
+  "text_id": "thirumandiram_pm_0071",
+  "title": "Thirumandiram - Verse 71",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "71",
+  "tamil_text": "மொழிந்தது மூவர்க்கும் நால்வர்க்கும் ஈசன்\nஒழிந்த பெருமை இறப்பும் பிறப்பும்\nசெழுஞ்சுடர் மூன்றொளி யாகிய தேவன்\nகழிந்த பெருமையைக் காட்டகி லானே.",
+  "transliteration": "moḻinttu mūvrkkum nālvrkkum īcṉ\noḻint perumai iṟppum piṟppum\nceḻuñcuṭr mūṉṟoḷi yākiy tēvṉ\nkḻint perumaiyaik kāṭṭki lāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b759c4a1c904cbe00c9a00da9abc1afce944d7f6d61885c2b4789737f08a4332",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

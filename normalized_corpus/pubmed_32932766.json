@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_32932766",
+  "text_id": "pubmed_32932766",
+  "title": "The Microbiome in Health and Disease from the Perspective of Modern Medicine and Ayurveda.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Wallace RK"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "e27ef381fa64bc130714484b6cb3b42612949a2b0a6e893c4c108febde2be69f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "32932766",
+  "authors": [
+    "Wallace RK"
+  ],
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pubdate": "2020 Sep 11",
+  "doi": "10.3390/medicina56090462",
+  "abstract": "The role of the microbiome in health and disease helps to provide a scientific understanding of key concepts in Ayurveda. We now recognize that virtually every aspect of our physiology and health is influenced by the collection of microorganisms that live in various parts of our body, especially the gut microbiome. There are many external factors which influence the composition of the gut microbiome but one of the most important is diet and digestion. Ayurveda and other systems of traditional health have for thousands of years focused on diet and digestion. Recent research has helped us understand the connection between the microbiome and the many different prevention and therapeutic treatment approaches of Ayurveda.",
+  "search_text": "pubmed 32932766 The Microbiome in Health and Disease from the Perspective of Modern Medicine and Ayurveda. PubMed Research Scientific Literature Wallace RK Tamil Tamil script open_access PubMed Central 32932766 Wallace RK Medicina (Kaunas, Lithuania) 2020 Sep 11 10.3390/medicina56090462 The role of the microbiome in health and disease helps to provide a scientific understanding of key concepts in Ayurveda. We now recognize that virtually every aspect of our physiology and health is influenced by the collection of microorganisms that live in various parts of our body, especially the gut microbiome. There are many external factors which influence the composition of the gut microbiome but one of the most important is diet and digestion. Ayurveda and other systems of traditional health have for thousands of years focused on diet and digestion. Recent research has helped us understand the connection between the microbiome and the many different prevention and therapeutic treatment approaches of Ayurveda."
+}

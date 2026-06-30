@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0086",
+  "text_id": "thirumandiram_pm_0086",
+  "title": "Thirumandiram - Verse 88",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "88",
+  "tamil_text": "அடிமுடி காண்பார் அயன்மால் இருவர்\nபடிகண் டிலர்மீண்டும் பார்மிசைக் கூடி\nஅடிகண் டிலேன் என்று அச்சுதன் சொல்ல\nமுடிகண்டேன் என்று அயன் பொய்மொழிந் தானே.",
+  "transliteration": "aṭimuṭi kāṇpār ayṉmāl iruvr\npṭikṇ ṭilrmīṇṭum pārmicaik kūṭi\naṭikṇ ṭilēṉ eṉṟu accutṉ coll\nmuṭikṇṭēṉ eṉṟu ayṉ poymoḻin tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ef8b4c2ee3b3c42682f11db68c2de94666fe9ebf90efe39bd6c76096a079d8e7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

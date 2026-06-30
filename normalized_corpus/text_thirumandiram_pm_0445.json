@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0445",
+  "text_id": "thirumandiram_pm_0445",
+  "title": "Thirumandiram - Verse 1003",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1003",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அம்புயம் நீலம் கழுநீர் அணிநெய்தல்\nவம்பவிழ் பூகமும் மாதவி மந்தாரம்\nதும்பை வகுளம் சுரபுனனை மல்லிகை\nசெண்பகம் பாதிரி செவ்வந்தி சாத்திடே.",
+  "transliteration": "ampuym nīlm kḻunīr aṇineytl\nvmpviḻ pūkmum mātvi mntārm\ntumpai vkuḷm curpuṉṉai mllikai\nceṇpkm pātiri cevvnti cāttiṭē.",
+  "english_translation": null,
+  "content_hash": "4808bb646b3af390d70ca3507bba2484e16892eccdb7c2513e84e4c6679c389b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_mantra"
+  ]
+}

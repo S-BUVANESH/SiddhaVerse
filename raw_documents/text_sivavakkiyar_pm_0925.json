@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0925",
+  "text_id": "sivavakkiyar_pm_0925",
+  "title": "Sivavakkiyam - Verse 316",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "316",
+  "tamil_text": "பொங்கியே தரித்தஅச்சுப் புண்டரீக வெளியிலே\nதங்கியே தரித்தபோது தாதுமா துளையதாம்\nஅங்கியுள் சரித்தபோது வடிவுகள் ஒளியுமாய்க்\nகொம்புமேல் வடிவுகொண்டு குருஇருந்த கோலமே.",
+  "transliteration": "poṅkiyē trittaccup puṇṭrīk veḷiyilē\ntṅkiyē trittpōtu tātumā tuḷaiytām\naṅkiyuḷ crittpōtu vṭivukḷ oḷiyumāyk\nkompumēl vṭivukoṇṭu kuruirunt kōlmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "03ffd265981ce454d73487c4e994e14e6b08ea3b95b2bcbd566953557244dd3c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

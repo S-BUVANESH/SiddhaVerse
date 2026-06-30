@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0997",
+  "text_id": "sivavakkiyar_pm_0997",
+  "title": "Sivavakkiyam - Verse 388",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "388",
+  "tamil_text": "பன்னிரண்டு கால்நிறுத்தி பஞ்சவண்ணம் உற்றிடின்\nமன்னியே வெளிக்குள்நின்று வேறிடத்து அமர்ந்ததும்\nசென்னியாம் தலத்திலே சீவன்நின்று இயங்கிடும்\nபன்னிஉன்னி ஆய்ந்தவர் பரப்பிரம்மம் ஆனதே.",
+  "transliteration": "pṉṉirṇṭu kālniṟutti pñcvṇṇm uṟṟiṭiṉ\nmṉṉiyē veḷikkuḷniṉṟu vēṟiṭttu amrnttum\nceṉṉiyām tlttilē cīvṉniṉṟu iyṅkiṭum\npṉṉiuṉṉi āyntvr prppirmmm āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "57a6c24b6b425db2267167e39a86c89112105744d63516267e6d6acadb4f360d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

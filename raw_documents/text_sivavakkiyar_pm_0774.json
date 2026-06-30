@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0774",
+  "text_id": "sivavakkiyar_pm_0774",
+  "title": "Sivavakkiyam - Verse 165",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "165",
+  "tamil_text": "நீரைஅள்ளி நீரில்விட்டு நீர்நினைந்த காரியம்\nஆரைஉன்னி நீரெல்லாம் அவத்திலே இறைக்கிறீர்?\nவேரைஉன்னி வித்தைஉன்னி வித்திலே முளைத்தெழும்\nசீரைஉன்ன வல்லீரேல் சிவபதங்கள் சேரலாம்!",
+  "transliteration": "nīraiaḷḷi nīrilviṭṭu nīrniṉaint kāriym\nāraiuṉṉi nīrellām avttilē iṟaikkiṟīr?\nvēraiuṉṉi vittaiuṉṉi vittilē muḷaitteḻum\ncīraiuṉṉ vllīrēl civptṅkḷ cērlām!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6eee1b7127940724683572c7e3c4fa3c20f925d836a6c10d0242a07f5d28dc9c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

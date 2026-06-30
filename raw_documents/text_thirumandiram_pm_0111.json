@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0111",
+  "text_id": "thirumandiram_pm_0111",
+  "title": "Thirumandiram - Verse 113",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "113",
+  "tamil_text": "விண்ணின்று இழிந்து வினைக்கீடாய் மெய்க்கொண்டு\nதண்ணின்ற தாளைத் தலைக்காவல் முன்வைத்து\nஉண்ணின்று உருக்கியோர் ஒப்பிலா ஆனந்தக்\nகண்ணின்று காட்டிக் களிம்பறுத் தானே.",
+  "transliteration": "viṇṇiṉṟu iḻintu viṉaikkīṭāy meykkoṇṭu\ntṇṇiṉṟ tāḷait tlaikkāvl muṉvaittu\nuṇṇiṉṟu urukkiyōr oppilā āṉntk\nkṇṇiṉṟu kāṭṭik kḷimpṟut tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d10ca17ec32df256df76ca30c166422fbec96661d913d87875c85f292389be0a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

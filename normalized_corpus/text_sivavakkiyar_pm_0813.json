@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0813",
+  "text_id": "sivavakkiyar_pm_0813",
+  "title": "Sivavakkiyam - Verse 204",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "204",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அல்லிறந்து பகலிறந்து அகப்பிரமம் இறந்துபோய்\nஅண்டரண்ட மும்கடந்த அனேகனேக ரூபமாய்ச்\nசொல்லிறந்த மனமிறந்த சுகசொரூப உண்மையைச்\nசொல்லியாற என்னில்வேறு துணைவரில்லை ஆனதே.",
+  "transliteration": "alliṟntu pkliṟntu akppirmm iṟntupōy\naṇṭrṇṭ mumkṭnt aṉēkṉēk rūpmāyc\ncolliṟnt mṉmiṟnt cukcorūp uṇmaiyaic\ncolliyāṟ eṉṉilvēṟu tuṇaivrillai āṉtē.",
+  "english_translation": null,
+  "content_hash": "dd01f46864651f6766e34079d3133e8b1ce9fcfa293ae07ec9fcb49895571dae",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_maya",
+    "body_heart",
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "symbol_three",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama"
+  ]
+}

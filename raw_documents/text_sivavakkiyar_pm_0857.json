@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0857",
+  "text_id": "sivavakkiyar_pm_0857",
+  "title": "Sivavakkiyam - Verse 248",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "248",
+  "tamil_text": "சட்டையிட்டு மணிதுலங்கும் சாத்திரச் சழக்கரே\nபொத்தகத்தை மெத்தவைத்துப் போதமோதும் பொய்யரே\nநிட்டைஏது ஞானமேது? நீரிருந்த அட்சரம்\nபட்டைஏது? சொல்லீரே பாதகக் கபடரே?",
+  "transliteration": "cṭṭaiyiṭṭu mṇitulṅkum cāttirc cḻkkrē\npottkttai mettvaittup pōtmōtum poyyrē\nniṭṭaiētu ñāṉmētu? nīrirunt aṭcrm\npṭṭaiētu? collīrē pātkk kpṭrē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bd466e3662af5c85f78de2c645dac97e2bf43620f5a1ec594d20d95bf39e767c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

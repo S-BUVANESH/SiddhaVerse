@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0264",
+  "text_id": "thirumandiram_pm_0264",
+  "title": "Thirumandiram - Verse 267",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "267",
+  "tamil_text": "இன்பம் இடரென்று இரண்டுற வைத்தது\nமுன்பவர் செய்கையி னாலே முடிந்தது\nஇன்பம் அதுகண்டும் ஈகிலாப் பேதைகள்\nஅன்பிலார் சிந்தை அறமறி யாரே.",
+  "transliteration": "iṉpm iṭreṉṟu irṇṭuṟ vaitttu\nmuṉpvr ceykaiyi ṉālē muṭinttu\niṉpm atukṇṭum īkilāp pētaikḷ\naṉpilār cintai aṟmṟi yārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8bb3093e1f5491213d44bd0dee9bc321a04f737241081aa29a76dfc7cb83a4e5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

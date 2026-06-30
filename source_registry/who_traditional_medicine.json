@@ -1,0 +1,25 @@
+{
+  "title": "WHO Traditional Medicine Monographs",
+  "url": "https://www.who.int",
+  "organization": "World Health Organization",
+  "source_type": "Government Publication",
+  "license_status": "open_access",
+  "trust_score": "10.0/10",
+  "priority": "high",
+  "acquisition_difficulty": 1,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 40,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Selected Medicinal Plants Monographs",
+    "Safety Guidelines for Herbal Medicines",
+    "Global Terminology Harmonization Standards"
+  ],
+  "notes": "Global reference layer. Provides regulatory validation and safety profiles for plants."
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0730",
+  "text_id": "sivavakkiyar_pm_0730",
+  "title": "Sivavakkiyam - Verse 121",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "121",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விண்ணிலுள்ள தேவர்கள் அறியொணாத மெய்ப்பொருள்\nகண்ணிலாணி யாகவே கலந்துநின்ற தெம்பிரான்\nமண்ணிலாம் பிறப்பறுத்து மலரடிகள் வைத்தபின்\nஅண்ணலாரும் எம்முளே அமர்ந்துவாழ்வ துண்மையே.",
+  "transliteration": "viṇṇiluḷḷ tēvrkḷ aṟiyoṇāt meypporuḷ\nkṇṇilāṇi yākvē klntuniṉṟ tempirāṉ\nmṇṇilām piṟppṟuttu mlrṭikḷ vaittpiṉ\naṇṇlārum emmuḷē amrntuvāḻv tuṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "05ae91de74fa7b67f017db4c3ed446d1d6dcc9d54d4e03195b98be3e5b01fcdf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "body_eye",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama"
+  ]
+}

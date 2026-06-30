@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0906",
+  "text_id": "sivavakkiyar_pm_0906",
+  "title": "Sivavakkiyam - Verse 297",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "297",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சாண்இரு மடங்கினால் சரிந்தகொண்டை தன்னுளே\nபேணிஅப் பதிக்குளே பிறந்திறந்து உழலுவீர்,\nதோணியான ஐவரைத் துறந்தறுக்க வல்லீரேல்\nகாணிகண்டு கோடியாய்க் கலந்ததே சிவாயமே.",
+  "transliteration": "cāṇiru mṭṅkiṉāl crintkoṇṭai tṉṉuḷē\npēṇiap ptikkuḷē piṟntiṟntu uḻluvīr,\ntōṇiyāṉ aivrait tuṟntṟukk vllīrēl\nkāṇikṇṭu kōṭiyāyk klnttē civāymē.",
+  "english_translation": null,
+  "content_hash": "68b2c192117e5cff9e38fe052fe9e9d33117aa72ebebf0519945a03d8b5bc94a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "plant_vallarai",
+    "siddhar_sivavakkiyar",
+    "body_eye",
+    "symbol_eighteen",
+    "place_kashi",
+    "deity_shiva"
+  ]
+}

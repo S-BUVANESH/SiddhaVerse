@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0429",
+  "text_id": "thirumandiram_pm_0429",
+  "title": "Thirumandiram - Verse 982",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "982",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சிகார வகார யகார முடனே\nநகார மகார நடுவுற நாடி\nஓகார முடனே ஒருகால் உரைக்க\nமகார முதல்வன் மதித்துநின் றானே.",
+  "transliteration": "cikār vkār ykār muṭṉē\nnkār mkār nṭuvuṟ nāṭi\nōkār muṭṉē orukāl uraikk\nmkār mutlvṉ mtittuniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "09715f1caa10985113be1cd4f91b8e57b327af2055194db4bc226b080f7af805",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "concept_nadi",
+    "symbol_three",
+    "practice_mudra"
+  ]
+}

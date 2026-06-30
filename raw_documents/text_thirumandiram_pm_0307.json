@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0307",
+  "text_id": "thirumandiram_pm_0307",
+  "title": "Thirumandiram - Verse 311",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "311",
+  "tamil_text": "வல்லார்கள் என்றும் வழியொன்றி வாழ்கின்றார்\nஅல்லா தவர்கள் அறிவு பலஎன்பார்\nஎல்லா இடத்தும் உளன்எங்கள் தம் இறை\nகல்லா தவர்கள் கலப்பறி யாரே.",
+  "transliteration": "vllārkḷ eṉṟum vḻiyoṉṟi vāḻkiṉṟār\nallā tvrkḷ aṟivu pleṉpār\nellā iṭttum uḷṉeṅkḷ tm iṟai\nkllā tvrkḷ klppṟi yārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "141b336304610e3f5a73ceaf5a1e561f193b30259e36e028aff0427e04bef2f2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0769",
+  "text_id": "sivavakkiyar_pm_0769",
+  "title": "Sivavakkiyam - Verse 160",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "160",
+  "tamil_text": "ஐயன்வந்து மெய்யகம் புகுந்தவாறது எங்ஙனே?\nசெய்யதெங்கு இளங்குரும்பை நீர்புகுந்த வண்ணமே.\nஐயன்வந்து மெய்யகம்புகுந்து கோயில் கொண்டபின்\nவையகத்தில் மாந்தரோடு வாய்திறப்பது இல்லையே!",
+  "transliteration": "aiyṉvntu meyykm pukuntvāṟtu eṅṅṉē?\nceyyteṅku iḷṅkurumpai nīrpukunt vṇṇmē.\naiyṉvntu meyykmpukuntu kōyil koṇṭpiṉ\nvaiykttil māntrōṭu vāytiṟpptu illaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9001cb14b4be408d2cb8ae4ff90bdbe2a0a5f24a8516aecffc9873efe5b422b5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

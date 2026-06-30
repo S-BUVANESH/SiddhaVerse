@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0563",
+  "text_id": "thirumandiram_pm_0563",
+  "title": "Thirumandiram - Verse 1122",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1122",
+  "tamil_text": "ஆவின் கிழத்திநல் ஆவடு தண்துறை\nநாவின் கிழத்தி நலம்புகழ்ந்து ஏத்திடும்\nதேவின் கிழத்தி திருவாம் சிவமங்கை\nமேவும் கிழத்தி வினைகடிந் தாளே.",
+  "transliteration": "āviṉ kiḻttinl āvṭu tṇtuṟai\nnāviṉ kiḻtti nlmpukḻntu ēttiṭum\ntēviṉ kiḻtti tiruvām civmṅkai\nmēvum kiḻtti viṉaikṭin tāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a9bf4df9d94ab314ba4f7ced3dd166bd8448847375807d285b5e07e210384bfa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

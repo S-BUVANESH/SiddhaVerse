@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0405",
+  "text_id": "thirumandiram_pm_0405",
+  "title": "Thirumandiram - Verse 955",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "955",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "காலை நடுவுறக் காயத்தில் அக்கரம்\nமாலை நடுவுற ஐம்பதும் ஆவன\nமேலை நடுவுற வேதம் விளம்பிய\nமூலம் நடுவுற முத்திதந் தானே.",
+  "transliteration": "kālai nṭuvuṟk kāyttil akkrm\nmālai nṭuvuṟ aimptum āvṉ\nmēlai nṭuvuṟ vētm viḷmpiy\nmūlm nṭuvuṟ muttitn tāṉē.",
+  "english_translation": null,
+  "content_hash": "39e8ecd71499467483a60841a0629a9b44d0d0a058e148089676866ba5e31313",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_tantra",
+    "concept_pancha_bootham",
+    "symbol_three",
+    "place_chidambaram",
+    "body_moolam",
+    "practice_kayakalpa",
+    "practice_mudra",
+    "body_fire"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0396",
+  "text_id": "thirumandiram_pm_0396",
+  "title": "Thirumandiram - Verse 945",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "945",
+  "tamil_text": "ஆகின்ற சக்கரத் துள்ளே எழுத்துஐந்தும்\nபாகொன்றி நின்ற பதங்களில் வார்த்திக்கும்\nஆகின்ற ஐம்பத்து ஓரெழுத்து உள்நிற்கப்\nயாகொன்றி நிற்கும் பராபரன் தானே. 32.",
+  "transliteration": "ākiṉṟ ckkrt tuḷḷē eḻuttuaintum\npākoṉṟi niṉṟ ptṅkḷil vārttikkum\nākiṉṟ aimpttu ōreḻuttu uḷniṟkp\nyākoṉṟi niṟkum prāprṉ tāṉē. 32.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a802ac311f8c041516a5e46f67c049e5999157ff80f34a73963e2ed740fa553a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

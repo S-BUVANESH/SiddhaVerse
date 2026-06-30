@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0779",
+  "text_id": "sivavakkiyar_pm_0779",
+  "title": "Sivavakkiyam - Verse 170",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "170",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓடிஓடி பாவிழைத்து உள்ளங்கால் வெளுத்ததும்\nபாவியான பூனைவந்து பாலிலே குதித்ததும்\nபணிக்கன்வந்து பார்த்ததும் பாரம்இல்லை என்றதும்\nஇழைஅறுந்து போனதும் என்னமாயம் ஈசனே?",
+  "transliteration": "ōṭiōṭi pāviḻaittu uḷḷṅkāl veḷutttum\npāviyāṉ pūṉaivntu pālilē kutitttum\npṇikkṉvntu pārtttum pārmillai eṉṟtum\niḻaiaṟuntu pōṉtum eṉṉmāym īcṉē?",
+  "english_translation": null,
+  "content_hash": "94b75a7f175044192ba21da497ac285382dcfe9be45e22245d43017a93679b22",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "deity_vishnu",
+    "siddhar_kudambai",
+    "deity_shakti",
+    "deity_shiva"
+  ]
+}

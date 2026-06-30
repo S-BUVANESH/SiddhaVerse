@@ -1,0 +1,55 @@
+{
+  "document_id": "pubmed_34071454",
+  "text_id": "pubmed_34071454",
+  "title": "A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Gyawali D",
+    "Vohra R",
+    "Orme-Johnson D",
+    "Ramaratnam S",
+    "Schneider RH"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "2fb0fd86b64a26fc48882dc5ffb0fb7a70d2fca0a08502b8a03cde0d198b3614",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "34071454",
+  "authors": [
+    "Gyawali D",
+    "Vohra R",
+    "Orme-Johnson D",
+    "Ramaratnam S",
+    "Schneider RH"
+  ],
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pubdate": "2021 May 28",
+  "doi": "10.3390/medicina57060546",
+  "abstract": "Background and Objectives: Cardiovascular disease (CVD) is the leading cause of death globally and hypercholesterolemia is one of the major risk factors associated with CVD. Due to a growing body of research on side effects and long-term impacts of conventional CVD treatments, focus is shifting towards exploring alternative treatment approaches such as Ayurveda. However, because of a lack of strong scientific evidence, the safety and efficacy profiles of such interventions have not been well established. The current study aims to conduct a systematic review and meta-analyses to explore the strength of evidence on efficacy and safety of Ayurvedic herbs for hypercholesterolemia. Methods: Literature searches were conducted using databases including Medline, Cochrane Database, AMED, Embase, AYUSH research portal, and many others. All randomized controlled trials on individuals with hypercholesterolemia using Ayurvedic herbs (alone or in combination) with an exposure period of ≥ 3 weeks were included, with primary outcomes being total cholesterol levels, adverse events, and other cardiovascular events. The search strategy was determined with the help of the Cochrane Metabolic and Endocrine Disorders Group. Two researchers assessed the risk of each study individually and discrepancies were resolved by consensus or consultation with a third researcher. Meta-analysis was conducted using the inverse variance method and results are presented as forest plots and data summary tables using Revman v5.3. Results: A systematic review of 32 studies with 1386 participants found randomized controlled trials of three Ayurvedic herbs, Allium sativum (garlic), Commiphora mukul (guggulu), and Nigella sativa (black cumin) on hypercholesterolemia that met inclusion criteria. The average duration of intervention was 12 weeks. Meta-analysis of the trials showed that guggulu reduced total cholesterol and low-density lipoprotein levels by 16.78 mg/dL (95% C.I. 13.96 to 2.61; p-value = 0.02) and 18.78 mg/dL (95% C.I. 34.07 to 3.48; p = 0.02), respectively. Garlic reduced LDL-C by 10.37 mg/dL (95% C.I. -17.58 to -3.16; p-value = 0.005). Black cumin lowered total cholesterol by 9.28 mg/dL (95% C.I. -17.36, to -1.19, p-value = 0.02). Reported adverse side effects were minimal. Conclusion: There is moderate to high level of evidence from randomized controlled trials that the Ayurvedic herbs guggulu, garlic, and black cumin are moderately effective for reducing hypercholesterolemia. In addition, minimal evidence was found for any side effects associated with these herbs, positioning them as safe adjuvants to conventional treatments.",
+  "search_text": "pubmed 34071454 A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia. PubMed Research Scientific Literature Gyawali D Vohra R Orme-Johnson D Ramaratnam S Schneider RH Tamil Tamil script open_access PubMed Central 34071454 Gyawali D Vohra R Orme-Johnson D Ramaratnam S Schneider RH Medicina (Kaunas, Lithuania) 2021 May 28 10.3390/medicina57060546 Background and Objectives: Cardiovascular disease (CVD) is the leading cause of death globally and hypercholesterolemia is one of the major risk factors associated with CVD. Due to a growing body of research on side effects and long-term impacts of conventional CVD treatments, focus is shifting towards exploring alternative treatment approaches such as Ayurveda. However, because of a lack of strong scientific evidence, the safety and efficacy profiles of such interventions have not been well established. The current study aims to conduct a systematic review and meta-analyses to explore the strength of evidence on efficacy and safety of Ayurvedic herbs for hypercholesterolemia. Methods: Literature searches were conducted using databases including Medline, Cochrane Database, AMED, Embase, AYUSH research portal, and many others. All randomized controlled trials on individuals with hypercholesterolemia using Ayurvedic herbs (alone or in combination) with an exposure period of ≥ 3 weeks were included, with primary outcomes being total cholesterol levels, adverse events, and other cardiovascular events. The search strategy was determined with the help of the Cochrane Metabolic and Endocrine Disorders Group. Two researchers assessed the risk of each study individually and discrepancies were resolved by consensus or consultation with a third researcher. Meta-analysis was conducted using the inverse variance method and results are presented as forest plots and data summary tables using Revman v5.3. Results: A systematic review of 32 studies with 1386 participants found randomized controlled trials of three Ayurvedic herbs, Allium sativum (garlic), Commiphora mukul (guggulu), and Nigella sativa (black cumin) on hypercholesterolemia that met inclusion criteria. The average duration of intervention was 12 weeks. Meta-analysis of the trials showed that guggulu reduced total cholesterol and low-density lipoprotein levels by 16.78 mg/dL (95% C.I. 13.96 to 2.61; p-value = 0.02) and 18.78 mg/dL (95% C.I. 34.07 to 3.48; p = 0.02), respectively. Garlic reduced LDL-C by 10.37 mg/dL (95% C.I. -17.58 to -3.16; p-value = 0.005). Black cumin lowered total cholesterol by 9.28 mg/dL (95% C.I. -17.36, to -1.19, p-value = 0.02). Reported adverse side effects were minimal. Conclusion: There is moderate to high level of evidence from randomized controlled trials that the Ayurvedic herbs guggulu, garlic, and black cumin are moderately effective for reducing hypercholesterolemia. In addition, minimal evidence was found for any side effects associated with these herbs, positioning them as safe adjuvants to conventional treatments."
+}

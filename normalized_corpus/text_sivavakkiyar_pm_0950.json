@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0950",
+  "text_id": "sivavakkiyar_pm_0950",
+  "title": "Sivavakkiyam - Verse 341",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "341",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உதித்தெழுந்த வாலையும் உயங்கிநின்ற வாலையும்\nகதித்தெழுந்த வாலையும் காலையான வாலையும்\nமதித்தெழுந்த வாலையும் மறைந்துநின்ற ஞானமும்\nகொதித்தெழுந்து கும்பலாகி கூவும்கீயும் ஆனதே.",
+  "transliteration": "utitteḻunt vālaiyum uyṅkiniṉṟ vālaiyum\nktitteḻunt vālaiyum kālaiyāṉ vālaiyum\nmtitteḻunt vālaiyum mṟaintuniṉṟ ñāṉmum\nkotitteḻuntu kumplāki kūvumkīyum āṉtē.",
+  "english_translation": null,
+  "content_hash": "50bd327a6a29a1e79d32ef4881d2bbd4e97d690634a11619ac70ccdf01011a59",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "concept_jnana",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

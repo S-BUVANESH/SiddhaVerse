@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0753",
+  "text_id": "sivavakkiyar_pm_0753",
+  "title": "Sivavakkiyam - Verse 144",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "144",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அம்மைஅப்பன் உப்புநீர் அறிந்ததே அறிகிலீர்;\nஅம்மைஅப்பன் உப்புநீர் அரிஅயன் அரனுமாய்\nஅம்மைஅப்பன் உப்புநீர் ஆதியாதி ஆனபின்\nஅம்மைஅப்பன் நின்னைஅன்றி யாரும்இல்லை ஆனதே.",
+  "transliteration": "ammaiappṉ uppunīr aṟinttē aṟikilīr;\nammaiappṉ uppunīr ariayṉ arṉumāy\nammaiappṉ uppunīr ātiyāti āṉpiṉ\nammaiappṉ niṉṉaiaṉṟi yārumillai āṉtē.",
+  "english_translation": null,
+  "content_hash": "296bf885912c84ebe1d302f6905cdd8e3155c900fc15fb40e08a8274896f13ea",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shakti",
+    "deity_vishnu",
+    "concept_maya",
+    "concept_dhyana"
+  ]
+}

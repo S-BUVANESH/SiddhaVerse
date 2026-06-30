@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0414",
+  "text_id": "thirumandiram_pm_0414",
+  "title": "Thirumandiram - Verse 964",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "964",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விந்துவி லும்சுழி நாதம் எழுந்திடப்\nபந்தத் தலைவி பதினாறு கலையதாம்\nசுந்தர வாகரங் கால்உடம்பு ஆயினாள்\nஅந்தமும் இன்றியே ஐம்பத்தொன்று ஆயதே.",
+  "transliteration": "vintuvi lumcuḻi nātm eḻuntiṭp\npntt tlaivi ptiṉāṟu klaiytām\ncuntr vākrṅ kāluṭmpu āyiṉāḷ\nantmum iṉṟiyē aimpttoṉṟu āytē.",
+  "english_translation": null,
+  "content_hash": "99ca9270c18a700776b7d88ca178641a89ec5616af19a06520e8213ffd9070a8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "body_udal",
+    "body_sound",
+    "symbol_three",
+    "symbol_eighteen",
+    "body_seed",
+    "plant_lotus",
+    "practice_bandha",
+    "body_head",
+    "deity_ganesha"
+  ]
+}

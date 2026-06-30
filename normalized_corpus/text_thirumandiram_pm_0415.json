@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0415",
+  "text_id": "thirumandiram_pm_0415",
+  "title": "Thirumandiram - Verse 965",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "965",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஐம்பது எழுத்தே அனைத்தும்வே தங்களும்\nஐம்பது எழுத்தே அனைத்துஆக மங்களும்\nஐம்பது எழுத்தேயும் ஆவது அறிந்தபின்\nஐம்பது எழுத்தும்போய் அஞ்செழுத் தாமே.",
+  "transliteration": "aimptu eḻuttē aṉaittumvē tṅkḷum\naimptu eḻuttē aṉaittuāk mṅkḷum\naimptu eḻuttēyum āvtu aṟintpiṉ\naimptu eḻuttumpōy añceḻut tāmē.",
+  "english_translation": null,
+  "content_hash": "227eb08012393663cf084ce09b4d6c284985970d3b53f17fab3db733aca50a3c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "concept_pancha_bootham"
+  ]
+}

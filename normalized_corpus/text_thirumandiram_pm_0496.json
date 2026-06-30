@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0496",
+  "text_id": "thirumandiram_pm_0496",
+  "title": "Thirumandiram - Verse 1054",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1054",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அறிவார் பராசத்தி ஆனந்தம் என்பர்\nஅறிவா ரருவுரு வாம்அவள் என்பர்\nஅறிவார் கருமம் அவள்இச்சை என்பர்\nஅறிவார் பரனும் அவளிடத் தானே.",
+  "transliteration": "aṟivār prāctti āṉntm eṉpr\naṟivā rruvuru vāmavḷ eṉpr\naṟivār krumm avḷiccai eṉpr\naṟivār prṉum avḷiṭt tāṉē.",
+  "english_translation": null,
+  "content_hash": "c5c6c9a70fdbc6148268273f6d21650a8c8ca080e3db855fdc0c407bb6e45575",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shakti",
+    "place_kashi",
+    "siddhar_karuvoorar"
+  ]
+}

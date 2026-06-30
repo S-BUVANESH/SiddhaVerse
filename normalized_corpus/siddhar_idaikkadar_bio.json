@@ -1,0 +1,45 @@
+{
+  "document_id": "siddhar_idaikkadar_bio",
+  "text_id": "siddhar_idaikkadar_bio",
+  "title": "Idaikkadar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Idaikkadar",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "இடைக்காடர்",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "8e3c99a1b4ce9ea478ee34fa190b8d9ad64ad2edef3eb5e372cd26ae869d8b2f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Idaikkadar Idaikkadar இடைக்காடர் c. 10th century CE A shepherd-saint who attained liberation through simple devotion and yogic practice. Known for his accessible spiritual teachings aimed at ordinary people. His poetry challenges brahmanical ritualism. Idaikkadar Padalgal Bhakti, Shaiva iconoclasm, non-ritual spirituality siddhar_idaikkadar",
+  "translation_status": "unavailable",
+  "name": "Idaikkadar",
+  "tamil_name": "இடைக்காடர்",
+  "period": "c. 10th century CE",
+  "biography": "A shepherd-saint who attained liberation through simple devotion and yogic practice. Known for his accessible spiritual teachings aimed at ordinary people. His poetry challenges brahmanical ritualism.",
+  "texts": [
+    "Idaikkadar Padalgal"
+  ],
+  "philosophy": "Bhakti, Shaiva iconoclasm, non-ritual spirituality",
+  "verse_corpus_entity": "siddhar_idaikkadar"
+}

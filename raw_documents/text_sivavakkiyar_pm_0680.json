@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0680",
+  "text_id": "sivavakkiyar_pm_0680",
+  "title": "Sivavakkiyam - Verse 71",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "71",
+  "tamil_text": "அம்பத்தொன்று என அடங்கலோர் எழுத்துளோ?\nவிண்பரந்த மந்திரம் வேதம்நான்கும் ஒன்றலோ\nவிண்பரந்த மூலஅஞ் செழுத்துளே முளைத்ததே\nஅங்கலிங்க பீடமாய் அமர்ந்ததே சிவாயமே.",
+  "transliteration": "ampttoṉṟu eṉ aṭṅklōr eḻuttuḷō?\nviṇprnt mntirm vētmnāṉkum oṉṟlō\nviṇprnt mūlañ ceḻuttuḷē muḷaitttē\naṅkliṅk pīṭmāy amrnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "03ef42773cb584306d03766ea1b38052799236270455ed064381f34762fe05cd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0432",
+  "text_id": "thirumandiram_pm_0432",
+  "title": "Thirumandiram - Verse 985",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "985",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கூடிய எட்டும் இரண்டும் குவிந்தறி\nநாடிய நந்தியை ஞானத்துள் ளேவைத்து\nஆடிய ஐவரும் அங்குஉறவு ஆவார்கள்\nதேடி அதனைத் தெளிந்தறி யீரே.",
+  "transliteration": "kūṭiy eṭṭum irṇṭum kuvintṟi\nnāṭiy nntiyai ñāṉttuḷ ḷēvaittu\nāṭiy aivrum aṅkuuṟvu āvārkḷ\ntēṭi atṉait teḷintṟi yīrē.",
+  "english_translation": null,
+  "content_hash": "50f4570266ba3e1c3091c7a089e376d05ccefaeb2e48b6f8c2b34e9a3c1511b7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_jnana",
+    "concept_nadi",
+    "plant_tulsi",
+    "body_seed",
+    "practice_ashta_siddhi",
+    "symbol_eight",
+    "place_kashi",
+    "deity_ganesha",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

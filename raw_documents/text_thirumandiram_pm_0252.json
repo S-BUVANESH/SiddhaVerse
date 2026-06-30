@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0252",
+  "text_id": "thirumandiram_pm_0252",
+  "title": "Thirumandiram - Verse 255",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "255",
+  "tamil_text": "தன்னை அறியாது தான்நலன் என்னாதுஇங்கு\nஇன்மை அறியாது இளையர்என்று ஓராது\nவன்மையில் வந்திடும்கூற்றம் வருமுன்னம்\nதன்மையில் நல்ல தவஞ்செய்யும் நீரே.",
+  "transliteration": "tṉṉai aṟiyātu tāṉnlṉ eṉṉātuiṅku\niṉmai aṟiyātu iḷaiyreṉṟu ōrātu\nvṉmaiyil vntiṭumkūṟṟm vrumuṉṉm\ntṉmaiyil nll tvñceyyum nīrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "06feb307cb414c378af68b3b52b970c1899597cecab928af7258fb90ed18abfb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

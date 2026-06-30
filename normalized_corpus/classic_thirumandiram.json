@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_thirumandiram",
+  "text_id": "classic_thirumandiram",
+  "title": "Thirumandiram",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c0ad3648eebcf0a858d69176687fa32190525f0188d4935322cc994c8bd1a086",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "c. 5th Century CE",
+  "summary": "Foundational text linking yoga, breath control (Pranayama), spiritual cosmology, and preventative medicine. Explains the body as a temple.",
+  "verses_count": 3000,
+  "search_text": "classic thirumandiram Thirumandiram Classical Siddha Literature Classical Texts Thirumoolar Tamil Tamil script public_domain Project Madurai / Academic Sources c. 5th Century CE Foundational text linking yoga, breath control (Pranayama), spiritual cosmology, and preventative medicine. Explains the body as a temple."
+}

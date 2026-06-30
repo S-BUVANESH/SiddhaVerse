@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_23099604",
+  "text_id": "pubmed_23099604",
+  "title": "Mainstreaming AYUSH: an ethical analysis.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Gopichandran V",
+    "Satish Kumar Ch"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "cdd4a47b7b10d1108d48b292869850283b0d57e0a79bc726346bbad53ce1dea1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "23099604",
+  "authors": [
+    "Gopichandran V",
+    "Satish Kumar Ch"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2012",
+  "doi": null,
+  "abstract": "The National Rural Health Mission has stated as one of its key mandates the mainstreaming of the Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy (AYUSH) systems in order to help solve the human resource shortage in Indian healthcare. This has been planned at the primary level by providing training to AYUSH practitioners on primary care and national health programmes; at the secondary level by establishing departments of AYUSH in the district and taluka level hospitals; and at the tertiary level  by establishing AYUSH centres of excellence as referral centres, and research, development and supervision points. The practical challenges to be considered include a gross divergence in the basic philosophy of practice; disparities in approach to specific clinical conditions; differences in their normative approach in decision making; an unclear policy for cross referral and problems of cross practice that could potentially rise in this condition. Mainstreaming of AYUSH into the existing public health system can have certain ethical implications: not doing good by failing to concentrate on the community value judgments about AYUSH; doing harm by a confusing plurality in approach and unhealthy segregation of practices without healthy dialogue between practitioners of either system; not disclosing which type of practitioners (AYUSH or allopathy) the patient is seeing; lack of proper public accountability mechanisms at the primary care and grassroots levels; and, finally, lack of social justice. These ethical issues have to be considered while mainstreaming AYUSH.",
+  "search_text": "pubmed 23099604 Mainstreaming AYUSH: an ethical analysis. PubMed Research Scientific Literature Gopichandran V Satish Kumar Ch Tamil Tamil script open_access PubMed Central 23099604 Gopichandran V Satish Kumar Ch Indian journal of medical ethics 2012 The National Rural Health Mission has stated as one of its key mandates the mainstreaming of the Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy (AYUSH) systems in order to help solve the human resource shortage in Indian healthcare. This has been planned at the primary level by providing training to AYUSH practitioners on primary care and national health programmes; at the secondary level by establishing departments of AYUSH in the district and taluka level hospitals; and at the tertiary level  by establishing AYUSH centres of excellence as referral centres, and research, development and supervision points. The practical challenges to be considered include a gross divergence in the basic philosophy of practice; disparities in approach to specific clinical conditions; differences in their normative approach in decision making; an unclear policy for cross referral and problems of cross practice that could potentially rise in this condition. Mainstreaming of AYUSH into the existing public health system can have certain ethical implications: not doing good by failing to concentrate on the community value judgments about AYUSH; doing harm by a confusing plurality in approach and unhealthy segregation of practices without healthy dialogue between practitioners of either system; not disclosing which type of practitioners (AYUSH or allopathy) the patient is seeing; lack of proper public accountability mechanisms at the primary care and grassroots levels; and, finally, lack of social justice. These ethical issues have to be considered while mainstreaming AYUSH."
+}

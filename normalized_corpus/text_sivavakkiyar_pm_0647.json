@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0647",
+  "text_id": "sivavakkiyar_pm_0647",
+  "title": "Sivavakkiyam - Verse 38",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "38",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கலத்தின்வார்த்து வைத்தநீர் கடுத்ததீ முடுக்கினால்\nகலத்திலே கரந்ததோ கடுத்ததீக் குடித்ததோ\nநிலத்திலே கரந்ததோ நீள்விசும்பு கொண்டதோ\nமனத்தின்மாயை நீக்கியே மனத்துள்ளே கரந்ததோ!",
+  "transliteration": "klttiṉvārttu vaittnīr kṭutttī muṭukkiṉāl\nklttilē krnttō kṭutttīk kuṭitttō\nnilttilē krnttō nīḷvicumpu koṇṭtō\nmṉttiṉmāyai nīkkiyē mṉttuḷḷē krnttō!",
+  "english_translation": null,
+  "content_hash": "94cd409291057e76594482bb2005eeb9310b88895634ee1edf69d02fa2505af7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "place_chidambaram",
+    "plant_tulsi",
+    "deity_vishnu",
+    "siddhar_kudambai",
+    "plant_kadukkai",
+    "place_kashi",
+    "body_fire"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "formulation_agasthiyar_kuzhambu",
+  "text_id": "formulation_agasthiyar_kuzhambu",
+  "title": "Agasthiyar Kuzhambu",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "617b730e4f9d338fd7a07d023c47394df9fce864049b0a1d0ca87ed0d180149e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Agasthiyar Kuzhambu",
+  "category": "Kuzhambu (Paste)",
+  "ingredients": [
+    "Mercury (Rasam)",
+    "Sulfur (Ghandhagam)",
+    "Arsenic disulfide (Manasilai)",
+    "Croton tiglium (Nervalam)",
+    "Ginger juice"
+  ],
+  "method": "Purify minerals, grind to a smooth paste with herbal juices.",
+  "indications": "Chronic fevers, toxic bites, neurological disorders",
+  "dosage": "Mustard-seed size with honey",
+  "search_text": "formulation agasthiyar kuzhambu Agasthiyar Kuzhambu Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Agasthiyar Kuzhambu Kuzhambu (Paste) Mercury (Rasam) Sulfur (Ghandhagam) Arsenic disulfide (Manasilai) Croton tiglium (Nervalam) Ginger juice Purify minerals, grind to a smooth paste with herbal juices. Chronic fevers, toxic bites, neurological disorders Mustard-seed size with honey"
+}

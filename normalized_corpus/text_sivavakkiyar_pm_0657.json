@@ -1,0 +1,32 @@
+{
+  "document_id": "sivavakkiyar_pm_0657",
+  "text_id": "sivavakkiyar_pm_0657",
+  "title": "Sivavakkiyam - Verse 48",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "48",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அறையினில் கிடந்தபோது அன்றுதூய்மை என்றிலீர்,\nதுறைஅறிந்து நீர்குளித்த அன்றுதூமை என்றிலீர்,\nப்றையறிந்து நீர்பிறந்த அன்றுதூமை என்றிலீர்,\nபுரைஇலாத ஈசரோடு பொருந்துமாறது எங்ஙனே.",
+  "transliteration": "aṟaiyiṉil kiṭntpōtu aṉṟutūymai eṉṟilīr,\ntuṟaiaṟintu nīrkuḷitt aṉṟutūmai eṉṟilīr,\npṟaiyṟintu nīrpiṟnt aṉṟutūmai eṉṟilīr,\npuraiilāt īcrōṭu poruntumāṟtu eṅṅṉē.",
+  "english_translation": null,
+  "content_hash": "c66110e81b7ddb814e5925fa43175ed4141eba4bbfdc5e9d8ad2b632caa216ec",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": []
+}

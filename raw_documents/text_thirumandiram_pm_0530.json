@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0530",
+  "text_id": "thirumandiram_pm_0530",
+  "title": "Thirumandiram - Verse 1088",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1088",
+  "tamil_text": "காரணி மந்திரம் ஓதுங் கமலத்துப்\nபூரண கும்ப விரேசம் பொருந்திய\nநாரணி நந்தி நடுஅங்கு உரைசெய்த\nஆரண வேதநூல் அந்தமும் ஆமே.",
+  "transliteration": "kārṇi mntirm ōtuṅ kmlttup\npūrṇ kump virēcm poruntiy\nnārṇi nnti nṭuaṅku uraiceyt\nārṇ vētnūl antmum āmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "aaae8dc89332bd5a5257afe295b9c3962b885870511f69c97f9439ec9c9f0230",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

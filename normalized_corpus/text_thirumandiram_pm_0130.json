@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0130",
+  "text_id": "thirumandiram_pm_0130",
+  "title": "Thirumandiram - Verse 132",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "132",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பெற்றார் உலகிற் பிரியாப் பெருநெறி\nபெற்றார் உலகிற் பிறவாப் பெரும்பயன்\nபெற்றார் அம்மன்றில் பிரியாப் பெரும்பேறு\nபெற்றார் உலகுடன் பேசாப் பெருமையே.",
+  "transliteration": "peṟṟār ulkiṟ piriyāp peruneṟi\npeṟṟār ulkiṟ piṟvāp perumpyṉ\npeṟṟār ammṉṟil piriyāp perumpēṟu\npeṟṟār ulkuṭṉ pēcāp perumaiyē.",
+  "english_translation": null,
+  "content_hash": "57f2b96221ac2bf22efb15453ccb3db446e1716e78ba29812368d5b2914f05c7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "deity_shakti"
+  ]
+}

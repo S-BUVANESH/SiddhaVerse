@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_33265906",
+  "text_id": "pubmed_33265906",
+  "title": "Ayurgenomics and Modern Medicine.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Wallace RK"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "9174f1b0dba3217f442451d1ed676d2be0319b384cc9f2d8c8634925999a3ff8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "33265906",
+  "authors": [
+    "Wallace RK"
+  ],
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pubdate": "2020 Nov 30",
+  "doi": "10.3390/medicina56120661",
+  "abstract": "Within the disciplines of modern medicine, P4 medicine is emerging as a new field which focuses on the whole patient. The development of Ayurgenomics could greatly enrich P4 medicine by providing a clear theoretical understanding of the whole patient and a practical application of ancient and modern preventative and therapeutic practices to improve mental and physical health. One of the most difficult challenges today is understanding the ancient concepts of Ayurveda in terms of modern science. To date, a number of researchers have attempted this task, of which one of the most successful outcomes is the creation of the new field of Ayurgenomics. Ayurgenomics integrates concepts in Ayurveda, such as Prakriti, with modern genetics research. It correlates the combination of three doshas, Vata, Pitta and Kapha, with the expression of specific genes and physiological characteristics. It also helps to interpret Ayurveda as an ancient science of epigenetics which assesses the current state of the doshas, and uses specific personalized diet and lifestyle recommendations to improve a patient's health. This review provides a current update of this emerging field.",
+  "search_text": "pubmed 33265906 Ayurgenomics and Modern Medicine. PubMed Research Scientific Literature Wallace RK Tamil Tamil script open_access PubMed Central 33265906 Wallace RK Medicina (Kaunas, Lithuania) 2020 Nov 30 10.3390/medicina56120661 Within the disciplines of modern medicine, P4 medicine is emerging as a new field which focuses on the whole patient. The development of Ayurgenomics could greatly enrich P4 medicine by providing a clear theoretical understanding of the whole patient and a practical application of ancient and modern preventative and therapeutic practices to improve mental and physical health. One of the most difficult challenges today is understanding the ancient concepts of Ayurveda in terms of modern science. To date, a number of researchers have attempted this task, of which one of the most successful outcomes is the creation of the new field of Ayurgenomics. Ayurgenomics integrates concepts in Ayurveda, such as Prakriti, with modern genetics research. It correlates the combination of three doshas, Vata, Pitta and Kapha, with the expression of specific genes and physiological characteristics. It also helps to interpret Ayurveda as an ancient science of epigenetics which assesses the current state of the doshas, and uses specific personalized diet and lifestyle recommendations to improve a patient's health. This review provides a current update of this emerging field."
+}

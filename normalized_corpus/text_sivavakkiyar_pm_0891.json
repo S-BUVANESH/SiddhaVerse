@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0891",
+  "text_id": "sivavakkiyar_pm_0891",
+  "title": "Sivavakkiyam - Verse 282",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "282",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கயத்துநீர் இறைக்குறீர் கைகள்சோர்ந்து நிற்பதேன்?\nமனத்துள்ஈரம் ஒன்றிலாத மதிஇலாத மாந்தர்காள்;\nமனத்துள்ஈரம் கொண்டுநீர் அழுக்கறுக்க வல்லீரேல்\nநினைத்திருந்த சோதியும் நீயும்நானும் ஒன்றலோ?",
+  "transliteration": "kyttunīr iṟaikkuṟīr kaikḷcōrntu niṟptēṉ?\nmṉttuḷīrm oṉṟilāt mtiilāt māntrkāḷ;\nmṉttuḷīrm koṇṭunīr aḻukkṟukk vllīrēl\nniṉaittirunt cōtiyum nīyumnāṉum oṉṟlō?",
+  "english_translation": null,
+  "content_hash": "c6f8f57796712a37c014427d09472fb01edc53f29aaf66318a423ae6fd1a1529",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "plant_tulsi",
+    "deity_vishnu",
+    "deity_brahma",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

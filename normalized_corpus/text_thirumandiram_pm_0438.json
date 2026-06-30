@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0438",
+  "text_id": "thirumandiram_pm_0438",
+  "title": "Thirumandiram - Verse 991",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "991",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வித்தாம் செகமய மாக வரைகீறி\nநத்தார் கலைகள் பதினாறு நாட்டிப்பின்\nஉத்தாரம் பன்னிரண்டு ஆதி கலைதொரும்\nபத்தாம் பிரம சடங்குபார்த்து ஓதிடே.",
+  "transliteration": "vittām cekmy māk vraikīṟi\nnttār klaikḷ ptiṉāṟu nāṭṭippiṉ\nuttārm pṉṉirṇṭu āti klaitorum\npttām pirm cṭṅkupārttu ōtiṭē.",
+  "english_translation": null,
+  "content_hash": "0be138231dfd6d5b3bece8372e527dcb58ae30b81aa38b44fed6d704082822d8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_nadi",
+    "deity_brahma",
+    "symbol_eighteen",
+    "concept_pranava",
+    "plant_lotus",
+    "deity_shakti",
+    "practice_pranayama"
+  ]
+}

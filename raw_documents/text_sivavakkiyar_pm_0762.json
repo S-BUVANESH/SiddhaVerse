@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0762",
+  "text_id": "sivavakkiyar_pm_0762",
+  "title": "Sivavakkiyam - Verse 153",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "153",
+  "tamil_text": "மூலமாம் குளத்திலே முளைத்தெழுந்த கோரையை\nகாலமே எழுந்திருந்து நாலுகட்டு அறுப்பீரேல்\nபாலனாகி வாழலாம் பரப்பிரமம் ஆகலாம்;\nஆலம்உண்ட கண்டர்பாதம் அம்மைபாதம் உண்மையே!",
+  "transliteration": "mūlmām kuḷttilē muḷaitteḻunt kōraiyai\nkālmē eḻuntiruntu nālukṭṭu aṟuppīrēl\npālṉāki vāḻlām prppirmm āklām;\nālmuṇṭ kṇṭrpātm ammaipātm uṇmaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a65d618a7eb2252b2583c7cbfcb48b46bd70d78676e8e9cb7a6fc8dcb04092b9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

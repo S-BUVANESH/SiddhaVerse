@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0122",
+  "text_id": "thirumandiram_pm_0122",
+  "title": "Thirumandiram - Verse 124",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "124",
+  "tamil_text": "வெளியில் வெளிபோய் விரவிய வாறும்\nஅளியில் அளிபோய் அடங்கிய வாறும்\nஒளியில் ஒளிபோய் ஒடுங்கிய வாறும்\nதெளியும் அவரே சிவ சித்தர் தாமே.",
+  "transliteration": "veḷiyil veḷipōy virviy vāṟum\naḷiyil aḷipōy aṭṅkiy vāṟum\noḷiyil oḷipōy oṭuṅkiy vāṟum\nteḷiyum avrē civ cittr tāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "06d6487317746473e7109b7b9dad94fc545520a2dea6161d6a7660b82145d848",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

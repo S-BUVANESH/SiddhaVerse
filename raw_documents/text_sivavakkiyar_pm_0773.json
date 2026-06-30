@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0773",
+  "text_id": "sivavakkiyar_pm_0773",
+  "title": "Sivavakkiyam - Verse 164",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "164",
+  "tamil_text": "நெற்றிபற்றி உழலுகின்ற நீலமா விளக்கினைப்\nபத்திஒத்தி நின்றுநின்று பற்றறுத்தது என்பலன்\nஉற்றிருநது பாரடா, உள்ஒளிக்கு மேல்ஒளி\nஅத்தனார் அமர்ந்திடம் அரிந்தவன் அனாதியே.",
+  "transliteration": "neṟṟipṟṟi uḻlukiṉṟ nīlmā viḷkkiṉaip\npttiotti niṉṟuniṉṟu pṟṟṟutttu eṉplṉ\nuṟṟiruntu pārṭā, uḷoḷikku mēloḷi\nattṉār amrntiṭm arintvṉ aṉātiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9b1289c3f04f0eddf9a96a447a5ee1cb0321b30377eabbfb5227b3ee6a57d266",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

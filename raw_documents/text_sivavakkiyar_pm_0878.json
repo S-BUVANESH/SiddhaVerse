@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0878",
+  "text_id": "sivavakkiyar_pm_0878",
+  "title": "Sivavakkiyam - Verse 269",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "269",
+  "tamil_text": "எட்டும்எட்டும் எட்டுமாய் ஓர்ஏழும் ஏழுமாய்\nஎட்டும் ஒன்றும் மூன்றுமாகி நின்றஆதி தேவனே\nஎட்டுமாய பாதமோடு இறைஞ்சி நின்றவண்ணமே\nஎட்டெழுத்தும் ஓதுவார்கள் அல்லல்நீங்கி நிற்பரே.",
+  "transliteration": "eṭṭumeṭṭum eṭṭumāy ōrēḻum ēḻumāy\neṭṭum oṉṟum mūṉṟumāki niṉṟāti tēvṉē\neṭṭumāy pātmōṭu iṟaiñci niṉṟvṇṇmē\neṭṭeḻuttum ōtuvārkḷ alllnīṅki niṟprē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ea58d75e9ffffc7227efce5cc75723b043b1bbdcb75933d21239f02613bbbdad",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

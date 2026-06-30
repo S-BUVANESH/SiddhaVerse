@@ -1,0 +1,59 @@
+{
+  "document_id": "pubmed_39175204",
+  "text_id": "pubmed_39175204",
+  "title": "Can Ayurveda medicine supplement modern medical treatments in chronic disease management?",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Ravindran V",
+    "Kumar K",
+    "Bhandari S",
+    "Chattopadhyay K",
+    "Payyappallimana U",
+    "Morandi A",
+    "Gupta R"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "265e89122d456289cfa32641fda29fb063a2a7db2c6212e37aa8aacffd7f0b13",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "39175204",
+  "authors": [
+    "Ravindran V",
+    "Kumar K",
+    "Bhandari S",
+    "Chattopadhyay K",
+    "Payyappallimana U",
+    "Morandi A",
+    "Gupta R"
+  ],
+  "journal": "The journal of the Royal College of Physicians of Edinburgh",
+  "pubdate": "2024 Sep",
+  "doi": "10.1177/14782715241273738",
+  "abstract": "The editorial highlights the fact that there is limited communication between healthcare providers and patients about complementary and integrative medicine (TCI) like Ayurveda. To address this, healthcare professionals need better education on Ayurveda. Additionally, international collaborations can enhance research and credible information, ensuring safe and effective patient care.",
+  "search_text": "pubmed 39175204 Can Ayurveda medicine supplement modern medical treatments in chronic disease management? PubMed Research Scientific Literature Ravindran V Kumar K Bhandari S Chattopadhyay K Payyappallimana U Morandi A Gupta R Tamil Tamil script open_access PubMed Central 39175204 Ravindran V Kumar K Bhandari S Chattopadhyay K Payyappallimana U Morandi A Gupta R The journal of the Royal College of Physicians of Edinburgh 2024 Sep 10.1177/14782715241273738 The editorial highlights the fact that there is limited communication between healthcare providers and patients about complementary and integrative medicine (TCI) like Ayurveda. To address this, healthcare professionals need better education on Ayurveda. Additionally, international collaborations can enhance research and credible information, ensuring safe and effective patient care."
+}

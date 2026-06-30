@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0703",
+  "text_id": "sivavakkiyar_pm_0703",
+  "title": "Sivavakkiyam - Verse 94",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "94",
+  "tamil_text": "ஆலவித்தில் ஆல்ஒடுங்கி ஆலமான வாறுபோல்\nவேறுவித்தும் இன்றியே விளைந்துபோகம் எய்திடீர்!\nஆறுவித்தை ஓர்கிலீர் அறிவிலாத மாந்தரே!\nபாரும்இத்தை உம்முளே பரப்பிரமம் ஆனதே!",
+  "transliteration": "ālvittil āloṭuṅki ālmāṉ vāṟupōl\nvēṟuvittum iṉṟiyē viḷaintupōkm eytiṭīr!\nāṟuvittai ōrkilīr aṟivilāt māntrē!\npārumittai ummuḷē prppirmm āṉtē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "268dc50565f3fdef7c99c84ee33d9d09099f89dd225153f86e11caede214b575",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

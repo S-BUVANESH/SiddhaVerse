@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0881",
+  "text_id": "sivavakkiyar_pm_0881",
+  "title": "Sivavakkiyam - Verse 272",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "272",
+  "tamil_text": "எளியதாக காயமீதில் எம்பிரான் இருப்பிடம்\nஅளிவுறாது நின்றதே அகாரமும் உகாரமும்\nகொளுகையான சோதியும் குலாவிநின்றது அவ்விடம்\nவெளியதாகும் ஒன்றிலே விளைந்ததே சிவாயமே.",
+  "transliteration": "eḷiytāk kāymītil empirāṉ iruppiṭm\naḷivuṟātu niṉṟtē akārmum ukārmum\nkoḷukaiyāṉ cōtiyum kulāviniṉṟtu avviṭm\nveḷiytākum oṉṟilē viḷainttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2c219013cb6504c8cde73efc5ba7801eb3b4ebc77f60f62eff9df991a309aa19",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

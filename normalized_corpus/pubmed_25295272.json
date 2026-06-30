@@ -1,0 +1,53 @@
+{
+  "document_id": "pubmed_25295272",
+  "text_id": "pubmed_25295272",
+  "title": "Curcumin: a potential candidate in prevention of cancer via modulation of molecular pathways.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Rahmani AH",
+    "Al Zohairy MA",
+    "Aly SM",
+    "Khan MA"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "7421b07ef92295f167ea2da81b820f61e1d47e7fbe50f8e08c33b414aa0cebb4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "25295272",
+  "authors": [
+    "Rahmani AH",
+    "Al Zohairy MA",
+    "Aly SM",
+    "Khan MA"
+  ],
+  "journal": "BioMed research international",
+  "pubdate": "2014",
+  "doi": "10.1155/2014/761608",
+  "abstract": "Cancer is the most dreadful disease worldwide in terms of morbidity and mortality. The exact cause of cancer development and progression is not fully known. But it is thought that cancer occurs due to the structural and functional changes in the genes. The current approach to cancer treatment based on allopathic is expensive, exhibits side effects; and may also alter the normal functioning of genes. Thus, a safe and effective mode of treatment is needed to control the cancer development and progression. Some medicinal plants provide a safe, effective and affordable remedy to control the progression of malignant cells. The importance of medicinal plants and their constituents has been documented in Ayurveda, Unani medicine, and various religious books. Curcumin, a vital constituent of the spice turmeric, is an alternative approach in the prevention of cancer. Earlier studies have shown the effect of curcumin as an antioxidant, antibacterial, antitumor and it also has a noteworthy role in the control of different diseases. In this review, we summarize the understanding of chemopreventive effects of curcumin in the prevention of cancer via the regulation of various cell signaling and genetic pathways.",
+  "search_text": "pubmed 25295272 Curcumin: a potential candidate in prevention of cancer via modulation of molecular pathways. PubMed Research Scientific Literature Rahmani AH Al Zohairy MA Aly SM Khan MA Tamil Tamil script open_access PubMed Central 25295272 Rahmani AH Al Zohairy MA Aly SM Khan MA BioMed research international 2014 10.1155/2014/761608 Cancer is the most dreadful disease worldwide in terms of morbidity and mortality. The exact cause of cancer development and progression is not fully known. But it is thought that cancer occurs due to the structural and functional changes in the genes. The current approach to cancer treatment based on allopathic is expensive, exhibits side effects; and may also alter the normal functioning of genes. Thus, a safe and effective mode of treatment is needed to control the cancer development and progression. Some medicinal plants provide a safe, effective and affordable remedy to control the progression of malignant cells. The importance of medicinal plants and their constituents has been documented in Ayurveda, Unani medicine, and various religious books. Curcumin, a vital constituent of the spice turmeric, is an alternative approach in the prevention of cancer. Earlier studies have shown the effect of curcumin as an antioxidant, antibacterial, antitumor and it also has a noteworthy role in the control of different diseases. In this review, we summarize the understanding of chemopreventive effects of curcumin in the prevention of cancer via the regulation of various cell signaling and genetic pathways."
+}

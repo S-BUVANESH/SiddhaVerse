@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0765",
+  "text_id": "sivavakkiyar_pm_0765",
+  "title": "Sivavakkiyam - Verse 156",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "156",
+  "tamil_text": "பிணங்குகின்றது ஏதடா? பிரக்ஞைகெட்ட மூடரே?\nபிணங்கிலாத பேரொளி பிராணனை அறிகிலீர்.\nபிணங்கும்ஓர் இருவினைப் பிணக்கறுக்க வல்லீரேல்!\nபிணங்கிலாத பெரியஇன்பம் பெற்றிருக்க லாகுமே!",
+  "transliteration": "piṇṅkukiṉṟtu ētṭā? pirkñaikeṭṭ mūṭrē?\npiṇṅkilāt pēroḷi pirāṇṉai aṟikilīr.\npiṇṅkumōr iruviṉaip piṇkkṟukk vllīrēl!\npiṇṅkilāt periyiṉpm peṟṟirukk lākumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b7e78cd43742f8949c4a39454952fff152ab2fcd778e9f1ea877afb1dfeb8a29",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0444",
+  "text_id": "thirumandiram_pm_0444",
+  "title": "Thirumandiram - Verse 1001",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1001",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஏய்ந்த அரிதாரம் ஏட்டின்மே லேபூசி\nஏய்ந்த அகாரம் உகாரம் எழுத்திட்டு\nவாய்ந்ததோர் வில்லம் பலகை வசியத்துக்கு\nஏய்ந்தவைத்து எண்பதி னாயிரம் வேண்டிலே.",
+  "transliteration": "ēynt aritārm ēṭṭiṉmē lēpūci\nēynt akārm ukārm eḻuttiṭṭu\nvāynttōr villm plkai vciyttukku\nēyntvaittu eṇpti ṉāyirm vēṇṭilē.",
+  "english_translation": null,
+  "content_hash": "8e6866e9a8b5cef7aeee5a4a568f509e824ff10405dd2645034a8b9624f6615d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "concept_prana",
+    "symbol_eighteen"
+  ]
+}

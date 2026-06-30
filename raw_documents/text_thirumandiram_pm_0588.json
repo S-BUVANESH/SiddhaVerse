@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0588",
+  "text_id": "thirumandiram_pm_0588",
+  "title": "Thirumandiram - Verse 1147",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1147",
+  "tamil_text": "அம்பன்ன கண்ணி அரிவை மனோன்மணி\nகொம்பன்ன நுண்ணிடை கோதை குலாவிய\nசெம்பொன்செய் யாக்கை செறிகமழ் நாடொறும்\nநம்பனை நோக்கி நவிலுகின் றா\\ளே.",
+  "transliteration": "ampṉṉ kṇṇi arivai mṉōṉmṇi\nkompṉṉ nuṇṇiṭai kōtai kulāviy\ncempoṉcey yākkai ceṟikmḻ nāṭoṟum\nnmpṉai nōkki nvilukiṉ ṟā\\ḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "639a6a208b53752a0e39ad8809cc272f30fc5029662b2f92652ee0e6182a37c4",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

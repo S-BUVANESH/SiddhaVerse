@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0015",
+  "text_id": "thirumandiram_pm_0015",
+  "title": "Thirumandiram - Verse 15",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "15",
+  "tamil_text": "ஆதியு மாய்அர னாய்உட லுள்நின்ற\nவேதியு மாய்விரிந்துஆர்ந்துஇருந் தான்அருள்\nசோதியு மாய்ச்சுருங் காததோர் தன்மையுள்\nநீதியு மாய்நித்த மாகிநின் றானே.",
+  "transliteration": "ātiyu māyar ṉāyuṭ luḷniṉṟ\nvētiyu māyvirintuārntuirun tāṉaruḷ\ncōtiyu māyccuruṅ kāttōr tṉmaiyuḷ\nnītiyu māynitt mākiniṉ ṟāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "85c133cc9d9dc6203ba2ed9b4a99733464511cbf2c641ec5ea989730d8a3f2ce",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0359",
+  "text_id": "thirumandiram_pm_0359",
+  "title": "Thirumandiram - Verse 907",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "907",
+  "tamil_text": "பொற்பாதம் காணலாம் புத்திரர் உண்டாகும்\nபொற்பாதத்து ஆணையே செம்புபொன் ஆயிடும்\nபொற்பாதம் காணத் திருமேனி ஆயிடும்\nபொற்பாத நன்னடம் சிந்தனை சொல்லுமே.",
+  "transliteration": "poṟpātm kāṇlām puttirr uṇṭākum\npoṟpātttu āṇaiyē cempupoṉ āyiṭum\npoṟpātm kāṇt tirumēṉi āyiṭum\npoṟpāt nṉṉṭm cintṉai collumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4514ca970e1054ff54afb261b062bc40fa9b461d6d1f22c99fb390fb372a3079",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

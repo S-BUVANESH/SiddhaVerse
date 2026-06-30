@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0479",
+  "text_id": "thirumandiram_pm_0479",
+  "title": "Thirumandiram - Verse 1037",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1037",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மெய்கண்ட மாம்விரி நீருல கேழையும்\nஉய்கண்டம் செய்த ஒருவனைச் சேருமின்\nசெய்கண்ட ஞானம் திருந்திய தேவர்கள்\nபொய்கண்டம் இல்லாப் பொருள்கலந் தாரே.",
+  "transliteration": "meykṇṭ māmviri nīrul kēḻaiyum\nuykṇṭm ceyt oruvṉaic cērumiṉ\nceykṇṭ ñāṉm tiruntiy tēvrkḷ\npoykṇṭm illāp poruḷkln tārē.",
+  "english_translation": null,
+  "content_hash": "2bc2cc9275d4c444a948c928afd55b84773780484f0ceaec99fc1f9cfdd85d50",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "formulation_brahma_rasayanam",
+  "text_id": "formulation_brahma_rasayanam",
+  "title": "Brahma Rasayanam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Brahma Rasayanam",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "bad054149b8184107cc5b62f2b3f9baa628146214f391a662c95b9f567247a03",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Brahma Rasayanam Brahma Rasayanam Rasayanam (Jam) Ashwagandha Amalaki Bala Shatavari Sesame Ghee Honey Prepare jam with sesame and ghee base; add herbal powders and honey. Rasayana (rejuvenation), cognitive function, longevity 10-15g daily Classical Siddha Rasayana tradition",
+  "translation_status": "unavailable",
+  "name": "Brahma Rasayanam",
+  "category": "Rasayanam (Jam)",
+  "ingredients": [
+    "Ashwagandha",
+    "Amalaki",
+    "Bala",
+    "Shatavari",
+    "Sesame",
+    "Ghee",
+    "Honey"
+  ],
+  "method": "Prepare jam with sesame and ghee base; add herbal powders and honey.",
+  "indications": "Rasayana (rejuvenation), cognitive function, longevity",
+  "dosage": "10-15g daily",
+  "source": "Classical Siddha Rasayana tradition"
+}

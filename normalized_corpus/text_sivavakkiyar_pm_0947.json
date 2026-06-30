@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0947",
+  "text_id": "sivavakkiyar_pm_0947",
+  "title": "Sivavakkiyam - Verse 338",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "338",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சூட்சமான கொம்பிலே சுழிமுனைச் சுடரிலே\nவீச்சமான வீயிலே விபுலைதங்கும் வாயிலே\nகூச்சமான கொம்பிலே குடிஇருந்த கோவிலே\nதீட்சையான தீவிலே சிறந்ததே சிவாயமே.",
+  "transliteration": "cūṭcmāṉ kompilē cuḻimuṉaic cuṭrilē\nvīccmāṉ vīyilē vipulaitṅkum vāyilē\nkūccmāṉ kompilē kuṭiirunt kōvilē\ntīṭcaiyāṉ tīvilē ciṟnttē civāymē.",
+  "english_translation": null,
+  "content_hash": "46e5c0a5ac7f79428b735275cd1600df02278d2970b6066ef47a57beef3042e4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "concept_samadhi",
+    "deity_shiva",
+    "practice_deekshai",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

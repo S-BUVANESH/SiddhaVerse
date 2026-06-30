@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0800",
+  "text_id": "sivavakkiyar_pm_0800",
+  "title": "Sivavakkiyam - Verse 191",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "191",
+  "tamil_text": "ஓதொணாமல் நின்றநீர் உறக்கம்ஊணும் அற்றநீர்\nசாதிபேதம் அற்றநீர் சங்கையின்றி நின்ற நீர்\nகோதிலாத அறிவிலே குறிப்புணர்ந்து நின்றநீர்\nஏதும்இன்றி நின்றநீர் இயங்குமாறு எங்ஙனே?",
+  "transliteration": "ōtoṇāml niṉṟnīr uṟkkmūṇum aṟṟnīr\ncātipētm aṟṟnīr cṅkaiyiṉṟi niṉṟ nīr\nkōtilāt aṟivilē kuṟippuṇrntu niṉṟnīr\nētumiṉṟi niṉṟnīr iyṅkumāṟu eṅṅṉē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "511e86d4f21ca1aaeed5238c3a55706747e8af3e79177c7c0e65bedcd71f35d8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

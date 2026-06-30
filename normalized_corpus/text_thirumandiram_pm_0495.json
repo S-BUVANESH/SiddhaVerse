@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0495",
+  "text_id": "thirumandiram_pm_0495",
+  "title": "Thirumandiram - Verse 1053",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1053",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அவளை அறியா அமரரும் இல்லை\nஅவளன்றிச் செய்யும் அருந்தவம் இல்லை\nஅவளன்றி ஐவரால் ஆவதொன்று இல்லை\nஅவளன்றி ஊர்புகும் ஆறறி யேனே.",
+  "transliteration": "avḷai aṟiyā amrrum illai\navḷṉṟic ceyyum aruntvm illai\navḷṉṟi aivrāl āvtoṉṟu illai\navḷṉṟi ūrpukum āṟṟi yēṉē.",
+  "english_translation": null,
+  "content_hash": "484731761fdf32fac52ec2f53ec5b6c122332b4df45fac3871c43b700f689c49",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_tapas",
+    "practice_kumbhaka"
+  ]
+}

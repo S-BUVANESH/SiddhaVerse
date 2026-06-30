@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0970",
+  "text_id": "sivavakkiyar_pm_0970",
+  "title": "Sivavakkiyam - Verse 361",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "361",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உந்தியில் சுழிவழியில் உச்சியுற்ற மத்தயில்\nசந்திரன் ஒளிகரணம் தாண்டிநின்ற செஞ்சுடர்\nபந்தமாக வில்வளைவில் பஞ்சபூத விஞ்சையாம்\nகிந்துபோல கீயில்நின்று கீச்சுமூச்சு என்றதே.",
+  "transliteration": "untiyil cuḻivḻiyil ucciyuṟṟ mttyil\ncntirṉ oḷikrṇm tāṇṭiniṉṟ ceñcuṭr\npntmāk vilvḷaivil pñcpūt viñcaiyām\nkintupōl kīyilniṉṟu kīccumūccu eṉṟtē.",
+  "english_translation": null,
+  "content_hash": "84ed82308bcf284760c55c8911909f00b2d537650bea4f8a3399555e0e8c61a0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "symbol_five",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "practice_moolamantra",
+    "practice_bandha",
+    "body_breath",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0731",
+  "text_id": "sivavakkiyar_pm_0731",
+  "title": "Sivavakkiyam - Verse 122",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "122",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விண்கடந்து நின்றசோதி மேலைவாச லைத்திறந்து\nகண்களிக்க உள்ளுளே கலந்துபுக் கிருந்தபின்\nமண்பிறந்த மாயமும் மயக்கமும் மறந்துபோய்\nஎண்கலந்த ஈசனோடு இசைந்திருப்பது உண்மையே.",
+  "transliteration": "viṇkṭntu niṉṟcōti mēlaivāc laittiṟntu\nkṇkḷikk uḷḷuḷē klntupuk kiruntpiṉ\nmṇpiṟnt māymum mykkmum mṟntupōy\neṇklnt īcṉōṭu icaintirupptu uṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "ef57b5756ebfd0e96a891c488e1f34ddbf7696cd71da881d27f9d22a3fbe7e19",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_shiva",
+    "body_light"
+  ]
+}

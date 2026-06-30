@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0145",
+  "text_id": "thirumandiram_pm_0145",
+  "title": "Thirumandiram - Verse 147",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "147",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சீக்கை விளைந்தது செய்வினை மூட்டிற்ற\nஆக்கை பிரிந்தது அலகு பழுத்தது\nமூக்கினிற் கைவைத்து மூடிட்டுக் கொண்டுபோய்க்\nகாக்கைக் குப்பலி காட்டிய வாறே.",
+  "transliteration": "cīkkai viḷainttu ceyviṉai mūṭṭiṟṟ\nākkai pirinttu alku pḻutttu\nmūkkiṉiṟ kaivaittu mūṭiṭṭuk koṇṭupōyk\nkākkaik kuppli kāṭṭiy vāṟē.",
+  "english_translation": null,
+  "content_hash": "dab98d4cab804abf2f659df01a18db793081f9a5955ae57fcf13ded4950e4df0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_karma",
+    "concept_mukti"
+  ]
+}

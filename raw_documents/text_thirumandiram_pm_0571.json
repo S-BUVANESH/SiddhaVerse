@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0571",
+  "text_id": "thirumandiram_pm_0571",
+  "title": "Thirumandiram - Verse 1130",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1130",
+  "tamil_text": "தார்மேல் உறைகின்ற தண்மலர் நான்முகன்\nபார்மேல் இருப்பதொரு நூறு தானுள\nபூமேல் உறைகின்ற போதகம் வந்தனள்\nநாமேல் உறைகின்ற நாயகி ஆணையே.",
+  "transliteration": "tārmēl uṟaikiṉṟ tṇmlr nāṉmukṉ\npārmēl irupptoru nūṟu tāṉuḷ\npūmēl uṟaikiṉṟ pōtkm vntṉḷ\nnāmēl uṟaikiṉṟ nāyki āṇaiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9ef1838196e50b4a5cb7187702b3ee8a28a3470a9a7b71c43f90294f5d927da9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

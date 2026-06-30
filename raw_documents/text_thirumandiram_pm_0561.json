@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0561",
+  "text_id": "thirumandiram_pm_0561",
+  "title": "Thirumandiram - Verse 1120",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1120",
+  "tamil_text": "ஆதி அனாதியும் ஆய பராசக்தி\nபாதிபராபரை மேலுறை பைந்தொடி\nமாது சமாதி மனோன்மணி மங்கலி\nஓதும்என் உள்ளத்து உடன்முகிழ்த் தாளே. 46.",
+  "transliteration": "āti aṉātiyum āy prāckti\npātiprāprai mēluṟai paintoṭi\nmātu cmāti mṉōṉmṇi mṅkli\nōtumeṉ uḷḷttu uṭṉmukiḻt tāḷē. 46.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "52dcf7c34295868b58428a1f2b749afde9ebe8b79f75e2e982c042a959998e0f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

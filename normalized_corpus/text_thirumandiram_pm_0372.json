@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0372",
+  "text_id": "thirumandiram_pm_0372",
+  "title": "Thirumandiram - Verse 921",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "921",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மகார நடுவே வளைத்திடும் சத்தியை\nஓகாரம் வளைத்திட்டு உம்பிளந்து ஏற்றி\nஅகாரம் தலையாய் இருகண் சிகாரமாய்\nநகார வகாரநற் காலது நாடுமே.",
+  "transliteration": "mkār nṭuvē vḷaittiṭum cttiyai\nōkārm vḷaittiṭṭu umpiḷntu ēṟṟi\nakārm tlaiyāy irukṇ cikārmāy\nnkār vkārnṟ kāltu nāṭumē.",
+  "english_translation": null,
+  "content_hash": "2fd2ad6daf1222b741ec4dd7d1ea8bf4ca586eb3ecf4920e609a6537ec58c02f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "concept_nadi",
+    "deity_vishnu",
+    "body_eye",
+    "deity_murugan",
+    "body_head",
+    "deity_ganesha",
+    "concept_dhyana"
+  ]
+}

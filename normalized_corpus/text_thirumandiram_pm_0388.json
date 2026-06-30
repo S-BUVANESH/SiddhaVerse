@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0388",
+  "text_id": "thirumandiram_pm_0388",
+  "title": "Thirumandiram - Verse 937",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "937",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானே அளித்திடும் தையலை நோக்கினால்\nதானே அளித்திட்டு மேலுற வைத்திடும்\nதானே அளித்த மகாரத்தை ஓதிடத்\nதானே அளித்ததோர் கல்லொளி யாகுமே.",
+  "transliteration": "tāṉē aḷittiṭum taiylai nōkkiṉāl\ntāṉē aḷittiṭṭu mēluṟ vaittiṭum\ntāṉē aḷitt mkārttai ōtiṭt\ntāṉē aḷitttōr klloḷi yākumē.",
+  "english_translation": null,
+  "content_hash": "0af0ce443509c5c1eae51ae0ef629c74df693cc22a1a900f99be88ba67f63b6a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

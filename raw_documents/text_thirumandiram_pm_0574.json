@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0574",
+  "text_id": "thirumandiram_pm_0574",
+  "title": "Thirumandiram - Verse 1133",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1133",
+  "tamil_text": "அறிவான மாயையும் ஐம்புலக் கூட்டத்து\nஅறிவான மங்கை அருளது சேரில்\nபிரியா அறிவறி வார்உளம் பேணும்\nநெறியாய சித்த நிறைந்திருந் தாளே.",
+  "transliteration": "aṟivāṉ māyaiyum aimpulk kūṭṭttu\naṟivāṉ mṅkai aruḷtu cēril\npiriyā aṟivṟi vāruḷm pēṇum\nneṟiyāy citt niṟaintirun tāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3c84b17e7e1a5c56985f3098202d550fad3e8c60f0c37c9029141910abc941e1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

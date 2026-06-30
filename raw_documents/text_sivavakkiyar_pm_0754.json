@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0754",
+  "text_id": "sivavakkiyar_pm_0754",
+  "title": "Sivavakkiyam - Verse 145",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "145",
+  "tamil_text": "உருத்தரிப்ப தற்குமுன் உடல்கலந்தது எங்ஙனே?\nகருத்தரிப்ப தற்குமுன் காரணங்கள் எங்ஙனே?\nபொருத்திவைத்த போதமும் பொருந்துமாறது எங்ஙனே?\nகுருத்திருத்தி வைத்தசொல் குறித்துணர்ந்து கொள்ளுமே!",
+  "transliteration": "uruttripp tṟkumuṉ uṭlklnttu eṅṅṉē?\nkruttripp tṟkumuṉ kārṇṅkḷ eṅṅṉē?\nporuttivaitt pōtmum poruntumāṟtu eṅṅṉē?\nkuruttirutti vaittcol kuṟittuṇrntu koḷḷumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a80843c351c80b4ed0f9ed6c2f6f7c8ebceba506a7d78ca101d438526a41fe5b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

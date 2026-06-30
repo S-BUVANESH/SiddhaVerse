@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0469",
+  "text_id": "thirumandiram_pm_0469",
+  "title": "Thirumandiram - Verse 1027",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1027",
+  "tamil_text": "மாட்டிய குண்டத்தின் உள்ளெழு வேதத்துள்\nஆட்டிய காலொன்றும் இரண்டும் அலர்ந்திடும்\nவாட்டிய கையிரண்டு ஒன்று பதைத்தெழு\nநாட்டும் சுரரிவர் நல்லொளி தானே.",
+  "transliteration": "māṭṭiy kuṇṭttiṉ uḷḷeḻu vētttuḷ\nāṭṭiy kāloṉṟum irṇṭum alrntiṭum\nvāṭṭiy kaiyirṇṭu oṉṟu ptaitteḻu\nnāṭṭum currivr nlloḷi tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "93061d6815983bfc7e4618a594383f518bb8132fba97d3089063362843336a04",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

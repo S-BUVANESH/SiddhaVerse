@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_theriyar_sekarappa",
+  "text_id": "classic_theriyar_sekarappa",
+  "title": "Theriyar Sekarappa",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Theriyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "95f88d7b7c0caf5f069ef6a08bd53072d9e6bf3ad2cc74489ebe973ca4374151",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "Classical Era",
+  "summary": "Explains the preparation of various Siddha formulations including Kudineer, Vadagam, and Ney.",
+  "verses_count": 600,
+  "search_text": "classic theriyar sekarappa Theriyar Sekarappa Classical Siddha Literature Classical Texts Theriyar Tamil Tamil script public_domain Project Madurai / Academic Sources Classical Era Explains the preparation of various Siddha formulations including Kudineer, Vadagam, and Ney."
+}

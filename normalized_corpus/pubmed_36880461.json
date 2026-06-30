@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_36880461",
+  "text_id": "pubmed_36880461",
+  "title": "\"Confessions of an Ayurveda professor\" - A wake up call.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Lakhotia SC"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "5ce5bc51d48a2889f7c9f1d26fdf055ba0b96f7e36354077c94f8ac0ed1b7b3a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "36880461",
+  "authors": [
+    "Lakhotia SC"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2023",
+  "doi": "10.20529/IJME.2023.008",
+  "abstract": "Kishor Patwardhan's 'confession' in this journal [1] has initiated the expected debate, which I hope leads to some good developments for the teaching and practice of Ayurveda. Before, commenting on this issue, I should myself confess that I am neither formally trained in Ayurveda nor practising it. A basic research interest in Ayurvedic biology [2] led me to learn about the \"fundamental principles\" of Ayurveda and to experimentally examine effects of some Ayurvedic formulations using animal models like Drosophila and mouse at organismic, cellular, and molecular levels. During the past 16 to 17 years of my active engagement with Ayurvedic Biology, I had multiple opportunities to discuss the principles and philosophies of Ayurveda with formally trained Ayurvedacharyas and others who have an interest in this classical healthcare system. These experiences enhanced my appreciation of the wisdom of ancient scholars that led them to methodically compile the elaborate details of treatment for various health conditions in the classical Samhitas and, as noted earlier [3], gave me a \"ring-side\" view of Ayurveda. Despite the above limitations, an advantage of the \"ring-side\" view is the possibility of comprehending the philosophies and practices prevalent in Ayurveda in an unbiased manner and weighing them against contemporary practices in other disciplines.",
+  "search_text": "pubmed 36880461 \"Confessions of an Ayurveda professor\" - A wake up call. PubMed Research Scientific Literature Lakhotia SC Tamil Tamil script open_access PubMed Central 36880461 Lakhotia SC Indian journal of medical ethics 2023 10.20529/IJME.2023.008 Kishor Patwardhan's 'confession' in this journal [1] has initiated the expected debate, which I hope leads to some good developments for the teaching and practice of Ayurveda. Before, commenting on this issue, I should myself confess that I am neither formally trained in Ayurveda nor practising it. A basic research interest in Ayurvedic biology [2] led me to learn about the \"fundamental principles\" of Ayurveda and to experimentally examine effects of some Ayurvedic formulations using animal models like Drosophila and mouse at organismic, cellular, and molecular levels. During the past 16 to 17 years of my active engagement with Ayurvedic Biology, I had multiple opportunities to discuss the principles and philosophies of Ayurveda with formally trained Ayurvedacharyas and others who have an interest in this classical healthcare system. These experiences enhanced my appreciation of the wisdom of ancient scholars that led them to methodically compile the elaborate details of treatment for various health conditions in the classical Samhitas and, as noted earlier [3], gave me a \"ring-side\" view of Ayurveda. Despite the above limitations, an advantage of the \"ring-side\" view is the possibility of comprehending the philosophies and practices prevalent in Ayurveda in an unbiased manner and weighing them against contemporary practices in other disciplines."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0877",
+  "text_id": "sivavakkiyar_pm_0877",
+  "title": "Sivavakkiyam - Verse 268",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "268",
+  "tamil_text": "ஆறும்ஆறும் ஆறுமாய் ஓர்ஐந்தும்ஐந்தும் ஐந்துமாய்\nஏறுசீர் இரண்டுமூன்றும் ஏழும்ஆறும் எட்டுமாய்\nவேறுவேறு ஞானமாகி மெய்யினோடு பொய்யுமாய்\nஊறும்ஓசை யாய்அமர்ந்த மாயமாம் மாயனே.",
+  "transliteration": "āṟumāṟum āṟumāy ōraintumaintum aintumāy\nēṟucīr irṇṭumūṉṟum ēḻumāṟum eṭṭumāy\nvēṟuvēṟu ñāṉmāki meyyiṉōṭu poyyumāy\nūṟumōcai yāyamrnt māymām māyṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9473cfa50d2913d83fe5ea0e7d1c314559dcef79c1572b544bef0391f8ef2ad3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

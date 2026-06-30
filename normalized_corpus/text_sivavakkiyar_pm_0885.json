@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0885",
+  "text_id": "sivavakkiyar_pm_0885",
+  "title": "Sivavakkiyam - Verse 276",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "276",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மன்று - கடை\n\nமச்சகத் துளேஇவர்ந்து மாயைபேசும் வாயூவை\nஅச்சகத்துளே இருந்து அறிவுணர்த்திக் கொள்விரேல்\nஇச்சைஅற்ற எம்பிரான் எங்கும்ஆகி நிற்பனே\nஅச்சகத் துளேயிருந்து அறுவுணர்த்திக் கொண்டபின்.",
+  "transliteration": "mṉṟu - kṭai\n\nmcckt tuḷēivrntu māyaipēcum vāyūvai\nacckttuḷē iruntu aṟivuṇrttik koḷvirēl\niccaiaṟṟ empirāṉ eṅkumāki niṟpṉē\nacckt tuḷēyiruntu aṟuvuṇrttik koṇṭpiṉ.",
+  "english_translation": null,
+  "content_hash": "1426fb21864f73d55ecf9bb5691fd2a79ca631e82402c5138859de2f91c09983",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "concept_maya",
+    "plant_tulsi",
+    "siddhar_machamuni",
+    "deity_brahma",
+    "deity_vishnu",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

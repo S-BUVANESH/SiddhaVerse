@@ -1,0 +1,47 @@
+{
+  "document_id": "plant_vilvam",
+  "text_id": "plant_vilvam",
+  "title": "Bael Tree",
+  "source_work": "Siddha Materia Medica",
+  "collection": "Medicinal Plants",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "வில்வம்",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "5f938e569503eb0a274e5afd9953c49ee3e67d42ad3064b536f58f226c6637d9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [
+    "plant_vilvam"
+  ],
+  "search_text": "Bael Tree வில்வம் Bael Tree Aegle marmelos Rutaceae Leaves, fruits, bark Marmelosin, Luvangetin Digestive disorders, dysentery, Shiva worship Bael fruit decoction, leaf juice plant_vilvam",
+  "translation_status": "unavailable",
+  "tamil": "வில்வம்",
+  "english": "Bael Tree",
+  "scientific": "Aegle marmelos",
+  "family": "Rutaceae",
+  "part": "Leaves, fruits, bark",
+  "phytochem": "Marmelosin, Luvangetin",
+  "uses": "Digestive disorders, dysentery, Shiva worship",
+  "prep": "Bael fruit decoction, leaf juice",
+  "verse_entity": "plant_vilvam"
+}

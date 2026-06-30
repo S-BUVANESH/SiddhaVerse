@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0068",
+  "text_id": "thirumandiram_pm_0068",
+  "title": "Thirumandiram - Verse 68",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "68",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நந்தி அருளாலே நாதனாம் பேர்பெற்றோம்\nநந்தி அருளாலே மூலனை நாடினோம்\nநந்தி அருளாவ தென்செயும் நாட்டினில்\nநந்தி வழிகாட்ட நானிருந் தேனே.",
+  "transliteration": "nnti aruḷālē nātṉām pērpeṟṟōm\nnnti aruḷālē mūlṉai nāṭiṉōm\nnnti aruḷāv teṉceyum nāṭṭiṉil\nnnti vḻikāṭṭ nāṉirun tēṉē.",
+  "english_translation": null,
+  "content_hash": "3ba9fe8b4bec7a81971519ab94fdd72a4b035ebcb12be22c13161c2aaee193c1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "concept_nadi",
+    "deity_brahma",
+    "body_moolam",
+    "siddhar_nandidevar"
+  ]
+}

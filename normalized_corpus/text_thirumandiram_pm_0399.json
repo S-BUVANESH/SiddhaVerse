@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0399",
+  "text_id": "thirumandiram_pm_0399",
+  "title": "Thirumandiram - Verse 948",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "948",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நின்றது சக்கரம் நீளும் புவியெல்லாம்\nமன்றது வாய்நின்ற மாயநன் னாடனைக்\nகன்றது வாகக் கறந்தனன் நந்தியும்\nகுன்றிடை நின்றிடும் கொள்கையன் ஆமே.",
+  "transliteration": "niṉṟtu ckkrm nīḷum puviyellām\nmṉṟtu vāyniṉṟ māynṉ ṉāṭṉaik\nkṉṟtu vākk kṟntṉṉ nntiyum\nkuṉṟiṭai niṉṟiṭum koḷkaiyṉ āmē.",
+  "english_translation": null,
+  "content_hash": "c2d86ad1acd63ab23959fcb5df36bf4476efedc58fdd5b8d075498347c477562",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_maya",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_chakra",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

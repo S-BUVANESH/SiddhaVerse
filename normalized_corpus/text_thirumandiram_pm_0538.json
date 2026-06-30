@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0538",
+  "text_id": "thirumandiram_pm_0538",
+  "title": "Thirumandiram - Verse 1096",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1096",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கூவிய சீவன் பிராணன் முதலாகப்\nபாவிய சவ்வுடன் பண்ணும் யகாரத்தை\nமேவிய மாயை விரிசங்கு முத்திரை\nதேவி நடுவுள் திகழ்ந்துநின் றாளே.",
+  "transliteration": "kūviy cīvṉ pirāṇṉ mutlākp\npāviy cvvuṭṉ pṇṇum ykārttai\nmēviy māyai viricṅku muttirai\ntēvi nṭuvuḷ tikḻntuniṉ ṟāḷē.",
+  "english_translation": null,
+  "content_hash": "2262c0b1980db5296d83927f066c013f6a9e64376ee41a5827b6b25254685d9c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_mudra"
+  ]
+}

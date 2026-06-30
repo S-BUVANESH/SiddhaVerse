@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0956",
+  "text_id": "sivavakkiyar_pm_0956",
+  "title": "Sivavakkiyam - Verse 347",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "347",
+  "tamil_text": "மாலையோடு காலையும் வடிந்துபொங்கும் மோனமே\nமாலையோடு காலையான வாறறிந்த மாந்தரே\nமூலையான கோணமின் முளைத்தெழுந்த செஞ்சுடர்\nதாலையோடு பானகன்று தங்கி நின்ற மோனமே.",
+  "transliteration": "mālaiyōṭu kālaiyum vṭintupoṅkum mōṉmē\nmālaiyōṭu kālaiyāṉ vāṟṟint māntrē\nmūlaiyāṉ kōṇmiṉ muḷaitteḻunt ceñcuṭr\ntālaiyōṭu pāṉkṉṟu tṅki niṉṟ mōṉmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fee0d3e6ebb368c6ac67c279f3c4885d20d67a32c5a2eddffd10bac045f20b17",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

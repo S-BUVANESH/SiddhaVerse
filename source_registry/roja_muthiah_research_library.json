@@ -1,0 +1,25 @@
+{
+  "title": "Roja Muthiah Research Library (RMRL)",
+  "url": "http://www.rmrl.in",
+  "organization": "Roja Muthiah Research Library Trust, Chennai",
+  "source_type": "Book",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 7,
+  "coverage": {
+    "siddhars": 20,
+    "plants": 10,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 20,
+    "research": 10
+  },
+  "access_type": "restricted",
+  "contains": [
+    "Rare Tamil Books Catalogue",
+    "Early Printed Medical Leaflets",
+    "Historical Periodicals"
+  ],
+  "notes": "Exceptional archive of early printed materials. Access is largely restricted; use for cataloging metadata and tracking historical printing of texts."
+}

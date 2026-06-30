@@ -1,0 +1,45 @@
+{
+  "document_id": "formulation_seenthil_chooranam",
+  "text_id": "formulation_seenthil_chooranam",
+  "title": "Seenthil Chooranam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3d1a8af42255a274725dbecf316fd483e674f9f87288710497c4c32883c4676b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Seenthil Chooranam",
+  "category": "Choornam (Powder)",
+  "ingredients": [
+    "Tinospora cordifolia (Seenthil) starch"
+  ],
+  "method": "Extract starch from fresh stems of Seenthil, dry and powder.",
+  "indications": "Chronic diabetes, burning micturition, immunity building",
+  "dosage": "1-2 grams",
+  "search_text": "formulation seenthil chooranam Seenthil Chooranam Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Seenthil Chooranam Choornam (Powder) Tinospora cordifolia (Seenthil) starch Extract starch from fresh stems of Seenthil, dry and powder. Chronic diabetes, burning micturition, immunity building 1-2 grams"
+}

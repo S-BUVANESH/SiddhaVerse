@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0889",
+  "text_id": "sivavakkiyar_pm_0889",
+  "title": "Sivavakkiyam - Verse 280",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "280",
+  "tamil_text": "ஆவதும் பரத்துளே அழிவதும் பரத்துளே\nபோவதும் பரத்துளே புகுவதும் பரத்துளே\nதேவரும் பரத்துளே திசைகளும் பரத்துளே\nயாவரும் பரத்துளே யானும் அப்பரத்துளே.",
+  "transliteration": "āvtum prttuḷē aḻivtum prttuḷē\npōvtum prttuḷē pukuvtum prttuḷē\ntēvrum prttuḷē ticaikḷum prttuḷē\nyāvrum prttuḷē yāṉum apprttuḷē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "0f364854c4bb4fc193060f26fca53b6d593ed5d45ec15d3952c513eb140be70a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

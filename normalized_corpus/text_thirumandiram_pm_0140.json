@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0140",
+  "text_id": "thirumandiram_pm_0140",
+  "title": "Thirumandiram - Verse 142",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "142",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "போதந் தரும்எங்கள் புண்ணிய நந்தியைப்\nபோதந் தனில்வைத்துப் புண்ணியர் ஆயினார்\nநாதன் நடத்தால் நயனங் களிகூர\nவேதந் துதித்திடப் போயடைந்தார் விண்ணே.",
+  "transliteration": "pōtn trumeṅkḷ puṇṇiy nntiyaip\npōtn tṉilvaittup puṇṇiyr āyiṉār\nnātṉ nṭttāl nyṉṅ kḷikūr\nvētn tutittiṭp pōyṭaintār viṇṇē.",
+  "english_translation": null,
+  "content_hash": "422d10ef3da4e7f215451f69e0db88f51c84ca066cf1d1505988e4cb1f084957",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_tantra",
+    "siddhar_nandidevar",
+    "body_sound",
+    "concept_dhyana"
+  ]
+}

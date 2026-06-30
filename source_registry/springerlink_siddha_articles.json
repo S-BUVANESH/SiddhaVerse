@@ -1,0 +1,25 @@
+{
+  "title": "SpringerLink Siddha Pharmacology Literature",
+  "url": "https://link.springer.com",
+  "organization": "Springer Nature Switzerland AG",
+  "source_type": "Research Paper",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "10.0/10",
+  "priority": "medium",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 30,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 30
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Traditional Medicine and Phytopharmacology Papers",
+    "Bioprospecting Studies",
+    "Ethnobotanical Surveys"
+  ],
+  "notes": "Highly vetted scientific papers. Extract metadata and abstract text only."
+}

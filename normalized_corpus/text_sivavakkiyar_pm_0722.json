@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0722",
+  "text_id": "sivavakkiyar_pm_0722",
+  "title": "Sivavakkiyam - Verse 113",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "113",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பாரடங்க உள்ளதும் பரந்தவானம் உள்ளதும்\nஓரிடமும் இன்றியே ஒன்றிநின்ற ஒண்சுடர்\nஆரிடமும் இன்றியே அகத்துளும் புறத்துளும்\nசீரிடங்கள் கண்டவன் சிவன்தெரிந்து ஞானியே!",
+  "transliteration": "pārṭṅk uḷḷtum prntvāṉm uḷḷtum\nōriṭmum iṉṟiyē oṉṟiniṉṟ oṇcuṭr\nāriṭmum iṉṟiyē akttuḷum puṟttuḷum\ncīriṭṅkḷ kṇṭvṉ civṉterintu ñāṉiyē!",
+  "english_translation": null,
+  "content_hash": "5876a8f3b9b124d19dbc27a48ff8ac14ba05e3ab60d48648d2b39c1e9ad95d08",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "plant_tulsi",
+    "body_eye",
+    "deity_shakti",
+    "deity_shiva",
+    "siddhar_agasthiyar"
+  ]
+}

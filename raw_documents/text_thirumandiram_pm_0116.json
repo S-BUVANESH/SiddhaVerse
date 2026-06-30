@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0116",
+  "text_id": "thirumandiram_pm_0116",
+  "title": "Thirumandiram - Verse 118",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "118",
+  "tamil_text": "மலங்கள்ஐந் தாமென மாற்றி அருளித்\nதலங்கள்ஐந் தானற் சதாசிவ மான\nபுலங்களைந் தான்அப் பொதுவினுள் நந்தி\nநலங்களைந் தான்உள் நயந்தான் அறிந்தே.",
+  "transliteration": "mlṅkḷain tāmeṉ māṟṟi aruḷit\ntlṅkḷain tāṉṟ ctāciv māṉ\npulṅkḷain tāṉap potuviṉuḷ nnti\nnlṅkḷain tāṉuḷ nyntāṉ aṟintē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f1d897fb7f2661cfb0aa17cafdbd9fd6e3fd06d72b034f961bcae2961e773e09",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

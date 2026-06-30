@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0955",
+  "text_id": "sivavakkiyar_pm_0955",
+  "title": "Sivavakkiyam - Verse 346",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "346",
+  "tamil_text": "வித்திலே முளைத்தசோதி வில்வளையின் மத்தியில்\nமுத்திலே ஒளிவதாகி மோனமான தீபமே\nநத்திலே திரட்சிபோன்ற நாதனை அறிந்திடார்\nவத்திலே கிடந்துழன்ற வாலையான சூட்சமே.",
+  "transliteration": "vittilē muḷaittcōti vilvḷaiyiṉ mttiyil\nmuttilē oḷivtāki mōṉmāṉ tīpmē\nnttilē tirṭcipōṉṟ nātṉai aṟintiṭār\nvttilē kiṭntuḻṉṟ vālaiyāṉ cūṭcmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "395e5576c301e2891266b188d338f7d96e50abe5a251acd29d154eec11748606",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

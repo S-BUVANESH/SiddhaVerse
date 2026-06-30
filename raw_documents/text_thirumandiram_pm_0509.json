@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0509",
+  "text_id": "thirumandiram_pm_0509",
+  "title": "Thirumandiram - Verse 1067",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1067",
+  "tamil_text": "ஏடங்கை நங்கை இறைஎங்கள் முக்கண்ணி\nவேடம் படிகம் விரும்பும்வெண் தாமரை\nபாடும் திருமுறை பார்ப்பதி பாதங்கள்\nசூடுமின் சென்னிவாய்த் தோத்திரம் சொல்லுமே.",
+  "transliteration": "ēṭṅkai nṅkai iṟaieṅkḷ mukkṇṇi\nvēṭm pṭikm virumpumveṇ tāmrai\npāṭum tirumuṟai pārppti pātṅkḷ\ncūṭumiṉ ceṉṉivāyt tōttirm collumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fc0fe2e442e2355ab164f4d881ef1af63c81ca4507323ea8d58a63035572e3cd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

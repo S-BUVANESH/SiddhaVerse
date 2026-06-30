@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0323",
+  "text_id": "thirumandiram_pm_0323",
+  "title": "Thirumandiram - Verse 327",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "327",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாமத்தோர் தாமும் மதுவுண்டு மாள்பவர்\nகாமத்தோர் காமக்கள் ளுண்டே கலங்குவர்\nஓமத்தோர் உள்ளொளிக் குள்ளே உணர்வர்கள்\nநாமத்தோர் அன்றே நணுகுவர் தாமே.",
+  "transliteration": "vāmttōr tāmum mtuvuṇṭu māḷpvr\nkāmttōr kāmkkḷ ḷuṇṭē klṅkuvr\nōmttōr uḷḷoḷik kuḷḷē uṇrvrkḷ\nnāmttōr aṉṟē nṇukuvr tāmē.",
+  "english_translation": null,
+  "content_hash": "b383afd211da9ebbec7b957869d417b136295bdc8504a3103652dd2c57dec83f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_madurai",
+    "plant_lotus",
+    "practice_varma",
+    "symbol_three"
+  ]
+}

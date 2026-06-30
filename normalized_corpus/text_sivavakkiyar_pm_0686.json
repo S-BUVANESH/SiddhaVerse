@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0686",
+  "text_id": "sivavakkiyar_pm_0686",
+  "title": "Sivavakkiyam - Verse 77",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "77",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கருக்குழியில் ஆசையாய்க் காதலுற்று நிற்கிறீர்\nகுருக்கிடுக்கும் ஏழைகாள் குலாவுகின்ற பாவிகாள்\nதிருத்திருத்தி மெய்யினால் சிவந்தஅஞ் செழுத்தையும்\nஉருக்கழிக்கும் உம்மையும் உணர்ந்துணர்ந்து கொள்ளுமே.",
+  "transliteration": "krukkuḻiyil ācaiyāyk kātluṟṟu niṟkiṟīr\nkurukkiṭukkum ēḻaikāḷ kulāvukiṉṟ pāvikāḷ\ntiruttirutti meyyiṉāl civntañ ceḻuttaiyum\nurukkḻikkum ummaiyum uṇrntuṇrntu koḷḷumē.",
+  "english_translation": null,
+  "content_hash": "2603414b8dd89a83a93771bc3a875772a83a3ac39d949287da64b1fe2c29dd78",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "concept_jnana",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "concept_guru",
+    "siddhar_karuvoorar"
+  ]
+}

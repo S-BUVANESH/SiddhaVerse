@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0156",
+  "text_id": "thirumandiram_pm_0156",
+  "title": "Thirumandiram - Verse 159",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "159",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஐந்து தலைப்பறி ஆறு சடையுள\nசந்தவை முப்பது சார்வு பதினெட்டுப்\nபந்தலும் ஒன்பது பந்தி பதினைந்து\nவெந்து கிடந்தது மேலறி யோமே.",
+  "transliteration": "aintu tlaippṟi āṟu cṭaiyuḷ\ncntvai mupptu cārvu ptiṉeṭṭup\npntlum oṉptu pnti ptiṉaintu\nventu kiṭnttu mēlṟi yōmē.",
+  "english_translation": null,
+  "content_hash": "9ee840366f6557e6311cb610cd4aca4c5c7912249bd1a79d356bda24ee4f203b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_five",
+    "symbol_eighteen",
+    "practice_bandha",
+    "body_head"
+  ]
+}

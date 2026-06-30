@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0659",
+  "text_id": "sivavakkiyar_pm_0659",
+  "title": "Sivavakkiyam - Verse 50",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "50",
+  "tamil_text": "சொற்குருக்கள் ஆனதும் சோதிமேனி ஆனதும்\nமெய்க்குருக்கள் ஆனதும் வேணபூசை செய்வதும்\nசற்குருக்கள் ஆனதும் சாத்திரங்கள் சொல்வதும்\nசெய்க்குருக்கள் ஆனதும் திரண்டுருண்ட தூமையே.",
+  "transliteration": "coṟkurukkḷ āṉtum cōtimēṉi āṉtum\nmeykkurukkḷ āṉtum vēṇpūcai ceyvtum\ncṟkurukkḷ āṉtum cāttirṅkḷ colvtum\nceykkurukkḷ āṉtum tirṇṭuruṇṭ tūmaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c1ffdcc5453d6a0114ed2ea5897676f7afec081b50e371bfa04a2f93333ef316",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

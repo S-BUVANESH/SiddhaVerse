@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0507",
+  "text_id": "thirumandiram_pm_0507",
+  "title": "Thirumandiram - Verse 1065",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1065",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உண்டில்லை என்றது உருச்செய்து நின்றது\nவண்தில்லை மன்றினுள் மன்னி நிறைந்தது\nகண்டிலர் காரண காரணி தம்மொடு\nமண்டல முன்றுற மன்னிநின் றாளே.",
+  "transliteration": "uṇṭillai eṉṟtu urucceytu niṉṟtu\nvṇtillai mṉṟiṉuḷ mṉṉi niṟainttu\nkṇṭilr kārṇ kārṇi tmmoṭu\nmṇṭl muṉṟuṟ mṉṉiniṉ ṟāḷē.",
+  "english_translation": null,
+  "content_hash": "468ebc06443c6f7aa24fa419caaca91ca9b3d201f3e5adc9df8a2557dae7a73c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "place_chidambaram",
+    "body_eye"
+  ]
+}

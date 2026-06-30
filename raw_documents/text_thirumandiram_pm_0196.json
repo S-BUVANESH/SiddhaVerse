@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0196",
+  "text_id": "thirumandiram_pm_0196",
+  "title": "Thirumandiram - Verse 199",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "199",
+  "tamil_text": "பொல்லாப் புலாலை நுகரும் புலையரை\nஎல்லாரும் காண இயமன்றன் தூதுவர்\nசெல்லாகப் பற்றித் தீவாய் நரகத்தில்\nமல்லாக்கத் தள்ளி முறித்துவைப் பாரே.",
+  "transliteration": "pollāp pulālai nukrum pulaiyrai\nellārum kāṇ iymṉṟṉ tūtuvr\ncellākp pṟṟit tīvāy nrkttil\nmllākkt tḷḷi muṟittuvaip pārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "609f689e9469cff12530219a624b776b329782b6093a53bc34247bc3ff97a3d1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

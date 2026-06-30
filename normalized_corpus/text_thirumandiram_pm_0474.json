@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0474",
+  "text_id": "thirumandiram_pm_0474",
+  "title": "Thirumandiram - Verse 1032",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1032",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பத்திட்டுஅங்கு எட்டிட்டு ஆறிட்டு நாலிட்டு\nமட்டிட்ட குண்டம் மலர்ந்தெழு தாமரை\nகட்டிட்டு நின்று கலந்தமெய் யாகவும்\nபட்டிட்டு நின்றது பார்ப்பதி பாலே.",
+  "transliteration": "pttiṭṭuaṅku eṭṭiṭṭu āṟiṭṭu nāliṭṭu\nmṭṭiṭṭ kuṇṭm mlrnteḻu tāmrai\nkṭṭiṭṭu niṉṟu klntmey yākvum\npṭṭiṭṭu niṉṟtu pārppti pālē.",
+  "english_translation": null,
+  "content_hash": "0e009d7340fd2074ff9f03322dcdcf321634cc7a1d7dbfdd2ba788e9ef4c3026",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_jnana",
+    "concept_kundalini",
+    "symbol_eighteen",
+    "plant_lotus",
+    "deity_shakti",
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

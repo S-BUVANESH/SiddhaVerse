@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0655",
+  "text_id": "sivavakkiyar_pm_0655",
+  "title": "Sivavakkiyam - Verse 46",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "46",
+  "tamil_text": "கிரியை\n\nசாதியாவது ஏதடா? சலம்திரண்ட நீரெலாம்\nபூதவாசல் ஒன்றலோ, பூதம்ஐந்தும் ஒன்றலோ?\nகாதில்வாளில், காரை, கம்பி, பாடகம்பொன் ஒன்றலோ?\nசாதிபேதம் ஓதுகின்ற தன்மைஎன்ன தன்மையோ?",
+  "transliteration": "kiriyai\n\ncātiyāvtu ētṭā? clmtirṇṭ nīrelām\npūtvācl oṉṟlō, pūtmaintum oṉṟlō?\nkātilvāḷil, kārai, kmpi, pāṭkmpoṉ oṉṟlō?\ncātipētm ōtukiṉṟ tṉmaieṉṉ tṉmaiyō?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "26eb5732cf513b309a6d4dc245493fbea18220abc41345fcf6249fa28fe6121b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

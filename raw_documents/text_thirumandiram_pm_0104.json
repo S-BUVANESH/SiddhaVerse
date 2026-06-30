@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0104",
+  "text_id": "thirumandiram_pm_0104",
+  "title": "Thirumandiram - Verse 106",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "106",
+  "tamil_text": "சிவன்முதல் மூவரோடு ஐவர் சிறந்த\nஅவைமுதல் ஆறிரண்டு ஒன்றோடு ஒன் றாகும்\nஅவைமுதல் விந்துவும் நாதமும் ஓங்கச்\nசவைமுதற் சங்கரன் தன்பெயர் தானே.",
+  "transliteration": "civṉmutl mūvrōṭu aivr ciṟnt\navaimutl āṟirṇṭu oṉṟōṭu oṉ ṟākum\navaimutl vintuvum nātmum ōṅkc\ncvaimutṟ cṅkrṉ tṉpeyr tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "92efeb37c093da7225a6ab0c2aee2434a5cfb68e6713cb93ce698325a1f9b8aa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

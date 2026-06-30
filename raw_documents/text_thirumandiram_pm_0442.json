@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0442",
+  "text_id": "thirumandiram_pm_0442",
+  "title": "Thirumandiram - Verse 995",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "995",
+  "tamil_text": "எட்டினில் எட்டறை யிட்டு அறையிலே\nகூட்டிய ஒன்றெட்டாய்க் காண நிறையிட்டுச்\nசுட்டி இவற்றைப் பிரணவம் சூழ்ந்திட்டு\nமட்டும் உயிர்கட்டு உமாபதி யானுண்டே.",
+  "transliteration": "eṭṭiṉil eṭṭṟai yiṭṭu aṟaiyilē\nkūṭṭiy oṉṟeṭṭāyk kāṇ niṟaiyiṭṭuc\ncuṭṭi ivṟṟaip pirṇvm cūḻntiṭṭu\nmṭṭum uyirkṭṭu umāpti yāṉuṇṭē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fcacc86c534b20ee8b0a9c9585032bb7755961d59f7f163c74f6b5dc3c5be366",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

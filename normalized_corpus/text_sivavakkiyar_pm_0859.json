@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0859",
+  "text_id": "sivavakkiyar_pm_0859",
+  "title": "Sivavakkiyam - Verse 250",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "250",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வஞ்சகப் பிறவியை மனத்துளே விரும்பியே\nஅஞ்செழுத்தின் உண்மையை அறிகிலாத மாந்தர்காள்\nவஞ்சகப் பிறவியை வதைத்திடவும் வல்லீரேல்\nஅஞ்செழுத்தின் உண்மையை அறிந்துகொள்ள லாகுமே.",
+  "transliteration": "vñckp piṟviyai mṉttuḷē virumpiyē\nañceḻuttiṉ uṇmaiyai aṟikilāt māntrkāḷ\nvñckp piṟviyai vtaittiṭvum vllīrēl\nañceḻuttiṉ uṇmaiyai aṟintukoḷḷ lākumē.",
+  "english_translation": null,
+  "content_hash": "1b26763d14224dc64429e9b6d492c7dc24813496ab2f1fe02d4f12fdc6abc000",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai",
+    "deity_kali",
+    "plant_tulsi",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

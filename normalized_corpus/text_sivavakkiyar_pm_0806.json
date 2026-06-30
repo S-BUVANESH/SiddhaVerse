@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0806",
+  "text_id": "sivavakkiyar_pm_0806",
+  "title": "Sivavakkiyam - Verse 197",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "197",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அருக்கன் - சூரியன், சோமன் - சந்திரன்\n\nமூலவட்டம் மீதிலே முளைத்தஅஞ்சு எழுத்தின்மேல்\nகோலவட்டம் மூன்றுமாய் குலைந்தலைந்து நின்றநீர்\nஓலைவட்ட மன்றுளே நவின்றஞானம் ஆகிலோ\nஏலவட்டம் ஆகியே இருந்ததே சிவாயமே.",
+  "transliteration": "arukkṉ - cūriyṉ, cōmṉ - cntirṉ\n\nmūlvṭṭm mītilē muḷaittañcu eḻuttiṉmēl\nkōlvṭṭm mūṉṟumāy kulaintlaintu niṉṟnīr\nōlaivṭṭ mṉṟuḷē nviṉṟñāṉm ākilō\nēlvṭṭm ākiyē irunttē civāymē.",
+  "english_translation": null,
+  "content_hash": "1787ea07757a73b4cf8d20e6be85ebd40b06b6cca92de6ad2e444ceaf4feebc4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "concept_jnana",
+    "deity_vishnu",
+    "body_moolam",
+    "body_head",
+    "concept_karma",
+    "deity_shiva"
+  ]
+}

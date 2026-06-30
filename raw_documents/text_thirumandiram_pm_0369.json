@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0369",
+  "text_id": "thirumandiram_pm_0369",
+  "title": "Thirumandiram - Verse 917",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "917",
+  "tamil_text": "எட்டு நிலையுள எங்கோன் இருப்பிடம்\nஎட்டினில் ஒன்றும் இருமூன்றும் ஈரேழும்\nஒட்டிய விந்துவும் நாதமும் ஓங்கிடப்\nபட்டது மந்திரம் பான்மொழி யாலே.",
+  "transliteration": "eṭṭu nilaiyuḷ eṅkōṉ iruppiṭm\neṭṭiṉil oṉṟum irumūṉṟum īrēḻum\noṭṭiy vintuvum nātmum ōṅkiṭp\npṭṭtu mntirm pāṉmoḻi yālē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "15f66f7c7a92ee7e011f4e9c7c03cfefaf5fd2ffc3ea9c165592f6a4c9ca2658",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

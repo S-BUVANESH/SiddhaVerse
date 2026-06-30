@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0137",
+  "text_id": "thirumandiram_pm_0137",
+  "title": "Thirumandiram - Verse 139",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "139",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தெளிவு குருவின் திருமேனி காண்டல்\nதெளிவு குருவின் திருநாமஞ் செப்பல்\nதெளிவு குருவின் திருவார்த்தை கேட்டல்\nதெளிவு குருவுரு சிந்தித்தல் தானே.",
+  "transliteration": "teḷivu kuruviṉ tirumēṉi kāṇṭl\nteḷivu kuruviṉ tirunāmñ ceppl\nteḷivu kuruviṉ tiruvārttai kēṭṭl\nteḷivu kuruvuru cintittl tāṉē.",
+  "english_translation": null,
+  "content_hash": "281ef5270371674a78a1085ea120d9c29611babf324d6f777c44f4cbaa2f0e08",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_karma",
+    "place_kashi",
+    "plant_manjal",
+    "concept_guru"
+  ]
+}

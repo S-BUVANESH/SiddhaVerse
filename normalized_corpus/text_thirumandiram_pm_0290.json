@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0290",
+  "text_id": "thirumandiram_pm_0290",
+  "title": "Thirumandiram - Verse 293",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "293",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கல்வி யுடையார் கழிந்தோடிப் போகின்றார்\nபல்லி யுடையார் பாம்பரிந்து உண்கின்றார்\nஎல்லியுன் காலையும் ஏத்தும் இறைவனை\nவல்லியுள் வாதித்த காயமும் ஆமே.",
+  "transliteration": "klvi yuṭaiyār kḻintōṭip pōkiṉṟār\nplli yuṭaiyār pāmprintu uṇkiṉṟār\nelliyuṉ kālaiyum ēttum iṟaivṉai\nvlliyuḷ vātitt kāymum āmē.",
+  "english_translation": null,
+  "content_hash": "0ff6410619f9bc3264d4f2f2c4e46bccc2835f826e42b2afeb60216f5db00ad7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "plant_vallarai",
+    "siddhar_bogar",
+    "siddhar_pambatti",
+    "practice_kayakalpa"
+  ]
+}

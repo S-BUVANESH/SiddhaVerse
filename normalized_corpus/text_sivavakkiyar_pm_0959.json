@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0959",
+  "text_id": "sivavakkiyar_pm_0959",
+  "title": "Sivavakkiyam - Verse 350",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "350",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்சுகொம்பில் நின்றுநாதம் ஆலைபோல் எழும்பியே\nபிஞ்சினோடு பூமலர்ந்து பெற்றியுற்ற சுத்தமே\nசெஞ்சுடர் உதித்தபோது தேசிகன் கழன்றுடன்\nபஞ்சபூதம் ஆனதே பறந்துநின்ற மோனமே.",
+  "transliteration": "añcukompil niṉṟunātm ālaipōl eḻumpiyē\npiñciṉōṭu pūmlrntu peṟṟiyuṟṟ cuttmē\nceñcuṭr utittpōtu tēcikṉ kḻṉṟuṭṉ\npñcpūtm āṉtē pṟntuniṉṟ mōṉmē.",
+  "english_translation": null,
+  "content_hash": "581bb5628d4e8e0724a63dde896e1965a26c81adb7a8c43af0c329737d8da94b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "symbol_five",
+    "body_sound",
+    "plant_ginger",
+    "practice_moolamantra"
+  ]
+}

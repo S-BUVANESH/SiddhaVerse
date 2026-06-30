@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0636",
+  "text_id": "sivavakkiyar_pm_0636",
+  "title": "Sivavakkiyam - Verse 27",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "27",
+  "tamil_text": "அண்டர்கோன் இருப்பிடம் அறிந்துஉணர்ந்த ஞானிகாள்\nபண்டறிந்த பான்மைதன்னை யார்அறிய வல்லரே?\nவிண்டவேதப் பொருளைஅன்றி வேறு கூற வகையிலாக்\nகண்டகோயில் தெய்வம்என்று கையெடுப்ப தில்லையே.",
+  "transliteration": "aṇṭrkōṉ iruppiṭm aṟintuuṇrnt ñāṉikāḷ\npṇṭṟint pāṉmaitṉṉai yāraṟiy vllrē?\nviṇṭvētp poruḷaiaṉṟi vēṟu kūṟ vkaiyilāk\nkṇṭkōyil teyvmeṉṟu kaiyeṭupp tillaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a2e4cd65855e065a4911aded5c070ebb4d7396b06acaf0aa18f3b5276dd1a6e1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

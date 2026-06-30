@@ -1,0 +1,57 @@
+{
+  "document_id": "pubmed_38732539",
+  "text_id": "pubmed_38732539",
+  "title": "Effects of ",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Pandit S",
+    "Srivastav AK",
+    "Sur TK",
+    "Chaudhuri S",
+    "Wang Y",
+    "Biswas TK"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "e595546e9004f67612444d6a2a5cb4156d435769409d759d3bf609118565305d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "38732539",
+  "authors": [
+    "Pandit S",
+    "Srivastav AK",
+    "Sur TK",
+    "Chaudhuri S",
+    "Wang Y",
+    "Biswas TK"
+  ],
+  "journal": "Nutrients",
+  "pubdate": "2024 Apr 26",
+  "doi": "10.3390/nu16091293",
+  "abstract": "BACKGROUND: Stress is a known causative factor in modulating cognitive health, which overall well-being and quality of life are dependent on. Long-term stress has been shown to disrupt the balance of the hypothalamic-pituitary-adrenal (HPA) axis. Adaptogens, such as Withania somnifera (ashwagandha), are commonly used in Ayurvedic medicine for stress relief and ameliorating HPA-axis dysfunction. The aim of this study was to support the role of a root and leaf water-extracted ashwagandha extract (WS) in stress reduction by confirming the lowest clinically validated dose for stress management (125 mg/day) in a dose-dependent clinical study in adults with self-reported high stress.\nMETHODS: An 8-week, randomized, double-blinded, placebo-controlled study to compare the effects of three different WS extract doses (125, 250 and 500 mg) was performed. A total of 131 adults were enrolled, and 98 were included in the final analysis. Attenuation of chronic stress was measured using the 14-item Perceived Stress Scale (PSS) and biochemical-related stress parameters.\nRESULTS: We have shown that aqueous WS extract (roots and leaves) safely reduces mild to moderate chronic stress at doses of 125 mg, 250 mg, and 500 mg/day for 8 weeks.\nCONCLUSIONS: Our findings demonstrate the stress-reduction capabilities of this well-characterized aqueous extract of WS (root and leaf) at the low dose of 125 mg/day, in a dose-dependent manner, via the modulation of the HPA axis.\nTRIAL REGISTRATION: This study was registered with the Clinical Trials Registry-India (CTRI) with the registration number: CTRI/2019/11/022100.",
+  "search_text": "pubmed 38732539 Effects of  PubMed Research Scientific Literature Pandit S Srivastav AK Sur TK Chaudhuri S Wang Y Biswas TK Tamil Tamil script open_access PubMed Central 38732539 Pandit S Srivastav AK Sur TK Chaudhuri S Wang Y Biswas TK Nutrients 2024 Apr 26 10.3390/nu16091293 BACKGROUND: Stress is a known causative factor in modulating cognitive health, which overall well-being and quality of life are dependent on. Long-term stress has been shown to disrupt the balance of the hypothalamic-pituitary-adrenal (HPA) axis. Adaptogens, such as Withania somnifera (ashwagandha), are commonly used in Ayurvedic medicine for stress relief and ameliorating HPA-axis dysfunction. The aim of this study was to support the role of a root and leaf water-extracted ashwagandha extract (WS) in stress reduction by confirming the lowest clinically validated dose for stress management (125 mg/day) in a dose-dependent clinical study in adults with self-reported high stress.\nMETHODS: An 8-week, randomized, double-blinded, placebo-controlled study to compare the effects of three different WS extract doses (125, 250 and 500 mg) was performed. A total of 131 adults were enrolled, and 98 were included in the final analysis. Attenuation of chronic stress was measured using the 14-item Perceived Stress Scale (PSS) and biochemical-related stress parameters.\nRESULTS: We have shown that aqueous WS extract (roots and leaves) safely reduces mild to moderate chronic stress at doses of 125 mg, 250 mg, and 500 mg/day for 8 weeks.\nCONCLUSIONS: Our findings demonstrate the stress-reduction capabilities of this well-characterized aqueous extract of WS (root and leaf) at the low dose of 125 mg/day, in a dose-dependent manner, via the modulation of the HPA axis.\nTRIAL REGISTRATION: This study was registered with the Clinical Trials Registry-India (CTRI) with the registration number: CTRI/2019/11/022100."
+}

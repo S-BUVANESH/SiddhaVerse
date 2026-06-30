@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0916",
+  "text_id": "sivavakkiyar_pm_0916",
+  "title": "Sivavakkiyam - Verse 307",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "307",
+  "tamil_text": "மூன்றுபத்து மூன்றையும் மூன்றுசொன்ன மூலனே\nதோன்றுசேர ஞானிகாள் துய்யபாதம் என்தலை\nஎன்றுவைத்த வைத்தபின் இயல்பும் அஞ்செழுத்தையும்\nதோன்றஓத வல்லீரேல் துய்யசோதி காணுமே.",
+  "transliteration": "mūṉṟupttu mūṉṟaiyum mūṉṟucoṉṉ mūlṉē\ntōṉṟucēr ñāṉikāḷ tuyypātm eṉtlai\neṉṟuvaitt vaittpiṉ iylpum añceḻuttaiyum\ntōṉṟōt vllīrēl tuyycōti kāṇumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "44fd2ab2fd3011e966e183aaa41c8e5e5943ce3d34b353dd59dcc3f346571023",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

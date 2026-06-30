@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0976",
+  "text_id": "sivavakkiyar_pm_0976",
+  "title": "Sivavakkiyam - Verse 367",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "367",
+  "tamil_text": "ஆறுகொண்ட வாரியும் அமைத்துநின்ற தெய்வமும்\nதூறுகொண்ட மாரியும் துலங்கிநின்ற தூரமும்\nவீறுகொண்ட மோனமும் விளங்கும் உட்கமலமும்\nமாறுகொண்ட ஊவிலே மடிந்ததே சிவாயமே.",
+  "transliteration": "āṟukoṇṭ vāriyum amaittuniṉṟ teyvmum\ntūṟukoṇṭ māriyum tulṅkiniṉṟ tūrmum\nvīṟukoṇṭ mōṉmum viḷṅkum uṭkmlmum\nmāṟukoṇṭ ūvilē mṭinttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "86e384ad21a07cfa27ed56768fc519b0f0ec6cf4d5df7c830fb8cdfc0c0949db",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

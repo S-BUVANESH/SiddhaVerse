@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0808",
+  "text_id": "sivavakkiyar_pm_0808",
+  "title": "Sivavakkiyam - Verse 199",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "199",
+  "tamil_text": "பூவும்நீரும் என்மனம் பொருந்துகோயில் என்உளம்\nஆவியோடி லிங்கமாய் அகண்டம்எங்கும் ஆகிலும்\nமேவுகின்ற ஐவரும் விளங்குதூப தீபமாய்\nஆடுகின்ற கூத்தனுக்கோர் அந்திசந்தி இல்லையே.",
+  "transliteration": "pūvumnīrum eṉmṉm poruntukōyil eṉuḷm\nāviyōṭi liṅkmāy akṇṭmeṅkum ākilum\nmēvukiṉṟ aivrum viḷṅkutūp tīpmāy\nāṭukiṉṟ kūttṉukkōr anticnti illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4c0933cc36f2b9b6fa754c126255cab606e0bed585947f1b1281f6817f9b9146",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

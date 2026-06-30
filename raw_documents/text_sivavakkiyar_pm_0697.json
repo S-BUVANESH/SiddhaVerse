@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0697",
+  "text_id": "sivavakkiyar_pm_0697",
+  "title": "Sivavakkiyam - Verse 88",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "88",
+  "tamil_text": "நெஞ்சிலே இருந்திருந்து நெருக்கிஓடும் வாயுவை\nஅன்பினால் இருந்துநீர் அருகிருத்த வல்லீரேல்\nஅன்பர்கோயில் காணலாம் அகலும்எண் திசைக்குளே\nதும்பிஓடி ஓடியே சொல்லடா சுவாமியே!",
+  "transliteration": "neñcilē iruntiruntu nerukkiōṭum vāyuvai\naṉpiṉāl iruntunīr arukirutt vllīrēl\naṉprkōyil kāṇlām aklumeṇ ticaikkuḷē\ntumpiōṭi ōṭiyē collṭā cuvāmiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d02e44d1b3c4ba96960bf872ff015e14c1b16bce9851309bdc756aadc02e3b5e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

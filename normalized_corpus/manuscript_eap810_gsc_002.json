@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_eap810_gsc_002",
+  "text_id": "manuscript_eap810_gsc_002",
+  "title": "Bogar Karpa Vidhi (Rejuvenation)",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "6985a2e260c2bd3ca2e02d3e79a11091be1c50c7e74ec780efad4db87ee2dc04",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "EAP810-GSC-002",
+  "repository": "British Library EAP810",
+  "era": "17th Century",
+  "material": "Palm Leaf",
+  "subject": "Alchemy and Rejuvenation Medicine",
+  "search_text": "manuscript eap810 gsc 002 Bogar Karpa Vidhi (Rejuvenation) Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs EAP810-GSC-002 British Library EAP810 17th Century Palm Leaf Alchemy and Rejuvenation Medicine"
+}

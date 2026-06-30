@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_sml_palm_124",
+  "text_id": "manuscript_sml_palm_124",
+  "title": "Sarbendra Vaidya Muraigal",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "7dc49bc7174cfbdd0337ca2c4867bfefb254734f7b2a5eaf5f6cba93d3015708",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "SML-PALM-124",
+  "repository": "Saraswathi Mahal Library, Thanjavur",
+  "era": "19th Century",
+  "material": "Palm Leaf",
+  "subject": "Royal Medical Formulary",
+  "search_text": "manuscript sml palm 124 Sarbendra Vaidya Muraigal Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs SML-PALM-124 Saraswathi Mahal Library, Thanjavur 19th Century Palm Leaf Royal Medical Formulary"
+}

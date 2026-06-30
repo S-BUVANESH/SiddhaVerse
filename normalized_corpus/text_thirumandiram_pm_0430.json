@@ -1,0 +1,50 @@
+{
+  "document_id": "thirumandiram_pm_0430",
+  "text_id": "thirumandiram_pm_0430",
+  "title": "Thirumandiram - Verse 983",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "983",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நம்முதல் ஓர்ஐந்தின் நாடுங் கருமங்கள்\nஅம்முதல் ஐந்தில் அடங்கிய வல்வினை\nசிம்முதல் உள்ளே தெளியவல் லார்கட்குத்\nதம்முதல் ஆகும் சதாசிவந் தானே.",
+  "transliteration": "nmmutl ōraintiṉ nāṭuṅ krumṅkḷ\nammutl aintil aṭṅkiy vlviṉai\ncimmutl uḷḷē teḷiyvl lārkṭkut\ntmmutl ākum ctācivn tāṉē.",
+  "english_translation": null,
+  "content_hash": "c0688e5ebd6f3e12fd26e4441204b5ae2fb76159ebf3e3f0bfdec9db308ccee7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "plant_vallarai",
+    "siddhar_sivavakkiyar",
+    "symbol_five",
+    "place_chidambaram",
+    "concept_nadi",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "deity_shakti",
+    "concept_karma",
+    "practice_mudra",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

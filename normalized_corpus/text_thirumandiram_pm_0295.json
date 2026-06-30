@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0295",
+  "text_id": "thirumandiram_pm_0295",
+  "title": "Thirumandiram - Verse 298",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "298",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பற்றது பற்றில் பரமனைப் பற்றுமின்\nமுற்றது எல்லா முதல்வன் அருள்பெறில்\nகிற்ற விரகிற் கிளரொளி வானவர்\nகற்றவர் போ஢ன்பம் உற்றுநின் றாரே.",
+  "transliteration": "pṟṟtu pṟṟil prmṉaip pṟṟumiṉ\nmuṟṟtu ellā mutlvṉ aruḷpeṟil\nkiṟṟ virkiṟ kiḷroḷi vāṉvr\nkṟṟvr pō஢ṉpm uṟṟuniṉ ṟārē.",
+  "english_translation": null,
+  "content_hash": "ca24dfeae679c09572417227d1e77d98383975fdbc550d9a4f4046185738bf5b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "symbol_three",
+    "concept_brahman",
+    "practice_mudra",
+    "deity_shiva"
+  ]
+}

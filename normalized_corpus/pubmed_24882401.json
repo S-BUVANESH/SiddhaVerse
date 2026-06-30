@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_24882401",
+  "text_id": "pubmed_24882401",
+  "title": "Effects of Ashwagandha (roots of Withania somnifera) on neurodegenerative diseases.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Kuboyama T",
+    "Tohda C",
+    "Komatsu K"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "6b42e837a904e1ccd418638100efc4ed368aab701f42ebb9a76c719f7aab750d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "24882401",
+  "authors": [
+    "Kuboyama T",
+    "Tohda C",
+    "Komatsu K"
+  ],
+  "journal": "Biological & pharmaceutical bulletin",
+  "pubdate": "2014",
+  "doi": null,
+  "abstract": "Neurodegenerative diseases commonly induce irreversible destruction of central nervous system (CNS) neuronal networks, resulting in permanent functional impairments. Effective medications against neurodegenerative diseases are currently lacking. Ashwagandha (roots of Withania somnifera Dunal) is used in traditional Indian medicine (Ayurveda) for general debility, consumption, nervous exhaustion, insomnia, and loss of memory. In this review, we summarize various effects and mechanisms of Ashwagandha extracts and related compounds on in vitro and in vivo models of neurodegenerative diseases such as Alzheimer's disease and spinal cord injury.",
+  "search_text": "pubmed 24882401 Effects of Ashwagandha (roots of Withania somnifera) on neurodegenerative diseases. PubMed Research Scientific Literature Kuboyama T Tohda C Komatsu K Tamil Tamil script open_access PubMed Central 24882401 Kuboyama T Tohda C Komatsu K Biological & pharmaceutical bulletin 2014 Neurodegenerative diseases commonly induce irreversible destruction of central nervous system (CNS) neuronal networks, resulting in permanent functional impairments. Effective medications against neurodegenerative diseases are currently lacking. Ashwagandha (roots of Withania somnifera Dunal) is used in traditional Indian medicine (Ayurveda) for general debility, consumption, nervous exhaustion, insomnia, and loss of memory. In this review, we summarize various effects and mechanisms of Ashwagandha extracts and related compounds on in vitro and in vivo models of neurodegenerative diseases such as Alzheimer's disease and spinal cord injury."
+}

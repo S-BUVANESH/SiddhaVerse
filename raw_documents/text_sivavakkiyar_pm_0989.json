@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0989",
+  "text_id": "sivavakkiyar_pm_0989",
+  "title": "Sivavakkiyam - Verse 380",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "380",
+  "tamil_text": "கருத்தரித்து உதித்தபோது கமலபீடம் ஆனதும்\nகருத்தரித்து உதித்தபோது காரணங்கள் ஆனதும்\nகருத்தரித்து உதித்தபோது காண்இரண்டு கண்களாய்க்\nகருத்தினின்று உதித்ததே கபாலம் ஏந்தும் நாதனே.",
+  "transliteration": "kruttrittu utittpōtu kmlpīṭm āṉtum\nkruttrittu utittpōtu kārṇṅkḷ āṉtum\nkruttrittu utittpōtu kāṇirṇṭu kṇkḷāyk\nkruttiṉiṉṟu utitttē kpālm ēntum nātṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "df442aeb4d872fceb9ae451c9f7e5e05966a75655dc83e38f549f4c695bcf583",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

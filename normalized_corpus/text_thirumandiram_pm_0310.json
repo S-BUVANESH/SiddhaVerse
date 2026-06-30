@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0310",
+  "text_id": "thirumandiram_pm_0310",
+  "title": "Thirumandiram - Verse 314",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "314",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நில்லாது சீவன் நிலையன்று எனஎண்ணி\nவல்லார் அறத்தும் தவத்துளும் ஆயினார்\nகல்லா மனித்தர் கயவர் உலகினில்\nபொல்லா வினைத்துயர் போகஞ்செய் வாரே.",
+  "transliteration": "nillātu cīvṉ nilaiyṉṟu eṉeṇṇi\nvllār aṟttum tvttuḷum āyiṉār\nkllā mṉittr kyvr ulkiṉil\npollā viṉaittuyr pōkñcey vārē.",
+  "english_translation": null,
+  "content_hash": "852c63950845ab81e8bda9a162f044a9f17b3aa34caca9786473f672cda7c8e7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "plant_vallarai",
+    "siddhar_bogar",
+    "plant_tulsi",
+    "concept_karma",
+    "place_kashi"
+  ]
+}

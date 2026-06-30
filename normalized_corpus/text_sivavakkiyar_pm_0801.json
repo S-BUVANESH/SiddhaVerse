@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0801",
+  "text_id": "sivavakkiyar_pm_0801",
+  "title": "Sivavakkiyam - Verse 192",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "192",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பிறந்தபொது கோவணம் இலங்குநூல் குடுமியும்\nபிறந்ததுடன் பிறந்ததோ, பிறங்குநூலி உடங்கெலாம்\nமறந்தநாலு வேதமும் மனத்துளே உதித்ததோ?\nநிலம்பிளந்து வான்இடிந்து நின்றதுஎன்ன வல்லீரே?",
+  "transliteration": "piṟntpotu kōvṇm ilṅkunūl kuṭumiyum\npiṟnttuṭṉ piṟnttō, piṟṅkunūli uṭṅkelām\nmṟntnālu vētmum mṉttuḷē utitttō?\nnilmpiḷntu vāṉiṭintu niṉṟtueṉṉ vllīrē?",
+  "english_translation": null,
+  "content_hash": "9e394d55341ddbbe739a685af64267e1f6b83eea2c5e445820368d777e741e0f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "plant_vallarai",
+    "plant_tulsi",
+    "siddhar_kudambai",
+    "place_potigai",
+    "deity_ganesha"
+  ]
+}

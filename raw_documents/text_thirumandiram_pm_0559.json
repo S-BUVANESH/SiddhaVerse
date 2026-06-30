@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0559",
+  "text_id": "thirumandiram_pm_0559",
+  "title": "Thirumandiram - Verse 1118",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1118",
+  "tamil_text": "கன்னியுங் கன்னி அழிந்தனள் காதலி\nதுன்னியங fகைவரைப் பெற்றனள் தூய்மொழி\nபன்னிய நன்னூற் பகவரும் அங்குள\nஎன்னேஇம் மாயை இருளது தானே.",
+  "transliteration": "kṉṉiyuṅ kṉṉi aḻintṉḷ kātli\ntuṉṉiyṅ fkaivraip peṟṟṉḷ tūymoḻi\npṉṉiy nṉṉūṟ pkvrum aṅkuḷ\neṉṉēim māyai iruḷtu tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1e57839f02e64635b82686cafa254c881ff56cd7e175d6f23de11029a7031e0b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

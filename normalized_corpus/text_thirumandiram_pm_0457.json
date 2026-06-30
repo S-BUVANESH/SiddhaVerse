@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0457",
+  "text_id": "thirumandiram_pm_0457",
+  "title": "Thirumandiram - Verse 1015",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1015",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நவகுண்டம் ஆனவை நான்உரை செய்யின்\nநவகுண்டத்து உள்ளெழும் நற்றீபம் தானும்\nநவகுண்டத்து உள்ளெழும் நன்மைகள் எல்லாம்\nநவகுண்டம் ஆனவை நான்உரைப் பேனே.",
+  "transliteration": "nvkuṇṭm āṉvai nāṉurai ceyyiṉ\nnvkuṇṭttu uḷḷeḻum nṟṟīpm tāṉum\nnvkuṇṭttu uḷḷeḻum nṉmaikḷ ellām\nnvkuṇṭm āṉvai nāṉuraip pēṉē.",
+  "english_translation": null,
+  "content_hash": "7ab782658f621f62df3e09d9e06714b63e66b85465fc89f6ed02c027d337d9a1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_kundalini",
+    "deity_brahma"
+  ]
+}

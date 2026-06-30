@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0969",
+  "text_id": "sivavakkiyar_pm_0969",
+  "title": "Sivavakkiyam - Verse 360",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "360",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உட்கமல மோனமீதில் உயங்கிநின்ற நந்தியை\nவிக்கலோடு கீயுமாகி வில்வளைவின் மத்தியில்\nமுட்பொதிந்தது என்னவே முடுகிநின்ற செஞ்சுடர்\nகட்குவைகள் போலவும் கடிந்துநின்ற காட்சியே.",
+  "transliteration": "uṭkml mōṉmītil uyṅkiniṉṟ nntiyai\nvikklōṭu kīyumāki vilvḷaiviṉ mttiyil\nmuṭpotinttu eṉṉvē muṭukiniṉṟ ceñcuṭr\nkṭkuvaikḷ pōlvum kṭintuniṉṟ kāṭciyē.",
+  "english_translation": null,
+  "content_hash": "bfa40088a49ced094b698ca38eb3ba46974b4261138a9f0fd7a1b60d24f87edb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_chidambaram",
+    "plant_lotus",
+    "place_potigai",
+    "concept_karma",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

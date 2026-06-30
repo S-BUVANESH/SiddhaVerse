@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0809",
+  "text_id": "sivavakkiyar_pm_0809",
+  "title": "Sivavakkiyam - Verse 200",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "200",
+  "tamil_text": "உருக்கலந்த பின்னலோ உன்னைநான் அறிந்தது\nஇருக்கில்என், மறைக்கில்என் நினைந்திருந்த போதெலாம்\nஉருக்கலந்து நின்றபோது நீயும்நானும் ஒன்றலோ?\nதிருக்கலந்து போதலோ தெளிந்ததே சிவாயமே.",
+  "transliteration": "urukklnt piṉṉlō uṉṉaināṉ aṟinttu\nirukkileṉ, mṟaikkileṉ niṉaintirunt pōtelām\nurukklntu niṉṟpōtu nīyumnāṉum oṉṟlō?\ntirukklntu pōtlō teḷinttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "57ae1cef795b7b94de5f7b08324b17749bedd9facdd8235722f2bfa2ac5a0974",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

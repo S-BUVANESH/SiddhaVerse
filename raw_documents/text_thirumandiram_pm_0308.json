@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0308",
+  "text_id": "thirumandiram_pm_0308",
+  "title": "Thirumandiram - Verse 312",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "312",
+  "tamil_text": "நில்லா நிலையை நிலையாக நெஞ்சத்து\nநில்லாக் குரம்பை நிலையென்று உணர்வீர்காள்\nஎல்லா உயிர்க்கும் இறைவனே ஆயினும்\nகல்லாதார் நெஞ்சத்துக் காணஒண் ணாதே.",
+  "transliteration": "nillā nilaiyai nilaiyāk neñcttu\nnillāk kurmpai nilaiyeṉṟu uṇrvīrkāḷ\nellā uyirkkum iṟaivṉē āyiṉum\nkllātār neñcttuk kāṇoṇ ṇātē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4c4fae12e30495e3d38fd272174f920e07b5eda3c2e4f925064488d0d94a2fb6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

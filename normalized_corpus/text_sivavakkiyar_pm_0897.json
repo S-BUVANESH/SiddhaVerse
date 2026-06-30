@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0897",
+  "text_id": "sivavakkiyar_pm_0897",
+  "title": "Sivavakkiyam - Verse 288",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "288",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வண்டுலங்கள் போலும்நீர் மனத்துமாசு அறுக்கிலீர்\nகுண்டலங்கள் போலுநீர் குளத்திலே முழுகுறீர்\nபண்டும் உங்கள் நான்முகன் பறந்துதேடி காண்கிலான்,\nகண்டிருக்கும் உம்முளே கலந்திருப்பர் காணுமே.",
+  "transliteration": "vṇṭulṅkḷ pōlumnīr mṉttumācu aṟukkilīr\nkuṇṭlṅkḷ pōlunīr kuḷttilē muḻukuṟīr\npṇṭum uṅkḷ nāṉmukṉ pṟntutēṭi kāṇkilāṉ,\nkṇṭirukkum ummuḷē klntiruppr kāṇumē.",
+  "english_translation": null,
+  "content_hash": "2e3ec08a13a6548f78c2b2ded7e2d56a29bdbd29baf073725fcf5c225bb7c746",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "concept_kundalini",
+    "deity_vishnu",
+    "deity_brahma",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_mukti",
+    "practice_kumbhaka"
+  ]
+}

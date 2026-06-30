@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_40040399",
+  "text_id": "pubmed_40040399",
+  "title": "Confused mystification of Ayurvedic concepts.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Krishna GL"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "b0a54ba5a38080bf8dc12c1a465f767bd331179bfeda1842d8d2fec047cc9a9e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "40040399",
+  "authors": [
+    "Krishna GL"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2025",
+  "doi": "10.20529/IJME.2024.083",
+  "abstract": "Charaka Samhita, the foremost of ayurvedic classics, categorically states that observations and inferences drawn therefrom are the primary means through which ayurvedic knowledge has been acquired and codified. It declares that, of all types of evidence, that vouched by direct observations is the most dependable. This being the case, it is baseless to suppose that ayurvedic knowledge was derived from the deep meditative experiences of ancient sages. The supposition, in addition to being a brazen insult to the reason-based (yukti-vyapashraya) character of classical ayurveda, has caused unspeakable damage to ayurveda's revival along evidence-based lines in current times.",
+  "search_text": "pubmed 40040399 Confused mystification of Ayurvedic concepts. PubMed Research Scientific Literature Krishna GL Tamil Tamil script open_access PubMed Central 40040399 Krishna GL Indian journal of medical ethics 2025 10.20529/IJME.2024.083 Charaka Samhita, the foremost of ayurvedic classics, categorically states that observations and inferences drawn therefrom are the primary means through which ayurvedic knowledge has been acquired and codified. It declares that, of all types of evidence, that vouched by direct observations is the most dependable. This being the case, it is baseless to suppose that ayurvedic knowledge was derived from the deep meditative experiences of ancient sages. The supposition, in addition to being a brazen insult to the reason-based (yukti-vyapashraya) character of classical ayurveda, has caused unspeakable damage to ayurveda's revival along evidence-based lines in current times."
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0377",
+  "text_id": "thirumandiram_pm_0377",
+  "title": "Thirumandiram - Verse 926",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "926",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சூலத் தலையினில் தோற்றிடும் சத்தியும்\nசூலத் தலையினில் சூழும்ஓங் காரத்தால்\nசூலத்து இடைவெளி தோற்றிடும் அஞ்செழுத்து\nஆலப் பதிக்கும் அடைவதும் ஆமே.",
+  "transliteration": "cūlt tlaiyiṉil tōṟṟiṭum cttiyum\ncūlt tlaiyiṉil cūḻumōṅ kārttāl\ncūlttu iṭaiveḷi tōṟṟiṭum añceḻuttu\nālp ptikkum aṭaivtum āmē.",
+  "english_translation": null,
+  "content_hash": "d3337baf46af17738a5633eefb171742de0bb3416d0f925d4c4e5b01b4cb8f68",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_eighteen",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "body_head",
+    "siddhar_idaikkadar",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

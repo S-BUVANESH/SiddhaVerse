@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0148",
+  "text_id": "thirumandiram_pm_0148",
+  "title": "Thirumandiram - Verse 150",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "150",
+  "tamil_text": "வாசந்தி பேசி மணம்புணர்ந்து அப்பதி\nநேசந் தெவிட்டி நினைப்பொழி வார்பின்னை\nஆசந்தி மேல்வைத்து அமைய அழுதிட்டுப்\nபாசந்தீச் சுட்டுப் பலியட்டி னார்களே.",
+  "transliteration": "vācnti pēci mṇmpuṇrntu appti\nnēcn teviṭṭi niṉaippoḻi vārpiṉṉai\nācnti mēlvaittu amaiy aḻutiṭṭup\npācntīc cuṭṭup pliyṭṭi ṉārkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6acc5cd08d0bb71fadc515095ee287cc6b25828fde34da60e03c1ed948489fcc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

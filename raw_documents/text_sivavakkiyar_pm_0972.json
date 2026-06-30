@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0972",
+  "text_id": "sivavakkiyar_pm_0972",
+  "title": "Sivavakkiyam - Verse 363",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "363",
+  "tamil_text": "ஆறுமூலைக் கோணத்தில் அமைந்தஒன்ப தாத்திலே\nதாறுமென்று நங்கையான நாவியும் தெரிந்திடக்\nகூறுமென்று ஐவர்அங்கு கொண்டுநின்ற மோனமே\nபாறுகொண்டு நின்றது பரந்ததே சிவாயமே.",
+  "transliteration": "āṟumūlaik kōṇttil amaintoṉp tāttilē\ntāṟumeṉṟu nṅkaiyāṉ nāviyum terintiṭk\nkūṟumeṉṟu aivraṅku koṇṭuniṉṟ mōṉmē\npāṟukoṇṭu niṉṟtu prnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7f12a07ffb17a2b1312e8cc0da252e3231096b3078a405cab293aad9242736f5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0097",
+  "text_id": "thirumandiram_pm_0097",
+  "title": "Thirumandiram - Verse 99",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "99",
+  "tamil_text": "மூலன் உரைசெய்த மூவா யிரந்தமிழ்\nஞாலம் அறியவே நந்தி அருளது\nகாலை எழுந்து கருத்தறிந் தோதிடின்\nஞாலத் தலைவனை நண்ணுவர் அன்றே.",
+  "transliteration": "mūlṉ uraiceyt mūvā yirntmiḻ\nñālm aṟiyvē nnti aruḷtu\nkālai eḻuntu kruttṟin tōtiṭiṉ\nñālt tlaivṉai nṇṇuvr aṉṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "92447597a1e887080581d30623ccd95b05fe7cf304c1e7dfa36a5bb1c87e19f5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0283",
+  "text_id": "thirumandiram_pm_0283",
+  "title": "Thirumandiram - Verse 286",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "286",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நம்பனை நானா விதப்பொரு ளாகுமென்று\nஉம்பரில் வானவர் ஓதுந் தலைவனை\nஇன்பனை இன்பத் திடைநின்று இரதிக்கும்\nஅன்பனை யாரும் அறியகி லாரே.",
+  "transliteration": "nmpṉai nāṉā vitpporu ḷākumeṉṟu\numpril vāṉvr ōtun tlaivṉai\niṉpṉai iṉpt tiṭainiṉṟu irtikkum\naṉpṉai yārum aṟiyki lārē.",
+  "english_translation": null,
+  "content_hash": "687d9ab41b79bee6de2402238709090dc8dd9a71d7faabc47fc827f252af81b9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "deity_brahma",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_head",
+    "practice_kumbhaka"
+  ]
+}

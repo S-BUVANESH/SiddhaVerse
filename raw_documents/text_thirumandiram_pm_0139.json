@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0139",
+  "text_id": "thirumandiram_pm_0139",
+  "title": "Thirumandiram - Verse 141",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "141",
+  "tamil_text": "சந்திப் பதுநந்தி தன்திருத் தாளிணை\nசிந்திப் பதுநந்தி செய்ய திருமேனி\nவந்திப் பதுநந்தி நாமம்இன் வாய்மையால்\nபுந்திக்குள் நிற்பது நந்திபொற் பாதமே.",
+  "transliteration": "cntip ptunnti tṉtirut tāḷiṇai\ncintip ptunnti ceyy tirumēṉi\nvntip ptunnti nāmmiṉ vāymaiyāl\npuntikkuḷ niṟptu nntipoṟ pātmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1f270fd38a4dba8ea56a2bfbbf89dcac5afb2a49860984f7b8c8ae8d60291dd1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

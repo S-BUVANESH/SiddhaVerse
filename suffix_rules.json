@@ -1,0 +1,82 @@
+{
+  "version": "2B-4",
+  "generated_at": "2026-06-25T14:54:20.107070+00:00",
+  "description": "Tamil romanized suffix stripping rules for query normalization.",
+  "rules": [
+    {
+      "suffix": "mam",
+      "strip": 2,
+      "note": "Tamil accusative suffix -m after vowel"
+    },
+    {
+      "suffix": "yam",
+      "strip": 0,
+      "note": "Keep -yam (part of base, e.g., pranayam)"
+    },
+    {
+      "suffix": "am",
+      "strip": 0,
+      "note": "Keep -am (part of base in many terms)"
+    },
+    {
+      "suffix": "il",
+      "strip": 2,
+      "note": "Tamil locative suffix -il"
+    },
+    {
+      "suffix": "in",
+      "strip": 2,
+      "note": "Tamil genitive suffix -in"
+    },
+    {
+      "suffix": "ai",
+      "strip": 2,
+      "note": "Tamil accusative suffix -ai"
+    },
+    {
+      "suffix": "kal",
+      "strip": 3,
+      "note": "Tamil plural suffix -kal"
+    },
+    {
+      "suffix": "kalu",
+      "strip": 4,
+      "note": "Tamil plural oblique -kalu"
+    },
+    {
+      "suffix": "gal",
+      "strip": 3,
+      "note": "Tamil plural -gal (variant)"
+    },
+    {
+      "suffix": "odu",
+      "strip": 3,
+      "note": "Tamil instrumental -odu"
+    },
+    {
+      "suffix": "udan",
+      "strip": 4,
+      "note": "Tamil associative -udan"
+    },
+    {
+      "suffix": "ukku",
+      "strip": 4,
+      "note": "Tamil dative suffix -ukku"
+    },
+    {
+      "suffix": "irku",
+      "strip": 4,
+      "note": "Tamil dative -irku"
+    },
+    {
+      "suffix": "ale",
+      "strip": 3,
+      "note": "Tamil instrumental -ale"
+    },
+    {
+      "suffix": "anal",
+      "strip": 4,
+      "note": "Tamil agentive -anal"
+    }
+  ]
+}

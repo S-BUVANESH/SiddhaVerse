@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0410",
+  "text_id": "thirumandiram_pm_0410",
+  "title": "Thirumandiram - Verse 960",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "960",
+  "tamil_text": "அருவினில் அம்பரம் அங்கெழு நாதம்\nபெருகு துடியிடை பேணிய விந்து\nமருவி யகார சிகார நடுவாய்\nஉருவிட ஊறும் உறுமந் திரமே.",
+  "transliteration": "aruviṉil amprm aṅkeḻu nātm\nperuku tuṭiyiṭai pēṇiy vintu\nmruvi ykār cikār nṭuvāy\nuruviṭ ūṟum uṟumn tirmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "94f98bdb0e27ffcdccfcbc2e41c24cc4e3123ce6db1eab43b7a78855367efb04",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

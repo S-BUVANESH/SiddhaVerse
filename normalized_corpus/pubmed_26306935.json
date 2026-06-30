@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_26306935",
+  "text_id": "pubmed_26306935",
+  "title": "Pharmacologic overview of Withania somnifera, the Indian Ginseng.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Dar NJ",
+    "Hamid A",
+    "Ahmad M"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3dc518fd059bd8718e431066bdfa04778b0a890270242dacb99c2a1373a199b2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "26306935",
+  "authors": [
+    "Dar NJ",
+    "Hamid A",
+    "Ahmad M"
+  ],
+  "journal": "Cellular and molecular life sciences : CMLS",
+  "pubdate": "2015 Dec",
+  "doi": "10.1007/s00018-015-2012-1",
+  "abstract": "Withania somnifera, also called 'Indian ginseng', is an important medicinal plant of the Indian subcontinent. It is widely used, singly or in combination, with other herbs against many ailments in Indian Systems of Medicine since time immemorial. Withania somnifera contains a spectrum of diverse phytochemicals enabling it to have a broad range of biological implications. In preclinical studies, it has shown anti-microbial, anti-inflammatory, anti-tumor, anti-stress, neuroprotective, cardioprotective, and anti-diabetic properties. Additionally, it has demonstrated the ability to reduce reactive oxygen species, modulate mitochondrial function, regulate apoptosis, and reduce inflammation and enhance endothelial function. In view of these pharmacologic properties, W. somnifera is a potential drug candidate to treat various clinical conditions, particularly related to the nervous system. In this review, we summarize the pharmacologic characteristics and discuss the mechanisms of action and potential therapeutic applications of the plant and its active constituents.",
+  "search_text": "pubmed 26306935 Pharmacologic overview of Withania somnifera, the Indian Ginseng. PubMed Research Scientific Literature Dar NJ Hamid A Ahmad M Tamil Tamil script open_access PubMed Central 26306935 Dar NJ Hamid A Ahmad M Cellular and molecular life sciences : CMLS 2015 Dec 10.1007/s00018-015-2012-1 Withania somnifera, also called 'Indian ginseng', is an important medicinal plant of the Indian subcontinent. It is widely used, singly or in combination, with other herbs against many ailments in Indian Systems of Medicine since time immemorial. Withania somnifera contains a spectrum of diverse phytochemicals enabling it to have a broad range of biological implications. In preclinical studies, it has shown anti-microbial, anti-inflammatory, anti-tumor, anti-stress, neuroprotective, cardioprotective, and anti-diabetic properties. Additionally, it has demonstrated the ability to reduce reactive oxygen species, modulate mitochondrial function, regulate apoptosis, and reduce inflammation and enhance endothelial function. In view of these pharmacologic properties, W. somnifera is a potential drug candidate to treat various clinical conditions, particularly related to the nervous system. In this review, we summarize the pharmacologic characteristics and discuss the mechanisms of action and potential therapeutic applications of the plant and its active constituents."
+}

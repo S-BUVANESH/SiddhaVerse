@@ -1,0 +1,32 @@
+{
+  "document_id": "thirumandiram_pm_0387",
+  "text_id": "thirumandiram_pm_0387",
+  "title": "Thirumandiram - Verse 936",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "936",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அத்திசைக் குள்நின்ற அனலை எழுப்பிய\nஅத்திசைக் குள்நின்ற நவ்எழுத்து ஓதினால்\nஅத்திசைக் குள்நின்ற அந்த மறையனை\nஅத்திசைக் குள்ளுற வாக்கினன் தானே. 23.",
+  "transliteration": "atticaik kuḷniṉṟ aṉlai eḻuppiy\natticaik kuḷniṉṟ nveḻuttu ōtiṉāl\natticaik kuḷniṉṟ ant mṟaiyṉai\natticaik kuḷḷuṟ vākkiṉṉ tāṉē. 23.",
+  "english_translation": null,
+  "content_hash": "fe852e36038e7ea0d74abeff302c4ef1768c97871a57b68d98c43ebde3e266f3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": []
+}

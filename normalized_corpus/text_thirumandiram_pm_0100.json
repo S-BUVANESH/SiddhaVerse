@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0100",
+  "text_id": "thirumandiram_pm_0100",
+  "title": "Thirumandiram - Verse 102",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "102",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கலந்தருள் காலாங்கர் தம்பால்அ கோரர்\nநலந்தரு மாளிகைத் தேவர்நா தாந்தர்\nபுலங்கொள் பரமானந் தர்போக தேவர்\nநிலந்திகழ் மூவர் நிராமயத் தோரே.",
+  "transliteration": "klntruḷ kālāṅkr tmpāla kōrr\nnlntru māḷikait tēvrnā tāntr\npulṅkoḷ prmāṉn trpōk tēvr\nnilntikḻ mūvr nirāmyt tōrē.",
+  "english_translation": null,
+  "content_hash": "55df3922bf68a121884b039611df4615b3604966689cfc2e883603bae35f686c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_ramadevar",
+    "practice_varma",
+    "siddhar_bogar",
+    "concept_brahman",
+    "siddhar_korakkar",
+    "concept_karma",
+    "deity_shiva"
+  ]
+}

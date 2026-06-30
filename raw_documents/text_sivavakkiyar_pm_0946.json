@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0946",
+  "text_id": "sivavakkiyar_pm_0946",
+  "title": "Sivavakkiyam - Verse 337",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "337",
+  "tamil_text": "ஞானிஞானி என்றுரைத்த நாய்கள் கோடிகோடியே\nவானிலாத மழைநாளென்ற வாதிகோடி கோடியே\nதானிலா சாகரத்தின் தன்மைகாணா மூடர்கள்\nமூனிலாமல் கோடிகோடி முன்னறிந்த தென்பரே.",
+  "transliteration": "ñāṉiñāṉi eṉṟuraitt nāykḷ kōṭikōṭiyē\nvāṉilāt mḻaināḷeṉṟ vātikōṭi kōṭiyē\ntāṉilā cākrttiṉ tṉmaikāṇā mūṭrkḷ\nmūṉilāml kōṭikōṭi muṉṉṟint teṉprē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3a9568ef23df30b588a31d530beefdc4e521eb6dddf5d33b3c078346c419ec04",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

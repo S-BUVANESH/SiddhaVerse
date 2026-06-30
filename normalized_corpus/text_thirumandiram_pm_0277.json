@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0277",
+  "text_id": "thirumandiram_pm_0277",
+  "title": "Thirumandiram - Verse 280",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "280",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இகழ்ந்ததும் பெற்றதும் ஈசன் அறியும்\nஉகந்தருள் செய்திடும் உத்தம நாதன்\nகொழுந்தன்பு செய்தருள் கூரவல் லார்க்கு\nமகிழ்ந்தன்பு செய்யும் அருளது வாமே.",
+  "transliteration": "ikḻnttum peṟṟtum īcṉ aṟiyum\nukntruḷ ceytiṭum uttm nātṉ\nkoḻuntṉpu ceytruḷ kūrvl lārkku\nmkiḻntṉpu ceyyum aruḷtu vāmē.",
+  "english_translation": null,
+  "content_hash": "de3fccaf56d7b4d3b4294745694efa539e9e92a12140dde9eebde5be5a8c3984",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "plant_vallarai",
+    "body_sound"
+  ]
+}

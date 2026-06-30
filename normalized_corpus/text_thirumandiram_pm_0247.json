@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0247",
+  "text_id": "thirumandiram_pm_0247",
+  "title": "Thirumandiram - Verse 250",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "250",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆர்க்கும் இடுமின் அவா஢வர் என்னன்மின்\nபார்த்திருந்து உண்மின் பழம்பொருள் போற்றன்மின்\nவேட்கை உடையீர் விரைந்தொல்லை உண்ணன்மின்\nகாக்கை கரைந்துண்ணும் காலம் அறிமினே.",
+  "transliteration": "ārkkum iṭumiṉ avā஢vr eṉṉṉmiṉ\npārttiruntu uṇmiṉ pḻmporuḷ pōṟṟṉmiṉ\nvēṭkai uṭaiyīr viraintollai uṇṇṉmiṉ\nkākkai kraintuṇṇum kālm aṟimiṉē.",
+  "english_translation": null,
+  "content_hash": "31800c22c497fa07555267103bbcbf824529fc636970de387b3db16d56588564",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "practice_kumbhaka"
+  ]
+}

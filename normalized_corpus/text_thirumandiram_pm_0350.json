@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0350",
+  "text_id": "thirumandiram_pm_0350",
+  "title": "Thirumandiram - Verse 898",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "898",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இணையார் திருவடி எட்டெழுத் தாகும்\nஇணையார் கழலிணை ஈர்ஐஞ்ச தாகும்\nஇணையார் கழலிணை ஐம்பத் தொன்றாகும்\nஇணையார் கழலிணை ஏழா யிரமே.",
+  "transliteration": "iṇaiyār tiruvṭi eṭṭeḻut tākum\niṇaiyār kḻliṇai īraiñc tākum\niṇaiyār kḻliṇai aimpt toṉṟākum\niṇaiyār kḻliṇai ēḻā yirmē.",
+  "english_translation": null,
+  "content_hash": "f3c64b41d89ec4d8861411e0f54d193d408ead062ca46aea0c0de50798e4ae65",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_ashta_siddhi",
+    "symbol_eight",
+    "practice_kumbhaka"
+  ]
+}

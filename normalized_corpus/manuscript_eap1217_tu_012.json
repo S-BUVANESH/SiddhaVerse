@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_eap1217_tu_012",
+  "text_id": "manuscript_eap1217_tu_012",
+  "title": "Varma Kannaadi",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "0406bf717d19590c801438467fe33cec9fd2cf10422751bad86c9b082ccce2d5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "EAP1217-TU-012",
+  "repository": "Tamil University Thanjavur EAP1217",
+  "era": "18th Century",
+  "material": "Palm Leaf",
+  "subject": "Traumatology and Pressure Point Maps",
+  "search_text": "manuscript eap1217 tu 012 Varma Kannaadi Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs EAP1217-TU-012 Tamil University Thanjavur EAP1217 18th Century Palm Leaf Traumatology and Pressure Point Maps"
+}

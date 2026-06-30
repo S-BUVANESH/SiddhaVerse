@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0020",
+  "text_id": "thirumandiram_pm_0020",
+  "title": "Thirumandiram - Verse 20",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "20",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "முடிவும் பிறப்பையும் முன்னே படைத்த\nஅடிகள் உறையும் அறனெறி நாடில்\nஇடியும் முழக்கமும் ஈசர் உருவம்\nகடிமலர்க் குன்ற மலையது தானே.",
+  "transliteration": "muṭivum piṟppaiyum muṉṉē pṭaitt\naṭikḷ uṟaiyum aṟṉeṟi nāṭil\niṭiyum muḻkkmum īcr uruvm\nkṭimlrk kuṉṟ mlaiytu tāṉē.",
+  "english_translation": null,
+  "content_hash": "45dece554744d54e446595c0796bea4fcd2fb48c06792323b23c6b31603c8a25",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_nadi",
+    "symbol_three"
+  ]
+}

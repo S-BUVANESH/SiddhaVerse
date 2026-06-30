@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0114",
+  "text_id": "thirumandiram_pm_0114",
+  "title": "Thirumandiram - Verse 116",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "116",
+  "tamil_text": "வேயின் எழுங்கனல் போலேஇம் மெய்யெனும்\nகோயி லிருந்து குடிகொண்ட கோன்நந்தி\nதாயினும் மும்மலம் மாற்றித் தயாஎன்னும்\nதோயம தாய் எழுஞ் சூரிய னாமே.",
+  "transliteration": "vēyiṉ eḻuṅkṉl pōlēim meyyeṉum\nkōyi liruntu kuṭikoṇṭ kōṉnnti\ntāyiṉum mummlm māṟṟit tyāeṉṉum\ntōym tāy eḻuñ cūriy ṉāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6f99767001b140a5d58b7831785c0390320a570c9c55282414787a74913e3592",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

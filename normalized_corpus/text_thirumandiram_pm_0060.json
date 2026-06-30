@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0060",
+  "text_id": "thirumandiram_pm_0060",
+  "title": "Thirumandiram - Verse 60",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "60",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அண்ணல் அருளால் அருளுந்திவ் யாகமம்\nவிண்ணில் அமரர் தமக்கும் விளங்கரி\nதெண்ணில் எழுபது கோடிநூ றாயிரம்\nஎண்ணிலும் நீர்மேல் எழுத்தது ஆகுமே.",
+  "transliteration": "aṇṇl aruḷāl aruḷuntiv yākmm\nviṇṇil amrr tmkkum viḷṅkri\nteṇṇil eḻuptu kōṭinū ṟāyirm\neṇṇilum nīrmēl eḻutttu ākumē.",
+  "english_translation": null,
+  "content_hash": "43ed02dbe87978fdb51c65813498d7b8bb88eabd8a0423a0607025072166b185",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

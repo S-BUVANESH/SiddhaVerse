@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0337",
+  "text_id": "thirumandiram_pm_0337",
+  "title": "Thirumandiram - Verse 885",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "885",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓரெழுத் தாலே உலகெங்கும் தானாகி\nஈரெழுத் தாலே இசைந்துஅங்கு இருவராய்\nமூவெழுத் தாலே முளைக்கின்ற சோதியை\nமாவெழுத் தாலே மயக்கமே உற்றதே.",
+  "transliteration": "ōreḻut tālē ulkeṅkum tāṉāki\nīreḻut tālē icaintuaṅku iruvrāy\nmūveḻut tālē muḷaikkiṉṟ cōtiyai\nmāveḻut tālē mykkmē uṟṟtē.",
+  "english_translation": null,
+  "content_hash": "4216679bf88784f1367365348af36c23526b88ec0dbee33e41b4f72f6e1557b8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "body_light",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

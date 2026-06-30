@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0555",
+  "text_id": "thirumandiram_pm_0555",
+  "title": "Thirumandiram - Verse 1114",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1114",
+  "tamil_text": "ஆதி அனாதி அகாரணி காரணி\nசோதிய சோதி சுகபர சந்தரி\nமாது சமாதி மனோன்மணி மங்கலி\nஓதிஎன் உள்ளத்து உடன்இயைந் தாளே.",
+  "transliteration": "āti aṉāti akārṇi kārṇi\ncōtiy cōti cukpr cntri\nmātu cmāti mṉōṉmṇi mṅkli\nōtieṉ uḷḷttu uṭṉiyain tāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6abf238ce3918fa233bda3e3f590d671514a91db620e577d44c3ab0b4a4f2ccb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

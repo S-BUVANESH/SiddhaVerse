@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0648",
+  "text_id": "sivavakkiyar_pm_0648",
+  "title": "Sivavakkiyam - Verse 39",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "39",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பறைச்சியாவது ஏதடா? பணத்தியாவது ஏதடா?\nஇறைச்சிதோல் எலும்பினும் இலக்கமிட்டு இருக்குதோ?\nபறைச்சிபோகம் வேறதோ பணத்திபோகம் வேறதோ?\nபறைச்சியும் பணத்தியும் பகுத்துபாரும் உம்முளே!",
+  "transliteration": "pṟaicciyāvtu ētṭā? pṇttiyāvtu ētṭā?\niṟaiccitōl elumpiṉum ilkkmiṭṭu irukkutō?\npṟaiccipōkm vēṟtō pṇttipōkm vēṟtō?\npṟaicciyum pṇttiyum pkuttupārum ummuḷē!",
+  "english_translation": null,
+  "content_hash": "543aa4a1281607db87991deb16ee04d94d90212d83f5065415a153dc46fcb0e1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "siddhar_bogar",
+    "place_chidambaram",
+    "siddhar_kudambai",
+    "deity_shakti",
+    "plant_thippili",
+    "concept_dhyana"
+  ]
+}

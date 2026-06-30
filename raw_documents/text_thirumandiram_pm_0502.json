@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0502",
+  "text_id": "thirumandiram_pm_0502",
+  "title": "Thirumandiram - Verse 1060",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1060",
+  "tamil_text": "தலைவி தடமுலை மேல்நின்ற தையல்\nதொலைவில் தவம்செய்யும் தூய்நெறித் தோகை\nகலைபல வென்றிடும் கன்னியென் உள்ளம்\nநிலைபெற இங்கே நிறைந்துநின் றாளே.",
+  "transliteration": "tlaivi tṭmulai mēlniṉṟ taiyl\ntolaivil tvmceyyum tūyneṟit tōkai\nklaipl veṉṟiṭum kṉṉiyeṉ uḷḷm\nnilaipeṟ iṅkē niṟaintuniṉ ṟāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "38d90e84a973ecb0472d584e22fcd11a6f7c093e055e601790c46194177bf0d3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

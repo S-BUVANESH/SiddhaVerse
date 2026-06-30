@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0938",
+  "text_id": "sivavakkiyar_pm_0938",
+  "title": "Sivavakkiyam - Verse 329",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "329",
+  "tamil_text": "வழுத்திடான் அழித்திடான் மாயரூபம் ஆகிடான்\nகழன்றிடான் வெகுண்டிடான் காலகால காலமும்\nதுவண்டிடான் அசைந்திடான் தூயதூபம் ஆகிடான்\nசுவன்றிடான் உரைத்திடான் சூட்சசூட்ச சூட்சமே.",
+  "transliteration": "vḻuttiṭāṉ aḻittiṭāṉ māyrūpm ākiṭāṉ\nkḻṉṟiṭāṉ vekuṇṭiṭāṉ kālkāl kālmum\ntuvṇṭiṭāṉ acaintiṭāṉ tūytūpm ākiṭāṉ\ncuvṉṟiṭāṉ uraittiṭāṉ cūṭccūṭc cūṭcmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ac0607d0b9c814c87a347ce0787e1228a24366f23671f55defa0ca556ef1c62f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

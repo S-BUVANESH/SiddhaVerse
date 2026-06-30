@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0643",
+  "text_id": "sivavakkiyar_pm_0643",
+  "title": "Sivavakkiyam - Verse 34",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "34",
+  "tamil_text": "கோயிலாவது ஏதடா? குளங்களாவது ஏதடா?\nகோயிலும் குளங்களும் கும்பிடும் குலாமரே!\nகோயிலும் மனத்துளே குளங்களும் மனத்துளே!\nஆவதும் அழிவதும் இல்லைஇல்லை இல்லையே.",
+  "transliteration": "kōyilāvtu ētṭā? kuḷṅkḷāvtu ētṭā?\nkōyilum kuḷṅkḷum kumpiṭum kulāmrē!\nkōyilum mṉttuḷē kuḷṅkḷum mṉttuḷē!\nāvtum aḻivtum illaiillai illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f628e81e8f47fd8b7ae2a03a84a1b2937736cd5f3d515bff54cad1ad718e7725",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

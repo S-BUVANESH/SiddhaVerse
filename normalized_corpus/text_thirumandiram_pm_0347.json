@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0347",
+  "text_id": "thirumandiram_pm_0347",
+  "title": "Thirumandiram - Verse 895",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "895",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அமலம் பதிபசு பாசங்கள் ஆகமம்\nஅமலம் திரோதாயி யாகுமா னந்தமாம்\nஅமலம் சொல் ஆணவம் மாயை காமியம்\nஅமலம் திருக்கூத்து ஆமிடம் தானே.",
+  "transliteration": "amlm ptipcu pācṅkḷ ākmm\namlm tirōtāyi yākumā ṉntmām\namlm col āṇvm māyai kāmiym\namlm tirukkūttu āmiṭm tāṉē.",
+  "english_translation": null,
+  "content_hash": "d3848e8c3ce431de4d195e1a766b51b824dbd7ea7efc36b6974d121c6702e346",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "symbol_eighteen",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_agama",
+    "plant_thippili",
+    "practice_kumbhaka"
+  ]
+}

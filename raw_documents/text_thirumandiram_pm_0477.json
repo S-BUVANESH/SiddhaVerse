@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0477",
+  "text_id": "thirumandiram_pm_0477",
+  "title": "Thirumandiram - Verse 1035",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1035",
+  "tamil_text": "முத்திநற் சோதி முழுச்சுடர் ஆயவன்\nகற்றற்று நின்றார் கருத்துள் இருந்திடும்\nபற்றற நாடிப் பரந்தொளி யூடு போய்ச்\nசெற்றற்து இருந்தவர் சேர்ந்திருந் தாரே.",
+  "transliteration": "muttinṟ cōti muḻuccuṭr āyvṉ\nkṟṟṟṟu niṉṟār kruttuḷ iruntiṭum\npṟṟṟ nāṭip prntoḷi yūṭu pōyc\nceṟṟṟtu iruntvr cērntirun tārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fea0b15fb834756ce2b2cb4b985bcd50d82d9ff17dfca4ce5c8bcfd3e342b7d6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

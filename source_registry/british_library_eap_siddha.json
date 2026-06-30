@@ -1,0 +1,25 @@
+{
+  "title": "British Library Endangered Archives Programme",
+  "url": "https://eap.bl.uk",
+  "organization": "British Library, UK",
+  "source_type": "Palm Leaf",
+  "license_status": "open_access",
+  "trust_score": "10.0/10",
+  "priority": "critical",
+  "acquisition_difficulty": 4,
+  "coverage": {
+    "siddhars": 10,
+    "plants": 10,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 40,
+    "research": 0
+  },
+  "access_type": "open",
+  "contains": [
+    "Endangered Palm Leaf Manuscripts (EAP810, EAP1217)",
+    "High-resolution Digitized Images",
+    "Detailed Catalogues and Transcriptions"
+  ],
+  "notes": "Extremely high value for palm leaf discovery under CC licenses. EAP810 contains manuscripts on Siddha medicine."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0280",
+  "text_id": "thirumandiram_pm_0280",
+  "title": "Thirumandiram - Verse 283",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "283",
+  "tamil_text": "புணர்ச்சியுள் ஆயிழை மேல்அன்பு போல\nஉணர்ச்சியுள் ஆங்கே ஒடுங்கவல் லாருக்கு\nஉணர்ச்சியில் லாது குலாவி உலாவி\nஅணைத்தலும் இன்பம் அதுவிது வாமே.",
+  "transliteration": "puṇrcciyuḷ āyiḻai mēlaṉpu pōl\nuṇrcciyuḷ āṅkē oṭuṅkvl lārukku\nuṇrcciyil lātu kulāvi ulāvi\naṇaittlum iṉpm atuvitu vāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c6bfaae578295b93cb3de06308e9272c6b8a8a9a771e6357de739ccc047f09d7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0873",
+  "text_id": "sivavakkiyar_pm_0873",
+  "title": "Sivavakkiyam - Verse 264",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "264",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மட்டுலாவு தண்துழாய் அலங்கலாய் புனற்கழல்\nவீட்டுவீழில் தாகபோக விண்ணில்மண்ணில் வெளியினும்\nஎட்டினோடு இரண்டினும் இதத்தினால் மனந்தனைக்\nகட்டிவீடி லாதுவைத்த காதலின்பம் ஆகுமே.",
+  "transliteration": "mṭṭulāvu tṇtuḻāy alṅklāy puṉṟkḻl\nvīṭṭuvīḻil tākpōk viṇṇilmṇṇil veḷiyiṉum\neṭṭiṉōṭu irṇṭiṉum itttiṉāl mṉntṉaik\nkṭṭivīṭi lātuvaitt kātliṉpm ākumē.",
+  "english_translation": null,
+  "content_hash": "d68e558495404b3390dcd1905dd5f6d8f68a37b142b44d3eaeadf200f807e4a4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_bogar",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_ashta_siddhi",
+    "concept_mukti",
+    "symbol_eight",
+    "practice_kumbhaka"
+  ]
+}

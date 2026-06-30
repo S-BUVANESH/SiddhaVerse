@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0967",
+  "text_id": "sivavakkiyar_pm_0967",
+  "title": "Sivavakkiyam - Verse 358",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "358",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தீபஉச்சி முனையிலே திவாகரத்தின் கழியிலே\nகோபமாறு கூவிலே கொதித்துநின்ற தீயிலே\nதாபமான மூலையில் சமைந்துநின்ற சூட்சமும்\nசாபமான மோட்சமும் தடிந்துநின்று இலங்குமே.",
+  "transliteration": "tīpucci muṉaiyilē tivākrttiṉ kḻiyilē\nkōpmāṟu kūvilē kotittuniṉṟ tīyilē\ntāpmāṉ mūlaiyil cmaintuniṉṟ cūṭcmum\ncāpmāṉ mōṭcmum tṭintuniṉṟu ilṅkumē.",
+  "english_translation": null,
+  "content_hash": "62a5bea2acb689712e1c29ae190a6cd02aaa7e9ef3a28f80aa91a7bdcb03fb14",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "body_light",
+    "body_moolam",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

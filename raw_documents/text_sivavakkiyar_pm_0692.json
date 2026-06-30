@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0692",
+  "text_id": "sivavakkiyar_pm_0692",
+  "title": "Sivavakkiyam - Verse 83",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "83",
+  "tamil_text": "பாடுகின்ற உம்பருக்குள் ஆடுபாதம் உன்னியே\nபழுதிலாத கன்மகூட்டம் இட்டஎங்கள் பரமனே\nநீடுசெம்பொன் அம்பலத்துள் ஆடுகொண்ட அப்பனே,\nநீலகண்ட காலகண்ட நித்தியகல் யாணனே.",
+  "transliteration": "pāṭukiṉṟ umprukkuḷ āṭupātm uṉṉiyē\npḻutilāt kṉmkūṭṭm iṭṭeṅkḷ prmṉē\nnīṭucempoṉ amplttuḷ āṭukoṇṭ appṉē,\nnīlkṇṭ kālkṇṭ nittiykl yāṇṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "376277811dd4e5cda46066f7a265d6f1e43128906ab79aa9b7b8e0a77eee0d91",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

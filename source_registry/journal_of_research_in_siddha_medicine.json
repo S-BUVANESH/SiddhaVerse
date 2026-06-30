@@ -1,0 +1,26 @@
+{
+  "title": "Journal of Research in Siddha Medicine (JRSM)",
+  "url": "https://www.jrsm.in/",
+  "organization": "Central Council for Research in Siddha (CCRS)",
+  "source_type": "Research Paper",
+  "license_status": "open_access",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 2,
+  "coverage": {
+    "siddhars": 5,
+    "plants": 25,
+    "formulations": 25,
+    "diseases": 20,
+    "manuscripts": 5,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Original Research Articles",
+    "Case Reports on Siddha Therapy",
+    "Review Articles",
+    "Short Communications"
+  ],
+  "notes": "Specialized peer-reviewed journal for Siddha. Highly structured metadata and abstracts."
+}

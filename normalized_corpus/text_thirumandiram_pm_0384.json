@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0384",
+  "text_id": "thirumandiram_pm_0384",
+  "title": "Thirumandiram - Verse 933",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "933",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அவ்வுண்டு சவ்வுண்டு அனைத்தும் அங்கு உள்ளது\nசவ்வுண்டு நிற்கும் கருத்தறி வார்இல்லை\nகவ்வுண்டு நிற்கும் கருத்தறி வாளர்க்குச்\nசவ்வுண்டு சத்தி சதாசிவன் தானே.",
+  "transliteration": "avvuṇṭu cvvuṇṭu aṉaittum aṅku uḷḷtu\ncvvuṇṭu niṟkum kruttṟi vārillai\nkvvuṇṭu niṟkum kruttṟi vāḷrkkuc\ncvvuṇṭu ctti ctācivṉ tāṉē.",
+  "english_translation": null,
+  "content_hash": "7e632d10c9f96f522e8dc948e9b1818da17bfaaa2ec1cf72da32a4fa3716c74b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "siddhar_agasthiyar",
+  "text_id": "siddhar_agasthiyar",
+  "title": "Agasthiyar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Agasthiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "b6e1a509ed4a8253790da6883657fe1e5a7d547b98219a8cf01a4fc6274db27f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Agasthiyar",
+  "period": "Ancient / Sangam Era",
+  "biography": "Revered as the father of Tamil literature, grammar, and Siddha medicine. Autored Agasthiyar Vaidya Kaviyam and numerous other medical texts.",
+  "texts": [
+    "Agasthiyar Vaidya Kaviyam",
+    "Agasthiyar Soumya Sagaram",
+    "Agasthiyar Nayana Vidhi"
+  ],
+  "search_text": "siddhar agasthiyar Agasthiyar Siddhar Biography Siddhars Agasthiyar Tamil Tamil script public_domain SiddhaVerse Corpus Agasthiyar Ancient / Sangam Era Revered as the father of Tamil literature, grammar, and Siddha medicine. Autored Agasthiyar Vaidya Kaviyam and numerous other medical texts. Agasthiyar Vaidya Kaviyam Agasthiyar Soumya Sagaram Agasthiyar Nayana Vidhi"
+}

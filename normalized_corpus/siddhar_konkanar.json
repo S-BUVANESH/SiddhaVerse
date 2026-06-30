@@ -1,0 +1,44 @@
+{
+  "document_id": "siddhar_konkanar",
+  "text_id": "siddhar_konkanar",
+  "title": "Konkanar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Konkanar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3350234bd4e322e87b6b4294f6017747e7233eb01461526bda78218388f67e81",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Konkanar",
+  "period": "c. 3rd century BCE",
+  "biography": "Disciple of Bogar, specialized in alchemy (Vadha kalai) and pharmaceutical preparations.",
+  "texts": [
+    "Konkanar Muppu 80",
+    "Konkanar Kaviyam"
+  ],
+  "search_text": "siddhar konkanar Konkanar Siddhar Biography Siddhars Konkanar Tamil Tamil script public_domain SiddhaVerse Corpus Konkanar c. 3rd century BCE Disciple of Bogar, specialized in alchemy (Vadha kalai) and pharmaceutical preparations. Konkanar Muppu 80 Konkanar Kaviyam"
+}

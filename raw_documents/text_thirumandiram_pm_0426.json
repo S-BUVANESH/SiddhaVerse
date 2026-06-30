@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0426",
+  "text_id": "thirumandiram_pm_0426",
+  "title": "Thirumandiram - Verse 978",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "978",
+  "tamil_text": "ஐந்து கலையில் அகராதி தன்னிலே\nவந்த நகராதி மாற்றி மகராதி\nநந்தியை மூலத்தே நாடிப் பரையொடும்\nசந்திசெய் வார்க்குச் சடங்கில்லை தானே.",
+  "transliteration": "aintu klaiyil akrāti tṉṉilē\nvnt nkrāti māṟṟi mkrāti\nnntiyai mūlttē nāṭip praiyoṭum\ncnticey vārkkuc cṭṅkillai tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "49f3b3cd420172b6651b3ed9d9e381ed4f2d3cff5fcd976a42a6fb42280ee0a5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0678",
+  "text_id": "sivavakkiyar_pm_0678",
+  "title": "Sivavakkiyam - Verse 69",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "69",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மூலநாடி தன்னிலே முளைத்தெழுந்த சோதியை\nநாலுநாழி உம்முளே நாடியே இருந்தபின்\nபாலனாகி வாழலாம் பரப்பிரமம் ஆகலாம்;\nஆலம்உண்ட கண்டர்ஆணை அம்மைஆணை உண்மையே.",
+  "transliteration": "mūlnāṭi tṉṉilē muḷaitteḻunt cōtiyai\nnālunāḻi ummuḷē nāṭiyē iruntpiṉ\npālṉāki vāḻlām prppirmm āklām;\nālmuṇṭ kṇṭrāṇai ammaiāṇai uṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "749ae11c1af6e7289b2384814df2ab29e931165c79c8afbffd732d3949adea28",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_nadi",
+    "body_eye",
+    "deity_brahma",
+    "body_moolam",
+    "concept_pranava",
+    "concept_brahman",
+    "deity_shakti",
+    "practice_pranayama",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

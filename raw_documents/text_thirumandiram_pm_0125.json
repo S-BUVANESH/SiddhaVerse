@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0125",
+  "text_id": "thirumandiram_pm_0125",
+  "title": "Thirumandiram - Verse 127",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "127",
+  "tamil_text": "இருந்தார் சிவமாகி எங்குந் தாமாகி\nஇருந்தார் சிவன்செயல் யாவையும் நோக்கி\nஇருந்தார் முக்காலத்து இயல்பைக் குறித்தங்கு\nஇருந்தார் இழவுவந்து எய்திய சோம்பே.",
+  "transliteration": "iruntār civmāki eṅkun tāmāki\niruntār civṉceyl yāvaiyum nōkki\niruntār mukkālttu iylpaik kuṟittṅku\niruntār iḻvuvntu eytiy cōmpē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c4fe731c069d37d80fa8f1ddf03ea9e2f975bd261884d8f6e97ea74aebdef56c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

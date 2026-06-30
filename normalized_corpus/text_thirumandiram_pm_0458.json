@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0458",
+  "text_id": "thirumandiram_pm_0458",
+  "title": "Thirumandiram - Verse 1016",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1016",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உரைத்திடும் குண்டத்தின் உள்ளே முக்காலும்\nநகைத்தெழு நாற்கோணம் நன்மை கள்ஐந்தும்\nபகைத்திடு முப்புரம் பாரங்கி யோடே\nமிகைத்தெழு கண்டங்கள் மேலறி யோமே.",
+  "transliteration": "uraittiṭum kuṇṭttiṉ uḷḷē mukkālum\nnkaitteḻu nāṟkōṇm nṉmai kḷaintum\npkaittiṭu muppurm pārṅki yōṭē\nmikaitteḻu kṇṭṅkḷ mēlṟi yōmē.",
+  "english_translation": null,
+  "content_hash": "4b3fbd318d1e9626de16737b07e966885bb50464bcccf6bb196129f4471ad255",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_five",
+    "concept_kundalini",
+    "body_eye",
+    "deity_shakti",
+    "concept_mukti"
+  ]
+}

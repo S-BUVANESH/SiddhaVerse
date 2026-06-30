@@ -1,0 +1,25 @@
+{
+  "title": "CSIR-National Botanical Research Institute (NBRI)",
+  "url": "https://nbri.res.in",
+  "organization": "Council of Scientific and Industrial Research (CSIR), Government of India",
+  "source_type": "Research Paper",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "9.8/10",
+  "priority": "medium",
+  "acquisition_difficulty": 4,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 50,
+    "formulations": 10,
+    "diseases": 10,
+    "manuscripts": 0,
+    "research": 30
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Pharmacognosy Studies",
+    "Chemotaxonomic Profiling",
+    "NBRI Botanic Garden Herbarium Records"
+  ],
+  "notes": "High-quality research institute focusing on plant conservation and medicinal testing."
+}

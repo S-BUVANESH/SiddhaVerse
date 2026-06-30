@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0425",
+  "text_id": "thirumandiram_pm_0425",
+  "title": "Thirumandiram - Verse 977",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "977",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்சுள வானை அடவியுள் வாழ்வன\nஅஞ்சுக்கும் அஞ்செழுத்து அங்குசம் ஆவன\nஅஞ்சையும் கூடத் தடுக்கவல் லார்கட்கே\nஅஞ்சாதி ஆதி அகம்புக லாமே.",
+  "transliteration": "añcuḷ vāṉai aṭviyuḷ vāḻvṉ\nañcukkum añceḻuttu aṅkucm āvṉ\nañcaiyum kūṭt tṭukkvl lārkṭkē\nañcāti āti akmpuk lāmē.",
+  "english_translation": null,
+  "content_hash": "f2f287c98d8a01e893bab307060ceb6c137ed0dac8f90eaa2860497ed2734cca",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai",
+    "plant_ginger",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

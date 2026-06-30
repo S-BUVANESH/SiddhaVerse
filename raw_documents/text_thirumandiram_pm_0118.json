@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0118",
+  "text_id": "thirumandiram_pm_0118",
+  "title": "Thirumandiram - Verse 120",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "120",
+  "tamil_text": "ஆமேவு பால்நீர் பிரிக்கின்ற அன்னம்போல்\nதாமே தனிமன்றில் தன்னந் தனிநித்தம்\nதீமேவு பல்கர ணங்களுள் உற்றன\nதாமேழ் பிறப்பெரி சார்ந்தவித் தாமே.",
+  "transliteration": "āmēvu pālnīr pirikkiṉṟ aṉṉmpōl\ntāmē tṉimṉṟil tṉṉn tṉinittm\ntīmēvu plkr ṇṅkḷuḷ uṟṟṉ\ntāmēḻ piṟpperi cārntvit tāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "640a3fa5752bfb5fa92760059ebf61ea7e603a3bba045bc5eba3794100bc718d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

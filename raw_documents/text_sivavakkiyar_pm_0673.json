@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0673",
+  "text_id": "sivavakkiyar_pm_0673",
+  "title": "Sivavakkiyam - Verse 64",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "64",
+  "tamil_text": "தீர்த்தம்ஆட வேணுமென்று தேடுகின்ற தீனர்காள்,\nதீர்த்தம்ஆடல் எவ்விடம் தெளிந்துநீர் இயம்புவீர்?\nதீர்த்தமாக உம்முளே தெளிந்துநீர் இருந்தபின்\nதீர்த்தமாக உள்ளதும் சிவாயஅஞ் செழுத்துமே!",
+  "transliteration": "tīrttmāṭ vēṇumeṉṟu tēṭukiṉṟ tīṉrkāḷ,\ntīrttmāṭl evviṭm teḷintunīr iympuvīr?\ntīrttmāk ummuḷē teḷintunīr iruntpiṉ\ntīrttmāk uḷḷtum civāyañ ceḻuttumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "911b6c07be2f2e97f2ceba8df5d459b89e92d8af5eb58362efde3aeedf55d1c0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

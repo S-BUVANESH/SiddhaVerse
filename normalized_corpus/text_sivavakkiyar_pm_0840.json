@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0840",
+  "text_id": "sivavakkiyar_pm_0840",
+  "title": "Sivavakkiyam - Verse 231",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "231",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நல்லமஞ் சனங்கள்தேடி நாடிநாடி ஓடுறீர்\nநல்லமஞ் சனங்களுண்டு நாதன்உண்டு நம்முளே\nஎல்லைமஞ் சனங்கள்தேடி ஏகபூசை பண்ணினால்\nதில்லைமேவும் சீவனும் சிவபதத்துள் ஆடுமே.",
+  "transliteration": "nllmñ cṉṅkḷtēṭi nāṭināṭi ōṭuṟīr\nnllmñ cṉṅkḷuṇṭu nātṉuṇṭu nmmuḷē\nellaimñ cṉṅkḷtēṭi ēkpūcai pṇṇiṉāl\ntillaimēvum cīvṉum civptttuḷ āṭumē.",
+  "english_translation": null,
+  "content_hash": "a255bd52075baf94a2fd5d7d635f4950d0b27ae01f0ac4648fde8c47f480074e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "concept_nadi",
+    "plant_tulsi",
+    "deity_shiva",
+    "plant_manjal"
+  ]
+}

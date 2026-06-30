@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0021",
+  "text_id": "thirumandiram_pm_0021",
+  "title": "Thirumandiram - Verse 21",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "21",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வானப் பெருங்கொண்டல் மாலயன் வானவர்\nஊனப் பிறவி ஒழிக்கும் ஒருவனைக்\nகானக் களிறு கதறப் பிளந்தனம்\nகோனைப் புகழுமின் கூடலு மாமே.",
+  "transliteration": "vāṉp peruṅkoṇṭl mālyṉ vāṉvr\nūṉp piṟvi oḻikkum oruvṉaik\nkāṉk kḷiṟu ktṟp piḷntṉm\nkōṉaip pukḻumiṉ kūṭlu māmē.",
+  "english_translation": null,
+  "content_hash": "597651ab17c96f6b5a89b77386137a7671c210b446c7abf9d5f0a0add6efd70a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_ganesha",
+    "practice_kumbhaka"
+  ]
+}

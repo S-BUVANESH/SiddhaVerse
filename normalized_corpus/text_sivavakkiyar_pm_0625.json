@@ -1,0 +1,50 @@
+{
+  "document_id": "sivavakkiyar_pm_0625",
+  "text_id": "sivavakkiyar_pm_0625",
+  "title": "Sivavakkiyam - Verse 16",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "16",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்சும்மூணும் எட்டாதாய் அநாதியான மந்திரம்\nநெஞ்சிலே நினைந்துகொண்டு நீருருச் செபிப்பீரேல்\nபஞ்சமான பாதகங்கள் நூறுகோடி செய்யினும்\nபஞ்சுபோல் பறக்கும்என்று நான்மறைகள் பன்னுமே.",
+  "transliteration": "añcummūṇum eṭṭātāy anātiyāṉ mntirm\nneñcilē niṉaintukoṇṭu nīruruc cepippīrēl\npñcmāṉ pātkṅkḷ nūṟukōṭi ceyyiṉum\npñcupōl pṟkkumeṉṟu nāṉmṟaikḷ pṉṉumē.",
+  "english_translation": null,
+  "content_hash": "ac79cd23b7a19ad1863993bde47f99d1bc1e7e6cf16dd0965100cb1ebd60f0dc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "body_heart",
+    "body_sound",
+    "symbol_five",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_moolamantra",
+    "practice_ashta_siddhi",
+    "concept_samadhi",
+    "concept_mantra",
+    "symbol_eight",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0729",
+  "text_id": "sivavakkiyar_pm_0729",
+  "title": "Sivavakkiyam - Verse 120",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "120",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நெட்டெழுத்து வட்டமே நிறைந்தவல்லி யோனியும்,\nநெட்டெழுத்து வட்டமொன்று நின்றதொன்று கண்டிலேன்\nகுற்றெழுத்தில் உற்றதென்று கொம்புகால் குறித்திடில்\nநெட்டெழுத்தில் வட்டம்ஒன்றில் நேர்படான் நம்ஈசனே!",
+  "transliteration": "neṭṭeḻuttu vṭṭmē niṟaintvlli yōṉiyum,\nneṭṭeḻuttu vṭṭmoṉṟu niṉṟtoṉṟu kṇṭilēṉ\nkuṟṟeḻuttil uṟṟteṉṟu kompukāl kuṟittiṭil\nneṭṭeḻuttil vṭṭmoṉṟil nērpṭāṉ nmīcṉē!",
+  "english_translation": null,
+  "content_hash": "e4cdc137d3a5d7e79ababcb19f79cdbfb0eff240a5ec94d0e750f68ff44ab632",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "place_chidambaram",
+    "body_eye",
+    "plant_vallarai"
+  ]
+}

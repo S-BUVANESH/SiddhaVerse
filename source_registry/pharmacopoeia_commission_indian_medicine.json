@@ -1,0 +1,25 @@
+{
+  "title": "Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIM&H)",
+  "url": "https://pcimh.gov.in",
+  "organization": "Ministry of AYUSH, Government of India",
+  "source_type": "Government Publication",
+  "license_status": "mixed",
+  "trust_score": "10.0/10",
+  "priority": "critical",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 30,
+    "formulations": 40,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 10
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Siddha Pharmacopoeia of India (SPI)",
+    "Siddha Formulary of India (SFI)",
+    "Quality Control Monographs"
+  ],
+  "notes": "Establishes legal quality standards and formulas. Essential for the formulations and plants registries."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0505",
+  "text_id": "thirumandiram_pm_0505",
+  "title": "Thirumandiram - Verse 1063",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1063",
+  "tamil_text": "உணர்ந்துட னேநிறகும் உள்ளொளி யாகி\nமணங்கமழ் பூங்குழல் மங்கையும் தானும்\nபுணர்ந்துட னேநிற்கும் போதருங் காலைக்\nகணிந்தெழு வார்க்குக் கதியளிப் பாளே.",
+  "transliteration": "uṇrntuṭ ṉēniṟkum uḷḷoḷi yāki\nmṇṅkmḻ pūṅkuḻl mṅkaiyum tāṉum\npuṇrntuṭ ṉēniṟkum pōtruṅ kālaik\nkṇinteḻu vārkkuk ktiyḷip pāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4d0252bd2bbdc09a5f70e176c27bec639565efd3b595d70c10c2c817761aa498",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0180",
+  "text_id": "thirumandiram_pm_0180",
+  "title": "Thirumandiram - Verse 183",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "183",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பருவூசி ஐந்துமோர் பையினுள் வாழும்\nபருவூசி ஐந்தும் பறக்கும் விருகம்\nபருவூசி ஐந்தும் பனித்தலைப் பட்டால்\nபருவூசிப் பையும் பறக்கின்ற வாறே.",
+  "transliteration": "pruvūci aintumōr paiyiṉuḷ vāḻum\npruvūci aintum pṟkkum virukm\npruvūci aintum pṉittlaip pṭṭāl\npruvūcip paiyum pṟkkiṉṟ vāṟē.",
+  "english_translation": null,
+  "content_hash": "6b609915475c9e0ee3375a2900b51cb43fb3dc7645fd32df3bec643615f4dd7a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_five",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_head",
+    "practice_kumbhaka"
+  ]
+}

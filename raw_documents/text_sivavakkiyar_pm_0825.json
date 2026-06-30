@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0825",
+  "text_id": "sivavakkiyar_pm_0825",
+  "title": "Sivavakkiyam - Verse 216",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "216",
+  "tamil_text": "ஆக்கைமூப்பது இல்லையே ஆதிகா ரணத்திலே\nநாக்கைமூக்கையுள் மடித்து நாதநாடி யூடுபோய்\nஏக்கறுத்தி ரெட்டையும் இறுக்கழுத்த வல்லீரேல்\nபார்க்கப்பார்க்கத் திக்கெல்லாம் பரப்பிரம்மம் ஆகுமே.",
+  "transliteration": "ākkaimūpptu illaiyē ātikā rṇttilē\nnākkaimūkkaiyuḷ mṭittu nātnāṭi yūṭupōy\nēkkṟutti reṭṭaiyum iṟukkḻutt vllīrēl\npārkkppārkkt tikkellām prppirmmm ākumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "68466812ccef1bf37537eb6fd3a80fb84992262a13c19a1b154f4a2eeeb02d94",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

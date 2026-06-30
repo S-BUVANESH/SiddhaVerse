@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0870",
+  "text_id": "sivavakkiyar_pm_0870",
+  "title": "Sivavakkiyam - Verse 261",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "261",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "என்னகத்துள் என்னைநான் எங்குநாடி ஓடினேன்?\nஎன்னகத்துள் என்னைநான் அறிந்திலாத தாகையால்\nஎன்னகத்துள் என்னைநான் அறிந்துமே தெரிந்தபின்\nஎன்னகத்துள் என்னைஅன்றி யாதுமொன்று மில்லையே.",
+  "transliteration": "eṉṉkttuḷ eṉṉaināṉ eṅkunāṭi ōṭiṉēṉ?\neṉṉkttuḷ eṉṉaināṉ aṟintilāt tākaiyāl\neṉṉkttuḷ eṉṉaināṉ aṟintumē terintpiṉ\neṉṉkttuḷ eṉṉaiaṉṟi yātumoṉṟu millaiyē.",
+  "english_translation": null,
+  "content_hash": "cb9df4bd195ae6046584206a45a53a7c2dc73b4e369386ebcef8fe8d0fff6553",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_chidambaram",
+    "concept_nadi",
+    "deity_brahma",
+    "plant_tulsi"
+  ]
+}

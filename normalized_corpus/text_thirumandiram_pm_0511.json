@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0511",
+  "text_id": "thirumandiram_pm_0511",
+  "title": "Thirumandiram - Verse 1069",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1069",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆதி விதமிகுத் தண்தந்த மால்தங்கை\nநீதி மலரின்மேல் நேரிழை நாமத்தைப்\nபாதியில் வைத்துப் பல்காற் பயில்விரல்\nசோதி மிகுந்துமுக் காலமும் தோன்றுமே.",
+  "transliteration": "āti vitmikut tṇtnt māltṅkai\nnīti mlriṉmēl nēriḻai nāmttaip\npātiyil vaittup plkāṟ pyilvirl\ncōti mikuntumuk kālmum tōṉṟumē.",
+  "english_translation": null,
+  "content_hash": "eeec9f021148bc496b7d917dbdecc5e2c7c0ad2ef537b15850a66f0f19e54aaf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_tantra",
+    "symbol_three",
+    "body_light",
+    "siddhar_kudambai",
+    "deity_shakti",
+    "concept_mukti",
+    "concept_dhyana"
+  ]
+}

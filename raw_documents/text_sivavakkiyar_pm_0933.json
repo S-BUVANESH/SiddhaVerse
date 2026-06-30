@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0933",
+  "text_id": "sivavakkiyar_pm_0933",
+  "title": "Sivavakkiyam - Verse 324",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "324",
+  "tamil_text": "ஆணியான ஐம்புலன்கள் அவையும்மொக்குகள் ஒக்குமோ?\nயோனியில் பிறந்திருந்த துன்பமிக்கு மொக்குமோ?\nவீணர்காள் பிதற்றுவீர் மெய்மையே உணர்திரேல்\nஊண்உறக்க போகமும் உமக்கெனக்கும் ஒக்குமே.",
+  "transliteration": "āṇiyāṉ aimpulṉkḷ avaiyummokkukḷ okkumō?\nyōṉiyil piṟntirunt tuṉpmikku mokkumō?\nvīṇrkāḷ pitṟṟuvīr meymaiyē uṇrtirēl\nūṇuṟkk pōkmum umkkeṉkkum okkumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "39f65c4fb503c23bff280ed48475dd9717a72f301266ae918b0b17376166760d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

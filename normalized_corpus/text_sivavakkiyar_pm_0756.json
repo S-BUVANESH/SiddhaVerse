@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0756",
+  "text_id": "sivavakkiyar_pm_0756",
+  "title": "Sivavakkiyam - Verse 147",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "147",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "புலால்புலால் புலால் அதென்று பேதமைகள் பேசுகிறீர்?\nபுலாலைவிட்டு எம்பிரான் பிரிந்திருந்தது எங்ஙனே?\nபுலாலுமாய்ப் பிதற்றுமாய் பேருலாவும் தானுமாய்ப்\nபுலாலிலே முளைத்தெழுந்த பித்தன்காணும் அத்தனே!",
+  "transliteration": "pulālpulāl pulāl ateṉṟu pētmaikḷ pēcukiṟīr?\npulālaiviṭṭu empirāṉ pirintirunttu eṅṅṉē?\npulālumāyp pitṟṟumāy pērulāvum tāṉumāyp\npulālilē muḷaitteḻunt pittṉkāṇum attṉē!",
+  "english_translation": null,
+  "content_hash": "b9aee1c673574d15b77585fc211c1a80c090ed5a2545b8df61bbb2b917e616db",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_maya",
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama"
+  ]
+}

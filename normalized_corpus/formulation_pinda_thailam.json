@@ -1,0 +1,48 @@
+{
+  "document_id": "formulation_pinda_thailam",
+  "text_id": "formulation_pinda_thailam",
+  "title": "Pinda Thailam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "7c2d6c910de4e022293d30b7fcb1a10b840e4e1dd6f3b605d9f642ac8c0332b7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Pinda Thailam",
+  "category": "Thailam (Oil)",
+  "ingredients": [
+    "Sesame oil",
+    "Rubia cordifolia (Manjistha)",
+    "Hemidesmus indicus (Nannari)",
+    "Bee wax"
+  ],
+  "method": "Heat sesame oil with herbal pastes and melt wax, filter.",
+  "indications": "Joint inflammation, gouty arthritis, burning feet",
+  "dosage": "External application only",
+  "search_text": "formulation pinda thailam Pinda Thailam Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Pinda Thailam Thailam (Oil) Sesame oil Rubia cordifolia (Manjistha) Hemidesmus indicus (Nannari) Bee wax Heat sesame oil with herbal pastes and melt wax, filter. Joint inflammation, gouty arthritis, burning feet External application only"
+}

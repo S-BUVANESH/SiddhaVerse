@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0845",
+  "text_id": "sivavakkiyar_pm_0845",
+  "title": "Sivavakkiyam - Verse 236",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "236",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாலதான போனியும் நவின்றவிந்தும் ஒன்றதாய்\nஆலதான வித்துளே அமர்ந்தொடுங்கு மாறுபோல்\nசூலதான உற்பனம் சொல்வதான மந்திரம்\nமேலதான ஞானிகாள் விரித்துரைக்க வேணுமே.",
+  "transliteration": "nāltāṉ pōṉiyum nviṉṟvintum oṉṟtāy\nāltāṉ vittuḷē amrntoṭuṅku māṟupōl\ncūltāṉ uṟpṉm colvtāṉ mntirm\nmēltāṉ ñāṉikāḷ viritturaikk vēṇumē.",
+  "english_translation": null,
+  "content_hash": "e28dc5b50861281f91c3cf4daefdb5cbab639cdfef1296c9e47d31f255fab25f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "concept_mantra",
+    "concept_jnana",
+    "deity_vishnu",
+    "plant_tulsi",
+    "body_seed",
+    "concept_karma",
+    "deity_ganesha"
+  ]
+}

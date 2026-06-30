@@ -1,0 +1,1194 @@
+{
+  "run_ts": "2026-06-25T14:08:25.127578+00:00",
+  "index_integrity": {
+    "total": 1150,
+    "repaired": 55,
+    "warnings": [],
+    "null_field_counts": {
+      "document_id": 150,
+      "source_work": 150,
+      "collection": 150,
+      "source_url": 150,
+      "title": 55,
+      "author": 140,
+      "search_text": 55
+    },
+    "invalid_doc_type": 0,
+    "empty_search_text": 55,
+    "duplicate_ids": [],
+    "repairs_detail": [
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      },
+      {
+        "doc_id": "",
+        "repairs": [
+          "search_text: synthesized from title/work/author"
+        ]
+      }
+    ]
+  },
+  "metadata_validation": {
+    "total": 1150,
+    "fully_valid": 1000,
+    "warnings": 150,
+    "errors": 0,
+    "field_issues": {
+      "document_id": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "doc_type_breakdown": {
+      "other": {
+        "total": 1150,
+        "valid": 1000,
+        "warnings": 150
+      }
+    },
+    "compliance_percentage": 86.96
+  },
+  "search_quality": {
+    "total_queries": 36,
+    "passed": 33,
+    "overall_pass_rate": 91.7,
+    "avg_precision": 0.803,
+    "avg_recall": 0.917,
+    "category_summary": {
+      "siddhars": {
+        "total_queries": 5,
+        "passed": 5,
+        "pass_rate": 100.0,
+        "avg_precision": 0.652,
+        "avg_recall": 1.0
+      },
+      "plants": {
+        "total_queries": 5,
+        "passed": 5,
+        "pass_rate": 100.0,
+        "avg_precision": 0.833,
+        "avg_recall": 1.0
+      },
+      "deities": {
+        "total_queries": 5,
+        "passed": 5,
+        "pass_rate": 100.0,
+        "avg_precision": 0.917,
+        "avg_recall": 1.0
+      },
+      "concepts": {
+        "total_queries": 5,
+        "passed": 5,
+        "pass_rate": 100.0,
+        "avg_precision": 0.974,
+        "avg_recall": 1.0
+      },
+      "practices": {
+        "total_queries": 4,
+        "passed": 4,
+        "pass_rate": 100.0,
+        "avg_precision": 1.0,
+        "avg_recall": 1.0
+      },
+      "places": {
+        "total_queries": 4,
+        "passed": 4,
+        "pass_rate": 100.0,
+        "avg_precision": 0.756,
+        "avg_recall": 1.0
+      },
+      "tamil_text": {
+        "total_queries": 2,
+        "passed": 2,
+        "pass_rate": 100.0,
+        "avg_precision": 1.0,
+        "avg_recall": 1.0
+      },
+      "romanized": {
+        "total_queries": 2,
+        "passed": 1,
+        "pass_rate": 50.0,
+        "avg_precision": 0.5,
+        "avg_recall": 0.5
+      },
+      "english": {
+        "total_queries": 4,
+        "passed": 2,
+        "pass_rate": 50.0,
+        "avg_precision": 0.5,
+        "avg_recall": 0.5
+      }
+    },
+    "test_results": [
+      {
+        "query": "Thirumoolar",
+        "category": "siddhars",
+        "entity_id": "siddhar_thirumoolar",
+        "min_expected": 10,
+        "retrieved": 723,
+        "relevant": 248,
+        "true_positives": 248,
+        "precision": 0.343,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0615"
+        ]
+      },
+      {
+        "query": "Sivavakkiyar",
+        "category": "siddhars",
+        "entity_id": "siddhar_sivavakkiyar",
+        "min_expected": 10,
+        "retrieved": 478,
+        "relevant": 180,
+        "true_positives": 180,
+        "precision": 0.377,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0610"
+        ]
+      },
+      {
+        "query": "Agasthiyar",
+        "category": "siddhars",
+        "entity_id": "siddhar_agasthiyar",
+        "min_expected": 1,
+        "retrieved": 12,
+        "relevant": 7,
+        "true_positives": 7,
+        "precision": 0.583,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "query": "Bogar",
+        "category": "siddhars",
+        "entity_id": "siddhar_bogar",
+        "min_expected": 1,
+        "retrieved": 45,
+        "relevant": 43,
+        "true_positives": 43,
+        "precision": 0.956,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          null,
+          "sivavakkiyar_pm_0626"
+        ]
+      },
+      {
+        "query": "Nandidevar",
+        "category": "siddhars",
+        "entity_id": "siddhar_nandidevar",
+        "min_expected": 5,
+        "retrieved": 52,
+        "relevant": 52,
+        "true_positives": 52,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0614",
+          "sivavakkiyar_pm_0969",
+          "thirumandiram_pm_0009"
+        ]
+      },
+      {
+        "query": "Tulsi",
+        "category": "plants",
+        "entity_id": "plant_tulsi",
+        "min_expected": 1,
+        "retrieved": 95,
+        "relevant": 95,
+        "true_positives": 95,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0611",
+          "sivavakkiyar_pm_0623",
+          "sivavakkiyar_pm_0627"
+        ]
+      },
+      {
+        "query": "Vallarai",
+        "category": "plants",
+        "entity_id": "plant_vallarai",
+        "min_expected": 1,
+        "retrieved": 98,
+        "relevant": 98,
+        "true_positives": 98,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0613",
+          "sivavakkiyar_pm_0615",
+          "sivavakkiyar_pm_0622"
+        ]
+      },
+      {
+        "query": "Lotus",
+        "category": "plants",
+        "entity_id": "plant_lotus",
+        "min_expected": 1,
+        "retrieved": 62,
+        "relevant": 62,
+        "true_positives": 62,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0620",
+          "sivavakkiyar_pm_0743",
+          "sivavakkiyar_pm_0772"
+        ]
+      },
+      {
+        "query": "Thippili",
+        "category": "plants",
+        "entity_id": "plant_thippili",
+        "min_expected": 1,
+        "retrieved": 43,
+        "relevant": 43,
+        "true_positives": 43,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0632",
+          "sivavakkiyar_pm_0645",
+          "sivavakkiyar_pm_0648"
+        ]
+      },
+      {
+        "query": "Nelli",
+        "category": "plants",
+        "entity_id": "plant_nelli",
+        "min_expected": 1,
+        "retrieved": 12,
+        "relevant": 2,
+        "true_positives": 2,
+        "precision": 0.167,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0624",
+          "sivavakkiyar_pm_0785",
+          "sivavakkiyar_pm_0886"
+        ]
+      },
+      {
+        "query": "Shiva",
+        "category": "deities",
+        "entity_id": "deity_shiva",
+        "min_expected": 10,
+        "retrieved": 274,
+        "relevant": 274,
+        "true_positives": 274,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0613",
+          "sivavakkiyar_pm_0624"
+        ]
+      },
+      {
+        "query": "Shakti",
+        "category": "deities",
+        "entity_id": "deity_shakti",
+        "min_expected": 5,
+        "retrieved": 345,
+        "relevant": 201,
+        "true_positives": 201,
+        "precision": 0.583,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0611",
+          "sivavakkiyar_pm_0613"
+        ]
+      },
+      {
+        "query": "Murugan",
+        "category": "deities",
+        "entity_id": "deity_murugan",
+        "min_expected": 5,
+        "retrieved": 349,
+        "relevant": 349,
+        "true_positives": 349,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0611",
+          "sivavakkiyar_pm_0616",
+          "sivavakkiyar_pm_0618"
+        ]
+      },
+      {
+        "query": "Vishnu",
+        "category": "deities",
+        "entity_id": "deity_vishnu",
+        "min_expected": 5,
+        "retrieved": 339,
+        "relevant": 339,
+        "true_positives": 339,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0615",
+          "sivavakkiyar_pm_0616"
+        ]
+      },
+      {
+        "query": "Ganesha",
+        "category": "deities",
+        "entity_id": "deity_ganesha",
+        "min_expected": 1,
+        "retrieved": 46,
+        "relevant": 46,
+        "true_positives": 46,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0650",
+          "sivavakkiyar_pm_0696",
+          "sivavakkiyar_pm_0784"
+        ]
+      },
+      {
+        "query": "Yoga",
+        "category": "concepts",
+        "entity_id": "concept_yoga",
+        "min_expected": 5,
+        "retrieved": 31,
+        "relevant": 27,
+        "true_positives": 27,
+        "precision": 0.871,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "query": "Maya",
+        "category": "concepts",
+        "entity_id": "concept_maya",
+        "min_expected": 5,
+        "retrieved": 135,
+        "relevant": 135,
+        "true_positives": 135,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0616",
+          "sivavakkiyar_pm_0627"
+        ]
+      },
+      {
+        "query": "Pranava",
+        "category": "concepts",
+        "entity_id": "concept_pranava",
+        "min_expected": 5,
+        "retrieved": 119,
+        "relevant": 119,
+        "true_positives": 119,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0624",
+          "sivavakkiyar_pm_0626",
+          "sivavakkiyar_pm_0634"
+        ]
+      },
+      {
+        "query": "Kundalini",
+        "category": "concepts",
+        "entity_id": "concept_kundalini",
+        "min_expected": 1,
+        "retrieved": 35,
+        "relevant": 35,
+        "true_positives": 35,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0640",
+          "sivavakkiyar_pm_0791",
+          "sivavakkiyar_pm_0830"
+        ]
+      },
+      {
+        "query": "Jnana",
+        "category": "concepts",
+        "entity_id": "concept_jnana",
+        "min_expected": 5,
+        "retrieved": 117,
+        "relevant": 117,
+        "true_positives": 117,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0610",
+          "sivavakkiyar_pm_0615",
+          "sivavakkiyar_pm_0619"
+        ]
+      },
+      {
+        "query": "Pranayama",
+        "category": "practices",
+        "entity_id": "practice_pranayama",
+        "min_expected": 10,
+        "retrieved": 352,
+        "relevant": 352,
+        "true_positives": 352,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0616",
+          "sivavakkiyar_pm_0624",
+          "sivavakkiyar_pm_0625"
+        ]
+      },
+      {
+        "query": "Mudra",
+        "category": "practices",
+        "entity_id": "practice_mudra",
+        "min_expected": 5,
+        "retrieved": 77,
+        "relevant": 77,
+        "true_positives": 77,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0622",
+          "sivavakkiyar_pm_0653",
+          "sivavakkiyar_pm_0664"
+        ]
+      },
+      {
+        "query": "Kumbhaka",
+        "category": "practices",
+        "entity_id": "practice_kumbhaka",
+        "min_expected": 5,
+        "retrieved": 286,
+        "relevant": 286,
+        "true_positives": 286,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0616",
+          "sivavakkiyar_pm_0625",
+          "sivavakkiyar_pm_0626"
+        ]
+      },
+      {
+        "query": "Kayakalpa",
+        "category": "practices",
+        "entity_id": "practice_kayakalpa",
+        "min_expected": 1,
+        "retrieved": 33,
+        "relevant": 33,
+        "true_positives": 33,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0627",
+          "sivavakkiyar_pm_0656",
+          "sivavakkiyar_pm_0696"
+        ]
+      },
+      {
+        "query": "Chidambaram",
+        "category": "places",
+        "entity_id": "place_chidambaram",
+        "min_expected": 5,
+        "retrieved": 163,
+        "relevant": 163,
+        "true_positives": 163,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0610",
+          "sivavakkiyar_pm_0618",
+          "sivavakkiyar_pm_0621"
+        ]
+      },
+      {
+        "query": "Kailash",
+        "category": "places",
+        "entity_id": "place_kailash",
+        "min_expected": 1,
+        "retrieved": 3,
+        "relevant": 3,
+        "true_positives": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0812",
+          "thirumandiram_pm_0089",
+          "thirumandiram_pm_0195"
+        ]
+      },
+      {
+        "query": "Madurai",
+        "category": "places",
+        "entity_id": "place_madurai",
+        "min_expected": 1,
+        "retrieved": 1000,
+        "relevant": 24,
+        "true_positives": 24,
+        "precision": 0.024,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0610",
+          "sivavakkiyar_pm_0611"
+        ]
+      },
+      {
+        "query": "Kashi",
+        "category": "places",
+        "entity_id": "place_kashi",
+        "min_expected": 1,
+        "retrieved": 100,
+        "relevant": 100,
+        "true_positives": 100,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0620",
+          "sivavakkiyar_pm_0637",
+          "sivavakkiyar_pm_0638"
+        ]
+      },
+      {
+        "query": "Thirumandiram",
+        "category": "tamil_text",
+        "entity_id": null,
+        "min_expected": 100,
+        "retrieved": 609,
+        "relevant": "n/a",
+        "true_positives": 609,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          "thirumandiram_pm_0001",
+          "thirumandiram_pm_0002"
+        ]
+      },
+      {
+        "query": "Sivavakkiyam",
+        "category": "tamil_text",
+        "entity_id": null,
+        "min_expected": 100,
+        "retrieved": 392,
+        "relevant": "n/a",
+        "true_positives": 392,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0610",
+          "sivavakkiyar_pm_0611"
+        ]
+      },
+      {
+        "query": "pranayamam",
+        "category": "romanized",
+        "entity_id": null,
+        "min_expected": 1,
+        "retrieved": 0,
+        "relevant": "n/a",
+        "true_positives": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "passed": false,
+        "sample_docs": []
+      },
+      {
+        "query": "siva",
+        "category": "romanized",
+        "entity_id": null,
+        "min_expected": 5,
+        "retrieved": 478,
+        "relevant": "n/a",
+        "true_positives": 478,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          null,
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0610"
+        ]
+      },
+      {
+        "query": "meditation",
+        "category": "english",
+        "entity_id": null,
+        "min_expected": 1,
+        "retrieved": 0,
+        "relevant": "n/a",
+        "true_positives": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "passed": false,
+        "sample_docs": []
+      },
+      {
+        "query": "liberation",
+        "category": "english",
+        "entity_id": null,
+        "min_expected": 1,
+        "retrieved": 0,
+        "relevant": "n/a",
+        "true_positives": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "passed": false,
+        "sample_docs": []
+      },
+      {
+        "query": "breath",
+        "category": "english",
+        "entity_id": null,
+        "min_expected": 1,
+        "retrieved": 20,
+        "relevant": "n/a",
+        "true_positives": 20,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0638",
+          "sivavakkiyar_pm_0663",
+          "sivavakkiyar_pm_0664"
+        ]
+      },
+      {
+        "query": "public domain",
+        "category": "english",
+        "entity_id": null,
+        "min_expected": 10,
+        "retrieved": 1000,
+        "relevant": "n/a",
+        "true_positives": 1000,
+        "precision": 1.0,
+        "recall": 1.0,
+        "passed": true,
+        "sample_docs": [
+          "sivavakkiyar_pm_0609",
+          "sivavakkiyar_pm_0610",
+          "sivavakkiyar_pm_0611"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "pubmed_32727824",
+  "text_id": "pubmed_32727824",
+  "title": "A Comprehensive Review and Perspective on Anticancer Mechanisms of Withaferin A in Breast Cancer.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Hahm ER",
+    "Kim SH",
+    "Singh KB",
+    "Singh K",
+    "Singh SV"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "8f1e563a521ce307d9a56e1912e15ff4815755a6f6e8efd3e919fefc2759e4d2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "32727824",
+  "authors": [
+    "Hahm ER",
+    "Kim SH",
+    "Singh KB",
+    "Singh K",
+    "Singh SV"
+  ],
+  "journal": "Cancer prevention research (Philadelphia, Pa.)",
+  "pubdate": "2020 Sep",
+  "doi": "10.1158/1940-6207.CAPR-20-0259",
+  "abstract": "Withaferin A (hereafter abbreviated as WA) is a promising anticancer steroidal lactone abundant in a medicinal plant (Withania somnifera) native to Asia. The root/leaf extract of Withania somnifera, which belongs to the Solanaceae family, continues to be included in the Ayurvedic medicine formulations of alternative medicine practice. Numerous chemicals are detectable in the root/leaf extract of Withania somnifera [e.g., withanolides (WA, withanone, withanolide A, etc.), alkaloids, sitoindosides, etc.], but the anticancer effect of this medicinal plant is largely attributed to WA. Anticancer effect of WA was initially reported in the early 70s in the Ehrlich ascites tumor cell model in vitro Since then, numerous preclinical studies have been performed using cellular and animal models of different cancers including breast cancer to determine cancer therapeutic and chemopreventive effects of WA. Chemoprevention, a word first introduced by Dr. Michael B. Sporn, was intended to impede, arrest, or reverse carcinogenesis at its earliest stages with pharmacologic agents. This review succinctly summarizes the published findings on anticancer pharmacology of WA in breast cancer focusing on pharmacokinetic behavior, in vivo efficacy data in preclinical models in a therapeutic and chemoprevention settings, and its known effects on cancer-relevant cellular processes (e.g., growth arrest, apoptosis induction, autophagy, metabolic adaptation, immune function, etc.) and molecular targets (e.g., suppression of oncogenes such as estrogen receptor-α, STAT3, etc.). Potential gaps in knowledge as well as future research directions essential for clinical development of WA for chemoprevention and/or treatment of breast cancer are also discussed.",
+  "search_text": "pubmed 32727824 A Comprehensive Review and Perspective on Anticancer Mechanisms of Withaferin A in Breast Cancer. PubMed Research Scientific Literature Hahm ER Kim SH Singh KB Singh K Singh SV Tamil Tamil script open_access PubMed Central 32727824 Hahm ER Kim SH Singh KB Singh K Singh SV Cancer prevention research (Philadelphia, Pa.) 2020 Sep 10.1158/1940-6207.CAPR-20-0259 Withaferin A (hereafter abbreviated as WA) is a promising anticancer steroidal lactone abundant in a medicinal plant (Withania somnifera) native to Asia. The root/leaf extract of Withania somnifera, which belongs to the Solanaceae family, continues to be included in the Ayurvedic medicine formulations of alternative medicine practice. Numerous chemicals are detectable in the root/leaf extract of Withania somnifera [e.g., withanolides (WA, withanone, withanolide A, etc.), alkaloids, sitoindosides, etc.], but the anticancer effect of this medicinal plant is largely attributed to WA. Anticancer effect of WA was initially reported in the early 70s in the Ehrlich ascites tumor cell model in vitro Since then, numerous preclinical studies have been performed using cellular and animal models of different cancers including breast cancer to determine cancer therapeutic and chemopreventive effects of WA. Chemoprevention, a word first introduced by Dr. Michael B. Sporn, was intended to impede, arrest, or reverse carcinogenesis at its earliest stages with pharmacologic agents. This review succinctly summarizes the published findings on anticancer pharmacology of WA in breast cancer focusing on pharmacokinetic behavior, in vivo efficacy data in preclinical models in a therapeutic and chemoprevention settings, and its known effects on cancer-relevant cellular processes (e.g., growth arrest, apoptosis induction, autophagy, metabolic adaptation, immune function, etc.) and molecular targets (e.g., suppression of oncogenes such as estrogen receptor-α, STAT3, etc.). Potential gaps in knowledge as well as future research directions essential for clinical development of WA for chemoprevention and/or treatment of breast cancer are also discussed."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0278",
+  "text_id": "thirumandiram_pm_0278",
+  "title": "Thirumandiram - Verse 281",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "281",
+  "tamil_text": "இன்பப் பிறவிக்கு இயல்வது செய்தவன்\nதுன்பப் பிறவித் தொழில்பல என்னினும்\nஅன்பிற் கலவிசெய்து ஆதிப் பிரான்வைத்த\nமுன்பிப் பிறவி முடிவது தானே.",
+  "transliteration": "iṉpp piṟvikku iylvtu ceytvṉ\ntuṉpp piṟvit toḻilpl eṉṉiṉum\naṉpiṟ klviceytu ātip pirāṉvaitt\nmuṉpip piṟvi muṭivtu tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bb8874ceeb03846aeb978a8ef1c0c293840594c045721f03fc70cc57ec355487",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

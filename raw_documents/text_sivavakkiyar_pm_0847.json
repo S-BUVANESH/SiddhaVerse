@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0847",
+  "text_id": "sivavakkiyar_pm_0847",
+  "title": "Sivavakkiyam - Verse 238",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "238",
+  "tamil_text": "பிறப்பதும் இறப்பதும் பிறந்திடாது இருப்பதும்\nமறப்பதும் நினைப்பதும் மறைந்ததைத் தெளிந்ததும்\nதுறப்பதும் கொடுப்பதும் சுகித்துவாரி உண்பதும்\nபிறப்பதும் இறப்பதும் பிறந்தவீடு அடங்குமே.",
+  "transliteration": "piṟpptum iṟpptum piṟntiṭātu irupptum\nmṟpptum niṉaipptum mṟainttait teḷinttum\ntuṟpptum koṭupptum cukittuvāri uṇptum\npiṟpptum iṟpptum piṟntvīṭu aṭṅkumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1f889f702ea56458af956a74a4b3e1203c61f279f68c81c016518a1d3f9b5ba0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

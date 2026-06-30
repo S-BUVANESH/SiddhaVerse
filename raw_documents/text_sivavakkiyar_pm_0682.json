@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0682",
+  "text_id": "sivavakkiyar_pm_0682",
+  "title": "Sivavakkiyam - Verse 73",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "73",
+  "tamil_text": "உருவம்அல்ல, வெளியும்அல்ல, ஒன்றைமேவி நின்றதல்ல\nமருவும்வாசல் சொந்தம்அல்ல மற்றதல்ல அற்றதல்ல\nபெரியதல்ல சிறியதல்ல பேசலான தானும்அல்ல\nஅரியதாகி நின்றநேர்மை யாவர்காண வல்லரே?",
+  "transliteration": "uruvmall, veḷiyumall, oṉṟaimēvi niṉṟtll\nmruvumvācl contmall mṟṟtll aṟṟtll\nperiytll ciṟiytll pēclāṉ tāṉumall\nariytāki niṉṟnērmai yāvrkāṇ vllrē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8f51113be3d98b356c89f7f3360df6a9f71799725f184ec9cd2d4ba1f3b6d606",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

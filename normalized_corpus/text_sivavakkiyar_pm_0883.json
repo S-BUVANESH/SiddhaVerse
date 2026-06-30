@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0883",
+  "text_id": "sivavakkiyar_pm_0883",
+  "title": "Sivavakkiyam - Verse 274",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "274",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பொய்யுரைக்க போகமென்று பொய்யருக் கிருக்கையால்\nமெய்யுரைக்க வேண்டுதில்லை மெய்யர்மெய்க் கிலாமையால்\nவையகத்தில் உண்மைதன்னை வாய்திறக்க அஞ்சினேன்\nநையவைத்தது என்கொலோ நமசிவாய நாதனே!",
+  "transliteration": "poyyuraikk pōkmeṉṟu poyyruk kirukkaiyāl\nmeyyuraikk vēṇṭutillai meyyrmeyk kilāmaiyāl\nvaiykttil uṇmaitṉṉai vāytiṟkk añciṉēṉ\nnaiyvaitttu eṉkolō nmcivāy nātṉē!",
+  "english_translation": null,
+  "content_hash": "fe34de1d429627fd538b8ac352b68b43dab3d935530570f747e97750dca5b119",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "siddhar_bogar",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "place_chidambaram",
+    "body_sound",
+    "practice_moolamantra",
+    "deity_shiva"
+  ]
+}

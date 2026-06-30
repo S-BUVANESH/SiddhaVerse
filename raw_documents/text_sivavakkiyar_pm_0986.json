@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0986",
+  "text_id": "sivavakkiyar_pm_0986",
+  "title": "Sivavakkiyam - Verse 377",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "377",
+  "tamil_text": "முப்புறத்தில் அப்புறம் முக்கண்ணன்வினைவிலே\nசிற்பரத்துள் உற்புனம் சிவாயம்அஞ் செழுத்துமே\nதற்பரம் உதித்துநின்ற தாணுஎங்கும் ஆனபின்\nஇப்புறம் ஒடுங்குமோடி எங்கும்லிங்கம் ஆனதே.",
+  "transliteration": "muppuṟttil appuṟm mukkṇṇṉviṉaivilē\nciṟprttuḷ uṟpuṉm civāymañ ceḻuttumē\ntṟprm utittuniṉṟ tāṇueṅkum āṉpiṉ\nippuṟm oṭuṅkumōṭi eṅkumliṅkm āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "71cece9af3c784b0a01dd908bae310ea8ecd5614e57b059929b093e5e3bc77ae",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

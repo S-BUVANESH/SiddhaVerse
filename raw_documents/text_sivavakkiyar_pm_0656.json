@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0656",
+  "text_id": "sivavakkiyar_pm_0656",
+  "title": "Sivavakkiyam - Verse 47",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "47",
+  "tamil_text": "அறிவு நிலை\n\nகறந்தபால் முலைப்புகா, கடைந்தவெண்ணெய் மோர்புகா;\nஉடைந்துபோன சங்கின்ஓசை உயிர்களும் உடற்புகா;\nவிரிந்தபூ உதிர்ந்தகாயும் மீண்டுபோய் மரம்புகா;\nஇறந்தவர் பிறப்பதில்லை இல்லைஇல்லை இல்லையே.",
+  "transliteration": "aṟivu nilai\n\nkṟntpāl mulaippukā, kṭaintveṇṇey mōrpukā;\nuṭaintupōṉ cṅkiṉōcai uyirkḷum uṭṟpukā;\nvirintpū utirntkāyum mīṇṭupōy mrmpukā;\niṟntvr piṟpptillai illaiillai illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e87594e4f36180904f1a9561d8b39410b480d3980d8b622e06bfb94b5567dac8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

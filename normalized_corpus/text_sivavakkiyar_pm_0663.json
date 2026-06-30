@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0663",
+  "text_id": "sivavakkiyar_pm_0663",
+  "title": "Sivavakkiyam - Verse 54",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "54",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாழிஅப்பும் நாழிஉப்பும் நாழியான வாறுபோல்\nஆழியோனும் ஈசனும் அமர்ந்து வாழ்ந்திருந்திடம்\nஏறில்ஆறு ஈசனும் இயங்கு சக்ரதரனையும்\nவேறுகூறு பேசுவார் வீழ்வர்வீண் நரகிலே.",
+  "transliteration": "nāḻiappum nāḻiuppum nāḻiyāṉ vāṟupōl\nāḻiyōṉum īcṉum amrntu vāḻntiruntiṭm\nēṟilāṟu īcṉum iyṅku ckrtrṉaiyum\nvēṟukūṟu pēcuvār vīḻvrvīṇ nrkilē.",
+  "english_translation": null,
+  "content_hash": "0bf61d32448da3926abe207cca07c529e7ac5b805aade4843d56e1fe1be386f0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_chakra",
+    "place_kashi",
+    "body_breath",
+    "deity_shiva"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0279",
+  "text_id": "thirumandiram_pm_0279",
+  "title": "Thirumandiram - Verse 282",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "282",
+  "tamil_text": "அன்புறு சிந்தையின் மேலெழும் அவ்வொளி\nஇன்புறு கண்ணியொடு ஏற்க இசைந்தன\nதுன்புறு கண்ணி ஐந் தாடும் துடக்கற்று\nநண்புறு சிந்தையை நாடுமின் நீரே.",
+  "transliteration": "aṉpuṟu cintaiyiṉ mēleḻum avvoḷi\niṉpuṟu kṇṇiyoṭu ēṟk icaintṉ\ntuṉpuṟu kṇṇi ain tāṭum tuṭkkṟṟu\nnṇpuṟu cintaiyai nāṭumiṉ nīrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1d064d999424d30f2c5080ebb2ce97580133cf8ba70d92a5acfc4e9a73f42fd5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

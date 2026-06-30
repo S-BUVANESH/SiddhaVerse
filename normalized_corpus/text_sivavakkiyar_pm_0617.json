@@ -1,0 +1,34 @@
+{
+  "document_id": "sivavakkiyar_pm_0617",
+  "text_id": "sivavakkiyar_pm_0617",
+  "title": "Sivavakkiyam - Verse 8",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "8",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மண்ணும்நீ அவ்விண்ணும்நீ மறிகடல்கள் ஏழும்நீ;\nஎண்ணும்நீ எழுத்தும்நீ இசைந்தபண் எழுத்தும்நீ;\nகண்ணும்நீ மணியும்நீ கண்ணுள் ஆடும் பாவைநீ-\nநண்ணும்நீர்மை நின்றபாதம் நண்ணுமாறு அருளிடாய்.",
+  "transliteration": "mṇṇumnī avviṇṇumnī mṟikṭlkḷ ēḻumnī;\neṇṇumnī eḻuttumnī icaintpṇ eḻuttumnī;\nkṇṇumnī mṇiyumnī kṇṇuḷ āṭum pāvainī-\nnṇṇumnīrmai niṉṟpātm nṇṇumāṟu aruḷiṭāy.",
+  "english_translation": null,
+  "content_hash": "dbf1ce358e5ca52c6fca2d24370f2581d8f47ab0215d7abdc126d2508e4e1dd1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_eye"
+  ]
+}

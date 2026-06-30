@@ -1,0 +1,26 @@
+{
+  "title": "IMPPAT: Indian Medicinal Plants, Phytochemistry And Therapeutics",
+  "url": "https://cb.imsc.res.in/imppat/",
+  "organization": "Institute of Mathematical Sciences (IMSc), Chennai",
+  "source_type": "Research Paper",
+  "license_status": "open_access",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 40,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Phytochemical Profiles",
+    "Therapeutic Activity Links",
+    "Botanical Classification Mapping",
+    "Traditional Medicine Cross-references"
+  ],
+  "notes": "Excellent scientific dataset linking Siddha plants to chemical formulations and active components. Use for entity relationship modeling."
+}

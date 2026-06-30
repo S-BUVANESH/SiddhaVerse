@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0980",
+  "text_id": "sivavakkiyar_pm_0980",
+  "title": "Sivavakkiyam - Verse 371",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "371",
+  "tamil_text": "அடிதொடக்கி முடியளவும் ஆறுமா நிலம்கடந்து\nஅப்புறத்தில் வெளிகடந்த ஆதிஎங்கள் சோதியை\nஉடுபதிக்கண் அமுதருந்தி உண்மைஞான உவகையுள்\nஉச்சிபட்டு இறங்குகின்ற யோகிநல்ல யோகியே.",
+  "transliteration": "aṭitoṭkki muṭiyḷvum āṟumā nilmkṭntu\nappuṟttil veḷikṭnt ātieṅkḷ cōtiyai\nuṭuptikkṇ amutrunti uṇmaiñāṉ uvkaiyuḷ\nuccipṭṭu iṟṅkukiṉṟ yōkinll yōkiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5311992669e895b9cd7f94d2c18045a6d86a33cd249c3d91f44c4b6918664d25",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

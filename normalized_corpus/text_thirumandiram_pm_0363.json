@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0363",
+  "text_id": "thirumandiram_pm_0363",
+  "title": "Thirumandiram - Verse 911",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "911",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மேனி இரண்டும் விலங்காமல் மேற்கொள்ள\nமேனி இரண்டும் மிகார விகாரியாம்\nமேனி இரண்டும் ஊஆஈஏஓ என்று\nமேனி இரண்டும் ஈஓஊஆஏ கூத்தாமே.",
+  "transliteration": "mēṉi irṇṭum vilṅkāml mēṟkoḷḷ\nmēṉi irṇṭum mikār vikāriyām\nmēṉi irṇṭum ūāīēō eṉṟu\nmēṉi irṇṭum īōūāē kūttāmē.",
+  "english_translation": null,
+  "content_hash": "a42e9d2513eb9c9969ae4c907592a0770ffd68b9101eec647738693326697904",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "plant_lotus"
+  ]
+}

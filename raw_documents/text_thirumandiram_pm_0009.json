@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0009",
+  "text_id": "thirumandiram_pm_0009",
+  "title": "Thirumandiram - Verse 9",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "9",
+  "tamil_text": "பொன்னால் புரிந்திட்ட பொற்சடை யென்னப்\nபின்னாற் பிறங்க இருந்தவன் பேர்நந்தி\nஎன்னால் தொழப்படும் எம்இறை மற்றவன்\nதன்னால் தொழப்படு வாரில்லை தானே.",
+  "transliteration": "poṉṉāl purintiṭṭ poṟcṭai yeṉṉp\npiṉṉāṟ piṟṅk iruntvṉ pērnnti\neṉṉāl toḻppṭum emiṟai mṟṟvṉ\ntṉṉāl toḻppṭu vārillai tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "769d1f06a18f65c8ae717c5607367eb9019ebe8f71132ddd970bdd0c18f60d27",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

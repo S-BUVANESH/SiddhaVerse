@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0780",
+  "text_id": "sivavakkiyar_pm_0780",
+  "title": "Sivavakkiyam - Verse 171",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "171",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சதுரம்நாலு மறையும்எட்டு தானதங்கி மூன்றுமே\nஎதிரதான வாயுவாறு என்னும்வட்ட மேவியே.\nஉதிரதான வரைகள்எட்டும் எண்ணும்என் சிரசின்மேல்\nகதிரதான காயகத்தில் கலந்தெழுந்த நாதமே.",
+  "transliteration": "cturmnālu mṟaiyumeṭṭu tāṉtṅki mūṉṟumē\netirtāṉ vāyuvāṟu eṉṉumvṭṭ mēviyē.\nutirtāṉ vraikḷeṭṭum eṇṇumeṉ circiṉmēl\nktirtāṉ kāykttil klnteḻunt nātmē.",
+  "english_translation": null,
+  "content_hash": "c858221e05a97be68ad1c2757e1b409fe2d87c0401579846f1cc6d12431db042",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_sound",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "place_chidambaram",
+    "deity_vishnu",
+    "practice_kayakalpa",
+    "body_head",
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

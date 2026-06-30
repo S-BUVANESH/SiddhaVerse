@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0749",
+  "text_id": "sivavakkiyar_pm_0749",
+  "title": "Sivavakkiyam - Verse 140",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "140",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நூறுகோடி ஆகமங்கள் நூறுகோடி மந்திரம்\nநூறுகோடி நாள்இருந்து ஓதினால் அதுஎன்பயன்?\nஆறும்ஆறும் ஆறுமாய் அகத்தில்ஓர் எழுத்துமாய்\nஏறுசீர் எழுத்தைஓத ஈசன்வந்து பேசுமே!",
+  "transliteration": "nūṟukōṭi ākmṅkḷ nūṟukōṭi mntirm\nnūṟukōṭi nāḷiruntu ōtiṉāl atueṉpyṉ?\nāṟumāṟum āṟumāy akttilōr eḻuttumāy\nēṟucīr eḻuttaiōt īcṉvntu pēcumē!",
+  "english_translation": null,
+  "content_hash": "d30401120bb1943acb67513063837fea1ac9d95a20d0aea1b915082fd545cb85",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_agama",
+    "deity_shiva",
+    "concept_mantra",
+    "siddhar_agasthiyar"
+  ]
+}

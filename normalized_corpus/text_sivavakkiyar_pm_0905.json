@@ -1,0 +1,50 @@
+{
+  "document_id": "sivavakkiyar_pm_0905",
+  "text_id": "sivavakkiyar_pm_0905",
+  "title": "Sivavakkiyam - Verse 296",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "296",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேதமொன்று கண்டிலேன் வெம்பிறப்பு இலாமையால்\nபோதம்நின்ற வடிவதாய்ப் புவனமெங்கும் ஆயினாய்,\nசோதியுள் ஒளியுமாய்த் துரியமோடு அதீதமாய்\nஆதிமூலம் ஆதியாய் அமைந்ததே சிவாயமே.",
+  "transliteration": "vētmoṉṟu kṇṭilēṉ vempiṟppu ilāmaiyāl\npōtmniṉṟ vṭivtāyp puvṉmeṅkum āyiṉāy,\ncōtiyuḷ oḷiyumāyt turiymōṭu atītmāy\nātimūlm ātiyāy amainttē civāymē.",
+  "english_translation": null,
+  "content_hash": "b0d2f032c6a109c542258a84b70c6e9ae87d39a598571b79f1bf75c0833eb4e6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "deity_kali",
+    "body_light",
+    "deity_vishnu",
+    "body_eye",
+    "body_moolam",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "deity_shiva",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

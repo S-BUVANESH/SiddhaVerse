@@ -1,0 +1,26 @@
+{
+  "title": "Tamil Digital Library (TVA Portal)",
+  "url": "https://www.tamildigitallibrary.in",
+  "organization": "Tamil Virtual Academy, Government of Tamil Nadu",
+  "source_type": "Book",
+  "license_status": "mixed",
+  "trust_score": "9.5/10",
+  "priority": "critical",
+  "acquisition_difficulty": 5,
+  "coverage": {
+    "siddhars": 20,
+    "plants": 10,
+    "formulations": 15,
+    "diseases": 15,
+    "manuscripts": 30,
+    "research": 10
+  },
+  "access_type": "open",
+  "contains": [
+    "Digitized Rare Books",
+    "Palm-leaf Manuscript Scans",
+    "Historical Journals",
+    "Government Gazettes"
+  ],
+  "notes": "Key acquisition portal for digitized historical prints. Check individual book publishing dates for copyright status (generally pre-1956 is safe)."
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_26718910",
+  "text_id": "pubmed_26718910",
+  "title": "Withania somnifera: From prevention to treatment of cancer.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Palliyaguru DL",
+    "Singh SV",
+    "Kensler TW"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "68200ebe64821e8df67e28a577c41c71da344f7526e190ad9aa05108ceab5d2a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "26718910",
+  "authors": [
+    "Palliyaguru DL",
+    "Singh SV",
+    "Kensler TW"
+  ],
+  "journal": "Molecular nutrition & food research",
+  "pubdate": "2016 Jun",
+  "doi": "10.1002/mnfr.201500756",
+  "abstract": "The identification of bioactive molecules that have potential to interrupt carcinogenesis continues to garner research interest. In particular, molecules that have dietary origin are most attractive because of their safety, cost-effectiveness and feasibility of oral administration. Nutraceuticals have played an important role in the overall well-being of humans for many years, with or without rigorous evidence backing their health claims. Traditional medicine systems around the world have utilized plants that have medicinal properties for millennia, providing an opportunity for modern day researchers to assess their efficacies against ailments such as cancer. Withania somnifera (WS) is a plant that has been used in Ayurveda (an ancient form of medicine in Asia) and in the recent past, has been demonstrated to have anti-tumorigenic properties in experimental models. While scientific research performed on WS has exploded in the past decade, much regarding the mode of action and molecular targets involved remains unknown. In this review, we discuss the traditional uses of the plant, the experimental evidence supporting its chemopreventive potential as well as roadblocks that need to be overcome in order for WS to be evaluated as a chemopreventive agent in humans.",
+  "search_text": "pubmed 26718910 Withania somnifera: From prevention to treatment of cancer. PubMed Research Scientific Literature Palliyaguru DL Singh SV Kensler TW Tamil Tamil script open_access PubMed Central 26718910 Palliyaguru DL Singh SV Kensler TW Molecular nutrition & food research 2016 Jun 10.1002/mnfr.201500756 The identification of bioactive molecules that have potential to interrupt carcinogenesis continues to garner research interest. In particular, molecules that have dietary origin are most attractive because of their safety, cost-effectiveness and feasibility of oral administration. Nutraceuticals have played an important role in the overall well-being of humans for many years, with or without rigorous evidence backing their health claims. Traditional medicine systems around the world have utilized plants that have medicinal properties for millennia, providing an opportunity for modern day researchers to assess their efficacies against ailments such as cancer. Withania somnifera (WS) is a plant that has been used in Ayurveda (an ancient form of medicine in Asia) and in the recent past, has been demonstrated to have anti-tumorigenic properties in experimental models. While scientific research performed on WS has exploded in the past decade, much regarding the mode of action and molecular targets involved remains unknown. In this review, we discuss the traditional uses of the plant, the experimental evidence supporting its chemopreventive potential as well as roadblocks that need to be overcome in order for WS to be evaluated as a chemopreventive agent in humans."
+}

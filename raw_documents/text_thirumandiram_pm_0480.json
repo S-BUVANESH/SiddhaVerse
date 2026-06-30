@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0480",
+  "text_id": "thirumandiram_pm_0480",
+  "title": "Thirumandiram - Verse 1038",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1038",
+  "tamil_text": "கலந்திரு பாதம் இருகர மாகும்\nமலர்ந்திரு குண்ட மகாரத்தார் Yமூக்கு\nமலர்ந்தெழு செம்முகம் மற்றைக்கண் நெற்றி\nஉணர்ந்திரு குஞ்சி அங்கு உத்தம னார்க்கே.",
+  "transliteration": "klntiru pātm irukr mākum\nmlrntiru kuṇṭ mkārttār Ymūkku\nmlrnteḻu cemmukm mṟṟaikkṇ neṟṟi\nuṇrntiru kuñci aṅku uttm ṉārkkē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "cb0cc82173f45051220b98e4a57a8d063de9e767cee375f54b294fcdd2aa3d20",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

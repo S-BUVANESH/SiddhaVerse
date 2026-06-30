@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0904",
+  "text_id": "sivavakkiyar_pm_0904",
+  "title": "Sivavakkiyam - Verse 295",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "295",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உள்ளினும் புறம்பினும் உலகமெங்கணும் பரந்து\nஎள்ளில்எண்ணெய் போலநின்று இயங்குகின்ற எம்பிரான்\nமெள்ளவந்து என்னுட்புகுந்து மெய்த்தவம் புரிந்தபின்\nவள்ளலென்ன வள்ளலுக்கு வண்ணமென்ன வண்ணமே?",
+  "transliteration": "uḷḷiṉum puṟmpiṉum ulkmeṅkṇum prntu\neḷḷileṇṇey pōlniṉṟu iyṅkukiṉṟ empirāṉ\nmeḷḷvntu eṉṉuṭpukuntu meyttvm purintpiṉ\nvḷḷleṉṉ vḷḷlukku vṇṇmeṉṉ vṇṇmē?",
+  "english_translation": null,
+  "content_hash": "28085491537d0de64831388e2b50359efb9273c5e54bd071d5e8eaa3556d652f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_jnana",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_tapas"
+  ]
+}

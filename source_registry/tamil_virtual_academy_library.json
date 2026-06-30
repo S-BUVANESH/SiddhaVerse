@@ -1,0 +1,26 @@
+{
+  "title": "Tamil Virtual Academy Digital Library",
+  "url": "http://www.tamilvu.org/library/libindex.htm",
+  "organization": "Tamil Virtual Academy, Government of Tamil Nadu",
+  "source_type": "Book",
+  "license_status": "mixed",
+  "trust_score": "9.5/10",
+  "priority": "critical",
+  "acquisition_difficulty": 4,
+  "coverage": {
+    "siddhars": 30,
+    "plants": 10,
+    "formulations": 10,
+    "diseases": 10,
+    "manuscripts": 20,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Siddhar Songs",
+    "Classical Tamil Literature",
+    "Digital Books on Siddha Medicine",
+    "TVA Educational Material"
+  ],
+  "notes": "Primary repository for classical Tamil texts and digitized publications. Ingestion must prioritize out-of-copyright classical songs."
+}

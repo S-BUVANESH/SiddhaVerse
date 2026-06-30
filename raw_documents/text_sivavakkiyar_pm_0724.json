@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0724",
+  "text_id": "sivavakkiyar_pm_0724",
+  "title": "Sivavakkiyam - Verse 115",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "115",
+  "tamil_text": "நாவில்நூல் அழிந்ததும் நலம்குலம் அழிந்ததும்\nமேவுதேர் அழிந்ததும் விசாரம் குறைந்ததும்\nபாவிகாள் இதென்னமாயம் வாமநாடு பூசலாய்\nஆவியார் அடங்குநாளில் ஐவரும் அடங்குவார்.",
+  "transliteration": "nāvilnūl aḻinttum nlmkulm aḻinttum\nmēvutēr aḻinttum vicārm kuṟainttum\npāvikāḷ iteṉṉmāym vāmnāṭu pūclāy\nāviyār aṭṅkunāḷil aivrum aṭṅkuvār.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "39f69b1b296b2ae9e4c7f41354b1822dfc2ea81f2cd0b5eb72910261afda1771",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

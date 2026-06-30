@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_32335645",
+  "text_id": "pubmed_32335645",
+  "title": "Health System Development in Nepal.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Marasini B"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "dd7afb30de0941b81146c2d57f9bf8542d204057e1cdf89f91c9f7dc0335933a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "32335645",
+  "authors": [
+    "Marasini B"
+  ],
+  "journal": "JNMA; journal of the Nepal Medical Association",
+  "pubdate": "2020 Jan",
+  "doi": null,
+  "abstract": "The development of health system in Nepal dates back from ancient period to the modern period starting from ayurvedic medicine to today's modern allopathic treatment. With regard to the different rulers in different time period, the number of improvements and changes in the health system of Nepal has been made. Moreover, the health system is further strengthened by the involvement of people and better management of health information and drug supply. Keywords: Bir Hospital; Community health; Health; Nepal.",
+  "search_text": "pubmed 32335645 Health System Development in Nepal. PubMed Research Scientific Literature Marasini B Tamil Tamil script open_access PubMed Central 32335645 Marasini B JNMA; journal of the Nepal Medical Association 2020 Jan The development of health system in Nepal dates back from ancient period to the modern period starting from ayurvedic medicine to today's modern allopathic treatment. With regard to the different rulers in different time period, the number of improvements and changes in the health system of Nepal has been made. Moreover, the health system is further strengthened by the involvement of people and better management of health information and drug supply. Keywords: Bir Hospital; Community health; Health; Nepal."
+}

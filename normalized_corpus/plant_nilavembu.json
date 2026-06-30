@@ -1,0 +1,47 @@
+{
+  "document_id": "plant_nilavembu",
+  "text_id": "plant_nilavembu",
+  "title": "Green Chiretta",
+  "source_work": "Siddha Materia Medica",
+  "collection": "Medicinal Plants",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "நிலவேம்பு",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "e4b8605c634874320e4c484301359d7bacd2daba186b8e1b35c7745bcf940dfb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [
+    "plant_nilavembu"
+  ],
+  "search_text": "Green Chiretta நிலவேம்பு Green Chiretta Andrographis paniculata Acanthaceae Whole plant, leaves Andrographolide, Neoandrographolide Fever, liver diseases, anti-malarial, anti-inflammatory Nilavembu Kudineer decoction plant_nilavembu",
+  "translation_status": "unavailable",
+  "tamil": "நிலவேம்பு",
+  "english": "Green Chiretta",
+  "scientific": "Andrographis paniculata",
+  "family": "Acanthaceae",
+  "part": "Whole plant, leaves",
+  "phytochem": "Andrographolide, Neoandrographolide",
+  "uses": "Fever, liver diseases, anti-malarial, anti-inflammatory",
+  "prep": "Nilavembu Kudineer decoction",
+  "verse_entity": "plant_nilavembu"
+}

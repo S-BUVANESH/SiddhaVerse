@@ -1,0 +1,50 @@
+{
+  "document_id": "sivavakkiyar_pm_0896",
+  "text_id": "sivavakkiyar_pm_0896",
+  "title": "Sivavakkiyam - Verse 287",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "287",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "முச்சதுர மூலமாகி முடிவுமாகி ஏகமாய்\nஅச்சதுரம் ஆகியே அடங்கியோர் எழுத்துமாய்\nமெய்ச்சதுர மெய்யுளே விளங்குஞான தீபமாய்\nஉச்சரிக்கும் மந்திரத்தின் உண்மையே சிவாயமே.",
+  "transliteration": "mucctur mūlmāki muṭivumāki ēkmāy\naccturm ākiyē aṭṅkiyōr eḻuttumāy\nmeycctur meyyuḷē viḷṅkuñāṉ tīpmāy\nuccrikkum mntirttiṉ uṇmaiyē civāymē.",
+  "english_translation": null,
+  "content_hash": "1b8afd51e0284d7de22ced5e1d06e83636be1b8abd62319c07c9201e1de09823",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "concept_jnana",
+    "body_light",
+    "deity_vishnu",
+    "body_moolam",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_mantra",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

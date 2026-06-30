@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0197",
+  "text_id": "thirumandiram_pm_0197",
+  "title": "Thirumandiram - Verse 200",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "200",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கொலையே களவுகள் காமம் பொய்கூறல்\nமலைவான பாதகமாம் அவை நீக்கித்\nதலையாம் சிவனடி சார்ந்தின்பம் சார்ந்தோர்க்கு\nஇலையாம் இவைஞானா னந்தத் திருத்தலே.",
+  "transliteration": "kolaiyē kḷvukḷ kāmm poykūṟl\nmlaivāṉ pātkmām avai nīkkit\ntlaiyām civṉṭi cārntiṉpm cārntōrkku\nilaiyām ivaiñāṉā ṉntt tiruttlē.",
+  "english_translation": null,
+  "content_hash": "4226819ef4d0bb0b806f9084e6f4904424144166c6894be954c170398153a818",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_head",
+    "deity_shiva"
+  ]
+}

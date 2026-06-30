@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0714",
+  "text_id": "sivavakkiyar_pm_0714",
+  "title": "Sivavakkiyam - Verse 105",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "105",
+  "tamil_text": "பரம்உனக்கு எனக்குவேறு பயம்இலை பராபரா!\nகரம்எடுத்து நிற்றலும் குவித்திடக் கடவதும்\nசிரம்உருகி அமுதளித்த சீருலாவு நாதனே;\nஉரம்எனக்கு நீ அளித்த ஓம்நமசி வாயவே!",
+  "transliteration": "prmuṉkku eṉkkuvēṟu pymilai prāprā!\nkrmeṭuttu niṟṟlum kuvittiṭk kṭvtum\ncirmuruki amutḷitt cīrulāvu nātṉē;\nurmeṉkku nī aḷitt ōmnmci vāyvē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "85f97fde342f79ee8d8eeac28739f1659f48a42fb30eb9d717737e1d61cd8cb5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

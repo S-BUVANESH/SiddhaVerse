@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0312",
+  "text_id": "thirumandiram_pm_0312",
+  "title": "Thirumandiram - Verse 316",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "316",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கணக்கறிந் தார்க்கு அன்றிக் காணஒண் ணாதது\nகணக்கறிந் தார்க்கு அன்றிக் கைகூடாக் காட்சி\nகணக்கறிந்து உண்மையைக் கண்டுஅண்ட நிற்கும்\nகணக்கறிந் தார்கல்வி கற்றறிந் தாரே.",
+  "transliteration": "kṇkkṟin tārkku aṉṟik kāṇoṇ ṇāttu\nkṇkkṟin tārkku aṉṟik kaikūṭāk kāṭci\nkṇkkṟintu uṇmaiyaik kṇṭuaṇṭ niṟkum\nkṇkkṟin tārklvi kṟṟṟin tārē.",
+  "english_translation": null,
+  "content_hash": "8462cfd214bf33991d1e2bf44d160039e08403b43733c5407ff7e763f25d247a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

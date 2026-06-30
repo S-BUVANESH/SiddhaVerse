@@ -1,0 +1,25 @@
+{
+  "title": "Internet Archive Siddhar Literature Collection",
+  "url": "https://archive.org",
+  "organization": "Internet Archive",
+  "source_type": "Book",
+  "license_status": "public_domain",
+  "trust_score": "8.5/10",
+  "priority": "high",
+  "acquisition_difficulty": 4,
+  "coverage": {
+    "siddhars": 25,
+    "plants": 15,
+    "formulations": 20,
+    "diseases": 15,
+    "manuscripts": 10,
+    "research": 15
+  },
+  "access_type": "open",
+  "contains": [
+    "Digitized Older Books",
+    "English Translations of Siddha Texts",
+    "Historical Ethnobotany Pamphlets"
+  ],
+  "notes": "Contains out-of-copyright scans. Check individual upload metadata for license details."
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0871",
+  "text_id": "sivavakkiyar_pm_0871",
+  "title": "Sivavakkiyam - Verse 262",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "262",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விண்ணினின்று மின்னெழுந்து மின்னொடுங்கு மாறுபோல்\nஎன்னுள்நின்றும் எண்ணும்ஈசன் என்னகத்திருக் கையால்\nகண்ணினின்று கண்ணில்தோன்றும் கண்ணிறி விலாமையால்\nஎன்னுள்நின்ற என்னையும் யானறிந்தது இல்லையே.",
+  "transliteration": "viṇṇiṉiṉṟu miṉṉeḻuntu miṉṉoṭuṅku māṟupōl\neṉṉuḷniṉṟum eṇṇumīcṉ eṉṉkttiruk kaiyāl\nkṇṇiṉiṉṟu kṇṇiltōṉṟum kṇṇiṟi vilāmaiyāl\neṉṉuḷniṉṟ eṉṉaiyum yāṉṟinttu illaiyē.",
+  "english_translation": null,
+  "content_hash": "6fa3f4092b7613e6c6c16f6b17391a32aafc6c1e53d1b84a07355d7b4228ad1d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "body_eye",
+    "deity_vishnu",
+    "deity_shiva"
+  ]
+}

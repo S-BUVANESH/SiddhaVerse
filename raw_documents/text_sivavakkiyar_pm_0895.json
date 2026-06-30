@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0895",
+  "text_id": "sivavakkiyar_pm_0895",
+  "title": "Sivavakkiyam - Verse 286",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "286",
+  "tamil_text": "மூலமான அக்கரம் முகப்பதற்கு முன்னெலாம்\nமூடமாக மூடுகின்ற மூடமேது *முடரே\nகாலனான அஞ்சுபூதம் அஞ்சிலே ஒடுங்கினால்\nஆலயோடு கூடுமோ அனாதியோடு கூடுமோ?",
+  "transliteration": "mūlmāṉ akkrm mukpptṟku muṉṉelām\nmūṭmāk mūṭukiṉṟ mūṭmētu *muṭrē\nkālṉāṉ añcupūtm añcilē oṭuṅkiṉāl\nālyōṭu kūṭumō aṉātiyōṭu kūṭumō?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fde51eb2adb202195ea01719d1479971e069b4ad5877f97dd658d213e34c12bc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

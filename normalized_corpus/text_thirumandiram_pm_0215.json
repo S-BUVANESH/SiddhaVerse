@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0215",
+  "text_id": "thirumandiram_pm_0215",
+  "title": "Thirumandiram - Verse 218",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "218",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நெய்நின்று எரியும் நெடுஞ்சுட ரேசென்று\nமைநின்று எரியும் வகையறி வார்க்கட்கு\nமைநின்று அவிழ்தரும் அத்தின மாம் என்றும்\nசெய்நின்ற செல்வம் தீயது வாமே.",
+  "transliteration": "neyniṉṟu eriyum neṭuñcuṭ rēceṉṟu\nmainiṉṟu eriyum vkaiyṟi vārkkṭku\nmainiṉṟu aviḻtrum attiṉ mām eṉṟum\nceyniṉṟ celvm tīytu vāmē.",
+  "english_translation": null,
+  "content_hash": "af6093fceb28f8514c7891626c8cafe30ff22deadeee64c23c828249c3e5a596",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_fire",
+    "place_kashi"
+  ]
+}

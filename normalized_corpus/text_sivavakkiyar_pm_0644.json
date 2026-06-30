@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0644",
+  "text_id": "sivavakkiyar_pm_0644",
+  "title": "Sivavakkiyam - Verse 35",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "35",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "செங்கலும் கருங்கலும் சிவந்தசாதி லிங்கமும்\nசெம்பிலும் தராவிலும் சிவன்இருப்பன் என்கிறீர்\nஉம்மதம் அறிந்துநீர் உம்மைநீர் அறிந்தபின்\nஅம்பலம் நிறைந்தநாதர் ஆடல்பாடல் ஆகுமோ!",
+  "transliteration": "ceṅklum kruṅklum civntcāti liṅkmum\ncempilum trāvilum civṉiruppṉ eṉkiṟīr\nummtm aṟintunīr ummainīr aṟintpiṉ\namplm niṟaintnātr āṭlpāṭl ākumō!",
+  "english_translation": null,
+  "content_hash": "8aeda3de28bef226d4bdac8f549364aa21b1418cfac4e3dcb0c52b7f9354caff",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "symbol_three",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0700",
+  "text_id": "sivavakkiyar_pm_0700",
+  "title": "Sivavakkiyam - Verse 91",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "91",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அவ்வெனும் எழுத்தினால் அகண்டம்ஏழு ஆக்கினாய்;\nஉவ்வெனும் எழுத்தினால் உருத்தரித்து நின்றனை;\nமவ்வெனும் எழுத்தினால் மயங்கினார்கள் வையகம்;\nஅவ்வும்உவ்வும் மவ்வுமாய் அமர்ந்ததே சிவாயமே!",
+  "transliteration": "avveṉum eḻuttiṉāl akṇṭmēḻu ākkiṉāy;\nuvveṉum eḻuttiṉāl uruttrittu niṉṟṉai;\nmvveṉum eḻuttiṉāl myṅkiṉārkḷ vaiykm;\navvumuvvum mvvumāy amrnttē civāymē!",
+  "english_translation": null,
+  "content_hash": "2b2b68696cf61b45d84bd7f25eac1dbb0fb43e7ec21c3239fc65a2d52e291b08",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_shiva"
+  ]
+}

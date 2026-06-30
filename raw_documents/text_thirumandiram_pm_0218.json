@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0218",
+  "text_id": "thirumandiram_pm_0218",
+  "title": "Thirumandiram - Verse 221",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "221",
+  "tamil_text": "ஒண்சுட ரானை உலப்பிலி நாதனை\nஒண்சுட ராகிஎன் உள்ளத்து இருக்கின்ற\nகண்சுட ரோன் உலகு ஏழும் கடந்த அத்\nதண்சுடர் ஓமத் தலைவனு மாமே.",
+  "transliteration": "oṇcuṭ rāṉai ulppili nātṉai\noṇcuṭ rākieṉ uḷḷttu irukkiṉṟ\nkṇcuṭ rōṉ ulku ēḻum kṭnt at\ntṇcuṭr ōmt tlaivṉu māmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "66b326d9401eb816019b99c9285a9183bd56bc582d4a45f1cecc48ffaa111a2e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

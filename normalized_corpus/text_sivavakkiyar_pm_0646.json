@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0646",
+  "text_id": "sivavakkiyar_pm_0646",
+  "title": "Sivavakkiyam - Verse 37",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "37",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருக்குநாலு வேதமும் எழுத்தை அறவோதினும்\nபெருக்கநீறு பூசினும் பிதற்றினும் பிரான்இரான்\nஉருக்கிநெஞ்சை உட்கலந்திங்கு உண்மைகூற வல்லீரேல்\nசுருக்கம்அற்ற சோதியைத் தொடர்ந்து கூடலாகுமோ!",
+  "transliteration": "irukkunālu vētmum eḻuttai aṟvōtiṉum\nperukknīṟu pūciṉum pitṟṟiṉum pirāṉirāṉ\nurukkineñcai uṭklntiṅku uṇmaikūṟ vllīrēl\ncurukkmaṟṟ cōtiyait toṭrntu kūṭlākumō!",
+  "english_translation": null,
+  "content_hash": "b5caf122d334e59a8191abc9371f2f1e1091c3e26b4c643bd2e1c39774d8dfc1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_heart",
+    "plant_vallarai",
+    "symbol_three",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "siddhar_ramadevar",
+    "body_light",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

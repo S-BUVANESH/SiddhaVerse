@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0701",
+  "text_id": "sivavakkiyar_pm_0701",
+  "title": "Sivavakkiyam - Verse 92",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "92",
+  "tamil_text": "மந்திரங்கள் உண்டுநீர் மயங்குகின்ற மானிடீர்!\nமந்திரங்கள் ஆவதும் மறத்தில்ஊறல் அன்றுகாண்;\nமந்திரங்கள் ஆவது மதத்தெழுந்த வாயுவை;\nமந்திரத்தை உண்டவர்க்கு மரணம்ஏதும் இல்லையே!",
+  "transliteration": "mntirṅkḷ uṇṭunīr myṅkukiṉṟ māṉiṭīr!\nmntirṅkḷ āvtum mṟttilūṟl aṉṟukāṇ;\nmntirṅkḷ āvtu mttteḻunt vāyuvai;\nmntirttai uṇṭvrkku mrṇmētum illaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4eb6c444fcaeab62c80ddb11523c50003dc22f2bd6bfd75adc03d40b4c45a5d6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

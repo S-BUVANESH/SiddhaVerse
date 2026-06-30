@@ -1,0 +1,26 @@
+{
+  "title": "AYUSH Research Portal",
+  "url": "https://research.ayush.gov.in",
+  "organization": "Ministry of AYUSH, Government of India",
+  "source_type": "Research Paper",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 5,
+    "plants": 25,
+    "formulations": 25,
+    "diseases": 20,
+    "manuscripts": 5,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Clinical Trials",
+    "Observational Studies",
+    "Pre-clinical Research Data",
+    "Evidence-based Ayush Literature"
+  ],
+  "notes": "Meta-registry for AYUSH research. Restrict to harvesting metadata, abstracts, and DOIs for clinical validation."
+}

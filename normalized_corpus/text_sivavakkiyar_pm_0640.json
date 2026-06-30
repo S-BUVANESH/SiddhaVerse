@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0640",
+  "text_id": "sivavakkiyar_pm_0640",
+  "title": "Sivavakkiyam - Verse 31",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "31",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பாட்டில்லாத பரமனைப் பரமலோக நாதனை\nநாட்டிலாத நாதனை நாரிமங்கை பாகனை\nகூட்டிமெள்ள வாய்புதைத்துக் குணுகுணுத்த மந்திரம்\nவேட்டகாரர் குசுகுசுப்பைக் கூப்பிடா முகிஞ்சதே.",
+  "transliteration": "pāṭṭillāt prmṉaip prmlōk nātṉai\nnāṭṭilāt nātṉai nārimṅkai pākṉai\nkūṭṭimeḷḷ vāyputaittuk kuṇukuṇutt mntirm\nvēṭṭkārr kucukucuppaik kūppiṭā mukiñctē.",
+  "english_translation": null,
+  "content_hash": "8224c14db402e69f8ab390927b8668eba74a52719c5a19e009bbc3e3b410c2ac",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_mukti",
+    "body_sound",
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_kundalini",
+    "deity_vishnu",
+    "concept_nadi",
+    "deity_murugan",
+    "concept_brahman",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

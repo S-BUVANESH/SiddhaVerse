@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0293",
+  "text_id": "thirumandiram_pm_0293",
+  "title": "Thirumandiram - Verse 296",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "296",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆய்ந்துகொள் வார்க்குஅரன் அங்கே வெளிப்படும்\nதோய்ந்த நெருப்பது தூய்மணி சிந்திடும்\nஏய்ந்த இளமதி எட்டவல் லார்கட்கு\nவாய்ந்த மனமல்கு நூலேணி யாமே.",
+  "transliteration": "āyntukoḷ vārkkuarṉ aṅkē veḷippṭum\ntōynt nerupptu tūymṇi cintiṭum\nēynt iḷmti eṭṭvl lārkṭku\nvāynt mṉmlku nūlēṇi yāmē.",
+  "english_translation": null,
+  "content_hash": "4bf85dc4bd77caaeda69e679c1f37a62fa195c588c8c22e07fb356685e5f8a60",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_heart",
+    "plant_vallarai",
+    "place_kashi",
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

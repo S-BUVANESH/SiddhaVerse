@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0929",
+  "text_id": "sivavakkiyar_pm_0929",
+  "title": "Sivavakkiyam - Verse 320",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "320",
+  "tamil_text": "திருத்திவைத்த சற்குருவைச் சீர்பெற வணங்கிலீர்\nகுருக்கொடுக்கும் பித்தரே கொண்டுநீந்த வல்லீரோ?\nகுருக்கொடுக்கும் பித்தரும் குருக்கொள்வந்த சீடனும்\nபருத்திபட்ட பாடுதான் பன்னிரண்டும் பட்டதே.",
+  "transliteration": "tiruttivaitt cṟkuruvaic cīrpeṟ vṇṅkilīr\nkurukkoṭukkum pittrē koṇṭunīnt vllīrō?\nkurukkoṭukkum pittrum kurukkoḷvnt cīṭṉum\npruttipṭṭ pāṭutāṉ pṉṉirṇṭum pṭṭtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1c41e3b98d1fbaee6c38ba88bf8a3c5afb94b96ab9a67bfbd60c4b92be7e0e32",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "siddhar_sattaimuni_bio",
+  "text_id": "siddhar_sattaimuni_bio",
+  "title": "Sattaimuni",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Sattaimuni",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "சட்டைமுனி",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "167faad26857d6d1cb8a1e367de1159b6bc1691aa3dd5ee7be06346341adbff6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Sattaimuni Sattaimuni சட்டைமுனி c. 8th–10th century CE Also known as Chatamuni. A wandering ascetic known for his mastery of alchemy and herbal medicine. Associated with the legendary 18 Siddhars. Sattaimuni Gnanam Bogar Sattaimuni Sarakkum Alchemy, herbal medicine, Siddha pharmacology siddhar_sattaimuni",
+  "translation_status": "unavailable",
+  "name": "Sattaimuni",
+  "tamil_name": "சட்டைமுனி",
+  "period": "c. 8th–10th century CE",
+  "biography": "Also known as Chatamuni. A wandering ascetic known for his mastery of alchemy and herbal medicine. Associated with the legendary 18 Siddhars.",
+  "texts": [
+    "Sattaimuni Gnanam",
+    "Bogar Sattaimuni Sarakkum"
+  ],
+  "philosophy": "Alchemy, herbal medicine, Siddha pharmacology",
+  "verse_corpus_entity": "siddhar_sattaimuni"
+}

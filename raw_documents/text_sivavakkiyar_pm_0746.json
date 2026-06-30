@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0746",
+  "text_id": "sivavakkiyar_pm_0746",
+  "title": "Sivavakkiyam - Verse 137",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "137",
+  "tamil_text": "தீமைகண்டு நின்றபெண்ணின் தூமைதானும் ஊறியே\nசீமைஎங்கும் ஆணும்பெண்ணும் சேர்ந்துலகம் கண்டதே.\nதூமைதானும் ஆசையாய் துறந்திருந்த சீவனை\nதூமைஅற்று கொண்டிருந்த தேசம்ஏது தேசமே?",
+  "transliteration": "tīmaikṇṭu niṉṟpeṇṇiṉ tūmaitāṉum ūṟiyē\ncīmaieṅkum āṇumpeṇṇum cērntulkm kṇṭtē.\ntūmaitāṉum ācaiyāy tuṟntirunt cīvṉai\ntūmaiaṟṟu koṇṭirunt tēcmētu tēcmē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "115f97a2bd4f37890442c47394898a54766ab0c10079d80eb08328c11b4f96a2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

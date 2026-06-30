@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0582",
+  "text_id": "thirumandiram_pm_0582",
+  "title": "Thirumandiram - Verse 1141",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1141",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தாமேல் உறைவிடம் ஆறிதழ் ஆனது\nபார்மேல் இதழ்பழி னெட்டிரு நூறுன\nபூமேல் உறைகின்ற புண்ணியம் வந்தனள்\nபார்மேல் உறைகின்ற பைந்தொடி யாளே.",
+  "transliteration": "tāmēl uṟaiviṭm āṟitḻ āṉtu\npārmēl itḻpḻi ṉeṭṭiru nūṟuṉ\npūmēl uṟaikiṉṟ puṇṇiym vntṉḷ\npārmēl uṟaikiṉṟ paintoṭi yāḷē.",
+  "english_translation": null,
+  "content_hash": "2e5185486586f30aca8a53e74b4b118773f1b8312516fa0a13121c2fe5dbcf8c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "deity_shakti"
+  ]
+}

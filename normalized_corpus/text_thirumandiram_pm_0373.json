@@ -1,0 +1,45 @@
+{
+  "document_id": "thirumandiram_pm_0373",
+  "text_id": "thirumandiram_pm_0373",
+  "title": "Thirumandiram - Verse 922",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "922",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாடும் பிரணவம் நடுஇரு பக்கமும்\nஆடும் அவர்வாய் அமர்ந்தங்கு நின்றது\nநாடும் நடுவண் முகம்நம சிவாய\nஆடும் சிவாயநம புறவட்டத்து ஆயதே.",
+  "transliteration": "nāṭum pirṇvm nṭuiru pkkmum\nāṭum avrvāy amrntṅku niṉṟtu\nnāṭum nṭuvṇ mukmnm civāy\nāṭum civāynm puṟvṭṭttu āytē.",
+  "english_translation": null,
+  "content_hash": "af492bdd752022a6f29ac4b3fc935e6bb9a5a65711f673a15186d9ea02ae40fa",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "practice_varma",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "concept_nadi",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_bhakti",
+    "deity_shiva",
+    "concept_mukti"
+  ]
+}

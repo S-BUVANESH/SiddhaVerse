@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0549",
+  "text_id": "thirumandiram_pm_0549",
+  "title": "Thirumandiram - Verse 1107",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1107",
+  "tamil_text": "உறங்கும் அளவில் மனோன்மணி வந்து\nகறங்கும் வளைக்கைக் கழுத்தாரப் புல்லிப்\nபிறங்கொளித் தம்பலம் வாயில் உமிழ்ந்திட்டு\nஉறங்கல்ஐ யாஎன்று உபாயம்செய் தாளே.",
+  "transliteration": "uṟṅkum aḷvil mṉōṉmṇi vntu\nkṟṅkum vḷaikkaik kḻuttārp pullip\npiṟṅkoḷit tmplm vāyil umiḻntiṭṭu\nuṟṅklai yāeṉṟu upāymcey tāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c50282ffcc6e2d4031f21f3f8df5574f446c6786f1a020f7e2625bcb44fcfdc9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

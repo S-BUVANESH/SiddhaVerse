@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0490",
+  "text_id": "thirumandiram_pm_0490",
+  "title": "Thirumandiram - Verse 1048",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1048",
+  "tamil_text": "நல்குந் திரிபுரை நாதநா தாந்தங்கள்\nபல்கும் பரவிந்து பாரண்ட மானவை\nநல்கும் பரைஅபி ராமி அகோசரி\nபுல்கும் அருளும்அப் போதந்தந் தாளுமே.",
+  "transliteration": "nlkun tiripurai nātnā tāntṅkḷ\nplkum prvintu pārṇṭ māṉvai\nnlkum praiapi rāmi akōcri\npulkum aruḷumap pōtntn tāḷumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1c40965d34da999a7b4fca08de17c61c01967a900e688d06ac98b47f2b60d3ca",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

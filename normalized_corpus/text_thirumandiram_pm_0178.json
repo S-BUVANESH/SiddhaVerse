@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0178",
+  "text_id": "thirumandiram_pm_0178",
+  "title": "Thirumandiram - Verse 181",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "181",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பாலன் இளையன் விருத்தன் எனநின்ற\nகாலங் கழிவன கண்டும் அறிகிலார்\nஞாலம்கடந்து அண்டம் ஊடறுத் தான்அடி\nமேலுங் கிடந்து விரும்புவன் நானே.",
+  "transliteration": "pālṉ iḷaiyṉ viruttṉ eṉniṉṟ\nkālṅ kḻivṉ kṇṭum aṟikilār\nñālmkṭntu aṇṭm ūṭṟut tāṉaṭi\nmēluṅ kiṭntu virumpuvṉ nāṉē.",
+  "english_translation": null,
+  "content_hash": "216c4d14907b783c9a1534a8f85f3222b2a627f6203623bdb6bae476951c7908",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "body_eye",
+    "deity_brahma"
+  ]
+}

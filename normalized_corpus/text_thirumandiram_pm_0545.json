@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0545",
+  "text_id": "thirumandiram_pm_0545",
+  "title": "Thirumandiram - Verse 1103",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1103",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தையல் நல் லாளைத் தவத்தின் தலைவியை\nமையலை நோக்கும் மனோன்மணி மங்கையைப்\nபையநின் றேத்திப் பணிமின் பணிந்தபின்\nவெய்ய பவம்இனி மேவகி லாவே.",
+  "transliteration": "taiyl nl lāḷait tvttiṉ tlaiviyai\nmaiylai nōkkum mṉōṉmṇi mṅkaiyaip\npaiyniṉ ṟēttip pṇimiṉ pṇintpiṉ\nveyy pvmiṉi mēvki lāvē.",
+  "english_translation": null,
+  "content_hash": "9907961a5300690d877678724ff7a6368aa2c0614d6b95f15248c7fbb9d3edd7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "body_head",
+    "plant_thippili",
+    "practice_kumbhaka"
+  ]
+}

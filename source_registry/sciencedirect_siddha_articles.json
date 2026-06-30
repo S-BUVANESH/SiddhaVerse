@@ -1,0 +1,25 @@
+{
+  "title": "ScienceDirect Siddha Research Literature",
+  "url": "https://www.sciencedirect.com",
+  "organization": "Elsevier B.V.",
+  "source_type": "Research Paper",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "10.0/10",
+  "priority": "medium",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 30,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 30
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Pharmacological Evaluations",
+    "Toxicity Studies",
+    "Historical and Anthropological Studies of Siddha"
+  ],
+  "notes": "High-quality research database. Extract abstract summaries, keywords, and DOIs for validation."
+}

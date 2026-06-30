@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0566",
+  "text_id": "thirumandiram_pm_0566",
+  "title": "Thirumandiram - Verse 1125",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1125",
+  "tamil_text": "அளந்தேன் அகலிடத்து அந்தமும் ஈறும்\nஅளந்தேன் அகலிடத்து ஆதிப் பிரானை\nஅளந்தேன் அகலிடத்து ஆணொடு பெண்ணும்\nஅளந்தேன் அவனருள் ஆய்ந்துணர்ந் தேனே.",
+  "transliteration": "aḷntēṉ akliṭttu antmum īṟum\naḷntēṉ akliṭttu ātip pirāṉai\naḷntēṉ akliṭttu āṇoṭu peṇṇum\naḷntēṉ avṉruḷ āyntuṇrn tēṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ef16a1909350ab3b64bc7dfb21ac7fa4f9126068b6735b422e25b53dd391dc09",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

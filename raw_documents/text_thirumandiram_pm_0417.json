@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0417",
+  "text_id": "thirumandiram_pm_0417",
+  "title": "Thirumandiram - Verse 967",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "967",
+  "tamil_text": "வீழ்ந்தெழு லாம்விகிர் தன்திரு நாமத்தைச்\nசோர்ந்தொழி யாமல் தொடங்கும் ஒருவற்குச்\nசார்ந்த வினைத்துயர் போகத் தலைவனும்\nபோந்திடும் என்னும் புரிசடை யோனே.",
+  "transliteration": "vīḻnteḻu lāmvikir tṉtiru nāmttaic\ncōrntoḻi yāml toṭṅkum oruvṟkuc\ncārnt viṉaittuyr pōkt tlaivṉum\npōntiṭum eṉṉum puricṭai yōṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ec66b1f50f94497d10120c4392049cdab38e7e16a318b04e1a178c8f9fe4725a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

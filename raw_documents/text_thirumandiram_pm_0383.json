@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0383",
+  "text_id": "thirumandiram_pm_0383",
+  "title": "Thirumandiram - Verse 932",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "932",
+  "tamil_text": "அவ்விட்டு வைத்தங்கு அரவிட்டு மேல்வைத்து\nஇவ்விட்டுப் பார்க்கில் இலிங்கம தாய்நிற்கும்\nமவ்விட்டு மேலே வளியுறக் கண்டபின்\nதொம்மிட்டு நின்ற சுடர்க்கொழுந்து ஆமே.",
+  "transliteration": "avviṭṭu vaittṅku arviṭṭu mēlvaittu\nivviṭṭup pārkkil iliṅkm tāyniṟkum\nmvviṭṭu mēlē vḷiyuṟk kṇṭpiṉ\ntommiṭṭu niṉṟ cuṭrkkoḻuntu āmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1beac0698663b416632e88f0fd7edbb13a7b666f53b1a6b7ba394e7bfcc34136",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

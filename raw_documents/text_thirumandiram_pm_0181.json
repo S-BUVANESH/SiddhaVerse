@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0181",
+  "text_id": "thirumandiram_pm_0181",
+  "title": "Thirumandiram - Verse 184",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "184",
+  "tamil_text": "கண்ணதும் காய்கதி ரோனும் உலகினை\nஉண்ணின்று அளக்கின்றது ஒன்றும் அறிகிலார்\nவிண்ணுறு வாரையும் வினையுறு வாரையும்\nஎண்ணுறும் முப்பதில் ஈர்ந்தொழிந் தாரே.",
+  "transliteration": "kṇṇtum kāykti rōṉum ulkiṉai\nuṇṇiṉṟu aḷkkiṉṟtu oṉṟum aṟikilār\nviṇṇuṟu vāraiyum viṉaiyuṟu vāraiyum\neṇṇuṟum mupptil īrntoḻin tārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5d0e45e8e1d39eacad49ea1b92920d9f0a1fb91dc49328d31937a7e3ab50a772",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0267",
+  "text_id": "thirumandiram_pm_0267",
+  "title": "Thirumandiram - Verse 270",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "270",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அன்பு சிவம் இரண்டு என்பர் அறிவிலார்\nஅன்பே சிவமாவது ஆரும் அறிகிலார்\nஅன்பே சிவமாவது ஆரும் அறிந்தபின்\nஅன்பே சிவமாய் அமர்ந்திருந் தாரே.",
+  "transliteration": "aṉpu civm irṇṭu eṉpr aṟivilār\naṉpē civmāvtu ārum aṟikilār\naṉpē civmāvtu ārum aṟintpiṉ\naṉpē civmāy amrntirun tārē.",
+  "english_translation": null,
+  "content_hash": "34c5e8bbf2792ee69097fc6f2745bdf2d6aae5fbdcb9c960e038d4cfcd5cc9f1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shiva"
+  ]
+}

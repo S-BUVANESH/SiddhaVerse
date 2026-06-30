@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0839",
+  "text_id": "sivavakkiyar_pm_0839",
+  "title": "Sivavakkiyam - Verse 230",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "230",
+  "tamil_text": "விழுத்தகண் குவித்தபோ தடைந்துபோய் எழுத்தெலாம்\nவிளைந்துவிட்ட இந்திரசால வீடதான வெளியிலே\nஅழுத்தினாலு மதிமயங்கி அனுபவிக்கும் வேளையில்\nஅவனுமுண்டு நானுமில்லை யாருமில்லை ஆனதே.",
+  "transliteration": "viḻuttkṇ kuvittpō tṭaintupōy eḻuttelām\nviḷaintuviṭṭ intircāl vīṭtāṉ veḷiyilē\naḻuttiṉālu mtimyṅki aṉupvikkum vēḷaiyil\navṉumuṇṭu nāṉumillai yārumillai āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ec7092b7c39585ce0171dbedc5c6c5f1254fde6a48f06ef4115e406cf1d98c4a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

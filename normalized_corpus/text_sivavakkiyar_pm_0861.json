@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0861",
+  "text_id": "sivavakkiyar_pm_0861",
+  "title": "Sivavakkiyam - Verse 252",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "252",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பேய்கள்பேய்கள் என்கிறீர் பிதற்குகின்ற பேயர்காள்,\nபேய்கள்பூசை கொள்ளுமோ பிடாரிபூசை கொள்ளுமோ\nஆதிபூசை கொள்ளுமோ அனாதி பூசை கொள்ளுமோ\nகாயமான பேயலோ கணக்கறிந்து கொண்டதே.",
+  "transliteration": "pēykḷpēykḷ eṉkiṟīr pitṟkukiṉṟ pēyrkāḷ,\npēykḷpūcai koḷḷumō piṭāripūcai koḷḷumō\nātipūcai koḷḷumō aṉāti pūcai koḷḷumō\nkāymāṉ pēylō kṇkkṟintu koṇṭtē.",
+  "english_translation": null,
+  "content_hash": "a013e231c3559dd5d48ee4834595b148587267d2c357692de64ac88006a3c956",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_kali",
+    "deity_shakti",
+    "plant_thippili",
+    "practice_kayakalpa"
+  ]
+}

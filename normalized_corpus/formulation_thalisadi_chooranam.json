@@ -1,0 +1,48 @@
+{
+  "document_id": "formulation_thalisadi_chooranam",
+  "text_id": "formulation_thalisadi_chooranam",
+  "title": "Thalisadi Chooranam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Thalisadi Chooranam",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "6339eb338c105cafc95811161a4db63c4cb31dc613dbb1821bcba5e5420e4144",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Thalisadi Chooranam Thalisadi Chooranam Chooranam (Powder) Talisha Pathra (Abies webbiana) Thippili Lavangam Elakkai Grind equal parts to fine powder; take 1-3g with honey. Cough, bronchitis, respiratory disorders 1-3g twice daily Siddha Pharmacopoeia of India",
+  "translation_status": "unavailable",
+  "name": "Thalisadi Chooranam",
+  "category": "Chooranam (Powder)",
+  "ingredients": [
+    "Talisha Pathra (Abies webbiana)",
+    "Thippili",
+    "Lavangam",
+    "Elakkai"
+  ],
+  "method": "Grind equal parts to fine powder; take 1-3g with honey.",
+  "indications": "Cough, bronchitis, respiratory disorders",
+  "dosage": "1-3g twice daily",
+  "source": "Siddha Pharmacopoeia of India"
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0281",
+  "text_id": "thirumandiram_pm_0281",
+  "title": "Thirumandiram - Verse 284",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "284",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உற்றுநின் றாரொடும் அத்தகு சோதியைச்\nசித்தர்கள் என்றும் தொ஢ந்தறி வாரில்லை\nபத்திமை யாலே பணிந்தடி யார்தொழ\nமுத்தி கொடுத்தவர் முன்புநின் றானே.",
+  "transliteration": "uṟṟuniṉ ṟāroṭum attku cōtiyaic\ncittrkḷ eṉṟum to஢ntṟi vārillai\npttimai yālē pṇintṭi yārtoḻ\nmutti koṭuttvr muṉpuniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "4ffb9a4f4e30abbe5ea1fd756bf0105cd93f34954f07ba3531f8fb70491e0455",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "practice_varma",
+    "symbol_three",
+    "place_chidambaram",
+    "practice_mudra",
+    "place_kashi",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

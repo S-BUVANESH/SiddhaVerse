@@ -1,0 +1,32 @@
+{
+  "document_id": "thirumandiram_pm_0246",
+  "text_id": "thirumandiram_pm_0246",
+  "title": "Thirumandiram - Verse 249",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "249",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வரையிடை நின்றிழி வான்நீர் அருவி\nஉரையில்லை உள்ளத் தகத்துநின் றூறும்\nநுரையில்லை மாசில்லை நுண்ணிய தெண்ணீர்\nகரையில்லை எந்தை கழுமணி யாறே.",
+  "transliteration": "vraiyiṭai niṉṟiḻi vāṉnīr aruvi\nuraiyillai uḷḷt tkttuniṉ ṟūṟum\nnuraiyillai mācillai nuṇṇiy teṇṇīr\nkraiyillai entai kḻumṇi yāṟē.",
+  "english_translation": null,
+  "content_hash": "309c4be3d90ed294f935729b31e266156a9ac894b4d7ef429b0666cc584b0c3b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": []
+}

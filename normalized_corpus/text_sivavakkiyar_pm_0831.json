@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0831",
+  "text_id": "sivavakkiyar_pm_0831",
+  "title": "Sivavakkiyam - Verse 222",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "222",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எங்கும்உள்ள ஈசனார் எம்முடல் புகுந்தபின்\nபங்குகூறு போடுவார், பாடுசென்று அணுகிலார்\nஎங்கள்தெய்வம் உங்கள்தெய்வம் என்றிரண்டு பேதமோ?\nஉங்கள்பேதம் அன்றியே உண்மைஇரண்டு இல்லையே?",
+  "transliteration": "eṅkumuḷḷ īcṉār emmuṭl pukuntpiṉ\npṅkukūṟu pōṭuvār, pāṭuceṉṟu aṇukilār\neṅkḷteyvm uṅkḷteyvm eṉṟirṇṭu pētmō?\nuṅkḷpētm aṉṟiyē uṇmaiirṇṭu illaiyē?",
+  "english_translation": null,
+  "content_hash": "b1d9d00520f101139f51c1a01e1c9f0d33e49c7646534fc2b9812671a595dd03",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

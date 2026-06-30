@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0732",
+  "text_id": "sivavakkiyar_pm_0732",
+  "title": "Sivavakkiyam - Verse 123",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "123",
+  "tamil_text": "மூலமான மூச்சதில் மூச்சறிந்து விட்டபின்\nநாளுநாளு முன்னிலொரு நாட்டமாகி நாட்டிடில்\nபாலனாகி நீடலாம் பரப்பிரமம் ஆகலாம்\nஆலம்உண்ட கண்டர்ஆணை அம்மைஆணை உண்மையே!",
+  "transliteration": "mūlmāṉ mūcctil mūccṟintu viṭṭpiṉ\nnāḷunāḷu muṉṉiloru nāṭṭmāki nāṭṭiṭil\npālṉāki nīṭlām prppirmm āklām\nālmuṇṭ kṇṭrāṇai ammaiāṇai uṇmaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ce77954e444ffd13097f9ab2ccdca86292ab6f5e039e8d362c40365a933c6a57",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

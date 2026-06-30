@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0736",
+  "text_id": "sivavakkiyar_pm_0736",
+  "title": "Sivavakkiyam - Verse 127",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "127",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேதம்நாலும் பூதமாய் விரவும்அங்கு நீரதாய்ப்\nபாதமே இலிங்கமாய்ப் பரிந்தபூசை பண்ணினால்\nகாதினின்று கடைதிறந்து கட்டறுத்த ஞானிகள்\nஆதிஅந்த மும்கடந்து அரியவீடு அடைவரே!",
+  "transliteration": "vētmnālum pūtmāy virvumaṅku nīrtāyp\npātmē iliṅkmāyp printpūcai pṇṇiṉāl\nkātiṉiṉṟu kṭaitiṟntu kṭṭṟutt ñāṉikḷ\nātiant mumkṭntu ariyvīṭu aṭaivrē!",
+  "english_translation": null,
+  "content_hash": "e0c017e78f6959031acf37a97b89daa15460d8956b95d1205f053e224e198de8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "concept_jnana",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_mukti"
+  ]
+}

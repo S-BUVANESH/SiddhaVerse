@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0494",
+  "text_id": "thirumandiram_pm_0494",
+  "title": "Thirumandiram - Verse 1052",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1052",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தத்துவம் பாரத தனத்தி சுகோதயள்\nவத்துவம் ஆய்ஆ ளும்மாசத்தி மாபரை\nஅத்தகை யாவும் அணோரணி தானுமாய்\nவைத்தஅக் கோல மதியவள் ஆகுமே.",
+  "transliteration": "tttuvm pārt tṉtti cukōtyḷ\nvttuvm āyā ḷummāctti māprai\nattkai yāvum aṇōrṇi tāṉumāy\nvaittak kōl mtiyvḷ ākumē.",
+  "english_translation": null,
+  "content_hash": "a98fd2b5efb7aef6909e19862d2617ffe306f58f3d96349ba2468658aa3a5f26",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "plant_ginger",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "practice_kumbhaka",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

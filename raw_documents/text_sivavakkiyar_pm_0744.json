@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0744",
+  "text_id": "sivavakkiyar_pm_0744",
+  "title": "Sivavakkiyam - Verse 135",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "135",
+  "tamil_text": "தூமைஅற்று நின்றலோ சுதீபமுற்று நின்றது?\nஆண்மைஅற்று நின்றலோ வழக்கமற்று நின்றது?\nதாண்மைஅற்று ஆண்மைஅற்று சஞ்சலங்கள் அற்றுநின்ற\nதூமைதூமை அற்றகாலம் சொல்லும்அற்று நின்றதே!",
+  "transliteration": "tūmaiaṟṟu niṉṟlō cutīpmuṟṟu niṉṟtu?\nāṇmaiaṟṟu niṉṟlō vḻkkmṟṟu niṉṟtu?\ntāṇmaiaṟṟu āṇmaiaṟṟu cñclṅkḷ aṟṟuniṉṟ\ntūmaitūmai aṟṟkālm collumaṟṟu niṉṟtē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fd518e4f6ae2950d0b27b40521b07f2045a47ab756883517a4540078766a68a0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

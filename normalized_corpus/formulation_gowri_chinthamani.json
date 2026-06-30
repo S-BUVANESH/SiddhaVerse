@@ -1,0 +1,48 @@
+{
+  "document_id": "formulation_gowri_chinthamani",
+  "text_id": "formulation_gowri_chinthamani",
+  "title": "Gowri Chinthamani",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Gowri Chinthamani",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c2a282206717059577d61df6fe65efb059b9400cf618de2047fff5994ae2a650",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Gowri Chinthamani Gowri Chinthamani Chooranam Processed pearl (Muthu Parpam) Coral (Pravala Parpam) Gold (Thanga Parpam) Rose water Mix equal weight mineral preparations with rose water. Mental clarity, longevity, Rasayana, heart tonic 65mg with honey or ghee Classical Siddha Rasayana tradition",
+  "translation_status": "unavailable",
+  "name": "Gowri Chinthamani",
+  "category": "Chooranam",
+  "ingredients": [
+    "Processed pearl (Muthu Parpam)",
+    "Coral (Pravala Parpam)",
+    "Gold (Thanga Parpam)",
+    "Rose water"
+  ],
+  "method": "Mix equal weight mineral preparations with rose water.",
+  "indications": "Mental clarity, longevity, Rasayana, heart tonic",
+  "dosage": "65mg with honey or ghee",
+  "source": "Classical Siddha Rasayana tradition"
+}

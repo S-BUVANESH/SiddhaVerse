@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0434",
+  "text_id": "thirumandiram_pm_0434",
+  "title": "Thirumandiram - Verse 987",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "987",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எட்டு வரையின்மேல் எட்டு வரைகீறி\nஇட்ட நடுவுள் இறைவன் எழுத்தொன்றில்\nவட்டத்தி லேயறை நாற்பத்தெட் டும்இட்டுச்\nசிட்டஞ் செழுத்தும் செபிசீக் கிரமே.",
+  "transliteration": "eṭṭu vraiyiṉmēl eṭṭu vraikīṟi\niṭṭ nṭuvuḷ iṟaivṉ eḻuttoṉṟil\nvṭṭtti lēyṟai nāṟptteṭ ṭumiṭṭuc\nciṭṭñ ceḻuttum cepicīk kirmē.",
+  "english_translation": null,
+  "content_hash": "59f20c77409d2d01c8778fa00027f05407ff3333041e93db12821b817b7f7fc9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

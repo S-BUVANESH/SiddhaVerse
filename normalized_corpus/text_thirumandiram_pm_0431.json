@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0431",
+  "text_id": "thirumandiram_pm_0431",
+  "title": "Thirumandiram - Verse 984",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "984",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நவமும் சிவமும் உயிர்பர மாகும்\nதவமொன்று இலாதன தத்துவம் ஆகும்\nசிவம்ஒன்றி ஆய்பவர்ஆதர வால்அச்\nசிவம்என்ப தானாம் எனும்தெளி வுற்றதே. 71.",
+  "transliteration": "nvmum civmum uyirpr mākum\ntvmoṉṟu ilātṉ tttuvm ākum\ncivmoṉṟi āypvrātr vālac\ncivmeṉp tāṉām eṉumteḷi vuṟṟtē. 71.",
+  "english_translation": null,
+  "content_hash": "c71abbcea1447d26c9d05009d27f569ef97fdfa4abe1200f638763d43cd87d0b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "practice_varma",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "body_uyir",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_atman",
+    "concept_tapas",
+    "practice_kumbhaka"
+  ]
+}

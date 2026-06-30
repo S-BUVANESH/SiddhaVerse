@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0428",
+  "text_id": "thirumandiram_pm_0428",
+  "title": "Thirumandiram - Verse 980",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "980",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்சுக அஞ்செழுத்து உண்மை அறிந்தபின்\nநெஞ்சுகத்து உள்ளே நிலையும் பராபரம்\nவஞ்சகம் இல்லை மனைக்கும் அழிவில்லை\nதஞ்சம் இதுவென்று சாற்றுகின் றேனே.",
+  "transliteration": "añcuk añceḻuttu uṇmai aṟintpiṉ\nneñcukttu uḷḷē nilaiyum prāprm\nvñckm illai mṉaikkum aḻivillai\ntñcm ituveṉṟu cāṟṟukiṉ ṟēṉē.",
+  "english_translation": null,
+  "content_hash": "08cbe22cdcf317c237f7b7364db6aec10fb4a6ae44924fb1be54dc7a6b643864",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_heart",
+    "plant_ginger",
+    "concept_brahman",
+    "deity_murugan",
+    "deity_shakti",
+    "practice_pranayama",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

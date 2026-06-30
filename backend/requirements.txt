@@ -1,0 +1,6 @@
+fastapi
+pydantic
+pydantic-settings
+sqlalchemy
+pytest
+requests

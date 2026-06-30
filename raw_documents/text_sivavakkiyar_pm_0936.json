@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0936",
+  "text_id": "sivavakkiyar_pm_0936",
+  "title": "Sivavakkiyam - Verse 327",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "327",
+  "tamil_text": "மவுனஅஞ் செழுத்திலே வாசிஏறி மெள்ளவே\nவானளாய் நிறைந்தசோதி மண்டலம் புகுந்தபின்\nஅவனும்நானும் மெய்கலந்து அனுபவித்த அளவிலே\nஅவனுமுண்டு நானுமில்லை யாருமில்லை யானதே.",
+  "transliteration": "mvuṉañ ceḻuttilē vāciēṟi meḷḷvē\nvāṉḷāy niṟaintcōti mṇṭlm pukuntpiṉ\navṉumnāṉum meyklntu aṉupvitt aḷvilē\navṉumuṇṭu nāṉumillai yārumillai yāṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "93d002c53a07a31ed78e8443f27138d1caf984ec4ce3e6927966279f836d0d58",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

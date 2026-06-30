@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0240",
+  "text_id": "thirumandiram_pm_0240",
+  "title": "Thirumandiram - Verse 243",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "243",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆவையும் பாவையும் மற்றுஅற வோரையும்\nதேவர்கள் போற்றும் திருவேடத் தாரையும்\nகாவலன் காப்பவன் காவாது ஒழிவனேல்\nமேவும் மறுமைக்கு மீளா நரகமே.",
+  "transliteration": "āvaiyum pāvaiyum mṟṟuaṟ vōraiyum\ntēvrkḷ pōṟṟum tiruvēṭt tāraiyum\nkāvlṉ kāppvṉ kāvātu oḻivṉēl\nmēvum mṟumaikku mīḷā nrkmē.",
+  "english_translation": null,
+  "content_hash": "7b3096cbd188caae2bd5b3d65ff7da3dd4785080cc505fdfa176ed278efe9971",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "practice_varma",
+    "deity_vishnu"
+  ]
+}

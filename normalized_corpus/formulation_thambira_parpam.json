@@ -1,0 +1,46 @@
+{
+  "document_id": "formulation_thambira_parpam",
+  "text_id": "formulation_thambira_parpam",
+  "title": "Thambira Parpam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Thambira Parpam",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "cfe588b77ef241dd9a261f039820098876909264297efe94dbe2876ea527b1cb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Thambira Parpam Thambira Parpam Parpam (Calcined mineral ash) Copper (Thambira) Processed through purification Shodhana (purification) + Marana (calcination) of copper through 28 cycles with herbal decoctions. Liver diseases, anemia, skin disorders, worm infestations 65-130mg with butter or honey Siddha Agasthiyar texts",
+  "translation_status": "unavailable",
+  "name": "Thambira Parpam",
+  "category": "Parpam (Calcined mineral ash)",
+  "ingredients": [
+    "Copper (Thambira)",
+    "Processed through purification"
+  ],
+  "method": "Shodhana (purification) + Marana (calcination) of copper through 28 cycles with herbal decoctions.",
+  "indications": "Liver diseases, anemia, skin disorders, worm infestations",
+  "dosage": "65-130mg with butter or honey",
+  "source": "Siddha Agasthiyar texts"
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0176",
+  "text_id": "thirumandiram_pm_0176",
+  "title": "Thirumandiram - Verse 179",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "179",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தேய்ந்தற் றொழிந்த இளமை கடைமுறை\nஆய்ந்தற்ற பின்னை அரிய கருமங்கள்\nபாய்ந்தற்ற கங்கைப் படர்சடை நந்தியை\nஓர்ந்துற்று கொள்ளும் உயிருள்ள போதே.",
+  "transliteration": "tēyntṟ ṟoḻint iḷmai kṭaimuṟai\nāyntṟṟ piṉṉai ariy krumṅkḷ\npāyntṟṟ kṅkaip pṭrcṭai nntiyai\nōrntuṟṟu koḷḷum uyiruḷḷ pōtē.",
+  "english_translation": null,
+  "content_hash": "34f825250e96c7f1e2c31f9e0c9c9fc1c6e6f68f646e136930bf1c5608d71254",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_karuvoorar",
+    "body_uyir",
+    "concept_atman",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

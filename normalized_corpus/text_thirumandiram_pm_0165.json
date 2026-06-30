@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0165",
+  "text_id": "thirumandiram_pm_0165",
+  "title": "Thirumandiram - Verse 168",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "168",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அருளும் அரசனும் ஆனையம் தேரும்\nபொருளும் பிறர்கொள்ளப் போவதன் முன்னம்\nதெருளும் உயிரொடும் செல்வனைச் சோ஢ன்\nமருளும் பினையவன் மாதவ மன்றே.",
+  "transliteration": "aruḷum arcṉum āṉaiym tērum\nporuḷum piṟrkoḷḷp pōvtṉ muṉṉm\nteruḷum uyiroṭum celvṉaic cō஢ṉ\nmruḷum piṉaiyvṉ mātv mṉṟē.",
+  "english_translation": null,
+  "content_hash": "22efbd7b8ef203340a538d52d46b8b4c470614807b334d59e4bedf7778911204",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_uyir",
+    "siddhar_theriyar",
+    "concept_atman"
+  ]
+}

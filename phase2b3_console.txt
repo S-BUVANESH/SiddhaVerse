@@ -1,0 +1,29 @@
+﻿[13:52:53] ============================================================
+[13:52:53] Phase 2B-3: Search Infrastructure & Entity Refinement
+[13:52:53] ============================================================
+[13:52:53] 
+Step 1: Loading normalized corpus...
+[13:52:53]   Loaded 1150 documents
+[13:52:53] 
+Step 2: Building search index...
+[13:52:53]   search_index.json written (1150 records)
+[13:52:53] 
+Step 3: Loading entity registry for refinement...
+[13:52:53]   Loaded 93 entities
+[13:52:53] 
+Step 4: Applying confidence tier refinement...
+[13:52:53]   Confirmed: 3 | Probable: 16 | Candidate: 74
+[13:52:53]   FP Risk ? High: 28 | Medium: 0 | Low: 65
+[13:52:53]   entity_index_refined.json written
+[13:52:53] 
+Step 5: Building entity cross-references...
+[13:52:53]   entity_cross_reference.json written (93 entities)
+[13:52:53] 
+Step 6: Computing corpus navigation statistics...
+[13:52:53] 
+============================================================
+[13:52:53] Phase 2B-3 pipeline complete.
+[13:52:53]   Search index:          1150 records
+[13:52:53]   Refined entities:      93
+[13:52:53]   Cross-references:      93 entities
+[13:52:53] ============================================================

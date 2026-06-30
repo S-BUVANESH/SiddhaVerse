@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_8038443",
+  "text_id": "pubmed_8038443",
+  "title": "Traditional veterinary medicine in India.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Mazars G"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ffe2244b7236c0898187362063fce4cb8e3e93e4368d2972b8ccaa18493d73d3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "8038443",
+  "authors": [
+    "Mazars G"
+  ],
+  "journal": "Revue scientifique et technique (International Office of Epizootics)",
+  "pubdate": "1994 Jun",
+  "doi": null,
+  "abstract": "A tradition of veterinary therapy developed very early in India and this has survived to the present time. Based on the Ayurveda ('knowledge concerning longevity'), a medical art which had its roots in the literature of the Veda (1500-1000 BC), Indian veterinary medicine is known for its specialised literature, which provides information on ancient methods of preventing and treating diseases of animals before the advent of modern medicine. Some of these treatments, little known outside India, are still practised today.",
+  "search_text": "pubmed 8038443 Traditional veterinary medicine in India. PubMed Research Scientific Literature Mazars G Tamil Tamil script open_access PubMed Central 8038443 Mazars G Revue scientifique et technique (International Office of Epizootics) 1994 Jun A tradition of veterinary therapy developed very early in India and this has survived to the present time. Based on the Ayurveda ('knowledge concerning longevity'), a medical art which had its roots in the literature of the Veda (1500-1000 BC), Indian veterinary medicine is known for its specialised literature, which provides information on ancient methods of preventing and treating diseases of animals before the advent of modern medicine. Some of these treatments, little known outside India, are still practised today."
+}

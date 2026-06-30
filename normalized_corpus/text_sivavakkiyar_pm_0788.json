@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0788",
+  "text_id": "sivavakkiyar_pm_0788",
+  "title": "Sivavakkiyam - Verse 179",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "179",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானிருந்து மூலஅங்கி தணல்எழுப்பி வாயுவால்\nதேனிருந்து அறைதிறந்து தித்திஒன்று ஒத்ததே\nவானிருந்து மதியமூன்று தண்டலம் புகுந்தபின்\nஊனிருந்து அளவுகொண்ட யோகிநல்ல யோகியே!",
+  "transliteration": "tāṉiruntu mūlaṅki tṇleḻuppi vāyuvāl\ntēṉiruntu aṟaitiṟntu tittioṉṟu otttē\nvāṉiruntu mtiymūṉṟu tṇṭlm pukuntpiṉ\nūṉiruntu aḷvukoṇṭ yōkinll yōkiyē!",
+  "english_translation": null,
+  "content_hash": "3f852e4f1edf30656da75b89feb13b6a7fd5eaa1bb3bad645264e8587be5a78d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "siddhar_yugi",
+    "body_moolam",
+    "concept_yoga",
+    "concept_dhyana"
+  ]
+}

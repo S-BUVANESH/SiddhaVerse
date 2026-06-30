@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_35712837",
+  "text_id": "pubmed_35712837",
+  "title": "COMMENT: Ayurveda awaits a new dawn.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Krishna GL"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c9a37bc2bd3156edffffae3b5b1cdb9010c9ce48324e39cce7796bad8023497f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "35712837",
+  "authors": [
+    "Krishna GL"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2022",
+  "doi": null,
+  "abstract": "Ayurveda is a valuable legacy bequeathed to us by ancient Indian sage-physicians. The present paper discusses the epistemology of this ancient science and the misconceptions surrounding it. Diligent research, both theoretical and experimental, in the twentieth century could have ensured the graduation of this proto-science into a full-fledged science. Instead, epistemological misconceptions and intellectual sloth have thwarted its refinement and progress. The paper appeals for an epistemological break that would facilitate an evidence-based appraisal of Ayurveda's theories and practices. Such an appraisal would help realise Ayurveda's full potential in serving India's healthcare needs, especially at the level of primary care.",
+  "search_text": "pubmed 35712837 COMMENT: Ayurveda awaits a new dawn. PubMed Research Scientific Literature Krishna GL Tamil Tamil script open_access PubMed Central 35712837 Krishna GL Indian journal of medical ethics 2022 Ayurveda is a valuable legacy bequeathed to us by ancient Indian sage-physicians. The present paper discusses the epistemology of this ancient science and the misconceptions surrounding it. Diligent research, both theoretical and experimental, in the twentieth century could have ensured the graduation of this proto-science into a full-fledged science. Instead, epistemological misconceptions and intellectual sloth have thwarted its refinement and progress. The paper appeals for an epistemological break that would facilitate an evidence-based appraisal of Ayurveda's theories and practices. Such an appraisal would help realise Ayurveda's full potential in serving India's healthcare needs, especially at the level of primary care."
+}

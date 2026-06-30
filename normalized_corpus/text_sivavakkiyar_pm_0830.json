@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0830",
+  "text_id": "sivavakkiyar_pm_0830",
+  "title": "Sivavakkiyam - Verse 221",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "221",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உருத்தரிப்ப தற்குமுன் உயிர்புகுந்த நாதமும்\nகருத்தரிப்ப தற்குமுன் காயம் என்ன சோணிதம்\nஅருள்தரிப்ப தற்குமுன் அறிவுமூலா தாரமாம்\nகுறித்தறிந்து கொள்ளுவீர் குணங்கெடும் குருக்களே.",
+  "transliteration": "uruttripp tṟkumuṉ uyirpukunt nātmum\nkruttripp tṟkumuṉ kāym eṉṉ cōṇitm\naruḷtripp tṟkumuṉ aṟivumūlā tārmām\nkuṟittṟintu koḷḷuvīr kuṇṅkeṭum kurukkḷē.",
+  "english_translation": null,
+  "content_hash": "59d08f91aff8717ad5519fdbc6c0a5ad1ae84033c9b32e08fe0657091805750b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "body_sound",
+    "concept_kundalini",
+    "body_moolam",
+    "deity_murugan",
+    "body_uyir",
+    "practice_pranayama",
+    "practice_kayakalpa",
+    "concept_atman",
+    "practice_kumbhaka",
+    "concept_guru",
+    "siddhar_karuvoorar"
+  ]
+}

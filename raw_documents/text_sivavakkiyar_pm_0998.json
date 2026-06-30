@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0998",
+  "text_id": "sivavakkiyar_pm_0998",
+  "title": "Sivavakkiyam - Verse 389",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "389",
+  "tamil_text": "உச்சகண்டு கண்கள்கட்டி உண்மைகண்டது எவ்விடம்?\nமச்சுமாளி கைக்குளே மானிடம் கலப்பிரேல்\nஎச்சிலான வாசலும் ஏகபோகம் ஆய்விடும்\nபச்சைமாலும் ஈசனும் பரத்ததே சிவாயமே.",
+  "transliteration": "ucckṇṭu kṇkḷkṭṭi uṇmaikṇṭtu evviṭm?\nmccumāḷi kaikkuḷē māṉiṭm klppirēl\neccilāṉ vāclum ēkpōkm āyviṭum\npccaimālum īcṉum prtttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1fb222be3824a4f50bc4dc4b1d94f07e5f417c97a265617ef05bafd4107af830",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

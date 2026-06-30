@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0869",
+  "text_id": "sivavakkiyar_pm_0869",
+  "title": "Sivavakkiyam - Verse 260",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "260",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆரலைந்து பூதமாய் அளவிடாத யோனியும்\nபாரமான தேவரும் பழுதிலாத பாசமும்\nஓரொணாத அண்டமும் உலோகலோக லோகமும்\nசேரவெந்து போயிருந்த தேகம்ஏது செப்புமே?",
+  "transliteration": "ārlaintu pūtmāy aḷviṭāt yōṉiyum\npārmāṉ tēvrum pḻutilāt pācmum\nōroṇāt aṇṭmum ulōklōk lōkmum\ncērventu pōyirunt tēkmētu ceppumē?",
+  "english_translation": null,
+  "content_hash": "1bbbc89f32b6f24f672601e361830d835a27eba11e642075887c681ff0e8d105",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "deity_vishnu",
+    "deity_shakti"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "sivavakkiyar_pm_0884",
+  "text_id": "sivavakkiyar_pm_0884",
+  "title": "Sivavakkiyam - Verse 275",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "275",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஒன்றைஒன்று கொன்றுகூட உணவுசெய்து இருக்கினும்\nமன்றினூடு பொய்களவு மாறுவேறு செய்யினும்\nபன்றிதேடும் ஈசனைப் பரிந்துகூட வல்லீரேல்\nஅன்றுதேவர் உம்முளே அறிந்துணர்ந்து கொள்ளுமே.",
+  "transliteration": "oṉṟaioṉṟu koṉṟukūṭ uṇvuceytu irukkiṉum\nmṉṟiṉūṭu poykḷvu māṟuvēṟu ceyyiṉum\npṉṟitēṭum īcṉaip printukūṭ vllīrēl\naṉṟutēvr ummuḷē aṟintuṇrntu koḷḷumē.",
+  "english_translation": null,
+  "content_hash": "d7a7228cba149eafb1918ee5bd5ee93d2ed2025c649871d22c89fb48784f78b5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "practice_varma",
+    "plant_vallarai"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0461",
+  "text_id": "thirumandiram_pm_0461",
+  "title": "Thirumandiram - Verse 1019",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1019",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எடுத்தஅக் குண்டத் திடம்பதி னாறில்\nபதித்த கலைகளும் பாலித்து நிற்கும்\nகதித்தனல் உள்ளெழக் கண்டுகொள் வார்க்கே\nகொதித்தெழும் வல்லினை கூடகி லாவே.",
+  "transliteration": "eṭuttak kuṇṭt tiṭmpti ṉāṟil\nptitt klaikḷum pālittu niṟkum\nktittṉl uḷḷeḻk kṇṭukoḷ vārkkē\nkotitteḻum vlliṉai kūṭki lāvē.",
+  "english_translation": null,
+  "content_hash": "134b309e486c6b31907e032e6f41a45ae3b3a7342da38ae09765c12b5d86ce07",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai",
+    "concept_kundalini",
+    "body_eye",
+    "symbol_eighteen",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

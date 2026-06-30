@@ -1,0 +1,36 @@
+{
+  "document_id": "sivavakkiyar_pm_0937",
+  "text_id": "sivavakkiyar_pm_0937",
+  "title": "Sivavakkiyam - Verse 328",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "328",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாளுறையில் வாளடக்கம் வாயுறையில் வாய்வடக்கம்\nஆளுறையில் ஆளடக்கம் அருமைஎன்ன வித்தைகாண்!\nதாளுறையில் தாளடக்கம் தன்மையான தன்மையும்\nநாளுறையில் நாளடக்கம் நானும் நீயும் கண்டதே.",
+  "transliteration": "vāḷuṟaiyil vāḷṭkkm vāyuṟaiyil vāyvṭkkm\nāḷuṟaiyil āḷṭkkm arumaieṉṉ vittaikāṇ!\ntāḷuṟaiyil tāḷṭkkm tṉmaiyāṉ tṉmaiyum\nnāḷuṟaiyil nāḷṭkkm nāṉum nīyum kṇṭtē.",
+  "english_translation": null,
+  "content_hash": "294b5454a0e4590a87288b6eaa6315304356829596499198199f35035d7c8722",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_eye",
+    "deity_brahma"
+  ]
+}

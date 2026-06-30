@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0783",
+  "text_id": "sivavakkiyar_pm_0783",
+  "title": "Sivavakkiyam - Verse 174",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "174",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அங்கலிங்க பீடமாய் ஐயிரண்டு எழுத்திலும்\nபொங்குதா மரையினும் பொருந்துவார் அகத்தினும்\nபங்குகொண்ட சோதியும் பரந்தஅஞ்சு எழுத்துமே\nசிங்கநாத ஓசையும் சிவாயம் அல்லது இல்லையே.",
+  "transliteration": "aṅkliṅk pīṭmāy aiyirṇṭu eḻuttilum\npoṅkutā mraiyiṉum poruntuvār akttiṉum\npṅkukoṇṭ cōtiyum prntañcu eḻuttumē\nciṅknāt ōcaiyum civāym alltu illaiyē.",
+  "english_translation": null,
+  "content_hash": "9078d291e6561c6ef6c378a9e942f35199b856cce3c51292270064f09ea011b4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "deity_vishnu",
+    "siddhar_kudambai",
+    "place_kashi",
+    "deity_shiva",
+    "body_light",
+    "siddhar_agasthiyar",
+    "concept_dhyana"
+  ]
+}

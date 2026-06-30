@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0234",
+  "text_id": "thirumandiram_pm_0234",
+  "title": "Thirumandiram - Verse 237",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "237",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானே விடும்பற்று இரண்டும் தரித்திட\nநானே விடப்படும் ஏதொன்றை நாடாது\nபூமேவு நான்முகன் புண்ணிய போகனாய்\nஓமேவும் ஓர்ஆ குதிஅவி உண்ணவே.",
+  "transliteration": "tāṉē viṭumpṟṟu irṇṭum trittiṭ\nnāṉē viṭppṭum ētoṉṟai nāṭātu\npūmēvu nāṉmukṉ puṇṇiy pōkṉāy\nōmēvum ōrā kutiavi uṇṇvē.",
+  "english_translation": null,
+  "content_hash": "0cddee4b37ff7784a74a650b606859a2ad63f2188656014413c3cac4c9010cfc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_bogar",
+    "concept_nadi",
+    "deity_brahma",
+    "siddhar_kudambai",
+    "concept_mukti"
+  ]
+}

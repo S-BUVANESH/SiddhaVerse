@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0654",
+  "text_id": "sivavakkiyar_pm_0654",
+  "title": "Sivavakkiyam - Verse 45",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "45",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஒடுக்க நிலை\n\nசித்தமற்றுச் சிந்தையற்றுச் சீவனற்று நின்றிடம்\nசத்தியற்றுச் சம்புவற்றுச் சாதிபேத மற்றுநல்\nமூத்தியற்று மூலமற்று மூலமந்தி ரங்களும்\nவித்தைஇத்தை ஈன்றவித்தில் விலைந்ததே சிவாயமே.",
+  "transliteration": "oṭukk nilai\n\ncittmṟṟuc cintaiyṟṟuc cīvṉṟṟu niṉṟiṭm\ncttiyṟṟuc cmpuvṟṟuc cātipēt mṟṟunl\nmūttiyṟṟu mūlmṟṟu mūlmnti rṅkḷum\nvittaiittai īṉṟvittil vilainttē civāymē.",
+  "english_translation": null,
+  "content_hash": "4960b72fa199e9a5a8e22d0700cec41a5e2f204a2ce308d26ba0e926c4f419d1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_siddhi",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "body_moolam",
+    "deity_shiva",
+    "concept_mantra",
+    "plant_thippili",
+    "concept_dhyana"
+  ]
+}

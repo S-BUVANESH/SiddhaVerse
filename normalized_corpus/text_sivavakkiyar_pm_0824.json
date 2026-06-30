@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0824",
+  "text_id": "sivavakkiyar_pm_0824",
+  "title": "Sivavakkiyam - Verse 215",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "215",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆதியாகி அண்டரண்டம் அப்புறத்தும் அப்புறம்\nசோதியாகி நின்றிலங்கு சுருதிநாத சோமனை\nபோதியாமல் தம்முளே பெற்றுணர்ந்த ஞானிகள்,\nசாதிபேதம் என்பதொன்று சற்றுமில்லை இல்லையே!",
+  "transliteration": "ātiyāki aṇṭrṇṭm appuṟttum appuṟm\ncōtiyāki niṉṟilṅku curutināt cōmṉai\npōtiyāml tmmuḷē peṟṟuṇrnt ñāṉikḷ,\ncātipētm eṉptoṉṟu cṟṟumillai illaiyē!",
+  "english_translation": null,
+  "content_hash": "d6fc9e3c3e510072afabbf7faf8dc9b425dcc7e999f375acda9054cdc59a2f0e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "deity_shakti",
+    "body_light",
+    "plant_thippili",
+    "concept_dhyana"
+  ]
+}

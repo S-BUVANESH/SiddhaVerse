@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0639",
+  "text_id": "sivavakkiyar_pm_0639",
+  "title": "Sivavakkiyam - Verse 30",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "30",
+  "tamil_text": "நெருப்பைமூட்டி நெய்யைவிட்டு நித்தம்நித்தம் நீரிலே\nவிருப்பமொடு நீர்குளிக்கும் வேதவாக்கியம் கேளுமின்;\nநெருப்பும்நீரும் உம்முளே நினைந்துகூற வல்லீரேல்\nசுருக்கம்அற்ற சோதியைத் தொடர்ந்துகூடல் ஆகுமோ!",
+  "transliteration": "neruppaimūṭṭi neyyaiviṭṭu nittmnittm nīrilē\nviruppmoṭu nīrkuḷikkum vētvākkiym kēḷumiṉ;\nneruppumnīrum ummuḷē niṉaintukūṟ vllīrēl\ncurukkmaṟṟ cōtiyait toṭrntukūṭl ākumō!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a096f256881f354bb15be76f9d1106a02a5d3787a87a0b62272cc1d69ce019e9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

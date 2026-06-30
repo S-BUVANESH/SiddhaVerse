@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0320",
+  "text_id": "thirumandiram_pm_0320",
+  "title": "Thirumandiram - Verse 324",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "324",
+  "tamil_text": "கழுநீர்ப் பசுப்பெறிற் கயந்தொறும் தேரா\nகழுநீர் விடாய்த்துத்தம் காயம்சுருக்கும்\nமுழுநீர்க் கள்ளுண்போர் முறைமை அகன்றோர்\nசெழுநீர்ச் சிவன்தன் சிவானந்தத் தேறலே.",
+  "transliteration": "kḻunīrp pcuppeṟiṟ kyntoṟum tērā\nkḻunīr viṭāyttuttm kāymcurukkum\nmuḻunīrk kḷḷuṇpōr muṟaimai akṉṟōr\nceḻunīrc civṉtṉ civāṉntt tēṟlē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fefd79a8f8cbdcf010311e9a8e2ff9b074bf2b402d2195b98b7f1b83d4df8949",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0712",
+  "text_id": "sivavakkiyar_pm_0712",
+  "title": "Sivavakkiyam - Verse 103",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "103",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பேசுவானும் ஈசனே, பிரமஞானம் உம்முளே;\nஆசையான ஐவரும் அலைந்தருள் செய்கிறார்;\nஆசையானா ஐவரே அடக்கிஓர் எழுத்திலே\nபேசிடாது இருப்பிரேல் நாதன்வந்து பேசுமே.",
+  "transliteration": "pēcuvāṉum īcṉē, pirmñāṉm ummuḷē;\nācaiyāṉ aivrum alaintruḷ ceykiṟār;\nācaiyāṉā aivrē aṭkkiōr eḻuttilē\npēciṭātu iruppirēl nātṉvntu pēcumē.",
+  "english_translation": null,
+  "content_hash": "4e825fd214e2d52c9e591c0b74421227d2372b065de6a23d7ef4cf4689a87f33",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_sound",
+    "concept_jnana",
+    "place_chidambaram",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "body_breath",
+    "deity_shiva"
+  ]
+}

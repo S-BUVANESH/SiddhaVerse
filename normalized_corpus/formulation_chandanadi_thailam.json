@@ -1,0 +1,48 @@
+{
+  "document_id": "formulation_chandanadi_thailam",
+  "text_id": "formulation_chandanadi_thailam",
+  "title": "Chandanadi Thailam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Chandanadi Thailam",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "96a0291592452bf5d49036c5a9610d14bfe19c9d7b9ae820818a54f073a9f9bc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Chandanadi Thailam Chandanadi Thailam Thailam (Oil) Sandalwood (Chandanam) Rose water Camphor Sesame oil Prepare medicated oil by boiling herbs in sesame oil base. Headache, fever, skin diseases, pitta disorders External application Siddha Vaidyam",
+  "translation_status": "unavailable",
+  "name": "Chandanadi Thailam",
+  "category": "Thailam (Oil)",
+  "ingredients": [
+    "Sandalwood (Chandanam)",
+    "Rose water",
+    "Camphor",
+    "Sesame oil"
+  ],
+  "method": "Prepare medicated oil by boiling herbs in sesame oil base.",
+  "indications": "Headache, fever, skin diseases, pitta disorders",
+  "dosage": "External application",
+  "source": "Siddha Vaidyam"
+}

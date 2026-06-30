@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0993",
+  "text_id": "sivavakkiyar_pm_0993",
+  "title": "Sivavakkiyam - Verse 384",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "384",
+  "tamil_text": "அம்பரத்தில் ஆடும்சோதி யானவன்னி மூலமாம்\nஅம்பரமும் தம்பரமும் அகோரமிட்டு அலர்ந்ததே\nஅம்பரக் குழியிலே அங்கமிட்டு ருக்கிட\nஅம்பரத்தில் ஆதியோடு அமர்ந்ததே சிவாயமே.",
+  "transliteration": "amprttil āṭumcōti yāṉvṉṉi mūlmām\namprmum tmprmum akōrmiṭṭu alrnttē\namprk kuḻiyilē aṅkmiṭṭu rukkiṭ\namprttil ātiyōṭu amrnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "059701d270ef7271f09afc99bdb14d0b6b76329f98eeee0e5283b8aa0f187626",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0973",
+  "text_id": "sivavakkiyar_pm_0973",
+  "title": "Sivavakkiyam - Verse 364",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "364",
+  "tamil_text": "பறந்ததே கறந்தபோது பாய்ச்சலூரின் வழியிலே\nபிறந்ததே பிராணன்அன்றிப் பெண்ணும்ஆணும் அல்லவே\nதுறந்ததோ சிறந்ததோ தூயதுங்கம் ஆனதோ\nஇறந்தபோதில் அன்றதே இலங்கிடும் சிவாயமே.",
+  "transliteration": "pṟnttē kṟntpōtu pāycclūriṉ vḻiyilē\npiṟnttē pirāṇṉaṉṟip peṇṇumāṇum allvē\ntuṟnttō ciṟnttō tūytuṅkm āṉtō\niṟntpōtil aṉṟtē ilṅkiṭum civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "cb37b1869c5c3ec669876463beea675f3d455b0bf159982e57f6ac7ff92a1743",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

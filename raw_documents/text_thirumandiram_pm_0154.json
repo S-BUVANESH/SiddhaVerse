@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0154",
+  "text_id": "thirumandiram_pm_0154",
+  "title": "Thirumandiram - Verse 157",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "157",
+  "tamil_text": "ஆர்த்தெழு சுற்றமும் பெண்டிரும் மக்களும்\nஊர்த்துறைக் காலே ஒழிவர் ஒழிந்தபின்\nவேர்த்தலை போக்கி விறகிட்கு எரிமூட்டி\nநீர்த்தலை மூழ்குவர் நீதியி லோரே.",
+  "transliteration": "ārtteḻu cuṟṟmum peṇṭirum mkkḷum\nūrttuṟaik kālē oḻivr oḻintpiṉ\nvērttlai pōkki viṟkiṭku erimūṭṭi\nnīrttlai mūḻkuvr nītiyi lōrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "aaa199327439183a77d355b1316103a44539d51b6d448ddfbe5cd6f5e975606a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

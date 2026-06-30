@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0070",
+  "text_id": "thirumandiram_pm_0070",
+  "title": "Thirumandiram - Verse 70",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "70",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நால்வரும் நாலு திசைக்கொன்று நாதர்கள்\nநால்வரும் நானா விதப்பொருள் கைக்கொண்டு\nநால்வரும் யான்பெற்ற தெல்லாம் பெறுகென\nநால்வரும் தேவராய் நாதர் ஆனார்களே.",
+  "transliteration": "nālvrum nālu ticaikkoṉṟu nātrkḷ\nnālvrum nāṉā vitpporuḷ kaikkoṇṭu\nnālvrum yāṉpeṟṟ tellām peṟukeṉ\nnālvrum tēvrāy nātr āṉārkḷē.",
+  "english_translation": null,
+  "content_hash": "26a0fdcc78385b5753206b5a9928d759eb6adf272842def1eb56243af5e5a43b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "deity_brahma"
+  ]
+}

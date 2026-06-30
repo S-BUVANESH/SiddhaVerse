@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0482",
+  "text_id": "thirumandiram_pm_0482",
+  "title": "Thirumandiram - Verse 1040",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1040",
+  "tamil_text": "கொடியாறு சென்று குலாவிய குண்டம்\nஅடியிரு கோணமாய் அந்தமும் ஒக்கும்\nபடிஏழ் உலகும் பரந்த சுடரை\nமடியாது கண்டவர் மாதன மாமே.",
+  "transliteration": "koṭiyāṟu ceṉṟu kulāviy kuṇṭm\naṭiyiru kōṇmāy antmum okkum\npṭiēḻ ulkum prnt cuṭrai\nmṭiyātu kṇṭvr mātṉ māmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9f499f2531b8afee82e91f8ccd1421f7804dd0eca54302545a1261f9582716b6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

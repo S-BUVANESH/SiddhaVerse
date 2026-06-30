@@ -1,0 +1,25 @@
+{
+  "title": "Thanjavur Maharaja Serfoji's Sarasvati Mahal Library",
+  "url": "https://thanjavur.nic.in/tourist-place/saraswathi-mahal-library/",
+  "organization": "Thanjavur District Administration, Government of Tamil Nadu",
+  "source_type": "Palm Leaf",
+  "license_status": "mixed",
+  "trust_score": "10.0/10",
+  "priority": "critical",
+  "acquisition_difficulty": 6,
+  "coverage": {
+    "siddhars": 20,
+    "plants": 10,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 30,
+    "research": 0
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Siddha Medical Palm Leafs",
+    "Rare Ayurvedic and Siddha Books",
+    "Therapeutic Recipes in Tamil & Sanskrit"
+  ],
+  "notes": "One of the oldest libraries in Asia. Holds rare palm leaf manuscripts and early printed books. Acquisition is restricted; metadata is publicly cataloged."
+}

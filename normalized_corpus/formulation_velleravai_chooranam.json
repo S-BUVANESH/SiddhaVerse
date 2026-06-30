@@ -1,0 +1,45 @@
+{
+  "document_id": "formulation_velleravai_chooranam",
+  "text_id": "formulation_velleravai_chooranam",
+  "title": "Velleravai Chooranam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "Velleravai Chooranam",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c28c6785d7956bfc6bffce18a4d6e2d8bf5972ef6df7cc305e9d6bba1c9c0b45",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Velleravai Chooranam Velleravai Chooranam Chooranam (Powder) White Erukku (Calotropis procera) root bark Sun-dry root bark; grind to fine powder. Filariasis, lymphedema, skin diseases 2-4g with buttermilk Siddha traditional medicine",
+  "translation_status": "unavailable",
+  "name": "Velleravai Chooranam",
+  "category": "Chooranam (Powder)",
+  "ingredients": [
+    "White Erukku (Calotropis procera) root bark"
+  ],
+  "method": "Sun-dry root bark; grind to fine powder.",
+  "indications": "Filariasis, lymphedema, skin diseases",
+  "dosage": "2-4g with buttermilk",
+  "source": "Siddha traditional medicine"
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0720",
+  "text_id": "sivavakkiyar_pm_0720",
+  "title": "Sivavakkiyam - Verse 111",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "111",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆதியானது ஒன்றுமே அநேக்அநேக ரூபமாய்\nசாதிபேத மாய்எழுந்து சர்வசீவன் ஆனபின்\nஆதியோடு இருந்துமீண்டு எழுந்துசென்மம் ஆனபின்\nசோதியான ஞானியாகிச் சுத்தமாய் இருப்பனே.",
+  "transliteration": "ātiyāṉtu oṉṟumē anēkanēk rūpmāy\ncātipēt māyeḻuntu crvcīvṉ āṉpiṉ\nātiyōṭu iruntumīṇṭu eḻuntuceṉmm āṉpiṉ\ncōtiyāṉ ñāṉiyākic cuttmāy iruppṉē.",
+  "english_translation": null,
+  "content_hash": "ab1ccaf70e4c010819a78a3f507298734eaef356df3686d693d00e101460b33f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "concept_jnana",
+    "deity_vishnu",
+    "deity_shakti",
+    "body_light",
+    "plant_thippili",
+    "concept_dhyana"
+  ]
+}

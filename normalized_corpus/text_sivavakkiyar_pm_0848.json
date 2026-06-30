@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0848",
+  "text_id": "sivavakkiyar_pm_0848",
+  "title": "Sivavakkiyam - Verse 239",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "239",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கண்ணிலே இருப்பனே கருங்கடல் கடைந்தமால்\nவிண்ணிலே இருப்பனே மேவிஅங்கு நிற்பனே\nதன்னுளே இருப்பனே தராதலம் படைத்தவன்\nஎன்னுளே இருப்பனே எங்குமாகி நிற்பனே.",
+  "transliteration": "kṇṇilē iruppṉē kruṅkṭl kṭaintmāl\nviṇṇilē iruppṉē mēviaṅku niṟpṉē\ntṉṉuḷē iruppṉē trātlm pṭaittvṉ\neṉṉuḷē iruppṉē eṅkumāki niṟpṉē.",
+  "english_translation": null,
+  "content_hash": "46ec2dcefafc50d6d9ef57f050f7bd4cbeb3613551ede396aff30b349c861d98",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

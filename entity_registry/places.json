@@ -1,0 +1,1674 @@
+{
+  "category": "places",
+  "entity_count": 7,
+  "generated_at": "2026-06-24T18:01:29.975753+00:00",
+  "entities": [
+    {
+      "entity_id": "place_tiruvannamalai",
+      "entity_category": "places",
+      "entity_name": "Tiruvannamalai",
+      "description": "Sacred hill; Arunachala; associated with Shiva",
+      "occurrence_count": 288,
+      "max_confidence": 0.6,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0609",
+          "verse_number": "0",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0611",
+          "verse_number": "2",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0615",
+          "verse_number": "6",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0619",
+          "verse_number": "10",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0620",
+          "verse_number": "11",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0622",
+          "verse_number": "13",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0625",
+          "verse_number": "16",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0626",
+          "verse_number": "17",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0627",
+          "verse_number": "18",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0631",
+          "verse_number": "22",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0634",
+          "verse_number": "25",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0635",
+          "verse_number": "26",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0636",
+          "verse_number": "27",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0638",
+          "verse_number": "29",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0640",
+          "verse_number": "31",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0649",
+          "verse_number": "40",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0650",
+          "verse_number": "41",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0653",
+          "verse_number": "44",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0655",
+          "verse_number": "46",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0656",
+          "verse_number": "47",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0658",
+          "verse_number": "49",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0659",
+          "verse_number": "50",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0662",
+          "verse_number": "53",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0663",
+          "verse_number": "54",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0664",
+          "verse_number": "55",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0669",
+          "verse_number": "60",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0670",
+          "verse_number": "61",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0675",
+          "verse_number": "66",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0680",
+          "verse_number": "71",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0683",
+          "verse_number": "74",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0684",
+          "verse_number": "75",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0685",
+          "verse_number": "76",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0686",
+          "verse_number": "77",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0697",
+          "verse_number": "88",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0701",
+          "verse_number": "92",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0704",
+          "verse_number": "95",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0707",
+          "verse_number": "98",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0708",
+          "verse_number": "99",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0717",
+          "verse_number": "108",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0730",
+          "verse_number": "121",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0731",
+          "verse_number": "122",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0734",
+          "verse_number": "125",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0737",
+          "verse_number": "128",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0738",
+          "verse_number": "129",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0739",
+          "verse_number": "130",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0746",
+          "verse_number": "137",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0749",
+          "verse_number": "140",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0752",
+          "verse_number": "143",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0754",
+          "verse_number": "145",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருவண்ணாமலை"
+        }
+      ],
+      "source_documents_total": 288
+    },
+    {
+      "entity_id": "place_chidambaram",
+      "entity_category": "places",
+      "entity_name": "Chidambaram",
+      "description": "Temple city; site of Nataraja shrine",
+      "occurrence_count": 163,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6316,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0338",
+          "verse_number": "886",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0623",
+          "verse_number": "14",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0636",
+          "verse_number": "27",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0641",
+          "verse_number": "32",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0650",
+          "verse_number": "41",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0656",
+          "verse_number": "47",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0664",
+          "verse_number": "55",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0696",
+          "verse_number": "87",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0698",
+          "verse_number": "89",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0733",
+          "verse_number": "124",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0766",
+          "verse_number": "157",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0767",
+          "verse_number": "158",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0815",
+          "verse_number": "206",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0840",
+          "verse_number": "231",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0865",
+          "verse_number": "256",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0883",
+          "verse_number": "274",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0917",
+          "verse_number": "308",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0507",
+          "verse_number": "1065",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0598",
+          "verse_number": "3",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0601",
+          "verse_number": "6",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0610",
+          "verse_number": "1",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0618",
+          "verse_number": "9",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0621",
+          "verse_number": "12",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0622",
+          "verse_number": "13",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0624",
+          "verse_number": "15",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0629",
+          "verse_number": "20",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0632",
+          "verse_number": "23",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0647",
+          "verse_number": "38",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0648",
+          "verse_number": "39",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0653",
+          "verse_number": "44",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0654",
+          "verse_number": "45",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0655",
+          "verse_number": "46",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0665",
+          "verse_number": "56",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0674",
+          "verse_number": "65",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0690",
+          "verse_number": "81",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0691",
+          "verse_number": "82",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0692",
+          "verse_number": "83",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0693",
+          "verse_number": "84",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0701",
+          "verse_number": "92",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0702",
+          "verse_number": "93",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0703",
+          "verse_number": "94",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0706",
+          "verse_number": "97",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0709",
+          "verse_number": "100",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0712",
+          "verse_number": "103",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0729",
+          "verse_number": "120",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0732",
+          "verse_number": "123",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0737",
+          "verse_number": "128",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0739",
+          "verse_number": "130",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிதம்பரம்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0749",
+          "verse_number": "140",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0750",
+          "verse_number": "141",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "தில்லை"
+        }
+      ],
+      "source_documents_total": 163
+    },
+    {
+      "entity_id": "place_kashi",
+      "entity_category": "places",
+      "entity_name": "Kashi",
+      "description": "Holy city of Varanasi/Benares",
+      "occurrence_count": 100,
+      "max_confidence": 0.85,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6025,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0716",
+          "verse_number": "107",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "காசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0620",
+          "verse_number": "11",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0637",
+          "verse_number": "28",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0638",
+          "verse_number": "29",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0647",
+          "verse_number": "38",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0663",
+          "verse_number": "54",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0664",
+          "verse_number": "55",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0669",
+          "verse_number": "60",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0688",
+          "verse_number": "79",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0690",
+          "verse_number": "81",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0724",
+          "verse_number": "115",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0740",
+          "verse_number": "131",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0783",
+          "verse_number": "174",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0831",
+          "verse_number": "222",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0847",
+          "verse_number": "238",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0853",
+          "verse_number": "244",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0878",
+          "verse_number": "269",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0903",
+          "verse_number": "294",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0906",
+          "verse_number": "297",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பேணாரசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0924",
+          "verse_number": "315",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0965",
+          "verse_number": "356",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0976",
+          "verse_number": "367",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0992",
+          "verse_number": "383",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0008",
+          "verse_number": "8",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0009",
+          "verse_number": "9",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0012",
+          "verse_number": "12",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0016",
+          "verse_number": "16",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0022",
+          "verse_number": "22",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பேணாரசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0023",
+          "verse_number": "23",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0030",
+          "verse_number": "30",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0032",
+          "verse_number": "32",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0042",
+          "verse_number": "42",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0055",
+          "verse_number": "55",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0059",
+          "verse_number": "59",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0065",
+          "verse_number": "65",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0093",
+          "verse_number": "95",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0129",
+          "verse_number": "131",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பேணாரசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0131",
+          "verse_number": "133",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0136",
+          "verse_number": "138",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0137",
+          "verse_number": "139",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0148",
+          "verse_number": "150",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0171",
+          "verse_number": "174",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0172",
+          "verse_number": "175",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0175",
+          "verse_number": "178",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0181",
+          "verse_number": "184",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0188",
+          "verse_number": "191",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0200",
+          "verse_number": "203",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0201",
+          "verse_number": "204",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0202",
+          "verse_number": "205",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "வாரணாசி"
+        }
+      ],
+      "source_documents_total": 100
+    },
+    {
+      "entity_id": "place_madurai",
+      "entity_category": "places",
+      "entity_name": "Madurai",
+      "description": "Ancient Tamil capital; Meenakshi temple city",
+      "occurrence_count": 24,
+      "max_confidence": 0.85,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6104,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0608",
+          "verse_number": "13",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0018",
+          "verse_number": "18",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0030",
+          "verse_number": "30",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0152",
+          "verse_number": "155",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0191",
+          "verse_number": "194",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0224",
+          "verse_number": "227",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0263",
+          "verse_number": "266",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0321",
+          "verse_number": "325",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0323",
+          "verse_number": "327",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0325",
+          "verse_number": "329",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0334",
+          "verse_number": "534",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0362",
+          "verse_number": "910",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0378",
+          "verse_number": "927",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0402",
+          "verse_number": "952",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0408",
+          "verse_number": "958",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0420",
+          "verse_number": "972",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0422",
+          "verse_number": "974",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0455",
+          "verse_number": "1013",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0488",
+          "verse_number": "1046",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0556",
+          "verse_number": "1115",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0565",
+          "verse_number": "1124",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0595",
+          "verse_number": "1154",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0596",
+          "verse_number": "1",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0600",
+          "verse_number": "5",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மதுரை"
+        }
+      ],
+      "source_documents_total": 24
+    },
+    {
+      "entity_id": "place_potigai",
+      "entity_category": "places",
+      "entity_name": "Potigai",
+      "description": "Potigai hill; abode of Sage Agasthiyar",
+      "occurrence_count": 18,
+      "max_confidence": 0.6,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0801",
+          "verse_number": "192",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0857",
+          "verse_number": "248",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0935",
+          "verse_number": "326",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0948",
+          "verse_number": "339",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0969",
+          "verse_number": "360",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0098",
+          "verse_number": "100",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0116",
+          "verse_number": "118",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0152",
+          "verse_number": "155",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0177",
+          "verse_number": "180",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0338",
+          "verse_number": "886",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0346",
+          "verse_number": "894",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0378",
+          "verse_number": "927",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0589",
+          "verse_number": "1148",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0600",
+          "verse_number": "5",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0603",
+          "verse_number": "8",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0605",
+          "verse_number": "10",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0607",
+          "verse_number": "12",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0608",
+          "verse_number": "13",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பொதியை"
+        }
+      ],
+      "source_documents_total": 18
+    },
+    {
+      "entity_id": "place_kailash",
+      "entity_category": "places",
+      "entity_name": "Kailash",
+      "description": "Sacred mountain; abode of Shiva",
+      "occurrence_count": 3,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.7333,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0089",
+          "verse_number": "91",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "கயிலை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0812",
+          "verse_number": "203",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கயிலை"
+        },
+        {
+          "document_id": "thirumandiram_pm_0195",
+          "verse_number": "198",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கயிலை"
+        }
+      ],
+      "source_documents_total": 3
+    },
+    {
+      "entity_id": "place_himalaya",
+      "entity_category": "places",
+      "entity_name": "Himalaya",
+      "description": "Himalayan mountains; abode of sages",
+      "occurrence_count": 2,
+      "max_confidence": 0.6,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0961",
+          "verse_number": "352",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "இமையம்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0078",
+          "verse_number": "80",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "இமையம்"
+        }
+      ],
+      "source_documents_total": 2
+    }
+  ]
+}

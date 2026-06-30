@@ -1,0 +1,45 @@
+{
+  "document_id": "siddhar_bogar",
+  "text_id": "siddhar_bogar",
+  "title": "Bogar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Bogar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "0fa13bce4d8d4d51f774133e13481da6593cc5f138ec6e2d5a3c8ad890c2d5b4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Bogar",
+  "period": "c. 3rd century BCE - 3rd century CE",
+  "biography": "Famous alchemist and yogi. Created the Navapashanam Murugan idol at Palani using nine poisonous minerals. Traveled to China.",
+  "texts": [
+    "Bogar 7000",
+    "Bogar Janana Sagaram",
+    "Bogar Karpa Vidhi"
+  ],
+  "search_text": "siddhar bogar Bogar Siddhar Biography Siddhars Bogar Tamil Tamil script public_domain SiddhaVerse Corpus Bogar c. 3rd century BCE - 3rd century CE Famous alchemist and yogi. Created the Navapashanam Murugan idol at Palani using nine poisonous minerals. Traveled to China. Bogar 7000 Bogar Janana Sagaram Bogar Karpa Vidhi"
+}

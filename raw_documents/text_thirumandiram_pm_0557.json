@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0557",
+  "text_id": "thirumandiram_pm_0557",
+  "title": "Thirumandiram - Verse 1116",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1116",
+  "tamil_text": "பிதற்றிக் கழிந்தனர் பேதை மனிதர்\nமுயற்றியின் முற்றி அருளும் முதல்வி\nகயற்றிகழ் முக்கண்ணுங் கம்பலைச் செவ்வாய்\nமுகத்தருள் நோக்கமும் முன்னுள்ள தாமே.",
+  "transliteration": "pitṟṟik kḻintṉr pētai mṉitr\nmuyṟṟiyiṉ muṟṟi aruḷum mutlvi\nkyṟṟikḻ mukkṇṇuṅ kmplaic cevvāy\nmukttruḷ nōkkmum muṉṉuḷḷ tāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e19bb89c9f43be13e21846f34702334ca5fc154fa82b4c5e5ea4c53c283e21ca",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

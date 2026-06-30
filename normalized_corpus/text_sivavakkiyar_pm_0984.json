@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0984",
+  "text_id": "sivavakkiyar_pm_0984",
+  "title": "Sivavakkiyam - Verse 375",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "375",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வெளியுருக்கி அஞ்செழுத்து விந்துநாத சந்தமும்\nதளியுருக்கி நெய்கலந்து சகலசுத்தி ஆனதும்\nவெளியிலும் அவ்வினையிலும் இருவரை அறிந்தபின்\nவெளிகடந்த தன்மையால் தெளிந்ததே சிவாயமே.",
+  "transliteration": "veḷiyurukki añceḻuttu vintunāt cntmum\ntḷiyurukki neyklntu cklcutti āṉtum\nveḷiyilum avviṉaiyilum iruvrai aṟintpiṉ\nveḷikṭnt tṉmaiyāl teḷinttē civāymē.",
+  "english_translation": null,
+  "content_hash": "a0838ac514313543e32a8b617b0e82c132bb971ac3f35f08adad03782ff89103",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "body_seed",
+    "concept_karma",
+    "deity_shiva",
+    "deity_ganesha"
+  ]
+}

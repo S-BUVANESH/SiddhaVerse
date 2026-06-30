@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0053",
+  "text_id": "thirumandiram_pm_0053",
+  "title": "Thirumandiram - Verse 53",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "53",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருக்குஉரு வாம்எழில் வேதத்தின் உள்ளே\nஉருக்குஉணர் வாயுணர் வேதத்துள் ஓங்கி\nவெருக்குஉரு வாகிய வேதியர் சொல்லும்\nகருக்குஉரு வாய்நின்ற கண்ணனும் ஆமே.",
+  "transliteration": "irukkuuru vāmeḻil vētttiṉ uḷḷē\nurukkuuṇr vāyuṇr vētttuḷ ōṅki\nverukkuuru vākiy vētiyr collum\nkrukkuuru vāyniṉṟ kṇṇṉum āmē.",
+  "english_translation": null,
+  "content_hash": "e2a4e6de3c552b1eec3382ee730bba35ce95883b25b6911bd0c367681f650aeb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "siddhar_karuvoorar",
+    "plant_tulsi",
+    "body_eye",
+    "concept_pranava",
+    "concept_dhyana"
+  ]
+}

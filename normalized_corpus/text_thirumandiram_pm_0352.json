@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0352",
+  "text_id": "thirumandiram_pm_0352",
+  "title": "Thirumandiram - Verse 900",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "900",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருக்கின்ற மந்திரம் ஏழா யிரமாம்\nஇருக்கின்ற மந்திரம் எத்திறம் இல்லை\nஇருக்கின்ற மந்திரம் சிவன்திரு மேனி\nஇருக்கின்ற மந்திரம் இவ்வண்ணம் தானே.",
+  "transliteration": "irukkiṉṟ mntirm ēḻā yirmām\nirukkiṉṟ mntirm ettiṟm illai\nirukkiṉṟ mntirm civṉtiru mēṉi\nirukkiṉṟ mntirm ivvṇṇm tāṉē.",
+  "english_translation": null,
+  "content_hash": "3f510de71c4737b439f9b5b8d684ad7e475cc7782a481511db50707798a5bdb5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

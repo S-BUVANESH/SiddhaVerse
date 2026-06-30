@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0287",
+  "text_id": "thirumandiram_pm_0287",
+  "title": "Thirumandiram - Verse 290",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "290",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "குறிப்பறிந் தேன்உடல் உயிரது கூடிச்\nசெறிப்பறிந் தேன்மிகு தேவர் பிரானை\nமறிப்பறி யாதுவந்துஉள்ளம் புகுந்தான்\nகறிப்பறி யாமிகுங் கல்விகற் றேனே.",
+  "transliteration": "kuṟippṟin tēṉuṭl uyirtu kūṭic\nceṟippṟin tēṉmiku tēvr pirāṉai\nmṟippṟi yātuvntuuḷḷm pukuntāṉ\nkṟippṟi yāmikuṅ klvikṟ ṟēṉē.",
+  "english_translation": null,
+  "content_hash": "0258c65dcb18ecebe0939a991c7a3c83d129b57c7452b073538d31b47ca59753",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "body_udal",
+    "deity_brahma",
+    "concept_pranava",
+    "body_uyir",
+    "practice_pranayama",
+    "concept_atman"
+  ]
+}

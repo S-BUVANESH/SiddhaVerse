@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0497",
+  "text_id": "thirumandiram_pm_0497",
+  "title": "Thirumandiram - Verse 1055",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1055",
+  "tamil_text": "தான்எங்கு உளன்அங்கு உளதுதையல் மாதேவி\nஊன்எங் குள அங்கு உள்ளுயிர்க் காலவன்\nவான் எங் குளஅங் குளேவந்தும் அப்பாலாம்\nகோன் எங்கும் நின்ற குறிபல பாரே.",
+  "transliteration": "tāṉeṅku uḷṉaṅku uḷtutaiyl mātēvi\nūṉeṅ kuḷ aṅku uḷḷuyirk kālvṉ\nvāṉ eṅ kuḷaṅ kuḷēvntum appālām\nkōṉ eṅkum niṉṟ kuṟipl pārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "72407d0bfc23fa335ff5e1e944ba7c2d1932123f37e54ab8b488b6999385f1fc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

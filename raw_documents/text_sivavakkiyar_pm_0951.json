@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0951",
+  "text_id": "sivavakkiyar_pm_0951",
+  "title": "Sivavakkiyam - Verse 342",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "342",
+  "tamil_text": "கூவும்கீயும் மோனமாகி கொள்கையான கொள்கையை\nமூவிலே உதித்தெழுந்த முச்சுடர் விரிவிலே\nபூவிலே நறைகள்போலப் பொருந்திநின்ற பூரணம்\nஆவிஆவி ஆவிஆவி அன்பருள்ளம் உற்றதே.",
+  "transliteration": "kūvumkīyum mōṉmāki koḷkaiyāṉ koḷkaiyai\nmūvilē utitteḻunt muccuṭr virivilē\npūvilē nṟaikḷpōlp poruntiniṉṟ pūrṇm\nāviāvi āviāvi aṉpruḷḷm uṟṟtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "521fd11cfad60132b23e45dc9457dd8a89e2a1a2c99c9896abc43887e1cfc74e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

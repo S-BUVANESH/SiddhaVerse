@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0669",
+  "text_id": "sivavakkiyar_pm_0669",
+  "title": "Sivavakkiyam - Verse 60",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "60",
+  "tamil_text": "அறத்திறங் களுக்கும்நீ, அண்டம்எண் திசைக்கும்நீ,\nதிறத்திறங் களுக்குநீ, தேடுவார்கள் சிந்தைநீ,\nஉறக்கம்நீ, உணர்வுநீ, உட்கலந்த சோதிநீ\nமறக்கொணாத நின்கழல் மறப்பினும் குடிகொளே.",
+  "transliteration": "aṟttiṟṅ kḷukkumnī, aṇṭmeṇ ticaikkumnī,\ntiṟttiṟṅ kḷukkunī, tēṭuvārkḷ cintainī,\nuṟkkmnī, uṇrvunī, uṭklnt cōtinī\nmṟkkoṇāt niṉkḻl mṟppiṉum kuṭikoḷē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "45a02a746f6f0ed9208996c48f922ca77c0c2ad0432601efe0fcd57326511a1e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

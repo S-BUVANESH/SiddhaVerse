@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0737",
+  "text_id": "sivavakkiyar_pm_0737",
+  "title": "Sivavakkiyam - Verse 128",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "128",
+  "tamil_text": "பருத்திநூல் முறுக்கிவிட்டுப் பஞ்சிஓதும் மாந்தரே!\nதுருத்திநூல் முறுக்கிவிட்டுத் துன்பம்நீங்க வல்லீரேல்\nகருத்தில்நூல் கலைப்படு காலநூல் கழிந்திடும்\nதிருத்திநூல் கவலறும் சிவாயஅஞ்சு எழுத்துமே.",
+  "transliteration": "pruttinūl muṟukkiviṭṭup pñciōtum māntrē!\nturuttinūl muṟukkiviṭṭut tuṉpmnīṅk vllīrēl\nkruttilnūl klaippṭu kālnūl kḻintiṭum\ntiruttinūl kvlṟum civāyañcu eḻuttumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9a1a5898f73adc9b61886fc193e386c571c6b5c5c5fc6b4e00d09c39b44d551f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

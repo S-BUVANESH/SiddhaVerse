@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0335",
+  "text_id": "thirumandiram_pm_0335",
+  "title": "Thirumandiram - Verse 545",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "545",
+  "tamil_text": "அறிவார் அமரர் தலைவனை நாடிச்\nசெறிவார் பெறுவர் .(1). சிலர்தத் துவத்தை\nநெறிதான் மிகமிக நின்றருள் செய்யும்\nபெரியார் உடன்கூடல் போ஢ன்ப மாமே.\n(1). சிவதத்துவத்தை.",
+  "transliteration": "aṟivār amrr tlaivṉai nāṭic\nceṟivār peṟuvr .(1). cilrtt tuvttai\nneṟitāṉ mikmik niṉṟruḷ ceyyum\nperiyār uṭṉkūṭl pō஢ṉp māmē.\n(1). civtttuvttai.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fc392fe0c06696574914b48fa34c937383b4d6b3ef09c459452a1b3f743cd8f8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

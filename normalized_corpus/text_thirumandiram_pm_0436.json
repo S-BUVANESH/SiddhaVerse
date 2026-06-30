@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0436",
+  "text_id": "thirumandiram_pm_0436",
+  "title": "Thirumandiram - Verse 989",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "989",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பட்டனம் மாதவம் ஆறும் பராபரம்\nவிட்டனர் தம்மை விகிர்தா நமஎன்பர்\nஎட்டனை யாயினும் ஈசன் திறத்திறம்\nஒட்டுவன் பேசுவன் ஒன்றறி யேனே",
+  "transliteration": "pṭṭṉm mātvm āṟum prāprm\nviṭṭṉr tmmai vikirtā nmeṉpr\neṭṭṉai yāyiṉum īcṉ tiṟttiṟm\noṭṭuvṉ pēcuvṉ oṉṟṟi yēṉē",
+  "english_translation": null,
+  "content_hash": "63ad935634efa96c8a2a0858d7388cb53fb4128ac18fc3bb5cf58517ff0daba3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_brahman",
+    "deity_shakti",
+    "body_breath",
+    "deity_shiva",
+    "practice_ashta_siddhi",
+    "concept_tapas",
+    "symbol_eight"
+  ]
+}

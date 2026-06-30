@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0771",
+  "text_id": "sivavakkiyar_pm_0771",
+  "title": "Sivavakkiyam - Verse 162",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "162",
+  "tamil_text": "அக்கரம் அனாதியோ? ஆத்துமம் அனாதியோ?\nபுக்கிருந்த பூதமும் புலன்களும் அனாதியோ?\nதர்க்கமிக்க நூல்களும் சாத்திரம் அனாதியோ?\nதற்பரத்தை ஊடறுத்த சற்குரு அனாதியோ?",
+  "transliteration": "akkrm aṉātiyō? āttumm aṉātiyō?\npukkirunt pūtmum pulṉkḷum aṉātiyō?\ntrkkmikk nūlkḷum cāttirm aṉātiyō?\ntṟprttai ūṭṟutt cṟkuru aṉātiyō?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e4e46e2fd17768442d567e25b6b146c0ee054b4ac4198d5d143320f6f04992b0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

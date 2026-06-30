@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0866",
+  "text_id": "sivavakkiyar_pm_0866",
+  "title": "Sivavakkiyam - Verse 257",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "257",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "புண்டரீகம் - தாமரை\n\nஅம்பலங்கள் சந்தியில் ஆடுகின்ற வம்பனே\nஅன்பனுக்குள் அன்பனாய் நிற்பதுஆதி வீரனே\nஅன்பருக்குள் அன்பராய் நின்றஆதி நாதனே\nஉம்பருக்கு உண்மையாய் நின்றஉண்மை உண்மையே.",
+  "transliteration": "puṇṭrīkm - tāmrai\n\namplṅkḷ cntiyil āṭukiṉṟ vmpṉē\naṉpṉukkuḷ aṉpṉāy niṟptuāti vīrṉē\naṉprukkuḷ aṉprāy niṉṟāti nātṉē\numprukku uṇmaiyāy niṉṟuṇmai uṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "deb1a4cd189bb580331f367c8ae0c59dd8154a5dbaf0a29c317693617a5af4ca",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "deity_shakti",
+    "body_sound",
+    "concept_dhyana"
+  ]
+}

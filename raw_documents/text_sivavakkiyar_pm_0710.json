@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0710",
+  "text_id": "sivavakkiyar_pm_0710",
+  "title": "Sivavakkiyam - Verse 101",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "101",
+  "tamil_text": "சோறுகின்ற பூதம்போல சுணங்குபோல் கிடந்தநீர்\nநாறுகின்ற கும்பியில் நயந்தெழுந்த மூடரே,\nசீறுகின்ற ஐவரைச் சிணுக்கறுக்க வல்லீரேல்\nஆறுகோடி வேணியார் ஆறில்ஒன்றில் ஆவிரே!",
+  "transliteration": "cōṟukiṉṟ pūtmpōl cuṇṅkupōl kiṭntnīr\nnāṟukiṉṟ kumpiyil nynteḻunt mūṭrē,\ncīṟukiṉṟ aivraic ciṇukkṟukk vllīrēl\nāṟukōṭi vēṇiyār āṟiloṉṟil āvirē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a04c113689ee90d99d7710d6b08c656a840ef279918a593d503c8cf76de77d04",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

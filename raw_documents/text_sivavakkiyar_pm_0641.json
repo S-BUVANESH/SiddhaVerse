@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0641",
+  "text_id": "sivavakkiyar_pm_0641",
+  "title": "Sivavakkiyam - Verse 32",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "32",
+  "tamil_text": "குசுகுசுப்பை - சுருக்குப்பை\nதரிசனம்\n\nசெய்யதெங்கி லேஇளநீர் சேர்த்தகார ணங்கள்போல்\nஐயன்வந்து என்னுளம் புகுந்துகோயில் கொண்டனன்.\nஐயன்வந்து என்னுளம் புகுந்துகோயில் கொண்டபின்\nவையகத்தில் மாந்தர்முன்னம் வாய்திறப்ப தில்லையே.",
+  "transliteration": "kucukucuppai - curukkuppai\ntricṉm\n\nceyyteṅki lēiḷnīr cērttkār ṇṅkḷpōl\naiyṉvntu eṉṉuḷm pukuntukōyil koṇṭṉṉ.\naiyṉvntu eṉṉuḷm pukuntukōyil koṇṭpiṉ\nvaiykttil māntrmuṉṉm vāytiṟpp tillaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1efc6ae03619df4d6aa594521d80e555211c08fd840fa9f7f366ba647cacfae7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

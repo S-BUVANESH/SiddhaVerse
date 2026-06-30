@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0230",
+  "text_id": "thirumandiram_pm_0230",
+  "title": "Thirumandiram - Verse 233",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "233",
+  "tamil_text": "மறையோர் அவரே மறையவர் ஆனால்\nமறையோர்தம் வேதாந்த வாய்மையினால் தூய்மை\nகுறையோர்தன் மற்றுள்ள கோலா கலமென்று\nஅறிவோர் மறைதொ஢ந்து அந்தண ராமே.",
+  "transliteration": "mṟaiyōr avrē mṟaiyvr āṉāl\nmṟaiyōrtm vētānt vāymaiyiṉāl tūymai\nkuṟaiyōrtṉ mṟṟuḷḷ kōlā klmeṉṟu\naṟivōr mṟaito஢ntu antṇ rāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7401a82a4c0c20f5f76415a1652357f77e0182a7099dc170b96b79c7857cb00e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

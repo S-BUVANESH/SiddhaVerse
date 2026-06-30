@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_41830041",
+  "text_id": "pubmed_41830041",
+  "title": "The Clinical Implications of Ashwagandha (",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Winther K"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "4bd653c1a46166ece835b1e14ce8ba9db987ffc4c53b9be20592861699dbdb95",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "41830041",
+  "authors": [
+    "Winther K"
+  ],
+  "journal": "Nutrients",
+  "pubdate": "2026 Mar 09",
+  "doi": "10.3390/nu18050871",
+  "abstract": "Ashwagandha (Withania somnifera L.) root powder and extracts have long been used in Ayurvedic medicine to improve sleep and anxiety. Recent scientific investigations into its efficacy have shown promise for relief from anxiety, insomnia and stress and for improving the immune system. It has also been suggested that oxygen uptake in the cardiovascular system, muscle strength, cognitive function, the reproductive system and the aging process significantly benefit from ashwagandha treatment. Since the herbal remedy is taken daily by millions of people in India, China and parts of the West, it is interesting that there are very few case reports of side effects directly attributed to the treatment, suggesting that the administration of ashwagandha preparations may be safe. Currently, neither the European Medicines Agency nor the FDA considers ashwagandha as a drug or general health supplement. Therefore, ashwagandha products are marketed in the West as dietary supplements so that users may be exposed to unscrupulous vendors. In this narrative/literature review, scientific findings from basic research and human clinical trials on herbal remedies, spanning the period from 1994 to date, were critically evaluated for the purpose of highlighting knowledge gaps to provide context for new research. Such investigations will provide evidence for the efficacy and safety of ashwagandha treatment, thus making the herbal preparations more accessible to a wider audience.",
+  "search_text": "pubmed 41830041 The Clinical Implications of Ashwagandha ( PubMed Research Scientific Literature Winther K Tamil Tamil script open_access PubMed Central 41830041 Winther K Nutrients 2026 Mar 09 10.3390/nu18050871 Ashwagandha (Withania somnifera L.) root powder and extracts have long been used in Ayurvedic medicine to improve sleep and anxiety. Recent scientific investigations into its efficacy have shown promise for relief from anxiety, insomnia and stress and for improving the immune system. It has also been suggested that oxygen uptake in the cardiovascular system, muscle strength, cognitive function, the reproductive system and the aging process significantly benefit from ashwagandha treatment. Since the herbal remedy is taken daily by millions of people in India, China and parts of the West, it is interesting that there are very few case reports of side effects directly attributed to the treatment, suggesting that the administration of ashwagandha preparations may be safe. Currently, neither the European Medicines Agency nor the FDA considers ashwagandha as a drug or general health supplement. Therefore, ashwagandha products are marketed in the West as dietary supplements so that users may be exposed to unscrupulous vendors. In this narrative/literature review, scientific findings from basic research and human clinical trials on herbal remedies, spanning the period from 1994 to date, were critically evaluated for the purpose of highlighting knowledge gaps to provide context for new research. Such investigations will provide evidence for the efficacy and safety of ashwagandha treatment, thus making the herbal preparations more accessible to a wider audience."
+}

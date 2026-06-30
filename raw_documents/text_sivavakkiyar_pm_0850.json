@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0850",
+  "text_id": "sivavakkiyar_pm_0850",
+  "title": "Sivavakkiyam - Verse 241",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "241",
+  "tamil_text": "எள்இரும்பு கம்பளி இடும்பருத்தி வெண்கலம்\nஅள்ளிஉண்ட நாதனுக்கோர் ஆடைமாடை வத்திரம்\nஉள்ளிருக்கும் வேதியர்க்கு உற்றதானம் ஈதிரால்\nமெள்ளவந்து நோய் அனைத்தும் மீண்டிடும் சிவாயமே.",
+  "transliteration": "eḷirumpu kmpḷi iṭumprutti veṇklm\naḷḷiuṇṭ nātṉukkōr āṭaimāṭai vttirm\nuḷḷirukkum vētiyrkku uṟṟtāṉm ītirāl\nmeḷḷvntu nōy aṉaittum mīṇṭiṭum civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c6e3df1c074bae873c0e36db974c594bfd4082acd752a51d75211f28d7705a8f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

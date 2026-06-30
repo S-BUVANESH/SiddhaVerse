@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_23620847",
+  "text_id": "pubmed_23620847",
+  "title": "The development of Terminalia chebula Retz. (Combretaceae) in clinical research.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Bag A",
+    "Bhattacharyya SK",
+    "Chattopadhyay RR"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ef1a2f3df25dd5e01ac9fff9d4f6490185fecd2c2e9ed8ab80c2c786484a2878",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "23620847",
+  "authors": [
+    "Bag A",
+    "Bhattacharyya SK",
+    "Chattopadhyay RR"
+  ],
+  "journal": "Asian Pacific journal of tropical biomedicine",
+  "pubdate": "2013 Mar",
+  "doi": "10.1016/S2221-1691(13)60059-3",
+  "abstract": "Medicinal plants are part and parcel of human society to combat diseases from the dawn of civilization. Terminalia chebula Retz. (Fam. Combretaceae), is called the 'King of Medicine' in Tibet and is always listed at the top of the list of 'Ayurvedic Materia Medica' because of its extraordinary power of healing. The whole plant possesses high medicinal value and traditionally used for the treatment of various ailments for human beings. Some of the folklore people used this plant in the treatment of asthma, sore throat, vomiting, hiccough, diarrhea, dysentery, bleeding piles, ulcers, gout, heart and bladder diseases. The plant has been demonstrated to possess multiple pharmacological and medicinal activities, such as antioxidant, antimicrobial, antidiabetic, hepatoprotective, anti-inflammatory, antimutagenic, antiproliferative, radioprotective, cardioprotective, antiarthritic, anticaries, gastrointestinal motility and wound healing activity. But no systematic updated information on the therapeutic effectiveness of Terminalia chebula, a popular herbal remedy in India and South-East Asia has so far been reported. This review highlights an updated information particularly on the phytochemistry and various pharmacological and medicinal properties of Terminalia chebula Retz. and some of its isolated compounds, along with their safety evaluation. This may provide incentive for proper evaluation of the plant as medicinal agent against the human diseases and also to bridge the lacunae in the existing literature and future scope which may offer immense opportunity for researchers engaged in validation of the traditional claims and development of safe and effective botanical medicine.",
+  "search_text": "pubmed 23620847 The development of Terminalia chebula Retz. (Combretaceae) in clinical research. PubMed Research Scientific Literature Bag A Bhattacharyya SK Chattopadhyay RR Tamil Tamil script open_access PubMed Central 23620847 Bag A Bhattacharyya SK Chattopadhyay RR Asian Pacific journal of tropical biomedicine 2013 Mar 10.1016/S2221-1691(13)60059-3 Medicinal plants are part and parcel of human society to combat diseases from the dawn of civilization. Terminalia chebula Retz. (Fam. Combretaceae), is called the 'King of Medicine' in Tibet and is always listed at the top of the list of 'Ayurvedic Materia Medica' because of its extraordinary power of healing. The whole plant possesses high medicinal value and traditionally used for the treatment of various ailments for human beings. Some of the folklore people used this plant in the treatment of asthma, sore throat, vomiting, hiccough, diarrhea, dysentery, bleeding piles, ulcers, gout, heart and bladder diseases. The plant has been demonstrated to possess multiple pharmacological and medicinal activities, such as antioxidant, antimicrobial, antidiabetic, hepatoprotective, anti-inflammatory, antimutagenic, antiproliferative, radioprotective, cardioprotective, antiarthritic, anticaries, gastrointestinal motility and wound healing activity. But no systematic updated information on the therapeutic effectiveness of Terminalia chebula, a popular herbal remedy in India and South-East Asia has so far been reported. This review highlights an updated information particularly on the phytochemistry and various pharmacological and medicinal properties of Terminalia chebula Retz. and some of its isolated compounds, along with their safety evaluation. This may provide incentive for proper evaluation of the plant as medicinal agent against the human diseases and also to bridge the lacunae in the existing literature and future scope which may offer immense opportunity for researchers engaged in validation of the traditional claims and development of safe and effective botanical medicine."
+}

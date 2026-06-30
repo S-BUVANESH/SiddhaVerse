@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0757",
+  "text_id": "sivavakkiyar_pm_0757",
+  "title": "Sivavakkiyam - Verse 148",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "148",
+  "tamil_text": "உதிரமான பால்குடித்து ஒக்கநீர் வளர்ந்ததும்\nஇதரமாய் இருந்ததுஒன்று இரண்டுபட்டது என்னலாம்\nமதிரமாக விட்டதேது மாங்கிசப்புலால் அதென்?\nசதிரமாய் வளர்ந்ததேது சைவரான மூடரே?",
+  "transliteration": "utirmāṉ pālkuṭittu okknīr vḷrnttum\nitrmāy irunttuoṉṟu irṇṭupṭṭtu eṉṉlām\nmtirmāk viṭṭtētu māṅkicppulāl ateṉ?\nctirmāy vḷrnttētu caivrāṉ mūṭrē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f490b66ff017da67ccc693650babfcb066ddf9f768eabd2f35fc3bfaf5237a06",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

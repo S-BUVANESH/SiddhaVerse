@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0718",
+  "text_id": "sivavakkiyar_pm_0718",
+  "title": "Sivavakkiyam - Verse 109",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "109",
+  "tamil_text": "ஓம்நமசி வாயமே உணர்ந்துமெய் உணர்ந்தபின்\nஓம்நமசி வாயமே உணர்ந்துமெய் தெளிந்தபின்\nஓம்நமசி வாயமே உணர்ந்துமெய் உணர்ந்தபின்\nஓம்நமசி வாயமே உட்கலந்து நிற்குமே!",
+  "transliteration": "ōmnmci vāymē uṇrntumey uṇrntpiṉ\nōmnmci vāymē uṇrntumey teḷintpiṉ\nōmnmci vāymē uṇrntumey uṇrntpiṉ\nōmnmci vāymē uṭklntu niṟkumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "58aa2e0bce90a0a45e5f9a4c1e946e7a0c8b2f6cb94fbb849e99820c038be021",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0301",
+  "text_id": "thirumandiram_pm_0301",
+  "title": "Thirumandiram - Verse 305",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "305",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விழுப்பமும் கேள்வியும் மெய்நின்ற ஞானத்து\nஒழுக்கமும் சிந்தை உணர்கின்ற போது\nவழுக்கி விடாவிடில் வானவர் கோனும்\nஇழுக்கின்றி எண்ணிலி காலம தாமே.",
+  "transliteration": "viḻuppmum kēḷviyum meyniṉṟ ñāṉttu\noḻukkmum cintai uṇrkiṉṟ pōtu\nvḻukki viṭāviṭil vāṉvr kōṉum\niḻukkiṉṟi eṇṇili kālm tāmē.",
+  "english_translation": null,
+  "content_hash": "6b8a3c8886507ee9e023def39c342478ba591b80a8f6531a038669991d1a9f8c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_jnana",
+    "plant_lotus",
+    "practice_varma",
+    "symbol_three"
+  ]
+}

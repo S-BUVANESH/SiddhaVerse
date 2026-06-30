@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0047",
+  "text_id": "thirumandiram_pm_0047",
+  "title": "Thirumandiram - Verse 47",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "47",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மனையுள் இருந்தவர் மாதவர் ஒப்பர்\nநினைவுள் இருந்தவர் நேசத்துள் நிற்பர்\nபனையுள் இருந்த பருந்தது போல\nநினையாத வர்க்கில்லை நின்இன்பந் தானே.",
+  "transliteration": "mṉaiyuḷ iruntvr mātvr oppr\nniṉaivuḷ iruntvr nēcttuḷ niṟpr\npṉaiyuḷ irunt prunttu pōl\nniṉaiyāt vrkkillai niṉiṉpn tāṉē.",
+  "english_translation": null,
+  "content_hash": "1897e869e6a3c68b782a4a06639328afe5485fe0ea1b8ee9d017f52489d8174c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "plant_tulsi",
+    "practice_bandha"
+  ]
+}

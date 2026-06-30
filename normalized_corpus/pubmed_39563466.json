@@ -1,0 +1,61 @@
+{
+  "document_id": "pubmed_39563466",
+  "text_id": "pubmed_39563466",
+  "title": "Efficacy, side effects, adherence, affordability, and procurement of dietary supplements for treating hypercholesterolemia: a narrative review.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "von Känel-Cordoba I",
+    "Wirnitzer K",
+    "Weiss K",
+    "Nikolaidis PT",
+    "Devrim-Lanpir A",
+    "Hill L",
+    "Rosemann T",
+    "Knechtle B"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "11eaa86d242b4eef8647a9bd0126c7839daa4c33f8c6f488b2ca5f26f986fbd0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "39563466",
+  "authors": [
+    "von Känel-Cordoba I",
+    "Wirnitzer K",
+    "Weiss K",
+    "Nikolaidis PT",
+    "Devrim-Lanpir A",
+    "Hill L",
+    "Rosemann T",
+    "Knechtle B"
+  ],
+  "journal": "Journal of health, population, and nutrition",
+  "pubdate": "2024 Nov 19",
+  "doi": "10.1186/s41043-024-00679-0",
+  "abstract": "INTRODUCTION: Statins are effective in reducing high cholesterol levels; however, due to associated side effects, many patients actively seek alternative medications. This review evaluates the efficacy, side effects, patient adherence, cost-effectiveness, and accessibility of dietary supplements (DS) as a treatment option for hypercholesterolemia.\nMETHODS: This narrative review compares red yeast rice (RYR), flaxseed, artichokes, bergamot, Ayurvedic mixtures (with garlic as a prominent ingredient), and statins for treating hypercholesterolemia. We searched PubMed, Scopus, and Cochrane databases for studies published between 2012 and 2024 using \"hypercholesterolemia\" in combination with a dietary supplement (red yeast rice, flaxseed, artichokes, garlic, or bergamot). The selected articles were published until 28th January 2024 with no language restrictions.\nRESULTS: Study results suggest that alternative treatments using dietary supplements such as flaxseed, bergamot, or red yeast rice may effectively reduce cholesterol levels, with the specific value varying based on the study.\nCONCLUSION: The following natural ingredients - red yeast rice, artichoke extract, bergamot, garlic, and flaxseed - have been specifically selected for their cholesterol-lowering properties. Based on consistent usage, except for aged garlic extract, these ingredients appear to have a beneficial impact on cholesterol levels. (1) It is advisable to conduct a comprehensive cohort study to assess the efficacy of relevant dietary supplements, particularly red yeast rice, bergamot, and flaxseed, in treating hypercholesterolemia. This is important due to the varying effectiveness of alternative treatments. However, there are lingering concerns regarding the lack of supervision and quality control that require attention. (2) Further research into the specific molecular composition and the underlying mechanisms by which it reduces cholesterol levels is warranted.",
+  "search_text": "pubmed 39563466 Efficacy, side effects, adherence, affordability, and procurement of dietary supplements for treating hypercholesterolemia: a narrative review. PubMed Research Scientific Literature von Känel-Cordoba I Wirnitzer K Weiss K Nikolaidis PT Devrim-Lanpir A Hill L Rosemann T Knechtle B Tamil Tamil script open_access PubMed Central 39563466 von Känel-Cordoba I Wirnitzer K Weiss K Nikolaidis PT Devrim-Lanpir A Hill L Rosemann T Knechtle B Journal of health, population, and nutrition 2024 Nov 19 10.1186/s41043-024-00679-0 INTRODUCTION: Statins are effective in reducing high cholesterol levels; however, due to associated side effects, many patients actively seek alternative medications. This review evaluates the efficacy, side effects, patient adherence, cost-effectiveness, and accessibility of dietary supplements (DS) as a treatment option for hypercholesterolemia.\nMETHODS: This narrative review compares red yeast rice (RYR), flaxseed, artichokes, bergamot, Ayurvedic mixtures (with garlic as a prominent ingredient), and statins for treating hypercholesterolemia. We searched PubMed, Scopus, and Cochrane databases for studies published between 2012 and 2024 using \"hypercholesterolemia\" in combination with a dietary supplement (red yeast rice, flaxseed, artichokes, garlic, or bergamot). The selected articles were published until 28th January 2024 with no language restrictions.\nRESULTS: Study results suggest that alternative treatments using dietary supplements such as flaxseed, bergamot, or red yeast rice may effectively reduce cholesterol levels, with the specific value varying based on the study.\nCONCLUSION: The following natural ingredients - red yeast rice, artichoke extract, bergamot, garlic, and flaxseed - have been specifically selected for their cholesterol-lowering properties. Based on consistent usage, except for aged garlic extract, these ingredients appear to have a beneficial impact on cholesterol levels. (1) It is advisable to conduct a comprehensive cohort study to assess the efficacy of relevant dietary supplements, particularly red yeast rice, bergamot, and flaxseed, in treating hypercholesterolemia. This is important due to the varying effectiveness of alternative treatments. However, there are lingering concerns regarding the lack of supervision and quality control that require attention. (2) Further research into the specific molecular composition and the underlying mechanisms by which it reduces cholesterol levels is warranted."
+}

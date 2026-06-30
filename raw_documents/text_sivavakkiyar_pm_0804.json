@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0804",
+  "text_id": "sivavakkiyar_pm_0804",
+  "title": "Sivavakkiyam - Verse 195",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "195",
+  "tamil_text": "முட்டுகண்ட தூமையின் முளைத்தெழுந்த சீவனை\nகட்டிக்கொண்டு நின்றிடம் கடந்துநோக்க வல்லீரேல்\nதிட்டும்அற்று சுட்டும்அற்று முடியில்நின்ற நாதனை\nஎட்டுத்திக்கும் கையினால் இருந்தவீட தாகுமே.",
+  "transliteration": "muṭṭukṇṭ tūmaiyiṉ muḷaitteḻunt cīvṉai\nkṭṭikkoṇṭu niṉṟiṭm kṭntunōkk vllīrēl\ntiṭṭumaṟṟu cuṭṭumaṟṟu muṭiyilniṉṟ nātṉai\neṭṭuttikkum kaiyiṉāl iruntvīṭ tākumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "76572797e57de3bffd6bc44944838ea3f35f8c4e202c9d557ee92befbe7fdcd3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

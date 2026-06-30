@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0841",
+  "text_id": "sivavakkiyar_pm_0841",
+  "title": "Sivavakkiyam - Verse 232",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "232",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உயிர்அகத்தில் நின்றிடும் உடம்பெடுத்த தற்குமுன்\nஉயிர்அகாரம் ஆயிடும் உடல்உகாரம் ஆயிடும்\nஉயிரையும் உடம்பையும் ஒன்றுவிப்பது அச்சிவம்\nஉயிரினால் உடம்புதான் எடுத்தவாறு உரைக்கினேன்.",
+  "transliteration": "uyirakttil niṉṟiṭum uṭmpeṭutt tṟkumuṉ\nuyirakārm āyiṭum uṭlukārm āyiṭum\nuyiraiyum uṭmpaiyum oṉṟuvipptu accivm\nuyiriṉāl uṭmputāṉ eṭuttvāṟu uraikkiṉēṉ.",
+  "english_translation": null,
+  "content_hash": "adeb5c8311ef7bbbebf3ce16af8fd58cb9b676eab2a7a4c6f9902f30027e0a6d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "body_udal",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "deity_murugan",
+    "body_uyir",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_atman",
+    "siddhar_agasthiyar",
+    "practice_kumbhaka"
+  ]
+}

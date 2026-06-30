@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0030",
+  "text_id": "thirumandiram_pm_0030",
+  "title": "Thirumandiram - Verse 30",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "30",
+  "tamil_text": "வான்நின்று அழைக்கும் மழைபோல் இறைவனும்\nதானினறு அழைக்கும்கொல் என்று தயங்குவார்\nஆன்நின்று அழைக்கு மதுபோல்என் நந்தியை\nநான்நின்று அழைப்பது ஞானம் கருதியே.",
+  "transliteration": "vāṉniṉṟu aḻaikkum mḻaipōl iṟaivṉum\ntāṉiṉṟu aḻaikkumkol eṉṟu tyṅkuvār\nāṉniṉṟu aḻaikku mtupōleṉ nntiyai\nnāṉniṉṟu aḻaipptu ñāṉm krutiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "59b8bcb21f6a3da2ddaa3438e321a18d667779b2401ff3149b23e9c3a72859aa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

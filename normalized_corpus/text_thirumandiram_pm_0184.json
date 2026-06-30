@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0184",
+  "text_id": "thirumandiram_pm_0184",
+  "title": "Thirumandiram - Verse 187",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "187",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தழைக்கின்ற செந்தளிர்த் தண்மலர்க் கொம்பில்\nஇழைக்கின்றது எல்லாம் இறக்கின்ற கண்டும்\nபிழைப்பின்றி எம்பெரு மானடி ஏத்தார்\nஅழைக்கின்ற போதுஅறி யாரவர் தாமே.",
+  "transliteration": "tḻaikkiṉṟ centḷirt tṇmlrk kompil\niḻaikkiṉṟtu ellām iṟkkiṉṟ kṇṭum\npiḻaippiṉṟi emperu māṉṭi ēttār\naḻaikkiṉṟ pōtuaṟi yārvr tāmē.",
+  "english_translation": null,
+  "content_hash": "87a47feae0d460918d24fa5f55d0b06917cebc3f2efb0b75ab1a522f94e3c3d4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "practice_varma",
+    "body_eye"
+  ]
+}

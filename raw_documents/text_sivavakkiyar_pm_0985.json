@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0985",
+  "text_id": "sivavakkiyar_pm_0985",
+  "title": "Sivavakkiyam - Verse 376",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "376",
+  "tamil_text": "மந்திரங்கள் கற்றுநீர் மயங்குகின்ற மாந்தரே\nமந்திரங்கள் கற்றுநீர் மரித்தபோது சொல்வீரோ?\nமந்திரங்கள் உம்முளே மதித்தநீரும் உம்முளே\nமந்திரங்கள் ஆவது மனத்தின்ஐந்து எழுத்துமே.",
+  "transliteration": "mntirṅkḷ kṟṟunīr myṅkukiṉṟ māntrē\nmntirṅkḷ kṟṟunīr mrittpōtu colvīrō?\nmntirṅkḷ ummuḷē mtittnīrum ummuḷē\nmntirṅkḷ āvtu mṉttiṉaintu eḻuttumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6d6b5f94a87c3513a3eabd0c0914eaea7719fdf277c58e3be16552ba193fda37",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0110",
+  "text_id": "thirumandiram_pm_0110",
+  "title": "Thirumandiram - Verse 112",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "112",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானொரு கூறு சதாசிவன் எம்மிறை\nவானொரு கூறு மருவியும் அங்குளான்\nகோனொரு கூறுஉடல் உள்நின்று உயிர்க்கின்ற\nதானொரு கூறு சலமய னாமே.",
+  "transliteration": "tāṉoru kūṟu ctācivṉ emmiṟai\nvāṉoru kūṟu mruviyum aṅkuḷāṉ\nkōṉoru kūṟuuṭl uḷniṉṟu uyirkkiṉṟ\ntāṉoru kūṟu clmy ṉāmē.",
+  "english_translation": null,
+  "content_hash": "8fd01d480c4851f8a3608d985fcc6eb8b0eaee4e13d7dbc7cf785f00b90531f2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "body_udal",
+    "siddhar_sivavakkiyar",
+    "body_uyir",
+    "deity_shiva",
+    "concept_atman"
+  ]
+}

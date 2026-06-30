@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_1000",
+  "text_id": "sivavakkiyar_pm_1000",
+  "title": "Sivavakkiyam - Verse 391",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "391",
+  "tamil_text": "அட்சரத்தை உச்சரித்து அனாதியங்கி மூலமாய்\nஅட்சரத்தை யும்திறந்து அகோரமிட்டு அலர்ந்ததும்\nமட்சரத்தில் உட்கரம் அகப்படக் கடந்தபின்\nஅட்சரத்தில் ஆதியோடு அமர்ந்ததே சிவாயமே.",
+  "transliteration": "aṭcrttai uccrittu aṉātiyṅki mūlmāy\naṭcrttai yumtiṟntu akōrmiṭṭu alrnttum\nmṭcrttil uṭkrm akppṭk kṭntpiṉ\naṭcrttil ātiyōṭu amrnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f8806a06f9af34cd073d1b06382b89b6c8c3331f60ac98fb56483b25f5493f49",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

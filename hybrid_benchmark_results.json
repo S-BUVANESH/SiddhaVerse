@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-06-27T14:49:25Z",
+  "metrics": {
+    "mean_precision_at_5_raw": 0.24000000000000005,
+    "mean_precision_at_5_norm": 0.7,
+    "mean_recall_at_10": 1.0,
+    "mrr": 0.42333333333333334,
+    "coverage_pct": 100.0,
+    "avg_latency_ms": 1919.9624840014924,
+    "p50_latency_ms": 1071.8150999746285,
+    "p95_latency_ms": 1191.8357199931052,
+    "p99_latency_ms": 20130.87952401176
+  },
+  "queries": [
+    {
+      "query_id": "q001",
+      "category": "Tamil Verse Lookup",
+      "query_text": "நினைப்பதொன்று கண்டேன்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "thirumandiram_pm_0282",
+        "thirumandiram_pm_0086",
+        "sivavakkiyar_pm_0616",
+        "thirumandiram_pm_0178",
+        "thirumandiram_pm_0022",
+        "thirumandiram_pm_0588",
+        "thirumandiram_pm_0164",
+        "thirumandiram_pm_0183",
+        "thirumandiram_pm_0094",
+        "thirumandiram_pm_0258",
+        "thirumandiram_pm_0311",
+        "thirumandiram_pm_0092",
+        "thirumandiram_pm_0012",
+        "thirumandiram_pm_0309",
+        "thirumandiram_pm_0047"
+      ],
+      "precision_at_5_raw": 0.2,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 0.3333333333333333,
+      "avg_latency_ms": 5428.884073333272
+    },
+    {
+      "query_id": "q002",
+      "category": "Romanized Suffix",
+      "query_text": "pranayamam",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "thirumandiram_pm_0297",
+        "thirumandiram_pm_0041",
+        "classic_thirumandiram",
+        "thirumandiram_pm_0060",
+        "thirumandiram_pm_0224",
+        "thirumandiram_pm_0138",
+        "sivavakkiyar_pm_0616",
+        "thirumandiram_pm_0048",
+        "sivavakkiyar_pm_0624",
+        "formulation_brahma_rasayanam"
+      ],
+      "precision_at_5_raw": 0.2,
+      "precision_at_5_norm": 0.5,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 0.3333333333333333,
+      "avg_latency_ms": 794.7285599967776
+    },
+    {
+      "query_id": "q003",
+      "category": "English Synonym",
+      "query_text": "breath retention",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "thirumandiram_pm_0388",
+        "thirumandiram_pm_0220",
+        "sivavakkiyar_pm_0800",
+        "sivavakkiyar_pm_0616",
+        "sivavakkiyar_pm_0639",
+        "classic_thirumandiram",
+        "pubmed_33338583",
+        "plant_elakkai",
+        "sivavakkiyar_pm_0609"
+      ],
+      "precision_at_5_raw": 0.2,
+      "precision_at_5_norm": 0.5,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 0.25,
+      "avg_latency_ms": 1192.6144066732377
+    },
+    {
+      "query_id": "q004",
+      "category": "Entity Search",
+      "query_text": "holy basil",
+      "expected_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi"
+      ],
+      "retrieved_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi",
+        "sivavakkiyar_pm_0643",
+        "thirumandiram_pm_0186",
+        "thirumandiram_pm_0398",
+        "sivavakkiyar_pm_0611",
+        "sivavakkiyar_pm_0889",
+        "sivavakkiyar_pm_0623",
+        "thirumandiram_pm_0569",
+        "thirumandiram_pm_0310",
+        "pubmed_39563466",
+        "sivavakkiyar_pm_0642",
+        "sivavakkiyar_pm_0627"
+      ],
+      "precision_at_5_raw": 0.4,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 1083.212239999557
+    },
+    {
+      "query_id": "q005",
+      "category": "Concept Query",
+      "query_text": "Kaya Kalpa rejuvenation",
+      "expected_documents": [
+        "formulation_brahma_rasayanam",
+        "classic_agasthiyar_soumya_sagaram"
+      ],
+      "retrieved_documents": [
+        "siddhar_korakkar_bio",
+        "formulation_siddha_makaradhwaja",
+        "manuscript_eap810_gsc_002",
+        "plant_karisalankanni",
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_brahma_rasayanam",
+        "plant_sothu_katrazhai"
+      ],
+      "precision_at_5_raw": 0.2,
+      "precision_at_5_norm": 0.5,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 0.2,
+      "avg_latency_ms": 1100.3731400046188
+    }
+  ]
+}

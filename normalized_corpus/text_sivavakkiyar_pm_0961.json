@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0961",
+  "text_id": "sivavakkiyar_pm_0961",
+  "title": "Sivavakkiyam - Verse 352",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "352",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அமையுமாலின் மோனமும் அரன்இருந்த மோனமும்\nசமையும்பூத மோனமும் தரித்திருந்த மோனமும்\nஇமையும்கொண்ட வேகமும் இலங்கும்உச்சி மோனமும்\nதமையறிந்த மாந்தரே சடத்தைஉற்று நோக்கிலார்.",
+  "transliteration": "amaiyumāliṉ mōṉmum arṉirunt mōṉmum\ncmaiyumpūt mōṉmum trittirunt mōṉmum\nimaiyumkoṇṭ vēkmum ilṅkumucci mōṉmum\ntmaiyṟint māntrē cṭttaiuṟṟu nōkkilār.",
+  "english_translation": null,
+  "content_hash": "0228081f8a240312e3da4947bb67b94bd5e088ffabfddc2a2abf4797e4a756f4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "place_himalaya",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

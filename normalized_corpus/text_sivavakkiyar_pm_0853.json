@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0853",
+  "text_id": "sivavakkiyar_pm_0853",
+  "title": "Sivavakkiyam - Verse 244",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "244",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அன்னைகர்ப்ப அறைஅதற்குள் அங்கியின்பிர காசமாய்\nஅந்தறைக்குள் வந்திருந்து அரியவந்து ரூபமாய்\nதன்னைஒத்து நின்றபோது தடையறுத்து வெளியதாய்\nதங்கநற் பெருமைதந்து தலைவனாய் வளர்ந்ததே.",
+  "transliteration": "aṉṉaikrpp aṟaiatṟkuḷ aṅkiyiṉpir kācmāy\nantṟaikkuḷ vntiruntu ariyvntu rūpmāy\ntṉṉaiottu niṉṟpōtu tṭaiyṟuttu veḷiytāy\ntṅknṟ perumaitntu tlaivṉāy vḷrnttē.",
+  "english_translation": null,
+  "content_hash": "6a0b45e617c0a28bf61d25875fbd29d0483a13475eb0c42ebe56a4fa5a21627e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_tantra",
+    "concept_maya",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "concept_samadhi",
+    "practice_pranayama",
+    "concept_karma",
+    "place_kashi",
+    "body_head"
+  ]
+}

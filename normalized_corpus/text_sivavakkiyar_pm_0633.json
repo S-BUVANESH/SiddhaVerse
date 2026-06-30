@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0633",
+  "text_id": "sivavakkiyar_pm_0633",
+  "title": "Sivavakkiyam - Verse 24",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "24",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கிரியை நிலை\n\nவீடெடுத்து வேள்விசெய்து மெய்யனோடு பொய்யுமாய்\nமாடுமக்கள் பெண்டிர்சுற்றம் என்றிருக்கும் மாந்தர்காள்\nநாடுபெற்ற நடுவர்கையில் ஓலைவந்து அழைத்திடில்\nஓடுபெற்ற அவ்விலை பெறாதுகாணும் உடலமே!",
+  "transliteration": "kiriyai nilai\n\nvīṭeṭuttu vēḷviceytu meyyṉōṭu poyyumāy\nmāṭumkkḷ peṇṭircuṟṟm eṉṟirukkum māntrkāḷ\nnāṭupeṟṟ nṭuvrkaiyil ōlaivntu aḻaittiṭil\nōṭupeṟṟ avvilai peṟātukāṇum uṭlmē!",
+  "english_translation": null,
+  "content_hash": "f11955c28c9b2d5383bc78a610881bcf8b33e43fb3330897e370023dc84c1a9b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "concept_maya",
+    "body_udal",
+    "concept_jnana",
+    "deity_kali",
+    "concept_nadi",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_mukti",
+    "practice_kumbhaka"
+  ]
+}

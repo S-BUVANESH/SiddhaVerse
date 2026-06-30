@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0740",
+  "text_id": "sivavakkiyar_pm_0740",
+  "title": "Sivavakkiyam - Verse 131",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "131",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எங்கள்தேவர் உங்கள்தேவர் என்றிரண்டு தேவரோ?\nஅங்கும்இங்கு மாய்இரண்டு தேவரே இருப்பரோ?\nஅங்கும்இங்கும் ஆகிநின்ற ஆதிமூர்த்தி ஒன்றலோ?\nவங்கவாரம் சொன்னபேர்கள் வாய்புழுத்து மாள்வரே.",
+  "transliteration": "eṅkḷtēvr uṅkḷtēvr eṉṟirṇṭu tēvrō?\naṅkumiṅku māyirṇṭu tēvrē irupprō?\naṅkumiṅkum ākiniṉṟ ātimūrtti oṉṟlō?\nvṅkvārm coṉṉpērkḷ vāypuḻuttu māḷvrē.",
+  "english_translation": null,
+  "content_hash": "be9db6d01ec3ccd893b35c7d413ff7a916fc71c1b841aef600177c910a8b58e9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "concept_maya",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "place_kashi",
+    "body_head",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0227",
+  "text_id": "thirumandiram_pm_0227",
+  "title": "Thirumandiram - Verse 230",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "230",
+  "tamil_text": "நூலும் சிகையும் நுவலிற் பிரமமோ\nநூலது கார்ப்பாசம் நுண்சிகை கேசமாம்\nநூலது வேதாந்தம் நுண்சிகை ஞானமாம்\nநூலுடை அந்தணர் காணும் நுவலிலே.",
+  "transliteration": "nūlum cikaiyum nuvliṟ pirmmō\nnūltu kārppācm nuṇcikai kēcmām\nnūltu vētāntm nuṇcikai ñāṉmām\nnūluṭai antṇr kāṇum nuvlilē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d72ed7a2d042fbae2f9bf52bdb0a14db43ebe47b0f9798434af2f082143f270a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

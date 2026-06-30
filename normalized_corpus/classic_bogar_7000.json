@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_bogar_7000",
+  "text_id": "classic_bogar_7000",
+  "title": "Bogar 7000",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Bogar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ea826dd98defea37a2e37afd85082f61a245afda6f770cd526c2221dae5b0d0f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "c. 3rd Century BCE",
+  "summary": "Epic alchemical and pharmaceutical work describing muppu (universal catalyst), navapashanam prep, and yogic flight.",
+  "verses_count": 7000,
+  "search_text": "classic bogar 7000 Bogar 7000 Classical Siddha Literature Classical Texts Bogar Tamil Tamil script public_domain Project Madurai / Academic Sources c. 3rd Century BCE Epic alchemical and pharmaceutical work describing muppu (universal catalyst), navapashanam prep, and yogic flight."
+}

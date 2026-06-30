@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0901",
+  "text_id": "sivavakkiyar_pm_0901",
+  "title": "Sivavakkiyam - Verse 292",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "292",
+  "tamil_text": "ஈரொளிய திங்களே இயங்கிநின்றது தற்பரம்\nஏரொளீய திங்களே அஃது யாவரும் அறிகிலீர்\nகாரொளிப் படலமும் கடந்துபோன தற்பரம்\nதாரொளிப் பெரும்பதம் ஏகநாத பாதமே.",
+  "transliteration": "īroḷiy tiṅkḷē iyṅkiniṉṟtu tṟprm\nēroḷīy tiṅkḷē aḥtu yāvrum aṟikilīr\nkāroḷip pṭlmum kṭntupōṉ tṟprm\ntāroḷip perumptm ēknāt pātmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "894e75fad3dd4cd834d9c50839a430071cdd5e416151e315949456d75a90d0d9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

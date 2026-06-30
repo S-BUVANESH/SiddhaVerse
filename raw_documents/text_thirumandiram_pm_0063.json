@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0063",
+  "text_id": "thirumandiram_pm_0063",
+  "title": "Thirumandiram - Verse 63",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "63",
+  "tamil_text": "பெற்றநல் ஆகமங் காரணம் காமிகம்\nஉற்றநல் வீரம் உயர்சிந்தியம் வாதுளம்\nமற்றவ் வியாமளம் ஆகும்கா லோத்தரந்\nதுற்றநற் சுப்பிரம் சொல்லு மகுடமே.",
+  "transliteration": "peṟṟnl ākmṅ kārṇm kāmikm\nuṟṟnl vīrm uyrcintiym vātuḷm\nmṟṟv viyāmḷm ākumkā lōttrn\ntuṟṟnṟ cuppirm collu mkuṭmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e77e8861b38296bf88e14a5a716abd5500b7b91ca4ec51c995ada620e7c0065d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

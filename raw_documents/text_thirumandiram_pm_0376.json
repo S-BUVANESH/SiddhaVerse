@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0376",
+  "text_id": "thirumandiram_pm_0376",
+  "title": "Thirumandiram - Verse 925",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "925",
+  "tamil_text": "அமர்ந்த அரகர வாம்புற வட்டம்\nஅமர்ந்த அரிகரி யாம் அதனுள் வட்டம்\nஅமர்ந்த அசபை யாம் அதனுள்வட்டம்\nஅமர்ந்தஇ ரேகையும் ஆகின்ற சூலமே.",
+  "transliteration": "amrnt arkr vāmpuṟ vṭṭm\namrnt arikri yām atṉuḷ vṭṭm\namrnt acpai yām atṉuḷvṭṭm\namrnti rēkaiyum ākiṉṟ cūlmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "414670e4de920e9e378a8da07617bd0b08b46c95d63e9e5100130824082605d0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

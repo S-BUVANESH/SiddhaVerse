@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0069",
+  "text_id": "thirumandiram_pm_0069",
+  "title": "Thirumandiram - Verse 69",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "69",
+  "tamil_text": "மந்திரம் பெற்ற வழிமுறை மாலாங்கன்\nஇந்திரன் சோமன் பிரமன் உருத்திரன்\nகந்துருக் காலாங்கி கஞ்ச மலையனோடு\nஇந்த எழுவரும் என்வழி யாமே.",
+  "transliteration": "mntirm peṟṟ vḻimuṟai mālāṅkṉ\nintirṉ cōmṉ pirmṉ uruttirṉ\nknturuk kālāṅki kñc mlaiyṉōṭu\nint eḻuvrum eṉvḻi yāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "68ac9d1f4768304f7afbd269f0577987f37d5bc88bc39dbce6f4995488f3a364",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

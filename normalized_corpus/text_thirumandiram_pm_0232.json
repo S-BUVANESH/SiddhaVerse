@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0232",
+  "text_id": "thirumandiram_pm_0232",
+  "title": "Thirumandiram - Verse 235",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "235",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேதாந்த ஞானம் விளங்க விதியிலோர்\nநாதாந்த போதம் நணுகிய போக்கது\nபோதாந்த மாம்பரன் பாற்புகப் புக்கதால்\nநாதாந்த முத்தியும் சித்தியும் நண்ணுமே.",
+  "transliteration": "vētānt ñāṉm viḷṅk vitiyilōr\nnātānt pōtm nṇukiy pōkktu\npōtānt māmprṉ pāṟpukp pukktāl\nnātānt muttiyum cittiyum nṇṇumē.",
+  "english_translation": null,
+  "content_hash": "0f84afa207f6002ffc0ee2e914aba99b667388449901a42c75d1262b3e635806",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "symbol_three",
+    "siddhar_bogar",
+    "body_sound",
+    "concept_jnana",
+    "place_chidambaram",
+    "practice_mudra",
+    "concept_dhyana"
+  ]
+}

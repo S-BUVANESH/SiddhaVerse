@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0660",
+  "text_id": "sivavakkiyar_pm_0660",
+  "title": "Sivavakkiyam - Verse 51",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "51",
+  "tamil_text": "கைவடங்கள் கண்டுநீர் கண்சிமிட்டி நிற்கிறீர்?\nஎவ்விடங்கள் கண்டுநீர் எண்ணிஎண்ணிப் பார்க்கிறீர்?\nபொய்யுணர்ந்த சிந்தையைப் பொருந்திநோக்க வல்லீரேல்\nமெய்கடந்து உம்முளே விரைந்து கூறல்ஆகுமே.",
+  "transliteration": "kaivṭṅkḷ kṇṭunīr kṇcimiṭṭi niṟkiṟīr?\nevviṭṅkḷ kṇṭunīr eṇṇieṇṇip pārkkiṟīr?\npoyyuṇrnt cintaiyaip poruntinōkk vllīrēl\nmeykṭntu ummuḷē viraintu kūṟlākumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fa9215a3d21e53b2e7df3993bbc12d22b7e2a0efe2192bb42f203929cd82c9c1",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

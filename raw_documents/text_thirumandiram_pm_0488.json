@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0488",
+  "text_id": "thirumandiram_pm_0488",
+  "title": "Thirumandiram - Verse 1046",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1046",
+  "tamil_text": "திரிபுரை சுந்தரி அந்தரி சிந்துரப்\nபரிபுரை நாரணி யாம்பல வன்னத்தி\nஇருள்புரை ஈசி மனோன்மனி என்ன\nவருபல வாய்நிற்கும் மாமது தானே.",
+  "transliteration": "tiripurai cuntri antri cinturp\npripurai nārṇi yāmpl vṉṉtti\niruḷpurai īci mṉōṉmṉi eṉṉ\nvrupl vāyniṟkum māmtu tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c3ed9d1c1f4c1f93907cf9d250623e1a16f78f3a2dd8d64b36b32b94701b42d3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_38374670",
+  "text_id": "pubmed_38374670",
+  "title": "Give truth a chance.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Krishna GL"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "2c75a6f5d49b70da55f94b7eaad81660d2a2c9dddfff1f73da5860afb5595d2d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "38374670",
+  "authors": [
+    "Krishna GL"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2023",
+  "doi": "10.20529/IJME.2023.060",
+  "abstract": "As a curious undergraduate studying Ayurveda, the first concept that intrigued me was Sushruta's take on foetal sex determination. At the time of conception, if the man's semen is in excess, a male foetus results; if the woman's menstrual blood is in excess, a female foetus results; if semen and menstrual blood are in equal measure, an intersex is formed.",
+  "search_text": "pubmed 38374670 Give truth a chance. PubMed Research Scientific Literature Krishna GL Tamil Tamil script open_access PubMed Central 38374670 Krishna GL Indian journal of medical ethics 2023 10.20529/IJME.2023.060 As a curious undergraduate studying Ayurveda, the first concept that intrigued me was Sushruta's take on foetal sex determination. At the time of conception, if the man's semen is in excess, a male foetus results; if the woman's menstrual blood is in excess, a female foetus results; if semen and menstrual blood are in equal measure, an intersex is formed."
+}

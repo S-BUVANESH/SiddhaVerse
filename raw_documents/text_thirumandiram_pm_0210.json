@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0210",
+  "text_id": "thirumandiram_pm_0210",
+  "title": "Thirumandiram - Verse 213",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "213",
+  "tamil_text": "அறுத்தன ஆறினும் ஆனினம் மேவி\nஅறுத்தனர் ஐவரும் எண்ணிலி துன்பம்\nஒறுத்தன வல்வினை ஒன்றல்ல வாழ்வை\nவெறுத்தனன் ஈசனை வேண்டிநின் றானே.",
+  "transliteration": "aṟuttṉ āṟiṉum āṉiṉm mēvi\naṟuttṉr aivrum eṇṇili tuṉpm\noṟuttṉ vlviṉai oṉṟll vāḻvai\nveṟuttṉṉ īcṉai vēṇṭiniṉ ṟāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "87ddd4f332051340ebfee9c0b142104b5a80620c0b6abbe2ae13000e44829825",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

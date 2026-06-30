@@ -1,0 +1,329 @@
+{
+  "version": "2B-4",
+  "generated_at": "2026-06-25T14:54:20.107070+00:00",
+  "total_terms": 88,
+  "description": "English and romanized synonym map for SiddhaVerse search. No AI used.",
+  "synonyms": {
+    "breath": [
+      "Pranayama",
+      "Kumbhaka",
+      "practice_pranayama",
+      "practice_kumbhaka"
+    ],
+    "breathing": [
+      "Pranayama",
+      "practice_pranayama"
+    ],
+    "meditation": [
+      "Dhyana",
+      "concept_dhyana",
+      "Samadhi",
+      "concept_samadhi"
+    ],
+    "liberation": [
+      "Mukti",
+      "concept_mukti",
+      "Moksha"
+    ],
+    "god": [
+      "Shiva",
+      "deity_shiva",
+      "deity_vishnu",
+      "deity_murugan"
+    ],
+    "goddess": [
+      "Shakti",
+      "deity_shakti",
+      "deity_kali"
+    ],
+    "yoga": [
+      "concept_yoga",
+      "practice_pranayama"
+    ],
+    "energy": [
+      "Prana",
+      "concept_prana",
+      "Shakti"
+    ],
+    "light": [
+      "body_light",
+      "Siva jyoti"
+    ],
+    "fire": [
+      "body_fire",
+      "Agni"
+    ],
+    "mantra": [
+      "concept_mantra",
+      "Namashivaya",
+      "practice_moolamantra"
+    ],
+    "om": [
+      "concept_pranava",
+      "Pranava"
+    ],
+    "karma": [
+      "concept_karma"
+    ],
+    "maya": [
+      "concept_maya",
+      "illusion"
+    ],
+    "guru": [
+      "concept_guru",
+      "teacher",
+      "master"
+    ],
+    "wisdom": [
+      "Jnana",
+      "concept_jnana"
+    ],
+    "knowledge": [
+      "Jnana",
+      "concept_jnana"
+    ],
+    "devotion": [
+      "Bhakti",
+      "concept_bhakti"
+    ],
+    "love": [
+      "Bhakti",
+      "concept_bhakti"
+    ],
+    "chakra": [
+      "concept_chakra"
+    ],
+    "kundalini": [
+      "concept_kundalini"
+    ],
+    "nadi": [
+      "concept_nadi",
+      "energy channel"
+    ],
+    "lotus": [
+      "plant_lotus",
+      "thamarai"
+    ],
+    "holy basil": [
+      "plant_tulsi",
+      "Tulsi"
+    ],
+    "turmeric": [
+      "plant_manjal"
+    ],
+    "ginger": [
+      "plant_ginger"
+    ],
+    "pepper": [
+      "plant_milagu"
+    ],
+    "mudra": [
+      "practice_mudra"
+    ],
+    "bandha": [
+      "practice_bandha"
+    ],
+    "pranayama": [
+      "practice_pranayama"
+    ],
+    "kumbhaka": [
+      "practice_kumbhaka"
+    ],
+    "samadhi": [
+      "concept_samadhi"
+    ],
+    "tapas": [
+      "concept_tapas",
+      "austerity"
+    ],
+    "austerity": [
+      "concept_tapas"
+    ],
+    "shiva": [
+      "deity_shiva",
+      "சிவம்"
+    ],
+    "shakti": [
+      "deity_shakti"
+    ],
+    "murugan": [
+      "deity_murugan"
+    ],
+    "vishnu": [
+      "deity_vishnu"
+    ],
+    "brahma": [
+      "deity_brahma"
+    ],
+    "ganesha": [
+      "deity_ganesha"
+    ],
+    "kali": [
+      "deity_kali"
+    ],
+    "thirumoolar": [
+      "siddhar_thirumoolar",
+      "Thirumandiram"
+    ],
+    "sivavakkiyar": [
+      "siddhar_sivavakkiyar",
+      "Sivavakkiyam"
+    ],
+    "agasthiyar": [
+      "siddhar_agasthiyar"
+    ],
+    "bogar": [
+      "siddhar_bogar"
+    ],
+    "prana": [
+      "concept_prana",
+      "life force"
+    ],
+    "life force": [
+      "concept_prana"
+    ],
+    "cosmic": [
+      "concept_brahman",
+      "concept_maya"
+    ],
+    "sound": [
+      "body_sound",
+      "Nadam"
+    ],
+    "nadam": [
+      "body_sound"
+    ],
+    "eye": [
+      "body_eye"
+    ],
+    "heart": [
+      "body_heart"
+    ],
+    "seed": [
+      "body_seed",
+      "Vindu"
+    ],
+    "medicine": [
+      "formulation",
+      "plant"
+    ],
+    "herb": [
+      "plant_vallarai",
+      "plant_tulsi"
+    ],
+    "temple": [
+      "place_chidambaram",
+      "place_tiruvannamalai"
+    ],
+    "chidambaram": [
+      "place_chidambaram"
+    ],
+    "tiruvannamalai": [
+      "place_tiruvannamalai"
+    ],
+    "kailash": [
+      "place_kailash"
+    ],
+    "kashi": [
+      "place_kashi"
+    ],
+    "varanasi": [
+      "place_kashi"
+    ],
+    "three": [
+      "symbol_three"
+    ],
+    "trinity": [
+      "symbol_three"
+    ],
+    "five letters": [
+      "symbol_five",
+      "Namashivaya"
+    ],
+    "eighteen": [
+      "symbol_eighteen",
+      "18 siddhars"
+    ],
+    "self": [
+      "concept_atman",
+      "atma"
+    ],
+    "soul": [
+      "concept_atman"
+    ],
+    "spirit": [
+      "concept_atman",
+      "Uyir"
+    ],
+    "immortality": [
+      "concept_mukti",
+      "practice_kayakalpa",
+      "practice_rasayana"
+    ],
+    "rejuvenation": [
+      "practice_kayakalpa"
+    ],
+    "alchemy": [
+      "practice_rasayana"
+    ],
+    "verse": [
+      "Tamil verse",
+      "Thirumandiram",
+      "Sivavakkiyam"
+    ],
+    "poem": [
+      "Tamil verse",
+      "Siddhar poetry"
+    ],
+    "song": [
+      "Tamil verse",
+      "Siddhar poetry"
+    ],
+    "pancha": [
+      "concept_pancha_bootham"
+    ],
+    "five elements": [
+      "concept_pancha_bootham"
+    ],
+    "tantra": [
+      "concept_tantra"
+    ],
+    "agama": [
+      "concept_agama"
+    ],
+    "siddha": [
+      "Thirumandiram",
+      "Sivavakkiyam",
+      "Siddhar"
+    ],
+    "initiation": [
+      "practice_deekshai"
+    ],
+    "diksha": [
+      "practice_deekshai"
+    ],
+    "puja": [
+      "practice_puja",
+      "worship"
+    ],
+    "worship": [
+      "practice_puja",
+      "deity_shiva"
+    ],
+    "supernatural": [
+      "practice_ashta_siddhi"
+    ],
+    "powers": [
+      "practice_ashta_siddhi"
+    ],
+    "pressure points": [
+      "practice_varma"
+    ],
+    "varma": [
+      "practice_varma"
+    ],
+    "acupressure": [
+      "practice_varma"
+    ]
+  }
+}

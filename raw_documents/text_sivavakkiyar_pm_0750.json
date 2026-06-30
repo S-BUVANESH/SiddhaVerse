@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0750",
+  "text_id": "sivavakkiyar_pm_0750",
+  "title": "Sivavakkiyam - Verse 141",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "141",
+  "tamil_text": "காலைமாலை தம்மிலே கலந்துநின்ற காலனார்\nமாலைகாலை யாச்சிவந்த மாயம்ஏது செப்பிடீர்?\nகாலைமாலை அற்றுநீர் கருத்திலே ஒடுங்கினால்\nகாலைமாலை ஆகிநின்ற காலன்இல்லை இல்லையே.",
+  "transliteration": "kālaimālai tmmilē klntuniṉṟ kālṉār\nmālaikālai yāccivnt māymētu ceppiṭīr?\nkālaimālai aṟṟunīr kruttilē oṭuṅkiṉāl\nkālaimālai ākiniṉṟ kālṉillai illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6516627da4ca87e4577e5796f06c5a153b60678eeba1cb022da0580bff1f751f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

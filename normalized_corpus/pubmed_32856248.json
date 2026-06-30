@@ -1,0 +1,53 @@
+{
+  "document_id": "pubmed_32856248",
+  "text_id": "pubmed_32856248",
+  "title": "Swarna Bindu Prashana-an Ancient Approach to Improve the Infant's Immunity.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Nelaturi P",
+    "Nagarajan P",
+    "Sabapathy SK",
+    "Sambandam R"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "0068c2be8b4d270330db6543171ce01982f9512e4f9fef6391c18d6b806393d5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "32856248",
+  "authors": [
+    "Nelaturi P",
+    "Nagarajan P",
+    "Sabapathy SK",
+    "Sambandam R"
+  ],
+  "journal": "Biological trace element research",
+  "pubdate": "2021 Jun",
+  "doi": "10.1007/s12011-020-02353-y",
+  "abstract": "Swarna bindu prashana (SBP) is a metallic medicinal preparation widely used in Ayurveda pediatrics. The main ingredients of SBP are swarna prashan (gold nanoparticle), gou ghrita (cow ghee), madhu (honey), and other medhya dravyas (drugs which enhance intellectual, memory). According to the Indian classical text, SBP has been proposed as a potent medicine for immunotherapies and vaccine development due to its indefinite size, shapes, charges, and surface functionality. In this review, we describe the plausible mechanism of SBP in dendritic cells maturation and subsequent T cell activation. But being herbo-metallic preparation, its safety and efficacy are well supported by the classical publications of Ayurveda. To conclude, SBP is an immune booster for infants against any viral disease, and it is necessary to validate its safety and efficacy through systematic methodological research.",
+  "search_text": "pubmed 32856248 Swarna Bindu Prashana-an Ancient Approach to Improve the Infant's Immunity. PubMed Research Scientific Literature Nelaturi P Nagarajan P Sabapathy SK Sambandam R Tamil Tamil script open_access PubMed Central 32856248 Nelaturi P Nagarajan P Sabapathy SK Sambandam R Biological trace element research 2021 Jun 10.1007/s12011-020-02353-y Swarna bindu prashana (SBP) is a metallic medicinal preparation widely used in Ayurveda pediatrics. The main ingredients of SBP are swarna prashan (gold nanoparticle), gou ghrita (cow ghee), madhu (honey), and other medhya dravyas (drugs which enhance intellectual, memory). According to the Indian classical text, SBP has been proposed as a potent medicine for immunotherapies and vaccine development due to its indefinite size, shapes, charges, and surface functionality. In this review, we describe the plausible mechanism of SBP in dendritic cells maturation and subsequent T cell activation. But being herbo-metallic preparation, its safety and efficacy are well supported by the classical publications of Ayurveda. To conclude, SBP is an immune booster for infants against any viral disease, and it is necessary to validate its safety and efficacy through systematic methodological research."
+}

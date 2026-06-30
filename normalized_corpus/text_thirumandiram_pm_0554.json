@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0554",
+  "text_id": "thirumandiram_pm_0554",
+  "title": "Thirumandiram - Verse 1113",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1113",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருந்தனள் ஏந்திழை என்னுள்ளம் மேவிப்\nபொருந்திய நால்விரல் புக்கனள் புல்லித்\nதிருந்திய தாணுவில் சேர்ந்துடன் ஒன்fறி\nஅருந்தவம் எய்தினள் ஆதியி னாளே.",
+  "transliteration": "iruntṉḷ ēntiḻai eṉṉuḷḷm mēvip\nporuntiy nālvirl pukkṉḷ pullit\ntiruntiy tāṇuvil cērntuṭṉ oṉfṟi\naruntvm eytiṉḷ ātiyi ṉāḷē.",
+  "english_translation": null,
+  "content_hash": "77f40d25b213246dd7726fc0f8e3f6bcd21536949e08b6a943c00a2c1c582054",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_tapas",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0766",
+  "text_id": "sivavakkiyar_pm_0766",
+  "title": "Sivavakkiyam - Verse 157",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "157",
+  "tamil_text": "மீன்இறைச்சி தின்றதில்லை அன்றும்இன்றும் வேதியர்?\nமீன்இருக்கும் நீரலோ மூழ்வதும் குடிப்பதும்\nமான்இறைச்சி தின்றதில்லை அன்றும்இன்றும் வேதியர்,\nமான்உரித்த தோலலோ மார்புநூல் அணிவதும்.",
+  "transliteration": "mīṉiṟaicci tiṉṟtillai aṉṟumiṉṟum vētiyr?\nmīṉirukkum nīrlō mūḻvtum kuṭipptum\nmāṉiṟaicci tiṉṟtillai aṉṟumiṉṟum vētiyr,\nmāṉuritt tōllō mārpunūl aṇivtum.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "462544b7a0562a3fa90169a82836c93522cbde713c53a3940db4d0e8d220dbe3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

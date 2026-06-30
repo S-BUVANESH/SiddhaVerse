@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0909",
+  "text_id": "sivavakkiyar_pm_0909",
+  "title": "Sivavakkiyam - Verse 300",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "300",
+  "tamil_text": "ஆகமத்தின் உட்பொருள் அகண்டமூலம் ஆதலால்\nதாகபோக மின்றியே தரித்ததற் பரமும்நீ\nஏகபாதம் வைத்தனை உணர்த்தும் அஞ்செழுத்துளே\nஏகபோகம் ஆகியே இருந்ததே சிவாயமே.",
+  "transliteration": "ākmttiṉ uṭporuḷ akṇṭmūlm ātlāl\ntākpōk miṉṟiyē tritttṟ prmumnī\nēkpātm vaittṉai uṇrttum añceḻuttuḷē\nēkpōkm ākiyē irunttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1203952c96ed2c4c7a2da0513883557c561b150fc388e3861e5930eaf3e7a0dd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

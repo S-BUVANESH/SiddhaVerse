@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0772",
+  "text_id": "sivavakkiyar_pm_0772",
+  "title": "Sivavakkiyam - Verse 163",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "163",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பார்த்ததேது? பார்த்திடில் பார்வையூ டழிந்திடும்\nகூர்த்ததாய் இருப்பிரேல் குறிப்பில்அச் சிவமதாம்;\nபார்த்தபார்த்த போதெல்லாம் பார்வையும் இகந்துநீர்\nபூத்தபூவுங் காயுமாய் பொருந்துவீர் பிறப்பிரே.",
+  "transliteration": "pārtttētu? pārttiṭil pārvaiyū ṭḻintiṭum\nkūrtttāy iruppirēl kuṟippilac civmtām;\npārttpārtt pōtellām pārvaiyum ikntunīr\npūttpūvuṅ kāyumāy poruntuvīr piṟppirē.",
+  "english_translation": null,
+  "content_hash": "fe7df8d8f418b24ee3c9305f83055a06054d61b8b04573dd10564af2afb05543",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "concept_maya",
+    "siddhar_sivavakkiyar",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "plant_lotus",
+    "deity_shakti",
+    "practice_pranayama",
+    "practice_kayakalpa",
+    "deity_shiva"
+  ]
+}

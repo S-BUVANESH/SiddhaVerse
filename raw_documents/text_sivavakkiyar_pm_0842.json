@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0842",
+  "text_id": "sivavakkiyar_pm_0842",
+  "title": "Sivavakkiyam - Verse 233",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "233",
+  "tamil_text": "அண்டம்ஏழும் உழலவே அனந்தயோனி உழலவே\nபண்டைமால், அயனுடன் பரந்துநின்று உழலவே\nஎண்திசை கடந்துநின்ற இருண்டசத்தி உழலவே\nஅண்டரண்டம் ஒன்றதாய் ஆதிநட்டம் ஆடுமே.",
+  "transliteration": "aṇṭmēḻum uḻlvē aṉntyōṉi uḻlvē\npṇṭaimāl, ayṉuṭṉ prntuniṉṟu uḻlvē\neṇticai kṭntuniṉṟ iruṇṭctti uḻlvē\naṇṭrṇṭm oṉṟtāy ātinṭṭm āṭumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e3159b34663189dd47dc188df6755faa0efd965a38b2b9baf6952c7c1df9cdd0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

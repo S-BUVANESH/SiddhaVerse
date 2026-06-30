@@ -1,0 +1,63 @@
+{
+  "document_id": "pubmed_34833974",
+  "text_id": "pubmed_34833974",
+  "title": "Phytochemistry, Food Application, and Therapeutic Potential of the Medicinal Plant (",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Khan MI",
+    "Maqsood M",
+    "Saeed RA",
+    "Alam A",
+    "Sahar A",
+    "Kieliszek M",
+    "Miecznikowski A",
+    "Muzammil HS",
+    "Aadil RM"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "80d366cab696593373880b98da29b38eaa451761596233c0057d36b29ba86334",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "34833974",
+  "authors": [
+    "Khan MI",
+    "Maqsood M",
+    "Saeed RA",
+    "Alam A",
+    "Sahar A",
+    "Kieliszek M",
+    "Miecznikowski A",
+    "Muzammil HS",
+    "Aadil RM"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "pubdate": "2021 Nov 15",
+  "doi": "10.3390/molecules26226881",
+  "abstract": "Herbal plants have been utilized to treat and cure various health-related problems since ancient times. The use of Ayurvedic medicine is very significant because of its least reported side effects and host of advantages. Withania coagulans (Family; Solanaceae), a valuable medicinal plant, has been used to cure abnormal cell growth, wasting disorders, neural as well as physical problems, diabetes mellitus, insomnia, acute and chronic hepatic ailments. This review provides critical insight regarding the phytochemistry, biological activities, and pharmacognostic properties of W. coagulans. It has been known to possess diuretic, anti-inflammatory, anti-bacterial, anti-fungal, cardio-protective, hepato-protective, hypoglycemic, anti-oxidative, and anti-mutagenic properties owing to the existence of withanolides, an active compound present in it. Apart from withanolides, W. coagulans also contains many phytochemicals such as flavonoids, tannins, and β-sterols. Several studies indicate that various parts of W. coagulans and their active constituents have numerous pharmacological and therapeutic properties and thus can be considered as a new drug therapy against multiple diseases.",
+  "search_text": "pubmed 34833974 Phytochemistry, Food Application, and Therapeutic Potential of the Medicinal Plant ( PubMed Research Scientific Literature Khan MI Maqsood M Saeed RA Alam A Sahar A Kieliszek M Miecznikowski A Muzammil HS Aadil RM Tamil Tamil script open_access PubMed Central 34833974 Khan MI Maqsood M Saeed RA Alam A Sahar A Kieliszek M Miecznikowski A Muzammil HS Aadil RM Molecules (Basel, Switzerland) 2021 Nov 15 10.3390/molecules26226881 Herbal plants have been utilized to treat and cure various health-related problems since ancient times. The use of Ayurvedic medicine is very significant because of its least reported side effects and host of advantages. Withania coagulans (Family; Solanaceae), a valuable medicinal plant, has been used to cure abnormal cell growth, wasting disorders, neural as well as physical problems, diabetes mellitus, insomnia, acute and chronic hepatic ailments. This review provides critical insight regarding the phytochemistry, biological activities, and pharmacognostic properties of W. coagulans. It has been known to possess diuretic, anti-inflammatory, anti-bacterial, anti-fungal, cardio-protective, hepato-protective, hypoglycemic, anti-oxidative, and anti-mutagenic properties owing to the existence of withanolides, an active compound present in it. Apart from withanolides, W. coagulans also contains many phytochemicals such as flavonoids, tannins, and β-sterols. Several studies indicate that various parts of W. coagulans and their active constituents have numerous pharmacological and therapeutic properties and thus can be considered as a new drug therapy against multiple diseases."
+}

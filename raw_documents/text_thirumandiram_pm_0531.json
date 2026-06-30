@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0531",
+  "text_id": "thirumandiram_pm_0531",
+  "title": "Thirumandiram - Verse 1089",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1089",
+  "tamil_text": "அந்த நடுவிரல் ஆதி சிறுவிரல்\nவந்த வழிமுறை மாறி உரை செய்யும்\nசெந்தமிழ் ஆதி தெளிந்து வழிபடு\nநந்தி இதனை நவம் உரைத்தானே.",
+  "transliteration": "ant nṭuvirl āti ciṟuvirl\nvnt vḻimuṟai māṟi urai ceyyum\ncentmiḻ āti teḷintu vḻipṭu\nnnti itṉai nvm uraittāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5f63522132a8e1ddd74117ecbb09172527cb98c39e8f3f240f28e80832d7cdad",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

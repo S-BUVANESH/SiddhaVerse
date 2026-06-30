@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0755",
+  "text_id": "sivavakkiyar_pm_0755",
+  "title": "Sivavakkiyam - Verse 146",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "146",
+  "tamil_text": "ஆதிஉண்டு அந்தம்இல்லை அன்றுநாலு வேதம் இல்.\nசோதிஉண்டு சொல்லுமில்லை சொல்லிறந்த தேதுமில்;\nஆதியான மூவரில் அமர்ந்திருந்த வாயுவும்\nஆதிஅன்று தன்னையும் யார்அறிவது அண்ணலே?",
+  "transliteration": "ātiuṇṭu antmillai aṉṟunālu vētm il.\ncōtiuṇṭu collumillai colliṟnt tētumil;\nātiyāṉ mūvril amrntirunt vāyuvum\nātiaṉṟu tṉṉaiyum yāraṟivtu aṇṇlē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2ba5c1d11a040bbe5a91ba49ba5daa9e51842c297e3935a308dc0c5fbf1ada48",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0381",
+  "text_id": "thirumandiram_pm_0381",
+  "title": "Thirumandiram - Verse 930",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "930",
+  "tamil_text": "ஆறெட்டு எழுத்தின்மேல் ஆறும் பதினாலும்\nஏறிட்டு அதன்மேல் விந்துவும் நாதமும்\nசீறிட்டு நின்று சிவாய நமவென்னக்\nகூறிட்டு மும்மலம் கூப்பிட்டுப் போமே.",
+  "transliteration": "āṟeṭṭu eḻuttiṉmēl āṟum ptiṉālum\nēṟiṭṭu atṉmēl vintuvum nātmum\ncīṟiṭṭu niṉṟu civāy nmveṉṉk\nkūṟiṭṭu mummlm kūppiṭṭup pōmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "90043f33a1fac664d98802abfd82cbafa54cc062580f83958781077140be191f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

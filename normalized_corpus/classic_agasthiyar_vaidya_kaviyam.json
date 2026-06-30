@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_agasthiyar_vaidya_kaviyam",
+  "text_id": "classic_agasthiyar_vaidya_kaviyam",
+  "title": "Agasthiyar Vaidya Kaviyam",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Agasthiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c4e67e9eab6f3ec1c5bf7230fbcf377ac02770fdbdc0b606bce1d13bbd88696e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "Classical Era",
+  "summary": "Comprehensive clinical reference covering etiology, pulse diagnosis, and formulation of traditional recipes.",
+  "verses_count": 1500,
+  "search_text": "classic agasthiyar vaidya kaviyam Agasthiyar Vaidya Kaviyam Classical Siddha Literature Classical Texts Agasthiyar Tamil Tamil script public_domain Project Madurai / Academic Sources Classical Era Comprehensive clinical reference covering etiology, pulse diagnosis, and formulation of traditional recipes."
+}

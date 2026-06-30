@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0144",
+  "text_id": "thirumandiram_pm_0144",
+  "title": "Thirumandiram - Verse 146",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "146",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "காலும் இரண்டு முகட்டலகு ஒன்றுள\nபாலுள் பருங்கழி முப்பத் திரண்டுள\nமேலுள கூரை பிரியும் பிரிந்தால்முன்\nபோலுயிர் மீளப் புக அறி யாதே.",
+  "transliteration": "kālum irṇṭu mukṭṭlku oṉṟuḷ\npāluḷ pruṅkḻi muppt tirṇṭuḷ\nmēluḷ kūrai piriyum pirintālmuṉ\npōluyir mīḷp puk aṟi yātē.",
+  "english_translation": null,
+  "content_hash": "5d0fd0808aa3fe3c932b78f34474f128247d2588f9fa7343a40318a7cd31a44b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_mukti"
+  ]
+}

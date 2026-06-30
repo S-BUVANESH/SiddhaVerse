@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0356",
+  "text_id": "thirumandiram_pm_0356",
+  "title": "Thirumandiram - Verse 904",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "904",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "திருஅம் பலமாகச் சீர்ச்சக் கரத்தைத்\nதிருஅம் பலமாக ஈராறு கீறித்\nதிருஅம் பலமாக இருபத்தைஞ் சாக்கித்\nதிருஅம் பலமாகச் செபிக்கின்ற வாறே.",
+  "transliteration": "tiruam plmākc cīrcck krttait\ntiruam plmāk īrāṟu kīṟit\ntiruam plmāk irupttaiñ cākkit\ntiruam plmākc cepikkiṉṟ vāṟē.",
+  "english_translation": null,
+  "content_hash": "c44f4272d82998c8a5baab9296d8af5a1ae149129cf2ad8eb1d84dcd0d525cb2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_chakra"
+  ]
+}

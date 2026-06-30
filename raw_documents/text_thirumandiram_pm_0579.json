@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0579",
+  "text_id": "thirumandiram_pm_0579",
+  "title": "Thirumandiram - Verse 1138",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1138",
+  "tamil_text": "சிந்தையின் உள்ளே திரியும் சிவசத்தி\nவிந்துவும் நாதமும் ஆயே விரிந்தனள்\nசந்திர பூமி சடாதரி சாத்தவி\nஅந்தமொடு ஆதிய தாம்வண் ணத்தாளே.",
+  "transliteration": "cintaiyiṉ uḷḷē tiriyum civctti\nvintuvum nātmum āyē virintṉḷ\ncntir pūmi cṭātri cāttvi\nantmoṭu ātiy tāmvṇ ṇttāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "73a63a557fd5584e2af9424a3a89fd48ef22bf48535ee589888f55af7b0067e2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

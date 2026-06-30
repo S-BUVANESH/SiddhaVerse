@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0921",
+  "text_id": "sivavakkiyar_pm_0921",
+  "title": "Sivavakkiyam - Verse 312",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "312",
+  "tamil_text": "இட்டகுண்டம் ஏதடா? இருக்கு வேதம் ஏதடா?\nசுட்டமண் கலத்திலே சுற்றுநூல்கள் ஏதடா?\nமுட்டிநின்ற தூணிலே முளைத்தெழுந்த சோதியைப்\nபற்றிநின்றது ஏதடா பட்டநாத பட்டரே.",
+  "transliteration": "iṭṭkuṇṭm ētṭā? irukku vētm ētṭā?\ncuṭṭmṇ klttilē cuṟṟunūlkḷ ētṭā?\nmuṭṭiniṉṟ tūṇilē muḷaitteḻunt cōtiyaip\npṟṟiniṉṟtu ētṭā pṭṭnāt pṭṭrē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a23c4ea3026c41f633f13489a6902c427cf8492e1561c0c833e0347a2554d244",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

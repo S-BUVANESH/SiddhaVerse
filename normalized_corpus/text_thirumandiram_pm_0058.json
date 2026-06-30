@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0058",
+  "text_id": "thirumandiram_pm_0058",
+  "title": "Thirumandiram - Verse 58",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "58",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அண்ணல் அருளால் அருளும் சிவாகமம்\nஎண்ணில் இருபத்தெண் கோடிநூ றாயிரம்\nவிண்ணவர் ஈசன் விழுப்பம் உரைத்தனர்\nஎண்ணிநின் றப்பொருள் ஏத்துவன் நானே.",
+  "transliteration": "aṇṇl aruḷāl aruḷum civākmm\neṇṇil iruptteṇ kōṭinū ṟāyirm\nviṇṇvr īcṉ viḻuppm uraittṉr\neṇṇiniṉ ṟpporuḷ ēttuvṉ nāṉē.",
+  "english_translation": null,
+  "content_hash": "b2365db26b40850b72c4c829dfe25f0859f712b5d9ef0ef7ef393e25885153cf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "practice_varma",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "deity_brahma",
+    "deity_shiva"
+  ]
+}

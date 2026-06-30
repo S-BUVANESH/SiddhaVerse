@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0435",
+  "text_id": "thirumandiram_pm_0435",
+  "title": "Thirumandiram - Verse 988",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "988",
+  "tamil_text": "தானவர் சட்டர் சதிரர் இருவர்கள்\nஆனஇம் மூவரோடு ஆற்றவர் ஆதிகள்\nஏனைப் பதினைந்தும் விந்துவும் நாதமும்\nசேனையும் செய்சிவ சக்கரந் தானே.",
+  "transliteration": "tāṉvr cṭṭr ctirr iruvrkḷ\nāṉim mūvrōṭu āṟṟvr ātikḷ\nēṉaip ptiṉaintum vintuvum nātmum\ncēṉaiyum ceyciv ckkrn tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "921039e0febe6f0644cd19b4550fd2e04bcba0d2862f6e2a194ca21ca5a61984",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

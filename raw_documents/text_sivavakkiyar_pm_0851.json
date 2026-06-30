@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0851",
+  "text_id": "sivavakkiyar_pm_0851",
+  "title": "Sivavakkiyam - Verse 242",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "242",
+  "tamil_text": "ஊரிலுள்ள மனிதர்காள் ஒருமனதாய்க் கூடியே\nதேரிலே வடத்தைவிட்டு செம்பைவைத்து இழுக்கிறீர்\nஆரினாலும் அறியொணாத ஆதிசித்த நாதரை\nபோரிலான மனிதர்பண்ணும் புரளிபாரும் பாருமே.",
+  "transliteration": "ūriluḷḷ mṉitrkāḷ orumṉtāyk kūṭiyē\ntērilē vṭttaiviṭṭu cempaivaittu iḻukkiṟīr\nāriṉālum aṟiyoṇāt āticitt nātrai\npōrilāṉ mṉitrpṇṇum purḷipārum pārumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "49b4bed896bae952b60ffaaa776ea435e34799654eef0c357f9160d2081ebaa7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

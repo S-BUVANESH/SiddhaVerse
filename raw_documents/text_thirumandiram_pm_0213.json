@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0213",
+  "text_id": "thirumandiram_pm_0213",
+  "title": "Thirumandiram - Verse 216",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "216",
+  "tamil_text": "அணைதுணை அந்தணர் அங்கியுள் அங்கி\nஅணைதுணை வைத்ததின் உட்பொரு ளான\nஇணைதுணை யாமத்து இயங்கும் பொழுது\nதுணையணை யாயதோர் தூய்நெறி யாமே.",
+  "transliteration": "aṇaituṇai antṇr aṅkiyuḷ aṅki\naṇaituṇai vaitttiṉ uṭporu ḷāṉ\niṇaituṇai yāmttu iyṅkum poḻutu\ntuṇaiyṇai yāytōr tūyneṟi yāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "0522adec941c865f245cd2c3544d2d890b5b0bd4d0842386fbca6570e16c5071",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

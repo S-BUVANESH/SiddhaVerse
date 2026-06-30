@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0829",
+  "text_id": "sivavakkiyar_pm_0829",
+  "title": "Sivavakkiyam - Verse 220",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "220",
+  "tamil_text": "சுழித்தவோர் எழுத்தையும் சொன்முகத்து இருத்தியே\nதுன்ப்இன்ப முங்கடந்து செல்லுமூல நாடிகள்\nஅழுத்தமான அக்கரம் அங்கியுள் எழுப்பியே\nஆறுபங்க யம்கலந்து அப்புறத் தலத்துளே.",
+  "transliteration": "cuḻittvōr eḻuttaiyum coṉmukttu iruttiyē\ntuṉpiṉp muṅkṭntu cellumūl nāṭikḷ\naḻuttmāṉ akkrm aṅkiyuḷ eḻuppiyē\nāṟupṅk ymklntu appuṟt tlttuḷē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4077fad896b8da69b124729384baae048d6afa2add74e145ccdec33c4db3f8be",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

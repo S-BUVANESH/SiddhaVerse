@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-06-25T16:53:24Z",
+  "metrics": {
+    "mean_precision_at_5_raw": 0.36,
+    "mean_precision_at_5_norm": 1.0,
+    "mean_recall_at_10": 1.0,
+    "mrr": 1.0,
+    "coverage_pct": 100.0,
+    "avg_latency_ms": 12.860046667046845,
+    "p50_latency_ms": 11.566899993340485,
+    "p95_latency_ms": 17.598230000294276,
+    "p99_latency_ms": 20.90975200058893
+  },
+  "queries": [
+    {
+      "query_id": "q001",
+      "category": "Tamil Verse Lookup",
+      "query_text": "நினைப்பதொன்று கண்டேன்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "sivavakkiyar_pm_0616",
+        "thirumandiram_pm_0086",
+        "thirumandiram_pm_0183",
+        "thirumandiram_pm_0282"
+      ],
+      "precision_at_5_raw": 0.2,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 11.852560002201548
+    },
+    {
+      "query_id": "q002",
+      "category": "Romanized Suffix",
+      "query_text": "pranayamam",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616",
+        "sivavakkiyar_pm_0624",
+        "sivavakkiyar_pm_0625",
+        "sivavakkiyar_pm_0626",
+        "sivavakkiyar_pm_0628",
+        "sivavakkiyar_pm_0633",
+        "sivavakkiyar_pm_0634",
+        "sivavakkiyar_pm_0637",
+        "sivavakkiyar_pm_0638",
+        "sivavakkiyar_pm_0639",
+        "sivavakkiyar_pm_0642",
+        "sivavakkiyar_pm_0643",
+        "sivavakkiyar_pm_0644",
+        "sivavakkiyar_pm_0646",
+        "sivavakkiyar_pm_0651",
+        "sivavakkiyar_pm_0652",
+        "sivavakkiyar_pm_0660",
+        "sivavakkiyar_pm_0661",
+        "sivavakkiyar_pm_0662"
+      ],
+      "precision_at_5_raw": 0.4,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 15.640039999076786
+    },
+    {
+      "query_id": "q003",
+      "category": "English Synonym",
+      "query_text": "breath retention",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "retrieved_documents": [
+        "classic_thirumandiram",
+        "plant_elakkai",
+        "sivavakkiyar_pm_0609",
+        "sivavakkiyar_pm_0613",
+        "sivavakkiyar_pm_0616",
+        "sivavakkiyar_pm_0624",
+        "sivavakkiyar_pm_0625",
+        "sivavakkiyar_pm_0626",
+        "sivavakkiyar_pm_0628",
+        "sivavakkiyar_pm_0633",
+        "sivavakkiyar_pm_0634",
+        "sivavakkiyar_pm_0637",
+        "sivavakkiyar_pm_0638",
+        "sivavakkiyar_pm_0639",
+        "sivavakkiyar_pm_0640",
+        "sivavakkiyar_pm_0641",
+        "sivavakkiyar_pm_0642",
+        "sivavakkiyar_pm_0643",
+        "sivavakkiyar_pm_0644",
+        "sivavakkiyar_pm_0646"
+      ],
+      "precision_at_5_raw": 0.4,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 14.59132666544368
+    },
+    {
+      "query_id": "q004",
+      "category": "Entity Search",
+      "query_text": "holy basil",
+      "expected_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi"
+      ],
+      "retrieved_documents": [
+        "plant_karunthulasi",
+        "plant_tulsi",
+        "sivavakkiyar_pm_0611",
+        "sivavakkiyar_pm_0623",
+        "sivavakkiyar_pm_0627",
+        "sivavakkiyar_pm_0642",
+        "sivavakkiyar_pm_0643",
+        "sivavakkiyar_pm_0647",
+        "sivavakkiyar_pm_0652",
+        "sivavakkiyar_pm_0665",
+        "sivavakkiyar_pm_0668",
+        "sivavakkiyar_pm_0680",
+        "sivavakkiyar_pm_0692",
+        "sivavakkiyar_pm_0702",
+        "sivavakkiyar_pm_0706",
+        "sivavakkiyar_pm_0708",
+        "sivavakkiyar_pm_0709",
+        "sivavakkiyar_pm_0711",
+        "sivavakkiyar_pm_0722",
+        "sivavakkiyar_pm_0746"
+      ],
+      "precision_at_5_raw": 0.4,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 11.245640000561252
+    },
+    {
+      "query_id": "q005",
+      "category": "Concept Query",
+      "query_text": "Kaya Kalpa rejuvenation",
+      "expected_documents": [
+        "formulation_brahma_rasayanam",
+        "classic_agasthiyar_soumya_sagaram"
+      ],
+      "retrieved_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_brahma_rasayanam",
+        "formulation_siddha_makaradhwaja",
+        "manuscript_eap810_gsc_002",
+        "plant_ashwagandha",
+        "plant_karisalankanni",
+        "plant_nelli",
+        "plant_sothu_katrazhai",
+        "siddhar_korakkar_bio",
+        "siddhar_sattaimuni",
+        "sivavakkiyar_pm_0627",
+        "sivavakkiyar_pm_0656",
+        "sivavakkiyar_pm_0696",
+        "sivavakkiyar_pm_0727",
+        "sivavakkiyar_pm_0742",
+        "sivavakkiyar_pm_0772",
+        "sivavakkiyar_pm_0776",
+        "sivavakkiyar_pm_0777",
+        "sivavakkiyar_pm_0780",
+        "sivavakkiyar_pm_0793"
+      ],
+      "precision_at_5_raw": 0.4,
+      "precision_at_5_norm": 1.0,
+      "recall_at_10": 1.0,
+      "reciprocal_rank": 1.0,
+      "avg_latency_ms": 10.97066666795096
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0392",
+  "text_id": "thirumandiram_pm_0392",
+  "title": "Thirumandiram - Verse 941",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "941",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆகின்ற பாதமும் அந்நாவாய் நின்றிடும்\nஆகின்ற நாபியுள் அங்கே மகாரமாம்\nஆகின்ற சீயுரு தோள்வவ்வாய்க் கண்டபின்\nஆகின்ற வச்சுடர் யவ்வியல் பாமே.",
+  "transliteration": "ākiṉṟ pātmum annāvāy niṉṟiṭum\nākiṉṟ nāpiyuḷ aṅkē mkārmām\nākiṉṟ cīyuru tōḷvvvāyk kṇṭpiṉ\nākiṉṟ vccuṭr yvviyl pāmē.",
+  "english_translation": null,
+  "content_hash": "63b8be7f1d139b4ab4d25ad4c781d2b8b0a14c5e18f56c7473b064f7affcf28e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_three",
+    "body_eye",
+    "siddhar_pambatti",
+    "deity_murugan"
+  ]
+}

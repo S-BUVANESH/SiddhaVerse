@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0115",
+  "text_id": "thirumandiram_pm_0115",
+  "title": "Thirumandiram - Verse 117",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "117",
+  "tamil_text": "சூரிய காந்தமும் சூழ்பஞ்சும் போலவே\nசூரிய காந்தம் சூழ்பஞ்சைச் சுட்டிடா\nசூரியன் சந்நிதி யிற்சுடு மாறுபோல்\nசூரியன் தோற்றமுன் அற்ற மலங்களே.",
+  "transliteration": "cūriy kāntmum cūḻpñcum pōlvē\ncūriy kāntm cūḻpñcaic cuṭṭiṭā\ncūriyṉ cnniti yiṟcuṭu māṟupōl\ncūriyṉ tōṟṟmuṉ aṟṟ mlṅkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8f291eff71ec921e0c767a808160d3ec3aff16f9256ed2ab4cb5dca960454af8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

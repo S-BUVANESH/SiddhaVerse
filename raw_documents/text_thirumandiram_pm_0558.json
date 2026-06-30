@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0558",
+  "text_id": "thirumandiram_pm_0558",
+  "title": "Thirumandiram - Verse 1117",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1117",
+  "tamil_text": "உள்ளத்து இதயத்து நெஞ்சத்தொரு மூன்றுள்\nபிள்ளைத் தடம்உள்ளே பேசப் பிறந்தது\nவள்ளல் திருவின் வயிற்றுனுள் மாமாயைக்\nகள்ள ஒளியின் கருத்தாகுங் கன்னியே.",
+  "transliteration": "uḷḷttu ityttu neñcttoru mūṉṟuḷ\npiḷḷait tṭmuḷḷē pēcp piṟnttu\nvḷḷl tiruviṉ vyiṟṟuṉuḷ māmāyaik\nkḷḷ oḷiyiṉ kruttākuṅ kṉṉiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b9c3b80e9823484b444e6903276f4b6ec1eca4db3fbe2eeded9e7fc8af7ca670",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "sivavakkiyar_pm_0614",
+  "text_id": "sivavakkiyar_pm_0614",
+  "title": "Sivavakkiyam - Verse 5",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "5",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தேகநிலை\n\nவடிவுகண்டு கொண்டபெண்ணை மற்றொருவன் நத்தினால்\nவிடுவனோ அவனைமுன்னம் வெட்டவேணும் என்பனே\nநடுவன்வந்து அழைத்தபோது நாறும்இந்த நல்லுடல்\nசுடலைமட்டும் கொண்டுபோய்த் தோட்டிகைக் கொடுப்பாரே.\n[நந்துதல் - இச்சை கொள்ளுதல்; நடுவன் - எமன்]",
+  "transliteration": "tēknilai\n\nvṭivukṇṭu koṇṭpeṇṇai mṟṟoruvṉ nttiṉāl\nviṭuvṉō avṉaimuṉṉm veṭṭvēṇum eṉpṉē\nnṭuvṉvntu aḻaittpōtu nāṟumint nlluṭl\ncuṭlaimṭṭum koṇṭupōyt tōṭṭikaik koṭuppārē.\n[nntutl - iccai koḷḷutl; nṭuvṉ - emṉ]",
+  "english_translation": null,
+  "content_hash": "bac5d77679374bbe2b7f37aa2c0f5779484b1b32c163cc89d5b78a37d72cb06b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shakti",
+    "siddhar_nandidevar",
+    "body_eye"
+  ]
+}

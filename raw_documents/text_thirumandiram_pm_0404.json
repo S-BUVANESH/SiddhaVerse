@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0404",
+  "text_id": "thirumandiram_pm_0404",
+  "title": "Thirumandiram - Verse 954",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "954",
+  "tamil_text": "நீரில் எழுத்துஇவ் வுலகர் அறிவது\nவானில் எழுத்தொன்று கண்டறிவார் இல்லை\nயாரிவ் வெழுத்தை அறிவார் அவர்கள்\nஊனில் எழுத்தை உணர்கிலர் தாமே. 41.",
+  "transliteration": "nīril eḻuttuiv vulkr aṟivtu\nvāṉil eḻuttoṉṟu kṇṭṟivār illai\nyāriv veḻuttai aṟivār avrkḷ\nūṉil eḻuttai uṇrkilr tāmē. 41.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f47d433d04210ae713191d4ba5f735d336f17f4e9fa93eef94c370e374095211",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

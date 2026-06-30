@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0907",
+  "text_id": "sivavakkiyar_pm_0907",
+  "title": "Sivavakkiyam - Verse 298",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "298",
+  "tamil_text": "அஞ்சுகோடி மந்திரம் அஞ்சுளே அடங்கினால்\nநெஞ்சுகூற உம்முளே நினைப்பதோர் எழுத்துளே\nஅஞ்சுநாலு மூன்றதாகி உம்முளே அடங்கினால்\nஅஞ்சும்ஓர் எழுத்ததாய் அமைந்ததே சிவாயமே.",
+  "transliteration": "añcukōṭi mntirm añcuḷē aṭṅkiṉāl\nneñcukūṟ ummuḷē niṉaipptōr eḻuttuḷē\nañcunālu mūṉṟtāki ummuḷē aṭṅkiṉāl\nañcumōr eḻutttāy amainttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b803ed1f094cf4f6206081b7be4f06d508ac394d347408a12bf3a775b86c574e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

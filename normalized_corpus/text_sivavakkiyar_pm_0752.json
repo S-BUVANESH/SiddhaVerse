@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0752",
+  "text_id": "sivavakkiyar_pm_0752",
+  "title": "Sivavakkiyam - Verse 143",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "143",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாலிரண்டு மண்டலத்துள் நாதன்நின்றது எவ்விடம்?\nகாலிரண்டு மூலநாடி கண்டதங்கு உருத்திரன்;\nசேலிரண்டு கண்கலந்து திசைகள் எட்டுமூடியே\nமேலிரண்டு தான்கலந்து வீசிஆடி நின்றதே.",
+  "transliteration": "nālirṇṭu mṇṭlttuḷ nātṉniṉṟtu evviṭm?\nkālirṇṭu mūlnāṭi kṇṭtṅku uruttirṉ;\ncēlirṇṭu kṇklntu ticaikḷ eṭṭumūṭiyē\nmēlirṇṭu tāṉklntu vīciāṭi niṉṟtē.",
+  "english_translation": null,
+  "content_hash": "b306dd9261fb6a3244aecbe08ac4c9fc44e1eb1eb41b645961ba458b179008d5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_nadi",
+    "deity_vishnu",
+    "body_eye",
+    "body_moolam",
+    "plant_tulsi",
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0170",
+  "text_id": "thirumandiram_pm_0170",
+  "title": "Thirumandiram - Verse 173",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "173",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மகிழ்கின்ற செல்வமும் மாடும் உடனே\nகவிழ்கின்ற நீர்மிசைச் செல்லும் கலம்போல்\nஅவிழ்கின்ற ஆக்கைக்கோர் வீடுபே றாகச்\nசிமிழொன்று வைத்தமை தேர்ந்தறி யாரே.",
+  "transliteration": "mkiḻkiṉṟ celvmum māṭum uṭṉē\nkviḻkiṉṟ nīrmicaic cellum klmpōl\naviḻkiṉṟ ākkaikkōr vīṭupē ṟākc\ncimiḻoṉṟu vaittmai tērntṟi yārē.",
+  "english_translation": null,
+  "content_hash": "c8829ec79e277eb9986a1c6eb8bb75bf1056a55b357cf4951ddb01691bf680ae",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_theriyar",
+    "concept_mukti",
+    "siddhar_korakkar",
+    "symbol_three"
+  ]
+}

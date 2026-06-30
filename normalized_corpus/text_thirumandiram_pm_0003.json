@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0003",
+  "text_id": "thirumandiram_pm_0003",
+  "title": "Thirumandiram - Verse 3",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "3",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஒக்கநின் றானை உலப்பிலி தேவர்கள்\nநக்கனென்று ஏத்திடும் நாதனை நாள்தொறும்\nபக்கநின் றார்அறி யாத பரமனைப்\nபுக்குநின்று உன்னியான் போற்றிசெய் வேனே.",
+  "transliteration": "okkniṉ ṟāṉai ulppili tēvrkḷ\nnkkṉeṉṟu ēttiṭum nātṉai nāḷtoṟum\npkkniṉ ṟāraṟi yāt prmṉaip\npukkuniṉṟu uṉṉiyāṉ pōṟṟicey vēṉē.",
+  "english_translation": null,
+  "content_hash": "466221132b0d8f7830d4a688ac79623409f84e4b502ca0e0f8c1592ab27c9e00",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "body_sound",
+    "concept_brahman",
+    "concept_bhakti",
+    "deity_shiva"
+  ]
+}

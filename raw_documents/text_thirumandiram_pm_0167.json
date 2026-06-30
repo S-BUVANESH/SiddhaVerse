@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0167",
+  "text_id": "thirumandiram_pm_0167",
+  "title": "Thirumandiram - Verse 170",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "170",
+  "tamil_text": "தன்னது சாயை தனக்குத வாதுகண்டு\nஎன்னது மாடென்று இருப்பர்கள் ஏழைகள்\nஉன்னுயிர் போம்உடல் ஒக்கப் பிறந்தது\nகண்ணது காணொளி கண்டுகொ ளீரே.",
+  "transliteration": "tṉṉtu cāyai tṉkkut vātukṇṭu\neṉṉtu māṭeṉṟu irupprkḷ ēḻaikḷ\nuṉṉuyir pōmuṭl okkp piṟnttu\nkṇṇtu kāṇoḷi kṇṭuko ḷīrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "340cfa78089ad7aed78495734b5b5e0b0084d98c588da88ea0c0f8113d4d69f2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

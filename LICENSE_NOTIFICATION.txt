@@ -1,0 +1,6 @@
+Notification Time: 2026-06-24T20:29:00+05:30
+Notice:
+Please check PubMed terms of use at:
+- https://pubmed.ncbi.nlm.nih.gov/disclaimer/
+- https://www.ncbi.nlm.nih.gov/home/about/policies/
+Always check the license of any papers retrieved by the skill for any restrictions.

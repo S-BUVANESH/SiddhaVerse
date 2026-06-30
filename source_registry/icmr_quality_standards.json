@@ -1,0 +1,25 @@
+{
+  "title": "ICMR Quality Standards of Indian Medicinal Plants",
+  "url": "https://main.icmr.nic.in",
+  "organization": "Indian Council of Medical Research (ICMR)",
+  "source_type": "Research Paper",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "10.0/10",
+  "priority": "high",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 50,
+    "formulations": 20,
+    "diseases": 10,
+    "manuscripts": 0,
+    "research": 20
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Quality Standards Series Books",
+    "HPLC/HPTLC Chromatograms",
+    "Phytochemical Marker Compounds"
+  ],
+  "notes": "Authoritative monograph publications from ICMR. Highly valuable for chemical validation of Siddha plants."
+}

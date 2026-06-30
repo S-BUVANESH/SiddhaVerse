@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0296",
+  "text_id": "thirumandiram_pm_0296",
+  "title": "Thirumandiram - Verse 300",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "300",
+  "tamil_text": "அறங்கேட்டும் அந்தணர் வாய்மொழி கேட்டும்\nமறங்கேட்டும் வானவர் மந்திரங் கேட்டும்\nபுறங்கேட்டும் பொன்னுரை மேனிஎம் ஈசன்\nதிறங்கேட்டும் பெற்ற சிவகதி தானே.",
+  "transliteration": "aṟṅkēṭṭum antṇr vāymoḻi kēṭṭum\nmṟṅkēṭṭum vāṉvr mntirṅ kēṭṭum\npuṟṅkēṭṭum poṉṉurai mēṉiem īcṉ\ntiṟṅkēṭṭum peṟṟ civkti tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a69f010377c513a097c612f52787499781678659a5bc6e1f5d93ebe7c23a1b22",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

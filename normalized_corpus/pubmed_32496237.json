@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_32496237",
+  "text_id": "pubmed_32496237",
+  "title": "AYUSH for COVID-19: Science or Superstition?",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Priya R",
+    "Sujatha V"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ba3a20bc64eedd71d1436ff502322f53dfaeba2ba6ed0a5912ca6eb22e0d63f5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "32496237",
+  "authors": [
+    "Priya R",
+    "Sujatha V"
+  ],
+  "journal": "Indian journal of public health",
+  "pubdate": "2020 Jun",
+  "doi": "10.4103/ijph.IJPH_500_20",
+  "abstract": "There is a lot of discussion on COVID-19 control strategies from the mainstream approaches, but it is also necessary to examine the contributions of the Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa Riga and Homeopathy (AYUSH) sector, which is now being brought into public health interventions nationally. Although the AYUSH sector had previously joined the management of dengue and chikungunya outbreaks in some Indian states, its participation has remained contentious and there is reluctance in mainstream public health discourses to seriously examine their interventions. This is a commentary on the efforts made by the Ministry of AYUSH, state AYUSH directorates, AYUSH research institutions, and public hospitals, based on official documents as well as official statements reported in the media, with the aim of bringing out concerns in the process of adapting traditional textual knowledge and practices to public health requirements of the current age.",
+  "search_text": "pubmed 32496237 AYUSH for COVID-19: Science or Superstition? PubMed Research Scientific Literature Priya R Sujatha V Tamil Tamil script open_access PubMed Central 32496237 Priya R Sujatha V Indian journal of public health 2020 Jun 10.4103/ijph.IJPH_500_20 There is a lot of discussion on COVID-19 control strategies from the mainstream approaches, but it is also necessary to examine the contributions of the Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa Riga and Homeopathy (AYUSH) sector, which is now being brought into public health interventions nationally. Although the AYUSH sector had previously joined the management of dengue and chikungunya outbreaks in some Indian states, its participation has remained contentious and there is reluctance in mainstream public health discourses to seriously examine their interventions. This is a commentary on the efforts made by the Ministry of AYUSH, state AYUSH directorates, AYUSH research institutions, and public hospitals, based on official documents as well as official statements reported in the media, with the aim of bringing out concerns in the process of adapting traditional textual knowledge and practices to public health requirements of the current age."
+}

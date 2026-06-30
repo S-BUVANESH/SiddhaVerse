@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0982",
+  "text_id": "sivavakkiyar_pm_0982",
+  "title": "Sivavakkiyam - Verse 373",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "373",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "முத்திசித்தி தொந்தமாம் முயங்குகின்ற மூர்த்தியை\nமற்றுஉதித்த ஐம்புலன்கள் ஆகுமத்தி அப்புலன்\nஅத்தர்நித்தர் காள்கண்டர் அன்பினால் அனுதினம்\nஉச்சரித்து உளத்திலே அறிந்துணர்ந்து கொண்மினே.",
+  "transliteration": "mutticitti tontmām muyṅkukiṉṟ mūrttiyai\nmṟṟuutitt aimpulṉkḷ ākumtti appulṉ\nattrnittr kāḷkṇṭr aṉpiṉāl aṉutiṉm\nuccrittu uḷttilē aṟintuṇrntu koṇmiṉē.",
+  "english_translation": null,
+  "content_hash": "f14f2c5c10ece145717c2f7124674f1fa06a74aba22a5d298d3bf59981c73736",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "concept_pancha_bootham",
+    "symbol_three",
+    "place_chidambaram",
+    "deity_kali",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_mudra",
+    "body_head",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0001",
+  "text_id": "thirumandiram_pm_0001",
+  "title": "Thirumandiram - Verse 1",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "1",
+  "tamil_text": "ஒன்றவன் தானே இரண்டவன் இன்னருள்\nநின்றனன் மூன்றினுள் நான்குணர்ந் தான்ஐந்து\nவென்றனன் ஆறு விரிந்தனன் ஏழும்பர்ச்\nசென்றனன் தானிருந் தான்உணர்ந் தெட்டே.",
+  "transliteration": "oṉṟvṉ tāṉē irṇṭvṉ iṉṉruḷ\nniṉṟṉṉ mūṉṟiṉuḷ nāṉkuṇrn tāṉaintu\nveṉṟṉṉ āṟu virintṉṉ ēḻumprc\nceṉṟṉṉ tāṉirun tāṉuṇrn teṭṭē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "957b84de5b222bb66115a1b45fda80cf35c940d5f2a7d24ee64e16a7a6d166dd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

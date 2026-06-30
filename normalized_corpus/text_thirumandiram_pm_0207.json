@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0207",
+  "text_id": "thirumandiram_pm_0207",
+  "title": "Thirumandiram - Verse 210",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "210",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பொய்க்குழி தூர்ப்பான் புலா஢ புலருதென்று\nஅக்குழி தூர்க்கும் அரும்பண்டம் தேடுவீர்\nஎக்குழி தூர்த்தும் இறைவனை ஏத்துமின்\nஅக்குழி தூரும் அழுக்கற்ற போதே.",
+  "transliteration": "poykkuḻi tūrppāṉ pulā஢ pulruteṉṟu\nakkuḻi tūrkkum arumpṇṭm tēṭuvīr\nekkuḻi tūrttum iṟaivṉai ēttumiṉ\nakkuḻi tūrum aḻukkṟṟ pōtē.",
+  "english_translation": null,
+  "content_hash": "a59586a64aaa2192bc690436a38189473c18b6e50187cfabd07d02fc49ea651c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

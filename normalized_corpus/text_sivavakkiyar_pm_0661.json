@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0661",
+  "text_id": "sivavakkiyar_pm_0661",
+  "title": "Sivavakkiyam - Verse 52",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "52",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆடுகாட்டி வேங்கையை அகப்படுத்து மாறுபோல்\nமாடுகாட்டி என்னைநீ மதிமயக்கல் ஆகுமோ,\nகோடுகாட்டி யானையைக் கொன்றுரித்த கொற்றவா,\nவீடுகாட்டி என்னைநீ வெளிப்படுத்த வேணுமே.",
+  "transliteration": "āṭukāṭṭi vēṅkaiyai akppṭuttu māṟupōl\nmāṭukāṭṭi eṉṉainī mtimykkl ākumō,\nkōṭukāṭṭi yāṉaiyaik koṉṟuritt koṟṟvā,\nvīṭukāṭṭi eṉṉainī veḷippṭutt vēṇumē.",
+  "english_translation": null,
+  "content_hash": "baf7575d811a3f72957524dd0e5659886626f42f1f831ae75f9d50189e0c1109",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "practice_pranayama"
+  ]
+}

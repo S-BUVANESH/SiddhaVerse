@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0074",
+  "text_id": "thirumandiram_pm_0074",
+  "title": "Thirumandiram - Verse 76",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "76",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சதாசிவந் தத்துவம் முத்தமிழ் வேதம்\nமிதாசனி யாதிருந் தேன்இன்ற காலம்\nஇதாசனி யாதிருந் தேன்மனம் நீங்கி\nஉதாசனி யாதுடனே உணர்ந் தோமால்.",
+  "transliteration": "ctācivn tttuvm muttmiḻ vētm\nmitācṉi yātirun tēṉiṉṟ kālm\nitācṉi yātirun tēṉmṉm nīṅki\nutācṉi yātuṭṉē uṇrn tōmāl.",
+  "english_translation": null,
+  "content_hash": "4e331fb62e93ad5f0ecc8b7c82bb1d70ac5ba4d2ea2409bcb7e733ac9c3a9bbf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "body_heart",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "practice_mudra",
+    "deity_shiva"
+  ]
+}

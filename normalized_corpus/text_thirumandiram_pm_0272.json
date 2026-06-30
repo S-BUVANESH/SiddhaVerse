@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0272",
+  "text_id": "thirumandiram_pm_0272",
+  "title": "Thirumandiram - Verse 275",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "275",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானொரு காலம் சயம்பு என் றேத்தினும்\nவானொரு காலம் வழித்துணை யாய்நிற்கும்\nதேனொரு பால்திகழ் கொன்றை அணிசிவன்\nதானொரு வண்ணம்என் அன்பில்நின் றானே.",
+  "transliteration": "tāṉoru kālm cympu eṉ ṟēttiṉum\nvāṉoru kālm vḻittuṇai yāyniṟkum\ntēṉoru pāltikḻ koṉṟai aṇicivṉ\ntāṉoru vṇṇmeṉ aṉpilniṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "e37c905dbbae6b567869fefbec64d2302b50696518fc6099f411243e9a199f98",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

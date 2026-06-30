@@ -1,0 +1,53 @@
+{
+  "document_id": "pubmed_22754076",
+  "text_id": "pubmed_22754076",
+  "title": "An overview on ashwagandha: a Rasayana (rejuvenator) of Ayurveda.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Singh N",
+    "Bhalla M",
+    "de Jager P",
+    "Gilca M"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "3b2f937d6f8332450bc9244b042f9dd44b5a1cef61027a450acfe5d003905424",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "22754076",
+  "authors": [
+    "Singh N",
+    "Bhalla M",
+    "de Jager P",
+    "Gilca M"
+  ],
+  "journal": "African journal of traditional, complementary, and alternative medicines : AJTCAM",
+  "pubdate": "2011",
+  "doi": "10.4314/ajtcam.v8i5S.9",
+  "abstract": "Withania somnifera (Ashawagandha) is very revered herb of the Indian Ayurvedic system of medicine as a Rasayana (tonic). It is used for various kinds of disease processes and specially as a nervine tonic. Considering these facts many scientific studies were carried out and its adaptogenic / anti-stress activities were studied in detail. In experimental models it increases the stamina of rats during swimming endurance test and prevented adrenal gland changes of ascorbic acid and cortisol content produce by swimming stress. Pretreatment with Withania somnifera (WS) showed significance protection against stress induced gastric ulcers. WS have anti-tumor effect on Chinese Hamster Ovary (CHO) cell carcinoma. It was also found effective against urethane induced lung-adenoma in mice. In some cases of uterine fibroids, dermatosarcoma, long term treatment with WS controlled the condition. It has a Cognition Promoting Effect and was useful in children with memory deficit and in old age people loss of memory. It was also found useful in neurodegenerative diseases such as Parkinson's, Huntington's and Alzeimer's diseases. It has GABA mimetic effect and was shown to promote formation of dendrites. It has anxiolytic effect and improves energy levels and mitochondrial health. It is an anti-inflammatory and anti-arthritic agent and was found useful in clinical cases of Rheumatoid and Osteoarthritis. Large scale studies are needed to prove its clinical efficacy in stress related disorders, neuronal disorders and cancers.",
+  "search_text": "pubmed 22754076 An overview on ashwagandha: a Rasayana (rejuvenator) of Ayurveda. PubMed Research Scientific Literature Singh N Bhalla M de Jager P Gilca M Tamil Tamil script open_access PubMed Central 22754076 Singh N Bhalla M de Jager P Gilca M African journal of traditional, complementary, and alternative medicines : AJTCAM 2011 10.4314/ajtcam.v8i5S.9 Withania somnifera (Ashawagandha) is very revered herb of the Indian Ayurvedic system of medicine as a Rasayana (tonic). It is used for various kinds of disease processes and specially as a nervine tonic. Considering these facts many scientific studies were carried out and its adaptogenic / anti-stress activities were studied in detail. In experimental models it increases the stamina of rats during swimming endurance test and prevented adrenal gland changes of ascorbic acid and cortisol content produce by swimming stress. Pretreatment with Withania somnifera (WS) showed significance protection against stress induced gastric ulcers. WS have anti-tumor effect on Chinese Hamster Ovary (CHO) cell carcinoma. It was also found effective against urethane induced lung-adenoma in mice. In some cases of uterine fibroids, dermatosarcoma, long term treatment with WS controlled the condition. It has a Cognition Promoting Effect and was useful in children with memory deficit and in old age people loss of memory. It was also found useful in neurodegenerative diseases such as Parkinson's, Huntington's and Alzeimer's diseases. It has GABA mimetic effect and was shown to promote formation of dendrites. It has anxiolytic effect and improves energy levels and mitochondrial health. It is an anti-inflammatory and anti-arthritic agent and was found useful in clinical cases of Rheumatoid and Osteoarthritis. Large scale studies are needed to prove its clinical efficacy in stress related disorders, neuronal disorders and cancers."
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0361",
+  "text_id": "thirumandiram_pm_0361",
+  "title": "Thirumandiram - Verse 909",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "909",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சூக்குமம் எண்ணா யிரஞ்செபித் தாலும்மேல்\nசூக்கும மான வழியிடைக் காணலாம்\nசூக்கும மான வினையைக் கெடுக்கலாம்\nசூக்கும மான சிவனதுஆ னந்தமே.",
+  "transliteration": "cūkkumm eṇṇā yirñcepit tālummēl\ncūkkum māṉ vḻiyiṭaik kāṇlām\ncūkkum māṉ viṉaiyaik keṭukklām\ncūkkum māṉ civṉtuā ṉntmē.",
+  "english_translation": null,
+  "content_hash": "4fb1f7433f0def9a41fd155ed9d855bb569478507b308d84c9dc71a6854562f5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_karma",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

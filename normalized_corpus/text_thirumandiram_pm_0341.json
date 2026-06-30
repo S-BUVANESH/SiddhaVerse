@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0341",
+  "text_id": "thirumandiram_pm_0341",
+  "title": "Thirumandiram - Verse 889",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "889",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தானே பரஞ்சுடர் தத்துவ மாய்நிற்கும்\nதானே அகார உகாரம தாய்நிற்கும்\nதானே பரஞ்சுடர் தத்துவக் கூத்துக்குத்\nதானே தனக்குத் தராதலம் தானே.",
+  "transliteration": "tāṉē prñcuṭr tttuv māyniṟkum\ntāṉē akār ukārm tāyniṟkum\ntāṉē prñcuṭr tttuvk kūttukkut\ntāṉē tṉkkut trātlm tāṉē.",
+  "english_translation": null,
+  "content_hash": "84abd5cf23978f3200ead08ab4e21712867322b404d7873e833c3b8c0c294f8c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "practice_kumbhaka"
+  ]
+}

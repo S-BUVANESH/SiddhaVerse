@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0298",
+  "text_id": "thirumandiram_pm_0298",
+  "title": "Thirumandiram - Verse 302",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "302",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மயன்பணி கேட்பது மாநந்தி வேண்டின்\nஅயன்பணி கேட்பது அரன்பணி யாலே\nசிவன்பணி கேட்பவர் தேவரும் ஆவர்\nபயன்பணி கேட்பது பற்றது வாமே.",
+  "transliteration": "myṉpṇi kēṭptu mānnti vēṇṭiṉ\nayṉpṇi kēṭptu arṉpṇi yālē\ncivṉpṇi kēṭpvr tēvrum āvr\npyṉpṇi kēṭptu pṟṟtu vāmē.",
+  "english_translation": null,
+  "content_hash": "26d935fd574eb4a847ec2600fd603088136d9b79be279be3eabd5f575aeeee82",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "deity_shiva",
+    "siddhar_nandidevar"
+  ]
+}

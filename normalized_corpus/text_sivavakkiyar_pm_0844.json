@@ -1,0 +1,35 @@
+{
+  "document_id": "sivavakkiyar_pm_0844",
+  "text_id": "sivavakkiyar_pm_0844",
+  "title": "Sivavakkiyam - Verse 235",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "235",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பண்ணிவைத்த கல்லையும் பழம்பொருள் அதென்றுநீர்\nஎண்ணமுற்றும் என்னபேர் உரைக்கிறீர்கள் ஏழைகாள்\nபண்ணவும் படைக்கவும் படைத்துவைத்து அளிக்கவும்\nஒண்ணுமாகி உலகளித்த ஒன்றைநெஞ்சில் உண்ணுமே.",
+  "transliteration": "pṇṇivaitt kllaiyum pḻmporuḷ ateṉṟunīr\neṇṇmuṟṟum eṉṉpēr uraikkiṟīrkḷ ēḻaikāḷ\npṇṇvum pṭaikkvum pṭaittuvaittu aḷikkvum\noṇṇumāki ulkḷitt oṉṟaineñcil uṇṇumē.",
+  "english_translation": null,
+  "content_hash": "a3e4869eca5967277cefc8643e45614f17cd531cd1dd6d2d3668500ccdcf9d95",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_kali",
+    "body_heart"
+  ]
+}

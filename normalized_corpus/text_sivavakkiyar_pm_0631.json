@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0631",
+  "text_id": "sivavakkiyar_pm_0631",
+  "title": "Sivavakkiyam - Verse 22",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "22",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நீளவீடு கட்டுறீர் நெடுங்கதவு சாத்துறீர்,\nவாழவேணும் என்றலோ மகிழ்ந்திருந்த மாந்தரே?\nகாலன்ஓசை வந்தபோது கைகலந்து நின்றிடும்\nஆலம்உண்ட கண்டர்பாதம் அம்மைபாதம் உண்மையே!",
+  "transliteration": "nīḷvīṭu kṭṭuṟīr neṭuṅktvu cāttuṟīr,\nvāḻvēṇum eṉṟlō mkiḻntirunt māntrē?\nkālṉōcai vntpōtu kaiklntu niṉṟiṭum\nālmuṇṭ kṇṭrpātm ammaipātm uṇmaiyē!",
+  "english_translation": null,
+  "content_hash": "46655fa579584ac974d339a9a9c9c11bd8d909db1cb768b8758b851c2f4e6a8b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_shakti",
+    "concept_mukti"
+  ]
+}

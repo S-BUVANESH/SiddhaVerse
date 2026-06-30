@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0500",
+  "text_id": "thirumandiram_pm_0500",
+  "title": "Thirumandiram - Verse 1058",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1058",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கொம்புஅனை யாளைக் குவிமுலை மங்கையை\nவம்பவிழ் கோதையை வானவிர் நாடியைச்\nசெம்பவ ளத்திரு மேனிச் சிறுமியை\nநம்பி என் உள்ளே நயந்துவைத் தேனே. 14.",
+  "transliteration": "kompuaṉai yāḷaik kuvimulai mṅkaiyai\nvmpviḻ kōtaiyai vāṉvir nāṭiyaic\ncempv ḷttiru mēṉic ciṟumiyai\nnmpi eṉ uḷḷē nyntuvait tēṉē. 14.",
+  "english_translation": null,
+  "content_hash": "9b744c1dae77d65bc60ea2c5360fe40654cfb19b19cf0f4d0bb8c2b1d46fc504",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_nadi",
+    "deity_vishnu"
+  ]
+}

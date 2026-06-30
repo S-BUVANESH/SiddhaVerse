@@ -1,0 +1,1387 @@
+{
+  "version": "3B-R",
+  "queries": [
+    {
+      "query_id": "q001",
+      "category": "Tamil Verse",
+      "query_text": "நினைப்பதொன்று கண்டிலேன்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q002",
+      "category": "Tamil Verse",
+      "query_text": "ஓடிஓடி ஓடிஓடி உட்கலந்த",
+      "expected_documents": [
+        "sivavakkiyar_pm_0612"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0612": 1.0
+      }
+    },
+    {
+      "query_id": "q003",
+      "category": "Tamil Verse",
+      "query_text": "ஞான நிலை என்னிலே இருந்த",
+      "expected_documents": [
+        "sivavakkiyar_pm_0615"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0615": 1.0
+      }
+    },
+    {
+      "query_id": "q004",
+      "category": "Tamil Verse",
+      "query_text": "மண்ணும்நீ அவ்விண்ணும்நீ",
+      "expected_documents": [
+        "sivavakkiyar_pm_0617"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0617": 1.0
+      }
+    },
+    {
+      "query_id": "q005",
+      "category": "Tamil Verse",
+      "query_text": "நாலுவேதம் ஓதுவீர் ஞானபாதம்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0623"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0623": 1.0
+      }
+    },
+    {
+      "query_id": "q006",
+      "category": "Tamil Verse",
+      "query_text": "சங்கிரண்டு தாரை ஒன்று",
+      "expected_documents": [
+        "sivavakkiyar_pm_0628"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0628": 1.0
+      }
+    },
+    {
+      "query_id": "q007",
+      "category": "Tamil Verse",
+      "query_text": "நீளவீடு கட்டுறீர் நெடுங்கதவு",
+      "expected_documents": [
+        "sivavakkiyar_pm_0631"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0631": 1.0
+      }
+    },
+    {
+      "query_id": "q008",
+      "category": "Tamil Verse",
+      "query_text": "வித்தில்லாத சம்பிரதாயம்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0624"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0624": 1.0
+      }
+    },
+    {
+      "query_id": "q009",
+      "category": "Tamil Verse",
+      "query_text": "ஓடம்உள்ள போதெல்லாம் நீர்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0632"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0632": 1.0
+      }
+    },
+    {
+      "query_id": "q010",
+      "category": "Tamil Verse",
+      "query_text": "தங்கம்ஒன்று ரூபம்வேறு தன்மையான",
+      "expected_documents": [
+        "sivavakkiyar_pm_0638"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0638": 1.0
+      }
+    },
+    {
+      "query_id": "q011",
+      "category": "Tamil Verse",
+      "query_text": "உருத்தரித்த நாடியில்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0613"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0613": 1.0
+      }
+    },
+    {
+      "query_id": "q012",
+      "category": "Tamil Verse",
+      "query_text": "அஞ்செழுத்திலே பிறந்து",
+      "expected_documents": [
+        "sivavakkiyar_pm_0629"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0629": 1.0
+      }
+    },
+    {
+      "query_id": "q013",
+      "category": "Tamil Verse",
+      "query_text": "அதிசயம் பலபலவுமாய்",
+      "expected_documents": [
+        "classic_agasthiyar_vaidya_kaviyam"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_vaidya_kaviyam": 1.0
+      }
+    },
+    {
+      "query_id": "q014",
+      "category": "Tamil Verse",
+      "query_text": "அனாதிமுன் அனாதியாய்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q015",
+      "category": "Tamil Verse",
+      "query_text": "அஞ்சும்மூணும் எட்டாதாய்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0625"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0625": 1.0
+      }
+    },
+    {
+      "query_id": "q016",
+      "category": "Tamil Verse",
+      "query_text": "பண்டுநான் பறித்தெறிந்த",
+      "expected_documents": [
+        "sivavakkiyar_pm_0635"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0635": 1.0
+      }
+    },
+    {
+      "query_id": "q017",
+      "category": "Tamil Verse",
+      "query_text": "அண்டவாசல் ஆயிரம்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0626"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0626": 1.0
+      }
+    },
+    {
+      "query_id": "q018",
+      "category": "Tamil Verse",
+      "query_text": "சரியை கிரியை யோக",
+      "expected_documents": [
+        "sivavakkiyar_pm_0612"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0612": 1.0
+      }
+    },
+    {
+      "query_id": "q019",
+      "category": "Tamil Verse",
+      "query_text": "காப்பு அரியதோர் நமச்சிவாயம்",
+      "expected_documents": [
+        "sivavakkiyar_pm_0609"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0609": 1.0
+      }
+    },
+    {
+      "query_id": "q020",
+      "category": "Tamil Verse",
+      "query_text": "கரியதோர் முகத்தையொத்த",
+      "expected_documents": [
+        "sivavakkiyar_pm_0610"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0610": 1.0
+      }
+    },
+    {
+      "query_id": "q021",
+      "category": "Romanized Suffix",
+      "query_text": "pranayamam",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q022",
+      "category": "Romanized Suffix",
+      "query_text": "kumbhakam",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q023",
+      "category": "Romanized Suffix",
+      "query_text": "namasivaya",
+      "expected_documents": [
+        "sivavakkiyar_pm_0609"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0609": 1.0
+      }
+    },
+    {
+      "query_id": "q024",
+      "category": "Romanized Suffix",
+      "query_text": "odi odi odi odi",
+      "expected_documents": [
+        "sivavakkiyar_pm_0612"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0612": 1.0
+      }
+    },
+    {
+      "query_id": "q025",
+      "category": "Romanized Suffix",
+      "query_text": "vaasi yogam",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0613"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0613": 1.0
+      }
+    },
+    {
+      "query_id": "q026",
+      "category": "Romanized Suffix",
+      "query_text": "kayakalpa rejuvenation",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q027",
+      "category": "Romanized Suffix",
+      "query_text": "pancha boothas",
+      "expected_documents": [
+        "sivavakkiyar_pm_0617"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0617": 1.0
+      }
+    },
+    {
+      "query_id": "q028",
+      "category": "Romanized Suffix",
+      "query_text": "siddhar yoga",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q029",
+      "category": "Romanized Suffix",
+      "query_text": "anathi mun anathiyay",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q030",
+      "category": "Romanized Suffix",
+      "query_text": "thangam ondru roobam veru",
+      "expected_documents": [
+        "sivavakkiyar_pm_0638"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0638": 1.0
+      }
+    },
+    {
+      "query_id": "q031",
+      "category": "Romanized Suffix",
+      "query_text": "vetrilai mooligai",
+      "expected_documents": [
+        "plant_karisalankanni"
+      ],
+      "relevance_scores": {
+        "plant_karisalankanni": 1.0
+      }
+    },
+    {
+      "query_id": "q032",
+      "category": "Romanized Suffix",
+      "query_text": "kabasura kudineer",
+      "expected_documents": [
+        "formulation_kabasura_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q033",
+      "category": "Romanized Suffix",
+      "query_text": "nilavembu decoction",
+      "expected_documents": [
+        "formulation_nilavembu_kudineer",
+        "plant_nilavembu"
+      ],
+      "relevance_scores": {
+        "formulation_nilavembu_kudineer": 1.0,
+        "plant_nilavembu": 1.0
+      }
+    },
+    {
+      "query_id": "q034",
+      "category": "Romanized Suffix",
+      "query_text": "amukkara choornam",
+      "expected_documents": [
+        "formulation_amukkara_choornam"
+      ],
+      "relevance_scores": {
+        "formulation_amukkara_choornam": 1.0
+      }
+    },
+    {
+      "query_id": "q035",
+      "category": "Romanized Suffix",
+      "query_text": "siddhar bogar",
+      "expected_documents": [
+        "siddhar_bogar",
+        "classic_bogar_7000"
+      ],
+      "relevance_scores": {
+        "siddhar_bogar": 1.0,
+        "classic_bogar_7000": 1.0
+      }
+    },
+    {
+      "query_id": "q036",
+      "category": "Romanized Suffix",
+      "query_text": "agasthiyar kuzhambu",
+      "expected_documents": [
+        "formulation_agasthiyar_kuzhambu",
+        "siddhar_agasthiyar"
+      ],
+      "relevance_scores": {
+        "formulation_agasthiyar_kuzhambu": 1.0,
+        "siddhar_agasthiyar": 1.0
+      }
+    },
+    {
+      "query_id": "q037",
+      "category": "Romanized Suffix",
+      "query_text": "thirumoolar thirumandiram",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q038",
+      "category": "Romanized Suffix",
+      "query_text": "karuvoorar pooja",
+      "expected_documents": [
+        "classic_karuvoorar_pooja_vidhi",
+        "siddhar_karuvoorar"
+      ],
+      "relevance_scores": {
+        "classic_karuvoorar_pooja_vidhi": 1.0,
+        "siddhar_karuvoorar": 1.0
+      }
+    },
+    {
+      "query_id": "q039",
+      "category": "Romanized Suffix",
+      "query_text": "seenthil chooranam",
+      "expected_documents": [
+        "formulation_seenthil_chooranam",
+        "plant_seenthil"
+      ],
+      "relevance_scores": {
+        "formulation_seenthil_chooranam": 1.0,
+        "plant_seenthil": 1.0
+      }
+    },
+    {
+      "query_id": "q040",
+      "category": "Romanized Suffix",
+      "query_text": "sivavakkiyam complete",
+      "expected_documents": [
+        "classic_sivavakkiyar_padalgal"
+      ],
+      "relevance_scores": {
+        "classic_sivavakkiyar_padalgal": 1.0
+      }
+    },
+    {
+      "query_id": "q041",
+      "category": "English Synonym",
+      "query_text": "breath retention",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q042",
+      "category": "English Synonym",
+      "query_text": "holy basil",
+      "expected_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi"
+      ],
+      "relevance_scores": {
+        "plant_tulsi": 1.0,
+        "plant_karunthulasi": 1.0
+      }
+    },
+    {
+      "query_id": "q043",
+      "category": "English Synonym",
+      "query_text": "indian gooseberry",
+      "expected_documents": [
+        "plant_nelli"
+      ],
+      "relevance_scores": {
+        "plant_nelli": 1.0
+      }
+    },
+    {
+      "query_id": "q044",
+      "category": "English Synonym",
+      "query_text": "ginger decoction",
+      "expected_documents": [
+        "plant_inji___sukku"
+      ],
+      "relevance_scores": {
+        "plant_inji___sukku": 1.0
+      }
+    },
+    {
+      "query_id": "q045",
+      "category": "English Synonym",
+      "query_text": "green chiretta",
+      "expected_documents": [
+        "plant_nilavembu",
+        "formulation_nilavembu_kudineer"
+      ],
+      "relevance_scores": {
+        "plant_nilavembu": 1.0,
+        "formulation_nilavembu_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q046",
+      "category": "English Synonym",
+      "query_text": "black pepper",
+      "expected_documents": [
+        "plant_milagu"
+      ],
+      "relevance_scores": {
+        "plant_milagu": 1.0
+      }
+    },
+    {
+      "query_id": "q047",
+      "category": "English Synonym",
+      "query_text": "garlic cloves",
+      "expected_documents": [
+        "plant_poondu"
+      ],
+      "relevance_scores": {
+        "plant_poondu": 1.0
+      }
+    },
+    {
+      "query_id": "q048",
+      "category": "English Synonym",
+      "query_text": "cardamom spice",
+      "expected_documents": [
+        "plant_elakkai"
+      ],
+      "relevance_scores": {
+        "plant_elakkai": 1.0
+      }
+    },
+    {
+      "query_id": "q049",
+      "category": "English Synonym",
+      "query_text": "malabar nut",
+      "expected_documents": [
+        "plant_adathodai"
+      ],
+      "relevance_scores": {
+        "plant_adathodai": 1.0
+      }
+    },
+    {
+      "query_id": "q050",
+      "category": "English Synonym",
+      "query_text": "stonebreaker herb",
+      "expected_documents": [
+        "plant_keelanelli",
+        "plant_keezhanelli"
+      ],
+      "relevance_scores": {
+        "plant_keelanelli": 1.0,
+        "plant_keezhanelli": 1.0
+      }
+    },
+    {
+      "query_id": "q051",
+      "category": "English Synonym",
+      "query_text": "alchemical mercury",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_siddha_makaradhwaja"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "formulation_siddha_makaradhwaja": 1.0
+      }
+    },
+    {
+      "query_id": "q052",
+      "category": "English Synonym",
+      "query_text": "respiratory herbal drink",
+      "expected_documents": [
+        "formulation_kabasura_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q053",
+      "category": "English Synonym",
+      "query_text": "joint pain remedy",
+      "expected_documents": [
+        "plant_mudakathan"
+      ],
+      "relevance_scores": {
+        "plant_mudakathan": 1.0
+      }
+    },
+    {
+      "query_id": "q054",
+      "category": "English Synonym",
+      "query_text": "winter cherry",
+      "expected_documents": [
+        "plant_ashwagandha",
+        "formulation_amukkara_choornam"
+      ],
+      "relevance_scores": {
+        "plant_ashwagandha": 1.0,
+        "formulation_amukkara_choornam": 1.0
+      }
+    },
+    {
+      "query_id": "q055",
+      "category": "English Synonym",
+      "query_text": "licorice root",
+      "expected_documents": [
+        "plant_athimathuram"
+      ],
+      "relevance_scores": {
+        "plant_athimathuram": 1.0
+      }
+    },
+    {
+      "query_id": "q056",
+      "category": "English Synonym",
+      "query_text": "rejuvenating herbal paste",
+      "expected_documents": [
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q057",
+      "category": "English Synonym",
+      "query_text": "cosmic illusion",
+      "expected_documents": [
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q058",
+      "category": "English Synonym",
+      "query_text": "rejuvenation therapy kayakalpa",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q059",
+      "category": "English Synonym",
+      "query_text": "breath control exercises",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0613"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0613": 1.0
+      }
+    },
+    {
+      "query_id": "q060",
+      "category": "English Synonym",
+      "query_text": "indian pennywort",
+      "expected_documents": [
+        "plant_brahmi___neerbrahmi"
+      ],
+      "relevance_scores": {
+        "plant_brahmi___neerbrahmi": 1.0
+      }
+    },
+    {
+      "query_id": "q061",
+      "category": "Entity Search",
+      "query_text": "Agasthiyar",
+      "expected_documents": [
+        "siddhar_agasthiyar",
+        "classic_agasthiyar_soumya_sagaram"
+      ],
+      "relevance_scores": {
+        "siddhar_agasthiyar": 1.0,
+        "classic_agasthiyar_soumya_sagaram": 1.0
+      }
+    },
+    {
+      "query_id": "q062",
+      "category": "Entity Search",
+      "query_text": "Thirumoolar",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q063",
+      "category": "Entity Search",
+      "query_text": "Bogar",
+      "expected_documents": [
+        "siddhar_bogar",
+        "classic_bogar_7000"
+      ],
+      "relevance_scores": {
+        "siddhar_bogar": 1.0,
+        "classic_bogar_7000": 1.0
+      }
+    },
+    {
+      "query_id": "q064",
+      "category": "Entity Search",
+      "query_text": "Sivavakkiyar",
+      "expected_documents": [
+        "classic_sivavakkiyar_padalgal"
+      ],
+      "relevance_scores": {
+        "classic_sivavakkiyar_padalgal": 1.0
+      }
+    },
+    {
+      "query_id": "q065",
+      "category": "Entity Search",
+      "query_text": "Theriyar",
+      "expected_documents": [
+        "classic_theriyar_sekarappa",
+        "classic_theriyar_yamaga_venba"
+      ],
+      "relevance_scores": {
+        "classic_theriyar_sekarappa": 1.0,
+        "classic_theriyar_yamaga_venba": 1.0
+      }
+    },
+    {
+      "query_id": "q066",
+      "category": "Entity Search",
+      "query_text": "Karuvoorar",
+      "expected_documents": [
+        "siddhar_karuvoorar",
+        "classic_karuvoorar_pooja_vidhi"
+      ],
+      "relevance_scores": {
+        "siddhar_karuvoorar": 1.0,
+        "classic_karuvoorar_pooja_vidhi": 1.0
+      }
+    },
+    {
+      "query_id": "q067",
+      "category": "Entity Search",
+      "query_text": "Korakkar",
+      "expected_documents": [
+        "siddhar_korakkar_bio",
+        "siddhar_korakkar"
+      ],
+      "relevance_scores": {
+        "siddhar_korakkar_bio": 1.0,
+        "siddhar_korakkar": 1.0
+      }
+    },
+    {
+      "query_id": "q068",
+      "category": "Entity Search",
+      "query_text": "Pambatti Siddhar",
+      "expected_documents": [
+        "siddhar_pambatti_siddhar"
+      ],
+      "relevance_scores": {
+        "siddhar_pambatti_siddhar": 1.0
+      }
+    },
+    {
+      "query_id": "q069",
+      "category": "Entity Search",
+      "query_text": "Thirumandiram book",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q070",
+      "category": "Entity Search",
+      "query_text": "Sivavakkiyam book",
+      "expected_documents": [
+        "classic_sivavakkiyar_padalgal"
+      ],
+      "relevance_scores": {
+        "classic_sivavakkiyar_padalgal": 1.0
+      }
+    },
+    {
+      "query_id": "q071",
+      "category": "Entity Search",
+      "query_text": "Green Chiretta plant",
+      "expected_documents": [
+        "plant_nilavembu"
+      ],
+      "relevance_scores": {
+        "plant_nilavembu": 1.0
+      }
+    },
+    {
+      "query_id": "q072",
+      "category": "Entity Search",
+      "query_text": "Malabar Nut plant",
+      "expected_documents": [
+        "plant_adathodai"
+      ],
+      "relevance_scores": {
+        "plant_adathodai": 1.0
+      }
+    },
+    {
+      "query_id": "q073",
+      "category": "Entity Search",
+      "query_text": "Ashwagandha plant",
+      "expected_documents": [
+        "plant_ashwagandha"
+      ],
+      "relevance_scores": {
+        "plant_ashwagandha": 1.0
+      }
+    },
+    {
+      "query_id": "q074",
+      "category": "Entity Search",
+      "query_text": "Brahmi plant",
+      "expected_documents": [
+        "plant_brahmi___neerbrahmi"
+      ],
+      "relevance_scores": {
+        "plant_brahmi___neerbrahmi": 1.0
+      }
+    },
+    {
+      "query_id": "q075",
+      "category": "Entity Search",
+      "query_text": "Karisalankanni plant",
+      "expected_documents": [
+        "plant_karisalankanni"
+      ],
+      "relevance_scores": {
+        "plant_karisalankanni": 1.0
+      }
+    },
+    {
+      "query_id": "q076",
+      "category": "Entity Search",
+      "query_text": "Kabasura Kudineer recipe",
+      "expected_documents": [
+        "formulation_kabasura_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q077",
+      "category": "Entity Search",
+      "query_text": "Nilavembu Kudineer formulation",
+      "expected_documents": [
+        "formulation_nilavembu_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_nilavembu_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q078",
+      "category": "Entity Search",
+      "query_text": "Amukkara Choornam recipe",
+      "expected_documents": [
+        "formulation_amukkara_choornam"
+      ],
+      "relevance_scores": {
+        "formulation_amukkara_choornam": 1.0
+      }
+    },
+    {
+      "query_id": "q079",
+      "category": "Entity Search",
+      "query_text": "Brahma Rasayanam formulation",
+      "expected_documents": [
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q080",
+      "category": "Entity Search",
+      "query_text": "Siddha Makaradhwaja recipe",
+      "expected_documents": [
+        "formulation_siddha_makaradhwaja"
+      ],
+      "relevance_scores": {
+        "formulation_siddha_makaradhwaja": 1.0
+      }
+    },
+    {
+      "query_id": "q081",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "alchemical mercury purification",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_siddha_makaradhwaja"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "formulation_siddha_makaradhwaja": 1.0
+      }
+    },
+    {
+      "query_id": "q082",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "siddha formulation for respiratory fever",
+      "expected_documents": [
+        "formulation_kabasura_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q083",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Agasthiyar alchemical cosmology and Kayakalpa",
+      "expected_documents": [
+        "siddhar_agasthiyar",
+        "classic_agasthiyar_soumya_sagaram"
+      ],
+      "relevance_scores": {
+        "siddhar_agasthiyar": 1.0,
+        "classic_agasthiyar_soumya_sagaram": 1.0
+      }
+    },
+    {
+      "query_id": "q084",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Thirumoolar yogic breath control philosophy",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q085",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "treatment for joint pain mudakathan",
+      "expected_documents": [
+        "plant_mudakathan"
+      ],
+      "relevance_scores": {
+        "plant_mudakathan": 1.0
+      }
+    },
+    {
+      "query_id": "q086",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "brahma rasayanam preparation and dosage",
+      "expected_documents": [
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q087",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Siddhar Bogar travels and medical findings",
+      "expected_documents": [
+        "siddhar_bogar",
+        "classic_bogar_7000"
+      ],
+      "relevance_scores": {
+        "siddhar_bogar": 1.0,
+        "classic_bogar_7000": 1.0
+      }
+    },
+    {
+      "query_id": "q088",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "amukkara choornam indications and use",
+      "expected_documents": [
+        "formulation_amukkara_choornam"
+      ],
+      "relevance_scores": {
+        "formulation_amukkara_choornam": 1.0
+      }
+    },
+    {
+      "query_id": "q089",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Siddha herb for liver protection and jaundice",
+      "expected_documents": [
+        "plant_keelanelli",
+        "plant_keezhanelli"
+      ],
+      "relevance_scores": {
+        "plant_keelanelli": 1.0,
+        "plant_keezhanelli": 1.0
+      }
+    },
+    {
+      "query_id": "q090",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "preparation of kalyana ghritham",
+      "expected_documents": [
+        "formulation_kalyana_ghritham"
+      ],
+      "relevance_scores": {
+        "formulation_kalyana_ghritham": 1.0
+      }
+    },
+    {
+      "query_id": "q091",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Agasthiyar Kuzhambu composition and purgative uses",
+      "expected_documents": [
+        "formulation_agasthiyar_kuzhambu"
+      ],
+      "relevance_scores": {
+        "formulation_agasthiyar_kuzhambu": 1.0
+      }
+    },
+    {
+      "query_id": "q092",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Pathartha Guna Chinthamani dietary guidelines",
+      "expected_documents": [
+        "classic_pathartha_guna_chinthamani"
+      ],
+      "relevance_scores": {
+        "classic_pathartha_guna_chinthamani": 1.0
+      }
+    },
+    {
+      "query_id": "q093",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "rejuvenation through mercury and sulfur",
+      "expected_documents": [
+        "formulation_siddha_makaradhwaja"
+      ],
+      "relevance_scores": {
+        "formulation_siddha_makaradhwaja": 1.0
+      }
+    },
+    {
+      "query_id": "q094",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "nilavembu kudineer preparation and dengue fever",
+      "expected_documents": [
+        "formulation_nilavembu_kudineer",
+        "plant_nilavembu"
+      ],
+      "relevance_scores": {
+        "formulation_nilavembu_kudineer": 1.0,
+        "plant_nilavembu": 1.0
+      }
+    },
+    {
+      "query_id": "q095",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Yugi Chinthamani classification of diseases",
+      "expected_documents": [
+        "classic_yugi_chinthamani_800"
+      ],
+      "relevance_scores": {
+        "classic_yugi_chinthamani_800": 1.0
+      }
+    },
+    {
+      "query_id": "q096",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Pambatti Siddhar spiritual and kundalini philosophy",
+      "expected_documents": [
+        "siddhar_pambatti_siddhar"
+      ],
+      "relevance_scores": {
+        "siddhar_pambatti_siddhar": 1.0
+      }
+    },
+    {
+      "query_id": "q097",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Korakkar biography and use of cannabis",
+      "expected_documents": [
+        "siddhar_korakkar_bio",
+        "siddhar_korakkar"
+      ],
+      "relevance_scores": {
+        "siddhar_korakkar_bio": 1.0,
+        "siddhar_korakkar": 1.0
+      }
+    },
+    {
+      "query_id": "q098",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Karuvoorar puja protocols and copper work",
+      "expected_documents": [
+        "siddhar_karuvoorar",
+        "classic_karuvoorar_pooja_vidhi"
+      ],
+      "relevance_scores": {
+        "siddhar_karuvoorar": 1.0,
+        "classic_karuvoorar_pooja_vidhi": 1.0
+      }
+    },
+    {
+      "query_id": "q099",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Sivavakkiyar critique of rituals and temple structures",
+      "expected_documents": [
+        "classic_sivavakkiyar_padalgal",
+        "sivavakkiyar_pm_0612"
+      ],
+      "relevance_scores": {
+        "classic_sivavakkiyar_padalgal": 1.0,
+        "sivavakkiyar_pm_0612": 1.0
+      }
+    },
+    {
+      "query_id": "q100",
+      "category": "Concept/Formulation/Biography",
+      "query_text": "Siddha Materia Medica plant classification",
+      "expected_documents": [
+        "plant_seenthil",
+        "plant_adathodai"
+      ],
+      "relevance_scores": {
+        "plant_seenthil": 1.0,
+        "plant_adathodai": 1.0
+      }
+    },
+    {
+      "query_id": "q101",
+      "category": "Adversarial",
+      "query_text": "pranyama breathing",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0616": 1.0
+      }
+    },
+    {
+      "query_id": "q102",
+      "category": "Adversarial",
+      "query_text": "algastiar medicine",
+      "expected_documents": [
+        "siddhar_agasthiyar",
+        "classic_agasthiyar_soumya_sagaram"
+      ],
+      "relevance_scores": {
+        "siddhar_agasthiyar": 1.0,
+        "classic_agasthiyar_soumya_sagaram": 1.0
+      }
+    },
+    {
+      "query_id": "q103",
+      "category": "Adversarial",
+      "query_text": "thulasi plant",
+      "expected_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi"
+      ],
+      "relevance_scores": {
+        "plant_tulsi": 1.0,
+        "plant_karunthulasi": 1.0
+      }
+    },
+    {
+      "query_id": "q104",
+      "category": "Adversarial",
+      "query_text": "kabasura kudiner recipe",
+      "expected_documents": [
+        "formulation_kabasura_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q105",
+      "category": "Adversarial",
+      "query_text": "tiromular yoga",
+      "expected_documents": [
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q106",
+      "category": "Adversarial",
+      "query_text": "oil",
+      "expected_documents": [
+        "formulation_chandanadi_thailam",
+        "formulation_chirattai_thailam",
+        "formulation_pinda_thailam"
+      ],
+      "relevance_scores": {
+        "formulation_chandanadi_thailam": 1.0,
+        "formulation_chirattai_thailam": 1.0,
+        "formulation_pinda_thailam": 1.0
+      }
+    },
+    {
+      "query_id": "q107",
+      "category": "Adversarial",
+      "query_text": "breath",
+      "expected_documents": [
+        "classic_thirumandiram",
+        "sivavakkiyar_pm_0616",
+        "sivavakkiyar_pm_0613"
+      ],
+      "relevance_scores": {
+        "classic_thirumandiram": 1.0,
+        "sivavakkiyar_pm_0616": 1.0,
+        "sivavakkiyar_pm_0613": 1.0
+      }
+    },
+    {
+      "query_id": "q108",
+      "category": "Adversarial",
+      "query_text": "root",
+      "expected_documents": [
+        "plant_ashwagandha",
+        "plant_athimathuram",
+        "plant_inji___sukku"
+      ],
+      "relevance_scores": {
+        "plant_ashwagandha": 1.0,
+        "plant_athimathuram": 1.0,
+        "plant_inji___sukku": 1.0
+      }
+    },
+    {
+      "query_id": "q109",
+      "category": "Adversarial",
+      "query_text": "rejuvenation",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "formulation_brahma_rasayanam"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "formulation_brahma_rasayanam": 1.0
+      }
+    },
+    {
+      "query_id": "q110",
+      "category": "Adversarial",
+      "query_text": "fever",
+      "expected_documents": [
+        "formulation_kabasura_kudineer",
+        "formulation_nilavembu_kudineer"
+      ],
+      "relevance_scores": {
+        "formulation_kabasura_kudineer": 1.0,
+        "formulation_nilavembu_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q111",
+      "category": "Adversarial",
+      "query_text": "kayakalpa rejuvenation in agasthiyar and thirumandiram",
+      "expected_documents": [
+        "classic_agasthiyar_soumya_sagaram",
+        "classic_thirumandiram"
+      ],
+      "relevance_scores": {
+        "classic_agasthiyar_soumya_sagaram": 1.0,
+        "classic_thirumandiram": 1.0
+      }
+    },
+    {
+      "query_id": "q112",
+      "category": "Adversarial",
+      "query_text": "tulsi plant and nilavembu kudineer",
+      "expected_documents": [
+        "plant_tulsi",
+        "plant_karunthulasi",
+        "formulation_nilavembu_kudineer"
+      ],
+      "relevance_scores": {
+        "plant_tulsi": 1.0,
+        "plant_karunthulasi": 1.0,
+        "formulation_nilavembu_kudineer": 1.0
+      }
+    },
+    {
+      "query_id": "q113",
+      "category": "Adversarial",
+      "query_text": "agasthiyar kuzhambu and amukkara choornam",
+      "expected_documents": [
+        "formulation_agasthiyar_kuzhambu",
+        "formulation_amukkara_choornam"
+      ],
+      "relevance_scores": {
+        "formulation_agasthiyar_kuzhambu": 1.0,
+        "formulation_amukkara_choornam": 1.0
+      }
+    },
+    {
+      "query_id": "q114",
+      "category": "Adversarial",
+      "query_text": "what is the capital of France?",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q115",
+      "category": "Adversarial",
+      "query_text": "how to cook pasta?",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q116",
+      "category": "Adversarial",
+      "query_text": "latest iPhone price",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q117",
+      "category": "Adversarial",
+      "query_text": "how does python build lists?",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q118",
+      "category": "Adversarial",
+      "query_text": "va",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q119",
+      "category": "Adversarial",
+      "query_text": "o",
+      "expected_documents": [],
+      "relevance_scores": {}
+    },
+    {
+      "query_id": "q120",
+      "category": "Adversarial",
+      "query_text": "si",
+      "expected_documents": [],
+      "relevance_scores": {}
+    }
+  ]
+}

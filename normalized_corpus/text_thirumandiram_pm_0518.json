@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0518",
+  "text_id": "thirumandiram_pm_0518",
+  "title": "Thirumandiram - Verse 1076",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1076",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அந்தம் பதினாலும் அதுவே வயிரவி\nமுந்து நடுவும் முடிவும் முதலாகச்\nசிந்தை கமலத்து எழுகின்ற மாசத்தி\nஅந்தமும் ஆதியும் ஆகின்றாளே.",
+  "transliteration": "antm ptiṉālum atuvē vyirvi\nmuntu nṭuvum muṭivum mutlākc\ncintai kmlttu eḻukiṉṟ māctti\nantmum ātiyum ākiṉṟāḷē.",
+  "english_translation": null,
+  "content_hash": "890315dd2573fcf39e9f5fc1499c6a641dbd66a421b6e9f84bfb8a96e29c606a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "symbol_eighteen",
+    "plant_lotus",
+    "deity_shakti",
+    "practice_mudra",
+    "concept_dhyana"
+  ]
+}

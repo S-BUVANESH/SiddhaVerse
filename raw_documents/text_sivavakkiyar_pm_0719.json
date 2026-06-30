@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0719",
+  "text_id": "sivavakkiyar_pm_0719",
+  "title": "Sivavakkiyam - Verse 110",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "110",
+  "tamil_text": "அல்லல்வாசல் ஒன்பதும் அருத்தடைந்த வாசலும்\nசொல்லும்வாசல் ஓர் ஐந்தும் சொம்மிவிம்மி நின்றதும்\nநல்லவாச லைத்திறந்து ஞானவாசல் ஊடுபோய்\nஎல்லைவாசல் கண்டவர் இனிப்பிறப்பது இல்லையே.",
+  "transliteration": "alllvācl oṉptum aruttṭaint vāclum\ncollumvācl ōr aintum commivimmi niṉṟtum\nnllvāc laittiṟntu ñāṉvācl ūṭupōy\nellaivācl kṇṭvr iṉippiṟpptu illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9561a23ed3b59ae5a50b76a728f8d02e33877cb89db9f1ff30c56167ad575430",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

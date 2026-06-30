@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0931",
+  "text_id": "sivavakkiyar_pm_0931",
+  "title": "Sivavakkiyam - Verse 322",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "322",
+  "tamil_text": "ஓம்நமோ என்றுமுளே பாவையென்று அறிந்தபின்,\nபானுடல் கருத்துளே பாவையென்று அறிந்தபின்,\nநானும்நீயும் உண்டடா நலங்குலம் அதுஉண்டடா,\nஊணும்ஊணும் ஒன்றுமே உணர்ந்திடாய் உனக்குளே.",
+  "transliteration": "ōmnmō eṉṟumuḷē pāvaiyeṉṟu aṟintpiṉ,\npāṉuṭl kruttuḷē pāvaiyeṉṟu aṟintpiṉ,\nnāṉumnīyum uṇṭṭā nlṅkulm atuuṇṭṭā,\nūṇumūṇum oṉṟumē uṇrntiṭāy uṉkkuḷē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4a46750d32ea0f746370842f0558559612328013e6c1638ffe2e56c46e04977b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

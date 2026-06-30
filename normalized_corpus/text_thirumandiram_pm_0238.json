@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0238",
+  "text_id": "thirumandiram_pm_0238",
+  "title": "Thirumandiram - Verse 241",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "241",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மூடங் கெடாதோர் சிகைநூல் முதற்கொள்ளில்\nவாடும் புவியும் பெருவாழ்வு மன்னனும்\nபீடுஒன் றிலனாகும் ஆதலாற் பேர்த்துணர்ந்து\nஆடம் பரநூல் சிகையறுத் தால்நன்றே.",
+  "transliteration": "mūṭṅ keṭātōr cikainūl mutṟkoḷḷil\nvāṭum puviyum peruvāḻvu mṉṉṉum\npīṭuoṉ ṟilṉākum ātlāṟ pērttuṇrntu\nāṭm prnūl cikaiyṟut tālnṉṟē.",
+  "english_translation": null,
+  "content_hash": "76440eee0f49bae5fefccc05d285671e355a23a8001bc589d0ba51af7e9fe092",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_mudra",
+    "practice_kumbhaka"
+  ]
+}

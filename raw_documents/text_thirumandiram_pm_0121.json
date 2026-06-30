@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0121",
+  "text_id": "thirumandiram_pm_0121",
+  "title": "Thirumandiram - Verse 123",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "123",
+  "tamil_text": "அளித்தான் உலகெங்கும் தானான உண்மை\nஅளித்தான் அமரர் அறியா உலகம்\nஅளித்தான் திருமன்றுள் ஆடுந் திருத்தாள்\nஅளித்தான் போ஢ன்பத்து அருள்வெளி தானே.",
+  "transliteration": "aḷittāṉ ulkeṅkum tāṉāṉ uṇmai\naḷittāṉ amrr aṟiyā ulkm\naḷittāṉ tirumṉṟuḷ āṭun tiruttāḷ\naḷittāṉ pō஢ṉpttu aruḷveḷi tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e346af97bd8b7bd6b072e8e3290ee339e5458791b3f0fce871df33ad0f3cd51c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

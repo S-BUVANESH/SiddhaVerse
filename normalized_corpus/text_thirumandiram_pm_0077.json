@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0077",
+  "text_id": "thirumandiram_pm_0077",
+  "title": "Thirumandiram - Verse 79",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "79",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சேர்ந்திருந் தேன்சிவ மங்கைதன் பங்கனைச்\nசேர்ந்திருந் தேன்சிவன் ஆவடு தண்டுறை\nசேர்ந்திருந் தேன்சிவ போதியின் நீழலில்\nசேர்ந்திருந் தேன்சிவன் நாமங்கள் ஓதியே.",
+  "transliteration": "cērntirun tēṉciv mṅkaitṉ pṅkṉaic\ncērntirun tēṉcivṉ āvṭu tṇṭuṟai\ncērntirun tēṉciv pōtiyiṉ nīḻlil\ncērntirun tēṉcivṉ nāmṅkḷ ōtiyē.",
+  "english_translation": null,
+  "content_hash": "251f957fa9e4a55d6c9462acd0236313824c055553ce11e4c75bb320670b3823",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shiva",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0440",
+  "text_id": "thirumandiram_pm_0440",
+  "title": "Thirumandiram - Verse 993",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "993",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "புண்ணிய வானவர் பூமழை தூவிநின்று\nஎண்ணுவர் அண்ணல் இணையடி மந்திரம்\nநண்ணுவர் நண்ணி நமஎன்று நாமத்தைக்\nகண்ணென உன்னிக் கலந்துநின் றாரே.",
+  "transliteration": "puṇṇiy vāṉvr pūmḻai tūviniṉṟu\neṇṇuvr aṇṇl iṇaiyṭi mntirm\nnṇṇuvr nṇṇi nmeṉṟu nāmttaik\nkṇṇeṉ uṉṉik klntuniṉ ṟārē.",
+  "english_translation": null,
+  "content_hash": "2733bce46a3d0118693c475ea3cb7878396754578cb8987fa5fd650405007bed",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_mantra",
+    "deity_vishnu",
+    "body_eye",
+    "body_seed",
+    "deity_ganesha"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0407",
+  "text_id": "thirumandiram_pm_0407",
+  "title": "Thirumandiram - Verse 957",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "957",
+  "tamil_text": "அவ்வொடு சவ்வென்ற தரனுற்ற மந்திரம்\nஅவ்வொடு சவ்வென்றது ஆரும் அறிகிலர்\nஅவ்வொடு சவ்வென்றது ஆரும் அறிந்தபின்\nஅவ்வொடு சவ்வும் அனாதியும் ஆமே.",
+  "transliteration": "avvoṭu cvveṉṟ trṉuṟṟ mntirm\navvoṭu cvveṉṟtu ārum aṟikilr\navvoṭu cvveṉṟtu ārum aṟintpiṉ\navvoṭu cvvum aṉātiyum āmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c9b5bb98356fc9f2dbf1a588525d421b2a5a6bbe9f25345f6200e9c0637f7a0f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0011",
+  "text_id": "thirumandiram_pm_0011",
+  "title": "Thirumandiram - Verse 11",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "11",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அயலும் புடையும்எம் ஆதியை நோக்கில்\nஇயலும் பெருந்தெய்வம் யாதுமொன் றில்லை\nமுயலும் முயலில் முடிவும் மற் றாங்கே\nபெயலும் மழைமுகிற் பேர்நந்தி தானே.",
+  "transliteration": "aylum puṭaiyumem ātiyai nōkkil\niylum perunteyvm yātumoṉ ṟillai\nmuylum muylil muṭivum mṟ ṟāṅkē\npeylum mḻaimukiṟ pērnnti tāṉē.",
+  "english_translation": null,
+  "content_hash": "b6250399193761916b58fdcc0c3c01d3a1a411db87a3fcd7da4d7e9249fd5a96",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_mukti",
+    "deity_shakti",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

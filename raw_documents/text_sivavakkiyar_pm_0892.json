@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0892",
+  "text_id": "sivavakkiyar_pm_0892",
+  "title": "Sivavakkiyam - Verse 283",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "283",
+  "tamil_text": "நீரிலே பிறந்திருந்து நீர்சடங்கு செய்கிறீர்\nஆரைஉன்னி நீரெலாம் அவத்திலே இறைக்கிறீர்\nவேரைஉன்னி வித்தைஉன்னி வித்திலே முளைத்தெழும்\nசீரைஉன்ன வல்லீரேல் சிவபதம் அடைவிரே.",
+  "transliteration": "nīrilē piṟntiruntu nīrcṭṅku ceykiṟīr\nāraiuṉṉi nīrelām avttilē iṟaikkiṟīr\nvēraiuṉṉi vittaiuṉṉi vittilē muḷaitteḻum\ncīraiuṉṉ vllīrēl civptm aṭaivirē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5b6f49d51c5979c7a963c860df97839af22a0df36e3d15668dbdc2802596912a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

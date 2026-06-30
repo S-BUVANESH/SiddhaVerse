@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0715",
+  "text_id": "sivavakkiyar_pm_0715",
+  "title": "Sivavakkiyam - Verse 106",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "106",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பச்சைமண் பதுப்பிலே பழுப்பதிந்த வேட்டுவன்\nநிச்சலும் நினைந்திட நினைத்தவண்ணம் ஆயிடும்;\nபச்சைமண் இடிந்துபோய் பறந்ததும்பி ஆயிடும்\nபிச்சர்காள் அறிந்துகொள்க பிரான்இயற்று கோலமே.",
+  "transliteration": "pccaimṇ ptuppilē pḻupptint vēṭṭuvṉ\nnicclum niṉaintiṭ niṉaittvṇṇm āyiṭum;\npccaimṇ iṭintupōy pṟnttumpi āyiṭum\npiccrkāḷ aṟintukoḷk pirāṉiyṟṟu kōlmē.",
+  "english_translation": null,
+  "content_hash": "3d2c8c7e1fdaa79b421af6333730eac919502cb2736aea54c9ea473755f8620c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "deity_kali",
+    "deity_brahma",
+    "symbol_eighteen",
+    "concept_pranava",
+    "practice_pranayama"
+  ]
+}

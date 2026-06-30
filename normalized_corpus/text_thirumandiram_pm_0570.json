@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0570",
+  "text_id": "thirumandiram_pm_0570",
+  "title": "Thirumandiram - Verse 1129",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1129",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "என்னம்மை என்னப்பன் என்னும் செருக்கற்று\nஉன்னம்மை ஊழித் தலைவனும் அங்குளன்\nமன்னம்மை யாகி மருவி உரைசெய்Yயும்\nபின்னம்மை யாய்நின்ற பேர்நந்தி தானே.",
+  "transliteration": "eṉṉmmai eṉṉppṉ eṉṉum cerukkṟṟu\nuṉṉmmai ūḻit tlaivṉum aṅkuḷṉ\nmṉṉmmai yāki mruvi uraiceyYyum\npiṉṉmmai yāyniṉṟ pērnnti tāṉē.",
+  "english_translation": null,
+  "content_hash": "0d34a92243bb0645a95561168af1a317689c485db3d51376bfe9dfd6b08bf2bc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_head",
+    "siddhar_nandidevar"
+  ]
+}

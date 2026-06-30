@@ -1,0 +1,34 @@
+{
+  "document_id": "thirumandiram_pm_0242",
+  "text_id": "thirumandiram_pm_0242",
+  "title": "Thirumandiram - Verse 245",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "245",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வேந்தன் உலகை மிகநன்று காப்பது\nவாய்ந்த மனிதர்கள் அவ்வழி யாநிற்பர்\nபோந்திவ் வுலகைப் பிறர்க்கொள்ளத் தாங்கொள்ளப்\nபாய்ந்த புலியன்ன பாவகத் தானே.",
+  "transliteration": "vēntṉ ulkai miknṉṟu kāpptu\nvāynt mṉitrkḷ avvḻi yāniṟpr\npōntiv vulkaip piṟrkkoḷḷt tāṅkoḷḷp\npāynt puliyṉṉ pāvkt tāṉē.",
+  "english_translation": null,
+  "content_hash": "0465fa5c5bba42cc6c4a40a7c8f1da7cdcf3a9873e0465d1b25ed3a73276cd28",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana"
+  ]
+}

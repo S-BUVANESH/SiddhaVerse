@@ -1,0 +1,853 @@
+{
+  "total_entities": 93,
+  "generated_at": "2026-06-24T18:01:29.975753+00:00",
+  "categories": [
+    "siddhars",
+    "deities",
+    "places",
+    "concepts",
+    "practices",
+    "symbolic",
+    "body_terms",
+    "plants"
+  ],
+  "entities": [
+    {
+      "entity_id": "practice_pranayama",
+      "entity_category": "practices",
+      "entity_name": "Pranayama",
+      "description": "Breath control practice",
+      "occurrence_count": 352,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_murugan",
+      "entity_category": "deities",
+      "entity_name": "Murugan",
+      "description": "Son of Shiva; Tamil deity of war and wisdom",
+      "occurrence_count": 349,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_vishnu",
+      "entity_category": "deities",
+      "entity_name": "Vishnu",
+      "description": "Preserver deity; Vaishnava tradition",
+      "occurrence_count": 339,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6019
+    },
+    {
+      "entity_id": "place_tiruvannamalai",
+      "entity_category": "places",
+      "entity_name": "Tiruvannamalai",
+      "description": "Sacred hill; Arunachala; associated with Shiva",
+      "occurrence_count": 288,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "practice_kumbhaka",
+      "entity_category": "practices",
+      "entity_name": "Kumbhaka",
+      "description": "Breath retention in pranayama",
+      "occurrence_count": 286,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_shiva",
+      "entity_category": "deities",
+      "entity_name": "Shiva",
+      "description": "Supreme deity of Shaiva Siddhanta; the Absolute",
+      "occurrence_count": 274,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6573
+    },
+    {
+      "entity_id": "concept_prana",
+      "entity_category": "concepts",
+      "entity_name": "Prana",
+      "description": "Life force / vital breath",
+      "occurrence_count": 259,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6201
+    },
+    {
+      "entity_id": "siddhar_thirumoolar",
+      "entity_category": "siddhars",
+      "entity_name": "Thirumoolar",
+      "description": "Author of Thirumandiram; foremost Siddhar-Nayanar",
+      "occurrence_count": 248,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "symbol_three",
+      "entity_category": "symbolic",
+      "entity_name": "Three/Trinity",
+      "description": "Triple impurities (anava, kanma, maya)",
+      "occurrence_count": 210,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6038
+    },
+    {
+      "entity_id": "concept_dhyana",
+      "entity_category": "concepts",
+      "entity_name": "Dhyana",
+      "description": "Meditation; deep contemplative practice",
+      "occurrence_count": 202,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_shakti",
+      "entity_category": "deities",
+      "entity_name": "Shakti",
+      "description": "Divine feminine energy; consort of Shiva",
+      "occurrence_count": 201,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6147
+    },
+    {
+      "entity_id": "siddhar_sivavakkiyar",
+      "entity_category": "siddhars",
+      "entity_name": "Sivavakkiyar",
+      "description": "Iconoclastic Siddhar poet; author of Sivavakkiyam",
+      "occurrence_count": 180,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_shiva_shakti",
+      "entity_category": "concepts",
+      "entity_name": "Shiva-Shakti",
+      "description": "Union of Shiva and Shakti; non-dual ultimate reality",
+      "occurrence_count": 180,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "place_chidambaram",
+      "entity_category": "places",
+      "entity_name": "Chidambaram",
+      "description": "Temple city; site of Nataraja shrine",
+      "occurrence_count": 163,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6316
+    },
+    {
+      "entity_id": "body_eye",
+      "entity_category": "body_terms",
+      "entity_name": "Eye",
+      "description": "Eye; often symbolic of divine perception",
+      "occurrence_count": 158,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8528
+    },
+    {
+      "entity_id": "practice_varma",
+      "entity_category": "practices",
+      "entity_name": "Varma",
+      "description": "Vital points therapy; Siddha body energy points",
+      "occurrence_count": 157,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_brahma",
+      "entity_category": "deities",
+      "entity_name": "Brahma",
+      "description": "Creator deity of the Hindu Trimurti",
+      "occurrence_count": 149,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6134
+    },
+    {
+      "entity_id": "concept_maya",
+      "entity_category": "concepts",
+      "entity_name": "Maya",
+      "description": "Cosmic illusion; the veil over reality",
+      "occurrence_count": 135,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6456
+    },
+    {
+      "entity_id": "concept_pranava",
+      "entity_category": "concepts",
+      "entity_name": "Pranava/OM",
+      "description": "Sacred syllable OM; primordial sound",
+      "occurrence_count": 119,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.629
+    },
+    {
+      "entity_id": "concept_jnana",
+      "entity_category": "concepts",
+      "entity_name": "Jnana",
+      "description": "Wisdom; direct knowledge of Brahman",
+      "occurrence_count": 117,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6453
+    },
+    {
+      "entity_id": "body_light",
+      "entity_category": "body_terms",
+      "entity_name": "Light/Flame",
+      "description": "Inner light; divine illumination",
+      "occurrence_count": 116,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8534
+    },
+    {
+      "entity_id": "place_kashi",
+      "entity_category": "places",
+      "entity_name": "Kashi",
+      "description": "Holy city of Varanasi/Benares",
+      "occurrence_count": 100,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6025
+    },
+    {
+      "entity_id": "plant_vallarai",
+      "entity_category": "plants",
+      "entity_name": "Vallarai",
+      "description": "Centella asiatica; brain tonic",
+      "occurrence_count": 98,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_tulsi",
+      "entity_category": "plants",
+      "entity_name": "Tulsi",
+      "description": "Holy Basil; sacred and medicinal plant",
+      "occurrence_count": 95,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_mukti",
+      "entity_category": "concepts",
+      "entity_name": "Mukti/Liberation",
+      "description": "Liberation from cycle of birth and death",
+      "occurrence_count": 92,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6538
+    },
+    {
+      "entity_id": "body_sound",
+      "entity_category": "body_terms",
+      "entity_name": "Nadam",
+      "description": "Inner sound; cosmic vibration",
+      "occurrence_count": 91,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6297
+    },
+    {
+      "entity_id": "concept_nadi",
+      "entity_category": "concepts",
+      "entity_name": "Nadi",
+      "description": "Energy channels in subtle body; also pulse diagnosis",
+      "occurrence_count": 90,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.735
+    },
+    {
+      "entity_id": "deity_kali",
+      "entity_category": "deities",
+      "entity_name": "Kali",
+      "description": "Fierce form of Shakti",
+      "occurrence_count": 88,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6028
+    },
+    {
+      "entity_id": "practice_mudra",
+      "entity_category": "practices",
+      "entity_name": "Mudra",
+      "description": "Ritual hand gesture; energy seal",
+      "occurrence_count": 77,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6104
+    },
+    {
+      "entity_id": "siddhar_karuvoorar",
+      "entity_category": "siddhars",
+      "entity_name": "Karuvoorar",
+      "description": "Siddhar alchemist associated with Karur",
+      "occurrence_count": 75,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_karma",
+      "entity_category": "concepts",
+      "entity_name": "Karma",
+      "description": "Law of action and consequence",
+      "occurrence_count": 74,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6777
+    },
+    {
+      "entity_id": "body_fire",
+      "entity_category": "body_terms",
+      "entity_name": "Agni/Fire",
+      "description": "Sacred fire; digestive fire; transformative energy",
+      "occurrence_count": 71,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7606
+    },
+    {
+      "entity_id": "concept_mantra",
+      "entity_category": "concepts",
+      "entity_name": "Mantra",
+      "description": "Sacred sound formula for meditation",
+      "occurrence_count": 67,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8627
+    },
+    {
+      "entity_id": "siddhar_kudambai",
+      "entity_category": "siddhars",
+      "entity_name": "Kudambai",
+      "description": "Siddhar poet; known for enigmatic verse style",
+      "occurrence_count": 63,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_lotus",
+      "entity_category": "plants",
+      "entity_name": "Lotus",
+      "description": "Sacred lotus; Nelumbo nucifera; symbol of purity",
+      "occurrence_count": 62,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6637
+    },
+    {
+      "entity_id": "body_head",
+      "entity_category": "body_terms",
+      "entity_name": "Head",
+      "description": "Head; seat of consciousness in some traditions",
+      "occurrence_count": 62,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8202
+    },
+    {
+      "entity_id": "body_moolam",
+      "entity_category": "body_terms",
+      "entity_name": "Moolam",
+      "description": "Root; base chakra (Muladhara)",
+      "occurrence_count": 54,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6352
+    },
+    {
+      "entity_id": "siddhar_nandidevar",
+      "entity_category": "siddhars",
+      "entity_name": "Nandidevar",
+      "description": "Nandi — divine Siddhar guru of Thirumoolar",
+      "occurrence_count": 52,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8798
+    },
+    {
+      "entity_id": "concept_brahman",
+      "entity_category": "concepts",
+      "entity_name": "Brahman",
+      "description": "The Absolute; ultimate reality in Vedanta",
+      "occurrence_count": 52,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6154
+    },
+    {
+      "entity_id": "symbol_five",
+      "entity_category": "symbolic",
+      "entity_name": "Five Letters",
+      "description": "Five sacred syllables Na-Ma-Si-Va-Ya",
+      "occurrence_count": 50,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_atman",
+      "entity_category": "concepts",
+      "entity_name": "Atman",
+      "description": "The individual soul/self",
+      "occurrence_count": 50,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.761
+    },
+    {
+      "entity_id": "symbol_eighteen",
+      "entity_category": "symbolic",
+      "entity_name": "Eighteen Siddhars",
+      "description": "The eighteen Siddhars of Tamil tradition",
+      "occurrence_count": 47,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "deity_ganesha",
+      "entity_category": "deities",
+      "entity_name": "Ganesha",
+      "description": "Elephant-headed deity; remover of obstacles",
+      "occurrence_count": 46,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_siddhi",
+      "entity_category": "concepts",
+      "entity_name": "Siddhi",
+      "description": "Supernormal power attained through spiritual practice",
+      "occurrence_count": 44,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6739
+    },
+    {
+      "entity_id": "practice_ashta_siddhi",
+      "entity_category": "practices",
+      "entity_name": "Ashta Siddhi",
+      "description": "Eight supernatural powers attained by Siddhars",
+      "occurrence_count": 43,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "symbol_eight",
+      "entity_category": "symbolic",
+      "entity_name": "Eight",
+      "description": "Symbolic eight; Ashta-siddhi",
+      "occurrence_count": 43,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7291
+    },
+    {
+      "entity_id": "siddhar_bogar",
+      "entity_category": "siddhars",
+      "entity_name": "Bogar",
+      "description": "Siddhar alchemist and author of Bogar 7000",
+      "occurrence_count": 43,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_thippili",
+      "entity_category": "plants",
+      "entity_name": "Thippili",
+      "description": "Long Pepper (Piper longum)",
+      "occurrence_count": 43,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_guru",
+      "entity_category": "concepts",
+      "entity_name": "Guru",
+      "description": "Spiritual teacher; dispeller of ignorance",
+      "occurrence_count": 42,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7762
+    },
+    {
+      "entity_id": "body_uyir",
+      "entity_category": "body_terms",
+      "entity_name": "Uyir (Life)",
+      "description": "Life/soul; the animating principle",
+      "occurrence_count": 41,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7902
+    },
+    {
+      "entity_id": "body_heart",
+      "entity_category": "body_terms",
+      "entity_name": "Heart/Mind",
+      "description": "Heart/mind; seat of consciousness",
+      "occurrence_count": 39,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7192
+    },
+    {
+      "entity_id": "body_seed",
+      "entity_category": "body_terms",
+      "entity_name": "Vindu",
+      "description": "Bindu; seed; drop of vital essence",
+      "occurrence_count": 36,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7431
+    },
+    {
+      "entity_id": "concept_pancha_bootham",
+      "entity_category": "concepts",
+      "entity_name": "Pancha Bhuta",
+      "description": "Five elements: earth, water, fire, air, space",
+      "occurrence_count": 35,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6343
+    },
+    {
+      "entity_id": "concept_kundalini",
+      "entity_category": "concepts",
+      "entity_name": "Kundalini",
+      "description": "Dormant spiritual energy coiled at spine base",
+      "occurrence_count": 35,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "practice_kayakalpa",
+      "entity_category": "practices",
+      "entity_name": "Kayakalpa",
+      "description": "Rejuvenation therapy for bodily immortality",
+      "occurrence_count": 33,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_ramadevar",
+      "entity_category": "siddhars",
+      "entity_name": "Ramadevar",
+      "description": "Siddhar; also known as Yakob in some traditions",
+      "occurrence_count": 30,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "practice_moolamantra",
+      "entity_category": "practices",
+      "entity_name": "Namashivaya",
+      "description": "Five-syllable mantra of Shiva; Panchakshara",
+      "occurrence_count": 29,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6414
+    },
+    {
+      "entity_id": "siddhar_yugi",
+      "entity_category": "siddhars",
+      "entity_name": "Yugi Muni",
+      "description": "Siddhar physician; author of Yugi Chinthamani",
+      "occurrence_count": 27,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7593
+    },
+    {
+      "entity_id": "concept_yoga",
+      "entity_category": "concepts",
+      "entity_name": "Yoga",
+      "description": "Spiritual discipline; union with the Divine",
+      "occurrence_count": 27,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6481
+    },
+    {
+      "entity_id": "body_udal",
+      "entity_category": "body_terms",
+      "entity_name": "Udal (Body)",
+      "description": "Physical body",
+      "occurrence_count": 26,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7308
+    },
+    {
+      "entity_id": "concept_chakra",
+      "entity_category": "concepts",
+      "entity_name": "Chakra",
+      "description": "Energy centers in the subtle body",
+      "occurrence_count": 25,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.68
+    },
+    {
+      "entity_id": "plant_ginger",
+      "entity_category": "plants",
+      "entity_name": "Ginger/Sukku",
+      "description": "Zingiber officinale; digestive herb",
+      "occurrence_count": 24,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6208
+    },
+    {
+      "entity_id": "place_madurai",
+      "entity_category": "places",
+      "entity_name": "Madurai",
+      "description": "Ancient Tamil capital; Meenakshi temple city",
+      "occurrence_count": 24,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6104
+    },
+    {
+      "entity_id": "body_breath",
+      "entity_category": "body_terms",
+      "entity_name": "Breath",
+      "description": "Breath; vehicle of prana",
+      "occurrence_count": 20,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.6125
+    },
+    {
+      "entity_id": "concept_tapas",
+      "entity_category": "concepts",
+      "entity_name": "Tapas",
+      "description": "Austerity; spiritual discipline through heat/effort",
+      "occurrence_count": 18,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.7806
+    },
+    {
+      "entity_id": "place_potigai",
+      "entity_category": "places",
+      "entity_name": "Potigai",
+      "description": "Potigai hill; abode of Sage Agasthiyar",
+      "occurrence_count": 18,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_samadhi",
+      "entity_category": "concepts",
+      "entity_name": "Samadhi",
+      "description": "State of meditative absorption",
+      "occurrence_count": 16,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6969
+    },
+    {
+      "entity_id": "concept_tantra",
+      "entity_category": "concepts",
+      "entity_name": "Tantra",
+      "description": "Esoteric system of ritual and yoga",
+      "occurrence_count": 14,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.6286
+    },
+    {
+      "entity_id": "plant_keezhanelli",
+      "entity_category": "plants",
+      "entity_name": "Keezhanelli",
+      "description": "Phyllanthus niruri; liver tonic",
+      "occurrence_count": 11,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_agama",
+      "entity_category": "concepts",
+      "entity_name": "Agama",
+      "description": "Scriptural canon of Shaiva Siddhanta",
+      "occurrence_count": 11,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7818
+    },
+    {
+      "entity_id": "siddhar_idaikkadar",
+      "entity_category": "siddhars",
+      "entity_name": "Idaikkadar",
+      "description": "Shepherd Siddhar poet",
+      "occurrence_count": 11,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "concept_bhakti",
+      "entity_category": "concepts",
+      "entity_name": "Bhakti",
+      "description": "Devotional love toward the Divine",
+      "occurrence_count": 11,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7318
+    },
+    {
+      "entity_id": "plant_ashwagandha",
+      "entity_category": "plants",
+      "entity_name": "Ashwagandha",
+      "description": "Withania somnifera; adaptogenic root",
+      "occurrence_count": 10,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_theriyar",
+      "entity_category": "siddhars",
+      "entity_name": "Theriyar",
+      "description": "Siddhar physician and poet",
+      "occurrence_count": 10,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_korakkar",
+      "entity_category": "siddhars",
+      "entity_name": "Gorakkar",
+      "description": "Siddhar and alchemist; disciple of Machamuni",
+      "occurrence_count": 10,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "practice_bandha",
+      "entity_category": "practices",
+      "entity_name": "Bandha",
+      "description": "Energy lock in yoga",
+      "occurrence_count": 9,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_pambatti",
+      "entity_category": "siddhars",
+      "entity_name": "Pambatti",
+      "description": "Snake Siddhar; poet of Pambatti Siddhar songs",
+      "occurrence_count": 8,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_agasthiyar",
+      "entity_category": "siddhars",
+      "entity_name": "Agasthiyar",
+      "description": "Primordial Siddhar; father of Tamil language and medicine",
+      "occurrence_count": 7,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_manjal",
+      "entity_category": "plants",
+      "entity_name": "Turmeric",
+      "description": "Curcuma longa; anti-inflammatory",
+      "occurrence_count": 7,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_machamuni",
+      "entity_category": "siddhars",
+      "entity_name": "Machamuni",
+      "description": "Fish Siddhar; Matsyendranath in North Indian tradition",
+      "occurrence_count": 6,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_sattaimuni",
+      "entity_category": "siddhars",
+      "entity_name": "Sattaimuni",
+      "description": "Siddhar of Tirunelveli; coat-wearing ascetic",
+      "occurrence_count": 5,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_kadukkai",
+      "entity_category": "plants",
+      "entity_name": "Haritaki",
+      "description": "Terminalia chebula; triphala component",
+      "occurrence_count": 4,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "siddhar_konkanar",
+      "entity_category": "siddhars",
+      "entity_name": "Konkanar",
+      "description": "Siddhar from Konkan region",
+      "occurrence_count": 3,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "place_kailash",
+      "entity_category": "places",
+      "entity_name": "Kailash",
+      "description": "Sacred mountain; abode of Shiva",
+      "occurrence_count": 3,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.7333
+    },
+    {
+      "entity_id": "practice_deekshai",
+      "entity_category": "practices",
+      "entity_name": "Diksha",
+      "description": "Spiritual initiation by a Guru",
+      "occurrence_count": 2,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.725
+    },
+    {
+      "entity_id": "plant_nelli",
+      "entity_category": "plants",
+      "entity_name": "Nelli",
+      "description": "Indian Gooseberry (Amla); rejuvenative herb",
+      "occurrence_count": 2,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.725
+    },
+    {
+      "entity_id": "concept_shishya",
+      "entity_category": "concepts",
+      "entity_name": "Shishya",
+      "description": "Disciple; student of the Guru",
+      "occurrence_count": 2,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "place_himalaya",
+      "entity_category": "places",
+      "entity_name": "Himalaya",
+      "description": "Himalayan mountains; abode of sages",
+      "occurrence_count": 2,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_neem",
+      "entity_category": "plants",
+      "entity_name": "Neem (Vembu)",
+      "description": "Azadirachta indica; antimicrobial herb",
+      "occurrence_count": 2,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_vembu",
+      "entity_category": "plants",
+      "entity_name": "Neem",
+      "description": "Azadirachta indica; used in Siddha medicine",
+      "occurrence_count": 2,
+      "max_confidence": 0.6,
+      "avg_confidence": 0.6
+    },
+    {
+      "entity_id": "plant_milagu",
+      "entity_category": "plants",
+      "entity_name": "Black Pepper",
+      "description": "Piper nigrum; Trikatu component",
+      "occurrence_count": 2,
+      "max_confidence": 0.85,
+      "avg_confidence": 0.725
+    },
+    {
+      "entity_id": "practice_puja",
+      "entity_category": "practices",
+      "entity_name": "Puja",
+      "description": "Ritual worship",
+      "occurrence_count": 2,
+      "max_confidence": 1.0,
+      "avg_confidence": 0.8
+    },
+    {
+      "entity_id": "practice_japa",
+      "entity_category": "practices",
+      "entity_name": "Japa",
+      "description": "Repetitive chanting of mantra/name",
+      "occurrence_count": 1,
+      "max_confidence": 1.0,
+      "avg_confidence": 1.0
+    }
+  ]
+}

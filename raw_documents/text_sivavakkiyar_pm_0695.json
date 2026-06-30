@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0695",
+  "text_id": "sivavakkiyar_pm_0695",
+  "title": "Sivavakkiyam - Verse 86",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "86",
+  "tamil_text": "சோதியாகி ஆகிநின்ற சுத்தமும் பலித்துவந்து\nபோதியாத போதகத்தை ஓதுகின்ற பூரணா,\nவீதியாக ஓடிவந்து விண்ணடியின் ஊடுபோய்\nஆதிநாதன் தன் நாதன்என்று அனந்தகாலம் உள்ளதே",
+  "transliteration": "cōtiyāki ākiniṉṟ cuttmum plittuvntu\npōtiyāt pōtkttai ōtukiṉṟ pūrṇā,\nvītiyāk ōṭivntu viṇṇṭiyiṉ ūṭupōy\nātinātṉ tṉ nātṉeṉṟu aṉntkālm uḷḷtē",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "88476ace883cc5c60a75dbc42babb81066fbe83a1295cc62e00f359e95a6ad74",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

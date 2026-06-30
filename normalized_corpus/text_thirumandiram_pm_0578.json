@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0578",
+  "text_id": "thirumandiram_pm_0578",
+  "title": "Thirumandiram - Verse 1137",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1137",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மருவொத்த மங்கையும் தானும் உடனே\nஉருவொத்துநின்றமை ஒன்றும் உணரார்\nகருவொத்து நின்று கலக்கின போது\nதிருவொத்த சிந்தைவைத்து எந்தைநின் றானே.",
+  "transliteration": "mruvott mṅkaiyum tāṉum uṭṉē\nuruvottuniṉṟmai oṉṟum uṇrār\nkruvottu niṉṟu klkkiṉ pōtu\ntiruvott cintaivaittu entainiṉ ṟāṉē.",
+  "english_translation": null,
+  "content_hash": "6ca6f9d99cac902e44a3e7c09c62a784deeab91bfd5191353f53cf87853bef2b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "siddhar_karuvoorar"
+  ]
+}

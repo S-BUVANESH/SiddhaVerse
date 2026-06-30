@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0629",
+  "text_id": "sivavakkiyar_pm_0629",
+  "title": "Sivavakkiyam - Verse 20",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "20",
+  "tamil_text": "அஞ்செழுத்தி லேபிறந்து அவ்வஞ்செழுத்தி லேவளர்ந்து\nஅஞ்செழுத்தை ஓதுகின்ற பஞ்சபூத பாவிகாள்.\nஅஞ்செழுத்தில் ஓர்எழுத்து அறிந்துகூற வல்லீரேல்!\nஅஞ்சல்அஞ்சல் என்றுநாதன் அம்பலத்தில் ஆடுமே!",
+  "transliteration": "añceḻutti lēpiṟntu avvñceḻutti lēvḷrntu\nañceḻuttai ōtukiṉṟ pñcpūt pāvikāḷ.\nañceḻuttil ōreḻuttu aṟintukūṟ vllīrēl!\nañclañcl eṉṟunātṉ amplttil āṭumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f4e0ad618e326634a5b03515465180176e9c3355bb1714686e14b5ecbe2cd63c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0802",
+  "text_id": "sivavakkiyar_pm_0802",
+  "title": "Sivavakkiyam - Verse 193",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "193",
+  "tamil_text": "துருத்தியுண்டு கொல்லனுண்டு சொர்ணமான சோதியுண்டு\nதிருத்தமாம் மனத்தில்உன்னித் திகழஊத வல்லீரேல்,\nபெருத்ததூண் இலங்கியே பிழம்பதாய் விரிந்திடும்\nநிருத்தமான சோதியும் நீயும்அல்லது இல்லையே.",
+  "transliteration": "turuttiyuṇṭu kollṉuṇṭu corṇmāṉ cōtiyuṇṭu\ntiruttmām mṉttiluṉṉit tikḻūt vllīrēl,\nperutttūṇ ilṅkiyē piḻmptāy virintiṭum\nniruttmāṉ cōtiyum nīyumalltu illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ddeb91a7f6080b005808a84569e603c2b38c7c085158c10d50e711e0ce9df2c3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

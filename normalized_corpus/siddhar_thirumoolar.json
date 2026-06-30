@@ -1,0 +1,44 @@
+{
+  "document_id": "siddhar_thirumoolar",
+  "text_id": "siddhar_thirumoolar",
+  "title": "Thirumoolar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "45400ad0e910d28f4892dc617e67221c815549d0f16b579a0fbf33e0fe381d78",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Thirumoolar",
+  "period": "c. 5th - 6th century CE",
+  "biography": "A legendary yogi and philosopher. Author of the Thirumandiram, a foundational yogic, philosophical, and medical text.",
+  "texts": [
+    "Thirumandiram",
+    "Thirumoolar Karukkadai"
+  ],
+  "search_text": "siddhar thirumoolar Thirumoolar Siddhar Biography Siddhars Thirumoolar Tamil Tamil script public_domain SiddhaVerse Corpus Thirumoolar c. 5th - 6th century CE A legendary yogi and philosopher. Author of the Thirumandiram, a foundational yogic, philosophical, and medical text. Thirumandiram Thirumoolar Karukkadai"
+}

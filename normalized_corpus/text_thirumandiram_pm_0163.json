@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0163",
+  "text_id": "thirumandiram_pm_0163",
+  "title": "Thirumandiram - Verse 166",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "166",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "குடையும் குதிரையும் கொற்றவா ளுங்கொண்டு\nஇடையும்அக் காலம் இருந்தது நடுவே\nபுடையு மனிதனார் போக்கும்அப் போதே\nஅடையும் இடம்வலம் ஆருயி ராமே.",
+  "transliteration": "kuṭaiyum kutiraiyum koṟṟvā ḷuṅkoṇṭu\niṭaiyumak kālm irunttu nṭuvē\npuṭaiyu mṉitṉār pōkkumap pōtē\naṭaiyum iṭmvlm āruyi rāmē.",
+  "english_translation": null,
+  "content_hash": "a3a4efde8575c113726d2dc970cc3be8b18b47290002940b0e12d58499de776d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_bogar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "siddhar_ramadevar",
+    "siddhar_idaikkadar",
+    "practice_kumbhaka",
+    "body_fire"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_41226232",
+  "text_id": "pubmed_41226232",
+  "title": "Overview of Ayurveda and Ashwagandha: Bioactive Phytochemicals and Potential Applications to Gliomas.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Newton HB"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "d19024dc7245e61982e06e1c72179a543c6f9362c4233f4d6a14182ce7209bfb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "41226232",
+  "authors": [
+    "Newton HB"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "pubdate": "2025 Nov 03",
+  "doi": "10.3390/molecules30214272",
+  "abstract": "Ayurveda is the traditional medical system of India and has been in use for more than 5000 years. The focus of Ayurveda is to maintain harmony and balance of the three Doshas (Vata, Pitta, Kapha), or life forces, that govern the physiology and health of each individual. Ashwagandha is considered one of the most useful plants in the Ayurvedic system for various illnesses, including cancer. Ethnopharmacological and phytochemical analyses have been elucidating the bioactive compounds in ashwagandha that mediate the anti-cancer effects. The most bioactive compounds appear to be the withanolides, including withaferin-A (WFA), withanone, and other withanolide derivatives. The focus of this review will be to discuss the pre-clinical and translational anti-cancer properties of WFA, withanone, and selected withanolides in terms of their ability to inhibit the growth of systemic forms of cancer and gliomas. The mechanisms of action of how these compounds affect tumor cell growth will also be discussed in detail, and include the induction of apoptosis, the inhibition of signal transduction pathways, the arrest of the cell cycle, and the inhibition of receptor tyrosine kinases. The final part will review how ashwagandha and its bioactive compounds could be applied to glioblastoma and gliomas.",
+  "search_text": "pubmed 41226232 Overview of Ayurveda and Ashwagandha: Bioactive Phytochemicals and Potential Applications to Gliomas. PubMed Research Scientific Literature Newton HB Tamil Tamil script open_access PubMed Central 41226232 Newton HB Molecules (Basel, Switzerland) 2025 Nov 03 10.3390/molecules30214272 Ayurveda is the traditional medical system of India and has been in use for more than 5000 years. The focus of Ayurveda is to maintain harmony and balance of the three Doshas (Vata, Pitta, Kapha), or life forces, that govern the physiology and health of each individual. Ashwagandha is considered one of the most useful plants in the Ayurvedic system for various illnesses, including cancer. Ethnopharmacological and phytochemical analyses have been elucidating the bioactive compounds in ashwagandha that mediate the anti-cancer effects. The most bioactive compounds appear to be the withanolides, including withaferin-A (WFA), withanone, and other withanolide derivatives. The focus of this review will be to discuss the pre-clinical and translational anti-cancer properties of WFA, withanone, and selected withanolides in terms of their ability to inhibit the growth of systemic forms of cancer and gliomas. The mechanisms of action of how these compounds affect tumor cell growth will also be discussed in detail, and include the induction of apoptosis, the inhibition of signal transduction pathways, the arrest of the cell cycle, and the inhibition of receptor tyrosine kinases. The final part will review how ashwagandha and its bioactive compounds could be applied to glioblastoma and gliomas."
+}

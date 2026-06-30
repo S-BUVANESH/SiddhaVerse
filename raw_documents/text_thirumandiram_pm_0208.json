@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0208",
+  "text_id": "thirumandiram_pm_0208",
+  "title": "Thirumandiram - Verse 211",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "211",
+  "tamil_text": "கற்குழி தூரக் கனகமும் தேடுவர்\nஅக்குழி தூர்க்கை யாவர்க்கும் அரியது\nஅக்குழி தூர்க்கும் அறிவை அறிந்தபின்\nஅக்குழி தூரும் அழுக்கற்ற வாறே.",
+  "transliteration": "kṟkuḻi tūrk kṉkmum tēṭuvr\nakkuḻi tūrkkai yāvrkkum ariytu\nakkuḻi tūrkkum aṟivai aṟintpiṉ\nakkuḻi tūrum aḻukkṟṟ vāṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7b3d25ad30ee4af60adac83f28cfc999ee133523cfe29d244e33cb5e2cc0a61d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

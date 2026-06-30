@@ -1,0 +1,25 @@
+{
+  "title": "Institute of Asian Studies Chennai",
+  "url": "http://www.instituteofasianstudies.com",
+  "organization": "Institute of Asian Studies, Chennai",
+  "source_type": "Palm Leaf",
+  "license_status": "mixed",
+  "trust_score": "9.5/10",
+  "priority": "high",
+  "acquisition_difficulty": 5,
+  "coverage": {
+    "siddhars": 15,
+    "plants": 10,
+    "formulations": 15,
+    "diseases": 15,
+    "manuscripts": 40,
+    "research": 5
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Manuscripts of Folk Literature",
+    "Traditional Medicine Palm-leaf Collections",
+    "Descriptive Catalogues"
+  ],
+  "notes": "Published detailed descriptive catalogues of palm-leaf manuscripts in Tamil, which are crucial for finding Siddha references."
+}

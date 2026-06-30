@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0008",
+  "text_id": "thirumandiram_pm_0008",
+  "title": "Thirumandiram - Verse 8",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "8",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தீயினும் வெய்யன் புனலினும் தண்ணியன்\nஆயினும் ஈசன் அருளறி வாரில்லை\nசேயினும் நல்லன் அணியன்நல் அன்பர்க்குத்\nதாயினும் நல்லன் தாழ்சடை யோனே.",
+  "transliteration": "tīyiṉum veyyṉ puṉliṉum tṇṇiyṉ\nāyiṉum īcṉ aruḷṟi vārillai\ncēyiṉum nllṉ aṇiyṉnl aṉprkkut\ntāyiṉum nllṉ tāḻcṭai yōṉē.",
+  "english_translation": null,
+  "content_hash": "af3efdbdb42e152ebaba32cb4c04f1cae23a1fb074046edd2b3061dc1ad64e69",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "siddhar_kudambai",
+    "body_fire",
+    "place_kashi"
+  ]
+}

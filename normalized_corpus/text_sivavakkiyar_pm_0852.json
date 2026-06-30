@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0852",
+  "text_id": "sivavakkiyar_pm_0852",
+  "title": "Sivavakkiyam - Verse 243",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "243",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மருள்புகுந்த சிந்தையால் மயங்குகின்ற மாந்தரே\nகுருக்கொடுத்த மந்திரம் கொண்டுநீந்த வல்லீரேல்\nகுருக்கொடுத்த தொண்டரும் முகனொடித்த பிள்ளையும்\nபருத்திபட்ட பன்னிரண்டு பாடுதான் படுவரே.",
+  "transliteration": "mruḷpukunt cintaiyāl myṅkukiṉṟ māntrē\nkurukkoṭutt mntirm koṇṭunīnt vllīrēl\nkurukkoṭutt toṇṭrum mukṉoṭitt piḷḷaiyum\npruttipṭṭ pṉṉirṇṭu pāṭutāṉ pṭuvrē.",
+  "english_translation": null,
+  "content_hash": "25475fec4f3cf721779532d2ee7cef1c3052659d320770b2ef6ae9fd624af2cd",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_mukti",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_mantra",
+    "deity_vishnu",
+    "deity_ganesha",
+    "plant_thippili",
+    "concept_guru"
+  ]
+}

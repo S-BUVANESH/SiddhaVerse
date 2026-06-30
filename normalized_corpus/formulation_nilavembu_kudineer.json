@@ -1,0 +1,49 @@
+{
+  "document_id": "formulation_nilavembu_kudineer",
+  "text_id": "formulation_nilavembu_kudineer",
+  "title": "Nilavembu Kudineer",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "8c4a69b298bd180037985bbe6d032716c7c06fb2877a89d507d30dcba1e067b4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Nilavembu Kudineer",
+  "category": "Kudineer (Decoction)",
+  "ingredients": [
+    "Andrographis paniculata (Nilavembu)",
+    "Vetiveria zizanioides (Vettiver)",
+    "Cymbopogon citratus (Inji)",
+    "Santalum album (Chandanam)",
+    "Trichosanthes dioica (Peipudal)"
+  ],
+  "method": "Boil ingredients in water, reduce to 1/8th volume, filter and consume fresh.",
+  "indications": "Fevers, Dengue, Chikungunya, viral fevers",
+  "dosage": "30-60 ml twice daily",
+  "search_text": "formulation nilavembu kudineer Nilavembu Kudineer Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Nilavembu Kudineer Kudineer (Decoction) Andrographis paniculata (Nilavembu) Vetiveria zizanioides (Vettiver) Cymbopogon citratus (Inji) Santalum album (Chandanam) Trichosanthes dioica (Peipudal) Boil ingredients in water, reduce to 1/8th volume, filter and consume fresh. Fevers, Dengue, Chikungunya, viral fevers 30-60 ml twice daily"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "French Institute of Pondicherry (IFP) Digital Collections",
+  "url": "https://digitalcollections.ifpindia.org",
+  "organization": "Institut Français de Pondichéry, Puducherry",
+  "source_type": "Palm Leaf",
+  "license_status": "open_access",
+  "trust_score": "10.0/10",
+  "priority": "high",
+  "acquisition_difficulty": 6,
+  "coverage": {
+    "siddhars": 15,
+    "plants": 10,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 35,
+    "research": 0
+  },
+  "access_type": "open",
+  "contains": [
+    "Siddha Medical Manuscripts Catalogue",
+    "Digitized Palm-Leaf Images",
+    "Sanskrit and Tamil Manuscript Metadata"
+  ],
+  "notes": "Premier collection of digitized palm-leaves. Excellent repository for historical manuscript structures."
+}

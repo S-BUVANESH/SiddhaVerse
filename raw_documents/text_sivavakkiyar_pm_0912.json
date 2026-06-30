@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0912",
+  "text_id": "sivavakkiyar_pm_0912",
+  "title": "Sivavakkiyam - Verse 303",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "303",
+  "tamil_text": "குண்டலத்து ளேயுளே அறுத்தகத்து நாயகன்\nகண்டவந்த மண்டலம் கருத்தழித்த கூத்தனை\nவிண்டலர்ந்த சந்திரன் விளங்குகின்ற மெய்ப்பொருள்\nகண்டுகொண்ட மண்டலம் சிவாயமல்லது இல்லையே.",
+  "transliteration": "kuṇṭlttu ḷēyuḷē aṟuttkttu nāykṉ\nkṇṭvnt mṇṭlm kruttḻitt kūttṉai\nviṇṭlrnt cntirṉ viḷṅkukiṉṟ meypporuḷ\nkṇṭukoṇṭ mṇṭlm civāymlltu illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "05a339e65c5cbf029f9425c87638455e01abc8b3c396d4972076bb177de11efb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

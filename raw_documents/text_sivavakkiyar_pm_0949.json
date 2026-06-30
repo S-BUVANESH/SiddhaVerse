@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0949",
+  "text_id": "sivavakkiyar_pm_0949",
+  "title": "Sivavakkiyam - Verse 340",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "340",
+  "tamil_text": "மோனமான வீதியில் முனைச்சுழியின் வாலையில்\nபானமான வீதியில் பசைந்தசெஞ் சுடரினில்\nஞானமான மூலையில் நரலைதங்கும் வாயிலில்,\nஓனமான செஞ்சுடர் உதித்ததே சிவாயமே.",
+  "transliteration": "mōṉmāṉ vītiyil muṉaiccuḻiyiṉ vālaiyil\npāṉmāṉ vītiyil pcaintceñ cuṭriṉil\nñāṉmāṉ mūlaiyil nrlaitṅkum vāyilil,\nōṉmāṉ ceñcuṭr utitttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d4ec4bf76deab10dd08f3561a7ddafce549e09238761048a09f4887d523be28d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

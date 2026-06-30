@@ -1,0 +1,47 @@
+{
+  "document_id": "thirumandiram_pm_0427",
+  "text_id": "thirumandiram_pm_0427",
+  "title": "Thirumandiram - Verse 979",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "979",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மருவும் சிவாயமே மன்னும் உயிரும்\nஅருமந்த போகமும் ஞானமும் ஆகும்\nதெருள்வந்த சீவனார் சென்றுஇவற் றாலே\nஅருள்தங்கி அச்சிவமம் ஆவது வீடே.",
+  "transliteration": "mruvum civāymē mṉṉum uyirum\narumnt pōkmum ñāṉmum ākum\nteruḷvnt cīvṉār ceṉṟuivṟ ṟālē\naruḷtṅki accivmm āvtu vīṭē.",
+  "english_translation": null,
+  "content_hash": "874f0a4cab38e974ec78bce735f60741af75c9ba7e8724939f77779117752fce",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_atman",
+    "concept_prana",
+    "concept_mukti",
+    "concept_shiva_shakti",
+    "siddhar_bogar",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "symbol_three",
+    "deity_murugan",
+    "body_uyir",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_mantra",
+    "practice_kumbhaka"
+  ]
+}

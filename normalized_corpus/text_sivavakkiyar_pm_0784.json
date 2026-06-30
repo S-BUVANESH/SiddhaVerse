@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0784",
+  "text_id": "sivavakkiyar_pm_0784",
+  "title": "Sivavakkiyam - Verse 175",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "175",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உவமையிலாப் பேரொளிக்குள் உருவமானது எவ்விடம்?\nஉவமையாகி அண்டத்தில் உருவிநின்றது எவ்விடம்?\nதவமதான பரமனார் தரித்துநின்றது எவ்விடம்?\nதற்பரத்தில் சலம்பிறந்து தங்கிநின்றது எவ்விடம்?",
+  "transliteration": "uvmaiyilāp pēroḷikkuḷ uruvmāṉtu evviṭm?\nuvmaiyāki aṇṭttil uruviniṉṟtu evviṭm?\ntvmtāṉ prmṉār trittuniṉṟtu evviṭm?\ntṟprttil clmpiṟntu tṅkiniṉṟtu evviṭm?",
+  "english_translation": null,
+  "content_hash": "ec8078910a018318833d62d360719305b4506cb3689baeee64e9b18e181a7c7c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "concept_brahman",
+    "body_seed",
+    "deity_shiva",
+    "deity_ganesha",
+    "concept_tapas"
+  ]
+}

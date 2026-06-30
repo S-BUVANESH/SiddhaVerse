@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0814",
+  "text_id": "sivavakkiyar_pm_0814",
+  "title": "Sivavakkiyam - Verse 205",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "205",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஐயிரண்டு திங்களாய் அடங்கிநின்ற தூமைதான்;\nகையிரண்டு காலிரண்டு கண்ணிரண்டும் ஆகியே\nமெய்திரண்டு சத்தமாய் விளங்கிரச கந்தமும்\nதுய்யகாயம் ஆனதும் சொல்லுகின்ற தூமையே.",
+  "transliteration": "aiyirṇṭu tiṅkḷāy aṭṅkiniṉṟ tūmaitāṉ;\nkaiyirṇṭu kālirṇṭu kṇṇirṇṭum ākiyē\nmeytirṇṭu cttmāy viḷṅkirc kntmum\ntuyykāym āṉtum collukiṉṟ tūmaiyē.",
+  "english_translation": null,
+  "content_hash": "eb87f2df2ecdef961e9bf2f8fea2aeac0cc98b3b90c05da354efc7f88eb9ecef",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "practice_kayakalpa"
+  ]
+}

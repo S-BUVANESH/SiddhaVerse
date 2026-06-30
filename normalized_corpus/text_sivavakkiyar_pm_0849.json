@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0849",
+  "text_id": "sivavakkiyar_pm_0849",
+  "title": "Sivavakkiyam - Verse 240",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "240",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆடுநாடு தேடினும் ஆனைசேனை தேடினும்\nகோடிவாசி தேடினும் குறுக்கேவந்து நிற்குமோ?\nஓடிஇட்ட பிச்சையும் உகந்துசெய்த தர்மமும்\nசாடிவிட்ட குதிரைபோல் தர்மம்வந்து நிற்குமே.",
+  "transliteration": "āṭunāṭu tēṭiṉum āṉaicēṉai tēṭiṉum\nkōṭivāci tēṭiṉum kuṟukkēvntu niṟkumō?\nōṭiiṭṭ piccaiyum ukntuceyt trmmum\ncāṭiviṭṭ kutiraipōl trmmvntu niṟkumē.",
+  "english_translation": null,
+  "content_hash": "65a6518396e4541a63344825e3fafbbb52ab588a7b44c739bd2c0e47edc43df2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_nadi",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "practice_kumbhaka"
+  ]
+}

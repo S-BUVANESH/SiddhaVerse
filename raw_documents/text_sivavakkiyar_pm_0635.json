@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0635",
+  "text_id": "sivavakkiyar_pm_0635",
+  "title": "Sivavakkiyam - Verse 26",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "26",
+  "tamil_text": "அறிவு நிலை\n\nபண்டுநான் பறித்தெறிந்த பன்மலர்கள் எத்தனை?\nபாழிலே செபித்துவிட்ட மந்திரங்கள் எத்தனை?\nமிண்டனாய்த் திரிந்தபோது இறைத்தநீர்கள் எத்தனை?\nமீளவும் சிவாலயங்கள் சூழவந்தது எத்தனை?",
+  "transliteration": "aṟivu nilai\n\npṇṭunāṉ pṟitteṟint pṉmlrkḷ ettṉai?\npāḻilē cepittuviṭṭ mntirṅkḷ ettṉai?\nmiṇṭṉāyt tirintpōtu iṟaittnīrkḷ ettṉai?\nmīḷvum civālyṅkḷ cūḻvnttu ettṉai?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "05bda0e642d5a5960e18fe785af5be177303d44736071e9fed9a915b610500b8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0672",
+  "text_id": "sivavakkiyar_pm_0672",
+  "title": "Sivavakkiyam - Verse 63",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "63",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கருவிருந்த வாசலால் கலங்குகின்ற ஊமைகாள்\nகுருவிருந்து சொன்னவார்த்தை குறித்துநோக்க வல்லீரேல்\nஉருவிலங்கு மேனியாகி உம்பராகி நின்றுநீர்\nதிருவிளங்கு மேனியாகச் சென்றுகூடல் ஆகுமே!",
+  "transliteration": "kruvirunt vāclāl klṅkukiṉṟ ūmaikāḷ\nkuruviruntu coṉṉvārttai kuṟittunōkk vllīrēl\nuruvilṅku mēṉiyāki umprāki niṉṟunīr\ntiruviḷṅku mēṉiyākc ceṉṟukūṭl ākumē!",
+  "english_translation": null,
+  "content_hash": "3a76a73707802dcd5c8ff277ef7b803bee4295f50c4e074257fc024a95e5ed13",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "place_kashi",
+    "practice_kumbhaka",
+    "concept_guru",
+    "siddhar_karuvoorar"
+  ]
+}

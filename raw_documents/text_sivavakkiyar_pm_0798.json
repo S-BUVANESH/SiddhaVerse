@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0798",
+  "text_id": "sivavakkiyar_pm_0798",
+  "title": "Sivavakkiyam - Verse 189",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "189",
+  "tamil_text": "ஆதிஅந்த மூலவிந்து நாதம்ஐந்து பூதமாய்\nஆதிஅந்த மூலவிந்து நாதம்ஐந் தெழுத்துமாய்\nஆதிஅந்த மூலவிந்து நாதம்மேவி நின்றதும்\nஆதிஅந்த மூலவிந்து நாதமே சிவாயமே.",
+  "transliteration": "ātiant mūlvintu nātmaintu pūtmāy\nātiant mūlvintu nātmain teḻuttumāy\nātiant mūlvintu nātmmēvi niṉṟtum\nātiant mūlvintu nātmē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bc642ff3f004942f24c85b4d3d53115724e81e750a37116c5a3ebc14db25cbf8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

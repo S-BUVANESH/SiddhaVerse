@@ -1,0 +1,25 @@
+{
+  "title": "Traditional Knowledge Digital Library (TKDL)",
+  "url": "http://www.tkdl.res.in",
+  "organization": "Council of Scientific and Industrial Research (CSIR), Government of India",
+  "source_type": "Government Publication",
+  "license_status": "restricted",
+  "trust_score": "10.0/10",
+  "priority": "medium",
+  "acquisition_difficulty": 10,
+  "coverage": {
+    "siddhars": 5,
+    "plants": 30,
+    "formulations": 35,
+    "diseases": 25,
+    "manuscripts": 5,
+    "research": 0
+  },
+  "access_type": "restricted",
+  "contains": [
+    "Patent Prior-Art Records",
+    "Siddha Formulation Patents",
+    "Siddha Plant Classifications"
+  ],
+  "notes": "Prior-art protection database. Strictly a reference source since access is highly restricted. Do not attempt direct web acquisition; use for schema validation and mapping of public records."
+}

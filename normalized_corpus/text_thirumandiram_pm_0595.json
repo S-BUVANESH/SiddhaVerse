@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0595",
+  "text_id": "thirumandiram_pm_0595",
+  "title": "Thirumandiram - Verse 1154",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1154",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அதுஇது என்பர் அவனை அறியார்\nகதிவர நின்றதோர் காரணம் காணார்\nமதுவிரி பூங்குழல் மாமங்கை நங்கை\nதிதமது உன்னார்கள் தேர்ந்துஅறி யாரே.",
+  "transliteration": "atuitu eṉpr avṉai aṟiyār\nktivr niṉṟtōr kārṇm kāṇār\nmtuviri pūṅkuḻl māmṅkai nṅkai\ntitmtu uṉṉārkḷ tērntuaṟi yārē.",
+  "english_translation": null,
+  "content_hash": "bc04bf89fbe54ae8fa74705e3793a1b1872dc6ad22ae0aa5ccb233911167f804",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_madurai",
+    "siddhar_theriyar",
+    "deity_murugan"
+  ]
+}

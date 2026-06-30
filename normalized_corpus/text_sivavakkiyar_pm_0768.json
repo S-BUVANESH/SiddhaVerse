@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0768",
+  "text_id": "sivavakkiyar_pm_0768",
+  "title": "Sivavakkiyam - Verse 159",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "159",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அக்கிடீர் அனைத்துயிர்க்கும் ஆதியாகி நிற்பது\nமுக்கிடீர் உமைப்பிடித்து முத்தரித்து விட்டது,\nமைக்கிடீர் பிறந்துஇறந்து மாண்டுமாண்டு போவது,\nமொக்கிடீர் உமக்குநான் உணர்த்துவித்தது உண்மையே.",
+  "transliteration": "akkiṭīr aṉaittuyirkkum ātiyāki niṟptu\nmukkiṭīr umaippiṭittu muttrittu viṭṭtu,\nmaikkiṭīr piṟntuiṟntu māṇṭumāṇṭu pōvtu,\nmokkiṭīr umkkunāṉ uṇrttuvitttu uṇmaiyē.",
+  "english_translation": null,
+  "content_hash": "b1494fe58d7c576323d6e16fac90c54c152e4bfe22c75e3877c6d09488b42c12",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "deity_brahma",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "practice_mudra",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

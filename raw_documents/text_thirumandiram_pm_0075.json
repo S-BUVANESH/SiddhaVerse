@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0075",
+  "text_id": "thirumandiram_pm_0075",
+  "title": "Thirumandiram - Verse 77",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "77",
+  "tamil_text": "மாலாங்க னேஇங்கு யான்வந்த காரணம்\nநீலாங்க மேனியள் நோ஢ழை யாளொடு\nமூலாங்க மாக மொழிந்த திருக்கூத்தின்\nசீலாங்க வேதத்தைச் செப்பவந் தேனே.",
+  "transliteration": "mālāṅk ṉēiṅku yāṉvnt kārṇm\nnīlāṅk mēṉiyḷ nō஢ḻai yāḷoṭu\nmūlāṅk māk moḻint tirukkūttiṉ\ncīlāṅk vētttaic ceppvn tēṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "d1efb0bf84467b453722080d2ddc3f73f7befaea7fe446f86791489109b1c18f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "pubmed_39085970",
+  "text_id": "pubmed_39085970",
+  "title": "Adverse events in India's Ayush interventions for cervical and lumbar spondylosis: a systematic review.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Ponnaiah M",
+    "Elumalai R",
+    "Muthappan S",
+    "Jaisankar S",
+    "Bagepally BS",
+    "Sivaprakasam S",
+    "Parasuraman G"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "0fa8b0ebe5adaee3205af7ddca4e27657b6c32d47b3a4a1851f6b929099f6d94",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "39085970",
+  "authors": [
+    "Ponnaiah M",
+    "Elumalai R",
+    "Muthappan S",
+    "Jaisankar S",
+    "Bagepally BS",
+    "Sivaprakasam S",
+    "Parasuraman G"
+  ],
+  "journal": "European journal of medical research",
+  "pubdate": "2024 Jul 31",
+  "doi": "10.1186/s40001-024-01985-3",
+  "abstract": "INTRODUCTION: Low back and neck pain are common musculoskeletal disorders with multiple treatment options. India's traditional medical systems, known as Ayush (Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) offer range of interventions and are widely used. In view of limited documentation of adverse events following Ayush interventions for lumbar and cervical spondylosis, we synthesized evidence and estimated proportion of studies reporting adverse events.\nMETHODS: We systematically searched all published documents from biomedical and multidisciplinary abstract and citation databases and Ayush-specific repositories from their inception to April 2021. We selected studies as per inclusion criteria and extracted information, adhering to PRISMA guidelines. We systematically reviewed the qualitative evidence form the selected studies.\nRESULTS: Majority (94%) of the selected 113 studies were interventional studies and included 77 (68.1%) journal articles and 35 (31%) academic dissertations. Among the Ayush systems, considerable proportion was from Ayurveda (32.7%), followed by Siddha (24.8%), Yoga (22.1%), Unani (15.9%) and Homoeopathy (4.4%). Almost three-fourths of the studies were on lumbar spondylosis (65%; n = 74), followed by cervical spondylosis (31%; n = 35), and the remaining four included both. Thirteen percent of the 113 studies described adverse events [Yoga = 9.7%; Unani = 1.8% and Homoeopathy = 1.8%]. More adverse events were reported among the studies on lumbar (9.7%) than cervical spondylosis (2.7%). The nature of interventions were non-pharmacological (10.6%; n = 12), pharmacological (n = 2; 1.8%) or combined (n = 1; 0.9%).\nCONCLUSIONS: Only one in eight studies reported any adverse event following Ayush interventions for cervical and lumbar spondylosis. There could be certain degree of underreporting of adverse events and requires further exploration. PROSPERO Registration ID CRD42020167433.",
+  "search_text": "pubmed 39085970 Adverse events in India's Ayush interventions for cervical and lumbar spondylosis: a systematic review. PubMed Research Scientific Literature Ponnaiah M Elumalai R Muthappan S Jaisankar S Bagepally BS Sivaprakasam S Parasuraman G Tamil Tamil script open_access PubMed Central 39085970 Ponnaiah M Elumalai R Muthappan S Jaisankar S Bagepally BS Sivaprakasam S Parasuraman G European journal of medical research 2024 Jul 31 10.1186/s40001-024-01985-3 INTRODUCTION: Low back and neck pain are common musculoskeletal disorders with multiple treatment options. India's traditional medical systems, known as Ayush (Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) offer range of interventions and are widely used. In view of limited documentation of adverse events following Ayush interventions for lumbar and cervical spondylosis, we synthesized evidence and estimated proportion of studies reporting adverse events.\nMETHODS: We systematically searched all published documents from biomedical and multidisciplinary abstract and citation databases and Ayush-specific repositories from their inception to April 2021. We selected studies as per inclusion criteria and extracted information, adhering to PRISMA guidelines. We systematically reviewed the qualitative evidence form the selected studies.\nRESULTS: Majority (94%) of the selected 113 studies were interventional studies and included 77 (68.1%) journal articles and 35 (31%) academic dissertations. Among the Ayush systems, considerable proportion was from Ayurveda (32.7%), followed by Siddha (24.8%), Yoga (22.1%), Unani (15.9%) and Homoeopathy (4.4%). Almost three-fourths of the studies were on lumbar spondylosis (65%; n = 74), followed by cervical spondylosis (31%; n = 35), and the remaining four included both. Thirteen percent of the 113 studies described adverse events [Yoga = 9.7%; Unani = 1.8% and Homoeopathy = 1.8%]. More adverse events were reported among the studies on lumbar (9.7%) than cervical spondylosis (2.7%). The nature of interventions were non-pharmacological (10.6%; n = 12), pharmacological (n = 2; 1.8%) or combined (n = 1; 0.9%).\nCONCLUSIONS: Only one in eight studies reported any adverse event following Ayush interventions for cervical and lumbar spondylosis. There could be certain degree of underreporting of adverse events and requires further exploration. PROSPERO Registration ID CRD42020167433."
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0945",
+  "text_id": "sivavakkiyar_pm_0945",
+  "title": "Sivavakkiyam - Verse 336",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "336",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சுடரெழும்பும் சூட்சமும் கழிமுனையின் சூட்சமும்\nஅடரெழும்பி ஏகமாக அமர்ந்துநின்ற சூட்சமும்\nதிடரதான சூட்சமும் திரியின்வாலை சூட்சமும்\nகடலெழும்பு சூட்சமும் கண்டறிந்தோன் ஞானியே.",
+  "transliteration": "cuṭreḻumpum cūṭcmum kḻimuṉaiyiṉ cūṭcmum\naṭreḻumpi ēkmāk amrntuniṉṟ cūṭcmum\ntiṭrtāṉ cūṭcmum tiriyiṉvālai cūṭcmum\nkṭleḻumpu cūṭcmum kṇṭṟintōṉ ñāṉiyē.",
+  "english_translation": null,
+  "content_hash": "b529a74b70e7adaa753a0f5188e201728ed15c87c1f922e6782cd417ba6c251e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "body_eye",
+    "deity_vishnu"
+  ]
+}

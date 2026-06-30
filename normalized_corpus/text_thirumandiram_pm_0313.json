@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0313",
+  "text_id": "thirumandiram_pm_0313",
+  "title": "Thirumandiram - Verse 317",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "317",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கல்லாத மூடரைக் காணவும் ஆகாது\nகல்லாத மூடர்சொல் கேட்கக் கடன்அன்று\nகல்லாத மூடர்க்குக் கல்லாதார் நல்லராம்\nகல்லாத மூடர் கருத்தறி யாரே.",
+  "transliteration": "kllāt mūṭraik kāṇvum ākātu\nkllāt mūṭrcol kēṭkk kṭṉaṉṟu\nkllāt mūṭrkkuk kllātār nllrām\nkllāt mūṭr kruttṟi yārē.",
+  "english_translation": null,
+  "content_hash": "9a2ffc4ece7cc328a8e9e1eb17dc2cce2ff80db2ccf5524f487849df6d033eed",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_ramadevar",
+    "siddhar_karuvoorar"
+  ]
+}

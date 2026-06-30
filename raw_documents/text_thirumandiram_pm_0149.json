@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0149",
+  "text_id": "thirumandiram_pm_0149",
+  "title": "Thirumandiram - Verse 151",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "151",
+  "tamil_text": "கைவிட்டு நாடிக் கருத்தழிந் தச்சற\nநெய்யட்டிச் சோறுண்ணும் ஐவரும் போயினார்\nமையிட்ட கண்ணாளும் மாடும் இருக்கவே\nமெய்விட்டுப் போக விடைகொள்ளு மாறே.",
+  "transliteration": "kaiviṭṭu nāṭik kruttḻin tccṟ\nneyyṭṭic cōṟuṇṇum aivrum pōyiṉār\nmaiyiṭṭ kṇṇāḷum māṭum irukkvē\nmeyviṭṭup pōk viṭaikoḷḷu māṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8465afb423aca3b7b6b8b54da42f6c93dbf30054bb91add0e20c29812c3d62a3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

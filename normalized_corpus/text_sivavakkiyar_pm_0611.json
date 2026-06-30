@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0611",
+  "text_id": "sivavakkiyar_pm_0611",
+  "title": "Sivavakkiyam - Verse 2",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "2",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அக்ஷர நிலை\n\nஆனஅஞ் செழுத்துளே அண்டமும் அகண்டமும்\nஆனஅஞ் செழுத்துளே ஆதியான மூவரும்\nஆனஅஞ் செழுத்துளே அகாரமும் மகாரமும்\nஆனஅஞ் செழுத்துளே அடங்கலாவ லுற்றதே.",
+  "transliteration": "akṣr nilai\n\nāṉañ ceḻuttuḷē aṇṭmum akṇṭmum\nāṉañ ceḻuttuḷē ātiyāṉ mūvrum\nāṉañ ceḻuttuḷē akārmum mkārmum\nāṉañ ceḻuttuḷē aṭṅklāv luṟṟtē.",
+  "english_translation": null,
+  "content_hash": "7e0c1e5d3514e51f9ae79640234323a0f81d35e9e370b7d659fa857ac38636fe",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "plant_tulsi",
+    "body_eye",
+    "deity_murugan",
+    "deity_shakti",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

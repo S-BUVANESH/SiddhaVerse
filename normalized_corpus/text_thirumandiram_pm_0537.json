@@ -1,0 +1,47 @@
+{
+  "document_id": "thirumandiram_pm_0537",
+  "text_id": "thirumandiram_pm_0537",
+  "title": "Thirumandiram - Verse 1095",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1095",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பேசிய மந்திரம் இராகம் பிரித்துரை\nகூசமி லாத சகாரத்தை முன்கொண்டு\nவாசிப் பிராணன் உபதேசம் ஆகைக்குக்\nகூசியவிந்து வுடன் கொண்டு கூவே.",
+  "transliteration": "pēciy mntirm irākm piritturai\nkūcmi lāt ckārttai muṉkoṇṭu\nvācip pirāṇṉ uptēcm ākaikkuk\nkūciyvintu vuṭṉ koṇṭu kūvē.",
+  "english_translation": null,
+  "content_hash": "86768d767b1c5ad62e2c0b53a24220d190558a8c4d370334f10396d87d2f4225",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_ramadevar",
+    "concept_prana",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "concept_mantra",
+    "deity_vishnu",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "body_seed",
+    "practice_pranayama",
+    "deity_shiva",
+    "deity_ganesha"
+  ]
+}

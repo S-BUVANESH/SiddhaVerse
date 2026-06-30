@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0670",
+  "text_id": "sivavakkiyar_pm_0670",
+  "title": "Sivavakkiyam - Verse 61",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "61",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அண்டம்நீ அகண்டம்நீ, ஆதிமூல மானநீ,\nகண்டம்நீ, கருத்தும்நீ, காவியங்க ளானநீ,\nபுண்டரீக மற்றுளே உணருகின்ற புண்ணியர்,\nகொண்டகோல மானநேர்மை கூர்மைஎன்ன கூர்மையே.",
+  "transliteration": "aṇṭmnī akṇṭmnī, ātimūl māṉnī,\nkṇṭmnī, kruttumnī, kāviyṅk ḷāṉnī,\npuṇṭrīk mṟṟuḷē uṇrukiṉṟ puṇṇiyr,\nkoṇṭkōl māṉnērmai kūrmaieṉṉ kūrmaiyē.",
+  "english_translation": null,
+  "content_hash": "abc107ebac81e1b849153148bc77c7423f894a25c0b2a04fc395093b32d602b4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "body_eye",
+    "body_moolam",
+    "deity_shakti",
+    "siddhar_karuvoorar"
+  ]
+}

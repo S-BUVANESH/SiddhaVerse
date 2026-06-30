@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0627",
+  "text_id": "sivavakkiyar_pm_0627",
+  "title": "Sivavakkiyam - Verse 18",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "18",
+  "tamil_text": "சாமம் நாலு வேதமும் சகல சாத்திரங்களும்\nசேமமாக ஓதினும் சிவனை நீர் அறிகிலீர்\nகாமநோயை விட்டுநீர் கருத்துளே உணர்ந்தபின்\nஊமையான காயமாய் இருப்பன்எங்கள் ஈசனே!",
+  "transliteration": "cāmm nālu vētmum ckl cāttirṅkḷum\ncēmmāk ōtiṉum civṉai nīr aṟikilīr\nkāmnōyai viṭṭunīr kruttuḷē uṇrntpiṉ\nūmaiyāṉ kāymāy iruppṉeṅkḷ īcṉē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "0ab91d28ec6fe40addec448a534de57b85c42a776123314026318b7fef7659b4",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0817",
+  "text_id": "sivavakkiyar_pm_0817",
+  "title": "Sivavakkiyam - Verse 208",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "208",
+  "tamil_text": "ஆதரித்த மந்திரம் அமைந்தஆக மங்களும்\nமாதர்மக்கள் சுற்றமும் மயக்கவந்த நித்திரை\nஏதுபுக் கொளித்ததோ, எங்கும்ஆகி நின்றதோ?\nசோதிபுக் கொளித்திடம் சொல்லடா சுவாமியே.",
+  "transliteration": "ātritt mntirm amaintāk mṅkḷum\nmātrmkkḷ cuṟṟmum mykkvnt nittirai\nētupuk koḷitttō, eṅkumāki niṉṟtō?\ncōtipuk koḷittiṭm collṭā cuvāmiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bff25597c7678f578fe4dbb07ef1399438695e843b608938a366c16435b631bf",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

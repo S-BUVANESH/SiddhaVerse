@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0922",
+  "text_id": "sivavakkiyar_pm_0922",
+  "title": "Sivavakkiyam - Verse 313",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "313",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நீரிலே முளைத்தெழுந்த தாமரையின் ஓரிலை\nநீரினோடு கூடிநின்றும் நீரிலாத வாறுபோல்\nபாரிலே முளைத்தெழுந்த பண்டிதப் பராபரம்\nபாரினோடு கூடிநின்ற பண்புகண்டு இருப்பீரே.",
+  "transliteration": "nīrilē muḷaitteḻunt tāmraiyiṉ ōrilai\nnīriṉōṭu kūṭiniṉṟum nīrilāt vāṟupōl\npārilē muḷaitteḻunt pṇṭitp prāprm\npāriṉōṭu kūṭiniṉṟ pṇpukṇṭu iruppīrē.",
+  "english_translation": null,
+  "content_hash": "2a946459fb2436b22be92ad14ff52eb98ef7e8808f0d059c92bd732e29b69223",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_eye",
+    "concept_brahman",
+    "plant_lotus",
+    "deity_shakti",
+    "deity_shiva"
+  ]
+}

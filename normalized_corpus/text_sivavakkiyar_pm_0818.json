@@ -1,0 +1,43 @@
+{
+  "document_id": "sivavakkiyar_pm_0818",
+  "text_id": "sivavakkiyar_pm_0818",
+  "title": "Sivavakkiyam - Verse 209",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "209",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அக்கரம் அனாதியோ, ஆத்துமா அனாதியோ?\nபுக்கிருந்த பூதமும் புலன்களும் அனாதியோ?\nதக்கமிக்க நூல்களும் சதாசிவம் அனாதியோ?\nமிக்கவந்த யோகிகாள், விரைந்துரைக்க வேணுமே.",
+  "transliteration": "akkrm aṉātiyō, āttumā aṉātiyō?\npukkirunt pūtmum pulṉkḷum aṉātiyō?\ntkkmikk nūlkḷum ctācivm aṉātiyō?\nmikkvnt yōkikāḷ, virainturaikk vēṇumē.",
+  "english_translation": null,
+  "content_hash": "40071478503e1c94fd4cb92c406f415b0be398c049202541c29c1238c16089dc",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "siddhar_yugi",
+    "deity_kali",
+    "concept_yoga",
+    "deity_shiva",
+    "concept_atman",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

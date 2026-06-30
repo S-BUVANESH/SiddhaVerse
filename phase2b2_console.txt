@@ -1,0 +1,34 @@
+﻿[18:01:29] ============================================================
+[18:01:29] Phase 2B-2: Normalization, Standardization & Entity Discovery
+[18:01:29] ============================================================
+[18:01:29] 
+Step 1: Loading raw documents...
+[18:01:30]   Loaded 1150 documents
+[18:01:30] 
+Step 2: Normalizing and standardizing corpus...
+[18:01:30]   Documents with Tamil text: 1000
+[18:01:30]   Documents with changes:    0
+[18:01:30] 
+Step 3: Saving normalized corpus...
+[18:01:31]   Saved 1150 normalized documents to normalized_corpus/
+[18:01:31] 
+Step 4: Extracting entities...
+[18:01:32]   Total entity mentions found: 6956
+[18:01:32]   Documents with >=1 entity:   984
+[18:01:32] 
+Step 5: Building entity registry...
+[18:01:32]   Registry: siddhars.json ? 16 entities
+[18:01:32]   Registry: deities.json ? 7 entities
+[18:01:32]   Registry: places.json ? 7 entities
+[18:01:32]   Registry: concepts.json ? 24 entities
+[18:01:32]   Registry: practices.json ? 11 entities
+[18:01:32]   Registry: symbolic.json ? 4 entities
+[18:01:32]   Registry: body_terms.json ? 11 entities
+[18:01:32]   Registry: plants.json ? 13 entities
+[18:01:32]   Master index: 93 entities
+[18:01:32] 
+Step 6: Compiling statistics...
+[18:01:32] 
+All pipeline steps complete.
+[18:01:32]   Unique entities discovered: 93
+[18:01:32]   Total entity mentions:      6956

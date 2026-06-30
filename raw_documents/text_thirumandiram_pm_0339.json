@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0339",
+  "text_id": "thirumandiram_pm_0339",
+  "title": "Thirumandiram - Verse 887",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "887",
+  "tamil_text": "ஆமே பொன் னம்பலம் அற்புதம் ஆனந்தம்\nஆமே திருக்கூத்து அனவரத் தாண்டவம்\nஆமே பிரளயம் ஆகும்அத் தாண்டவம்\nஆமேசங் காரத்து அருந்தாண் டவங்களே.",
+  "transliteration": "āmē poṉ ṉmplm aṟputm āṉntm\nāmē tirukkūttu aṉvrt tāṇṭvm\nāmē pirḷym ākumat tāṇṭvm\nāmēcṅ kārttu aruntāṇ ṭvṅkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "241bc4e0155a0f27c2ebd3f0e0773c9514a6d47ffddf72c3a47cfbccd27b5a82",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

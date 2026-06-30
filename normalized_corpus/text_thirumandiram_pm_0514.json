@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0514",
+  "text_id": "thirumandiram_pm_0514",
+  "title": "Thirumandiram - Verse 1072",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1072",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆன வராக முகத்தி பதத்தினள்\nஈன வராகம் இடிக்கும் முசலத்தோடு\nஏனை உழுபடை ஏந்திய வெண்ணகை\nஊன மறஉணர்ந் தாரஉளத்து ஓங்குமே.",
+  "transliteration": "āṉ vrāk muktti ptttiṉḷ\nīṉ vrākm iṭikkum muclttōṭu\nēṉai uḻupṭai ēntiy veṇṇkai\nūṉ mṟuṇrn tāruḷttu ōṅkumē.",
+  "english_translation": null,
+  "content_hash": "d6624b7fcc589bd0fe1137b99928de0bc48badea99659bfd20f3d17c2c36612e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

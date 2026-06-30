@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0934",
+  "text_id": "sivavakkiyar_pm_0934",
+  "title": "Sivavakkiyam - Verse 325",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "325",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓடுகின்ற ஐம்புலன் ஒடுங்கஅஞ் செழுத்துளே\nநாடுகின்ற நான்மறை நவிலுகின்ற ஞானிகாள்\nகூடுகின்ற பண்டித குணங்கள்மூன்று எழுத்துளே\nஆடுகின்ற பாவையாய் அமைந்ததே சிவாயமே.",
+  "transliteration": "ōṭukiṉṟ aimpulṉ oṭuṅkañ ceḻuttuḷē\nnāṭukiṉṟ nāṉmṟai nvilukiṉṟ ñāṉikāḷ\nkūṭukiṉṟ pṇṭit kuṇṅkḷmūṉṟu eḻuttuḷē\nāṭukiṉṟ pāvaiyāy amainttē civāymē.",
+  "english_translation": null,
+  "content_hash": "3c2d18fa25bc9a9f632e37334ecd7a6e3f6bf4548d842f3d39da3a939a5164f4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_pancha_bootham",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "deity_kali",
+    "concept_kundalini",
+    "concept_nadi",
+    "deity_brahma",
+    "plant_tulsi",
+    "deity_shiva"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0977",
+  "text_id": "sivavakkiyar_pm_0977",
+  "title": "Sivavakkiyam - Verse 368",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "368",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாயில்கண்ட கோணமில் வயங்கும்ஐவர் வைகியே\nசாயல்கண்டு சார்ந்ததும் தலைமன்னாய் உறைந்ததும்\nகாயவண்டு கண்டதும் கருவூர்அங்குச் சென்றதும்\nபாயும்என்று சென்றதும் பறந்ததே சிவாயமே.",
+  "transliteration": "vāyilkṇṭ kōṇmil vyṅkumaivr vaikiyē\ncāylkṇṭu cārnttum tlaimṉṉāy uṟainttum\nkāyvṇṭu kṇṭtum kruvūraṅkuc ceṉṟtum\npāyumeṉṟu ceṉṟtum pṟnttē civāymē.",
+  "english_translation": null,
+  "content_hash": "8a0109d3b305055f4d8e0b86db1929dbb7eccbeee1e9dccf15c76069183cf7db",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "practice_varma",
+    "siddhar_sivavakkiyar",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_head",
+    "practice_kayakalpa",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

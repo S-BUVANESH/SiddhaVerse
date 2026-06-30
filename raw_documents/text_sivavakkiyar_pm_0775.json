@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0775",
+  "text_id": "sivavakkiyar_pm_0775",
+  "title": "Sivavakkiyam - Verse 166",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "166",
+  "tamil_text": "நெற்றியில் தயங்குகின்ற நீலமாம் விளக்கினை\nஉய்த்துணர்ந்து பாரடா, உள்ளிருந்த சோதியைப்\nபத்தியில் தொடர்ந்தவர் பரமயம் அதானவர்\nஅத்தலத்தில் இருந்தபேர்கள் அவர்எனக்கு நாதரே.",
+  "transliteration": "neṟṟiyil tyṅkukiṉṟ nīlmām viḷkkiṉai\nuyttuṇrntu pārṭā, uḷḷirunt cōtiyaip\npttiyil toṭrntvr prmym atāṉvr\nattlttil iruntpērkḷ avreṉkku nātrē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1a5e78dae42026a527fd55a67e8a2ef58591b0c41dde3322434c704e760d2a1c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

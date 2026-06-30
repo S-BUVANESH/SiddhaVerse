@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0493",
+  "text_id": "thirumandiram_pm_0493",
+  "title": "Thirumandiram - Verse 1051",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1051",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நின்ற திரிபுரை நீளும் புராதனி\nகுன்றலில் மோகினி மாதிருக் கும்சிகை\nநன்றறி கண்டிகை நாற்கால் கரீடணி\nதுன்றிய நற்சுத்த தாமரைச் சுத்தையே.",
+  "transliteration": "niṉṟ tiripurai nīḷum purātṉi\nkuṉṟlil mōkiṉi mātiruk kumcikai\nnṉṟṟi kṇṭikai nāṟkāl krīṭṇi\ntuṉṟiy nṟcutt tāmraic cuttaiyē.",
+  "english_translation": null,
+  "content_hash": "198d2bdebad74d0c4ccfb694021a016e32e3eff258cfffdfba3274e1fafa6ee7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "body_eye",
+    "deity_vishnu",
+    "deity_murugan",
+    "plant_lotus",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

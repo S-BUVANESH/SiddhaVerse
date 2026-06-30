@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0726",
+  "text_id": "sivavakkiyar_pm_0726",
+  "title": "Sivavakkiyam - Verse 117",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "117",
+  "tamil_text": "காரகார காரகார காவல்ஊழி காவலன்\nபோரபோர போரபோர போரில்நின்ற புண்ணியன்\nமாரமார மாரமார மரங்கள்ஏழும் எய்தசீ\nராமராம ராமராம ராமஎன்னும் நாமமே.",
+  "transliteration": "kārkār kārkār kāvlūḻi kāvlṉ\npōrpōr pōrpōr pōrilniṉṟ puṇṇiyṉ\nmārmār mārmār mrṅkḷēḻum eytcī\nrāmrām rāmrām rāmeṉṉum nāmmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3d3582bbe6579771e0f8d9e4a8590c21a36b578e81a2e7f01ba1b572133b8de0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

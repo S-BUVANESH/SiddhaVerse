@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0236",
+  "text_id": "thirumandiram_pm_0236",
+  "title": "Thirumandiram - Verse 239",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "239",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாள்தோறும் மன்னவன் நாட்டில் தவநெறி\nநாள்தோறும் நாடி அவன்நெறி நாடானேல்\nநாள்தோறும் நாடு கெடுமூட நண்ணுமால்\nநாள்தோறும் செல்வம் நரபதி குன்றுமே.",
+  "transliteration": "nāḷtōṟum mṉṉvṉ nāṭṭil tvneṟi\nnāḷtōṟum nāṭi avṉneṟi nāṭāṉēl\nnāḷtōṟum nāṭu keṭumūṭ nṇṇumāl\nnāḷtōṟum celvm nrpti kuṉṟumē.",
+  "english_translation": null,
+  "content_hash": "24cb85aec0680632bbaa684d3a2266f1f482c7cb5f4df9a933de2af965c3cf5d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_nadi",
+    "symbol_eighteen"
+  ]
+}

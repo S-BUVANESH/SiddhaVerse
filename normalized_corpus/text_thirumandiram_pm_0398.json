@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0398",
+  "text_id": "thirumandiram_pm_0398",
+  "title": "Thirumandiram - Verse 947",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "947",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நின்ற எழுத்துகள் நேர்தரு பூதமும்\nநின்ற எழுத்துகள் நேர்தரு வண்ணமும்\nநின்ற எழுத்துகள் நேர்தர நின்றிடில்\nநின்ற எழுத்துள்ளும் நின்றனன் தானே.",
+  "transliteration": "niṉṟ eḻuttukḷ nērtru pūtmum\nniṉṟ eḻuttukḷ nērtru vṇṇmum\nniṉṟ eḻuttukḷ nērtr niṉṟiṭil\nniṉṟ eḻuttuḷḷum niṉṟṉṉ tāṉē.",
+  "english_translation": null,
+  "content_hash": "8ff0e3f43999fbc8508b5ee6267f97049b484849f0bb1b954ecbad08121f7cb8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_tulsi",
+    "symbol_three"
+  ]
+}

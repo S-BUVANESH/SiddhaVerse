@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0513",
+  "text_id": "thirumandiram_pm_0513",
+  "title": "Thirumandiram - Verse 1071",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1071",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அருள்பெற்றவர் சொல்ல வாரீர் மனிதர்\nபொருள்பெற்ற சிந்தைப் புவனா பதியார்\nமருளுற்ற சிந்தையை மாற்றி யருமைப்\nபொருளுற்ற சேவடி போற்றுவன் நானே.",
+  "transliteration": "aruḷpeṟṟvr coll vārīr mṉitr\nporuḷpeṟṟ cintaip puvṉā ptiyār\nmruḷuṟṟ cintaiyai māṟṟi yrumaip\nporuḷuṟṟ cēvṭi pōṟṟuvṉ nāṉē.",
+  "english_translation": null,
+  "content_hash": "ebeed5fd4a91ab99c0293807d7c52eb013a0b124d098184abb0fc3ad64dccbc2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "symbol_eighteen",
+    "deity_brahma",
+    "place_kashi",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0930",
+  "text_id": "sivavakkiyar_pm_0930",
+  "title": "Sivavakkiyam - Verse 321",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "321",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விழித்தகண் துதிக்கவும் விந்துநாத ஓசையும்,\nமேருவும் கடந்தஅண்ட கோளமும் கடந்துபோய்\nஎழுத்தெலாம் அழிந்துவிட்ட இந்திரசால வெளியிலே\nயானும்நீயு மேகலந்த தென்னதன்மை ஈசனே.",
+  "transliteration": "viḻittkṇ tutikkvum vintunāt ōcaiyum,\nmēruvum kṭntaṇṭ kōḷmum kṭntupōy\neḻuttelām aḻintuviṭṭ intircāl veḷiyilē\nyāṉumnīyu mēklnt teṉṉtṉmai īcṉē.",
+  "english_translation": null,
+  "content_hash": "688c09b664025923faa8b79e7773c9307780453b49a5278c622dab2d56626d3c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "body_sound",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "body_seed",
+    "deity_shiva",
+    "deity_ganesha"
+  ]
+}

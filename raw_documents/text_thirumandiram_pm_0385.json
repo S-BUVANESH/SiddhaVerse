@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0385",
+  "text_id": "thirumandiram_pm_0385",
+  "title": "Thirumandiram - Verse 934",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "934",
+  "tamil_text": "அஞ்செழுத் தாலே அமர்ந்தனன் நந்தியும்\nஅஞ்செழுத் தாலே அமர்ந்தபஞ் சாக்கரம்\nஅஞ்செழுத் தாகிய வக்கர சக்கரம்\nஅஞ்செழுத் துள்ளே அமர்ந்திருந் தானே.",
+  "transliteration": "añceḻut tālē amrntṉṉ nntiyum\nañceḻut tālē amrntpñ cākkrm\nañceḻut tākiy vkkr ckkrm\nañceḻut tuḷḷē amrntirun tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "48f6957756d0b3aac0e6deb94c21f0246f66e47337322a96be65dfd6360924e0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

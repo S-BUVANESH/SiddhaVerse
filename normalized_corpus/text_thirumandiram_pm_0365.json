@@ -1,0 +1,32 @@
+{
+  "document_id": "thirumandiram_pm_0365",
+  "text_id": "thirumandiram_pm_0365",
+  "title": "Thirumandiram - Verse 913",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "913",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஒன்றிரண்டு ஆடவோர் ஒன்றும் உடனாட\nஒன்றிரண்டு மூன்றாட ஓரேழும் ஒத்தாட\nஒன்றினில் ஆடவோர் ஒன்பதும் உடனாட\nமன்றினில் ஆடனான் மாணிக்கக் கூத்தே.",
+  "transliteration": "oṉṟirṇṭu āṭvōr oṉṟum uṭṉāṭ\noṉṟirṇṭu mūṉṟāṭ ōrēḻum ottāṭ\noṉṟiṉil āṭvōr oṉptum uṭṉāṭ\nmṉṟiṉil āṭṉāṉ māṇikkk kūttē.",
+  "english_translation": null,
+  "content_hash": "fc3c027487df07e06cff3c6eeef5aced8cf1e402fc5e377412b387deb379f3a0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": []
+}

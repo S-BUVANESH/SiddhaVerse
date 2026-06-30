@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0107",
+  "text_id": "thirumandiram_pm_0107",
+  "title": "Thirumandiram - Verse 109",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "109",
+  "tamil_text": "வானவர் என்றும் மனிதர் இவர் என்றும்\nதேனமர் கொன்றைச் சிவனருள் அல்லது\nதானமர்ந்து ஓரும் தனித்தெய்வம் மற்றில்லை\nஊனமர்ந் தோரை உணர்வது தானே.",
+  "transliteration": "vāṉvr eṉṟum mṉitr ivr eṉṟum\ntēṉmr koṉṟaic civṉruḷ alltu\ntāṉmrntu ōrum tṉitteyvm mṟṟillai\nūṉmrn tōrai uṇrvtu tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7e935a347b1a28304651f9d99bdeebcdc962c3749c51206142530e43e675255e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

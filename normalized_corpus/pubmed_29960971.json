@@ -1,0 +1,51 @@
+{
+  "document_id": "pubmed_29960971",
+  "text_id": "pubmed_29960971",
+  "title": "Ayurveda metallic-mineral 'Bhasma'-associated severe liver injury.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Philips CA",
+    "Paramaguru R",
+    "Augustine P"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "9cb5ba1bd4ce08e04cf6143bc531be3289a8a3575d4ba10fb6d516c1126c55a5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "29960971",
+  "authors": [
+    "Philips CA",
+    "Paramaguru R",
+    "Augustine P"
+  ],
+  "journal": "BMJ case reports",
+  "pubdate": "2018 Jun 29",
+  "doi": "10.1136/bcr-2018-225590",
+  "abstract": "Ayurveda Bhasma is a metallic-mineral preparation homogenised with herbal juices or decoctions and modified with heat treatment to apparently detoxify the heavy metals. It is widely recommended for the treatment of many disease conditions by practitioners of complementary and alternative medicine in the absence of good quality clinical trial evidence on its safety and efficacy. Heavy metal-induced liver injury is widely reported in the literature, and heavy metal adulteration of non-Bhasma-related Ayurveda and herbal products has been well described. We report a patient who developed severe liver injury requiring listing for liver transplantation for improved survival, after consumption of Bhasma for dyspepsia. This case describes the first documented case and toxicology analysis of Ayurveda Bhasma associated with severe drug-induced liver injury. Physicians must be alert regarding patient's use of supposedly safe Ayurveda Bhasma that may promote acute severe liver injury in the absence of other known aetiologies.",
+  "search_text": "pubmed 29960971 Ayurveda metallic-mineral 'Bhasma'-associated severe liver injury. PubMed Research Scientific Literature Philips CA Paramaguru R Augustine P Tamil Tamil script open_access PubMed Central 29960971 Philips CA Paramaguru R Augustine P BMJ case reports 2018 Jun 29 10.1136/bcr-2018-225590 Ayurveda Bhasma is a metallic-mineral preparation homogenised with herbal juices or decoctions and modified with heat treatment to apparently detoxify the heavy metals. It is widely recommended for the treatment of many disease conditions by practitioners of complementary and alternative medicine in the absence of good quality clinical trial evidence on its safety and efficacy. Heavy metal-induced liver injury is widely reported in the literature, and heavy metal adulteration of non-Bhasma-related Ayurveda and herbal products has been well described. We report a patient who developed severe liver injury requiring listing for liver transplantation for improved survival, after consumption of Bhasma for dyspepsia. This case describes the first documented case and toxicology analysis of Ayurveda Bhasma associated with severe drug-induced liver injury. Physicians must be alert regarding patient's use of supposedly safe Ayurveda Bhasma that may promote acute severe liver injury in the absence of other known aetiologies."
+}

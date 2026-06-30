@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0522",
+  "text_id": "thirumandiram_pm_0522",
+  "title": "Thirumandiram - Verse 1080",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1080",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓதிய நந்தி உணரும் திருவருள்\nநீதியில் வேத நெறிவந்து உரைசெய்யும்\nபோதம் இருபத்து எழுநாள் புணர்மதி\nசோதி வயிரவி சூலம்வந்து ஆளுமே.",
+  "transliteration": "ōtiy nnti uṇrum tiruvruḷ\nnītiyil vēt neṟivntu uraiceyyum\npōtm irupttu eḻunāḷ puṇrmti\ncōti vyirvi cūlmvntu āḷumē.",
+  "english_translation": null,
+  "content_hash": "6857ec16106580833fe70abe7e09546f8b82781c77ac8999fcd841ee5c67620d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_light",
+    "siddhar_nandidevar",
+    "concept_dhyana"
+  ]
+}

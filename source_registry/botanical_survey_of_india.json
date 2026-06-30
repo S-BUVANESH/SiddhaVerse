@@ -1,0 +1,25 @@
+{
+  "title": "Botanical Survey of India (BSI) Plant Database",
+  "url": "https://bsi.gov.in",
+  "organization": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "source_type": "Government Publication",
+  "license_status": "open_access",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 2,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 80,
+    "formulations": 0,
+    "diseases": 0,
+    "manuscripts": 0,
+    "research": 20
+  },
+  "access_type": "open",
+  "contains": [
+    "Flora of India Database",
+    "Red Data Book of Indian Plants",
+    "Taxonomic Nomenclature Registers"
+  ],
+  "notes": "Vital for cross-referencing plant taxonomy, scientific names, and confirming species classification."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0948",
+  "text_id": "sivavakkiyar_pm_0948",
+  "title": "Sivavakkiyam - Verse 339",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "339",
+  "tamil_text": "பொங்கிநின்ற மோனமும் பொதிந்துநின்ற மோனமும்\nதங்கிநின்ற மோனமும் தயங்கிநின்ற மோனமும்\nகங்கையான மோனமும் கதித்துநின்ற மோனமும்\nதிங்களான மோனமும் சிவனிருந்த மோனமே.",
+  "transliteration": "poṅkiniṉṟ mōṉmum potintuniṉṟ mōṉmum\ntṅkiniṉṟ mōṉmum tyṅkiniṉṟ mōṉmum\nkṅkaiyāṉ mōṉmum ktittuniṉṟ mōṉmum\ntiṅkḷāṉ mōṉmum civṉirunt mōṉmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "547d662067de4b2ab42f3474a9fff9d31150c9d03a7e31042900a338f4191f8e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

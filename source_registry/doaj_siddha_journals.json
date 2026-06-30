@@ -1,0 +1,25 @@
+{
+  "title": "Directory of Open Access Journals (DOAJ)",
+  "url": "https://doaj.org",
+  "organization": "Infrastructure for Open Access (IS4OA)",
+  "source_type": "Research Paper",
+  "license_status": "open_access",
+  "trust_score": "9.8/10",
+  "priority": "medium",
+  "acquisition_difficulty": 2,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 30,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 30
+  },
+  "access_type": "open",
+  "contains": [
+    "Open Access Siddha Research Papers",
+    "Ethnopharmacology Journals",
+    "Complementary Medicine Studies"
+  ],
+  "notes": "Registry of open-access publications, useful for discovering legal research PDFs on Siddha."
+}

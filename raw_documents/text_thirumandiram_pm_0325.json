@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0325",
+  "text_id": "thirumandiram_pm_0325",
+  "title": "Thirumandiram - Verse 329",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "329",
+  "tamil_text": "மயக்கும் சமய மலமன்னு மூடர்\nமயக்கு மதுவுண்ணும் மாமூடர் தேரார்\nமயக்குறு மாமாயை மாயையின் வீடு\nமயக்கில் தெளியின் மயக்குறும் அன்றே.",
+  "transliteration": "mykkum cmy mlmṉṉu mūṭr\nmykku mtuvuṇṇum māmūṭr tērār\nmykkuṟu māmāyai māyaiyiṉ vīṭu\nmykkil teḷiyiṉ mykkuṟum aṉṟē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fdcc9423142d246b6644da1ca1c9443723a605249cf05f33d481f870ed92cf2c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

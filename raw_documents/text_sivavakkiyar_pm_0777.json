@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0777",
+  "text_id": "sivavakkiyar_pm_0777",
+  "title": "Sivavakkiyam - Verse 168",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "168",
+  "tamil_text": "கருத்தரிக்கு முன்னெலாம் காயம்நின்றது தேயுவில்,\nஉருத்தரிக்கு முன்னெலாம் காயம்நின்ற தேயுவில்\nஅருள்தரிக்கு முன்னெலாம் ஆசைநின்றது வாயுவில்\nதிருக்கறுத்துக் கொண்டதே சிவாயம் என்று கூறுவீர்.",
+  "transliteration": "kruttrikku muṉṉelām kāymniṉṟtu tēyuvil,\nuruttrikku muṉṉelām kāymniṉṟ tēyuvil\naruḷtrikku muṉṉelām ācainiṉṟtu vāyuvil\ntirukkṟuttuk koṇṭtē civāym eṉṟu kūṟuvīr.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7ce682bb9b9f398cdedfe174d5740351acd24090dfe920707e338bd2db1e9f0d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

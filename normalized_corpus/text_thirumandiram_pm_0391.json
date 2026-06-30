@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0391",
+  "text_id": "thirumandiram_pm_0391",
+  "title": "Thirumandiram - Verse 940",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "940",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மறைய வனாக மதித்த பிறவி\nமறையவ னாக மதித்திக் காண்பர்\nமறையவன் அஞ்செழுத்து உள்நிற்கப் பெற்ற\nமறையவன் அஞ்செழுத்து தாம்அது வாகுமே.",
+  "transliteration": "mṟaiy vṉāk mtitt piṟvi\nmṟaiyv ṉāk mtittik kāṇpr\nmṟaiyvṉ añceḻuttu uḷniṟkp peṟṟ\nmṟaiyvṉ añceḻuttu tāmatu vākumē.",
+  "english_translation": null,
+  "content_hash": "2daf81b2d97d3faa230caba8c144251a6682afe893c4f138a65c1b73fc828937",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_murugan",
+    "plant_lotus",
+    "practice_kumbhaka",
+    "practice_pranayama"
+  ]
+}

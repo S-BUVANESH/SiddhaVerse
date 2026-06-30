@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0354",
+  "text_id": "thirumandiram_pm_0354",
+  "title": "Thirumandiram - Verse 902",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "902",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நடம்இரண்டு ஒன்றே நளினம தாகும்\nநடம்இரண்டு ஒன்றே நமன்செய்யும் கூத்துலயம்\nநடம்இரண்டு ஒன்றே நகைசெயா மந்திரம்\nநடம்சிவ லிங்கம் நலஞ்செம்பு பொன்னே.",
+  "transliteration": "nṭmirṇṭu oṉṟē nḷiṉm tākum\nnṭmirṇṭu oṉṟē nmṉceyyum kūttulym\nnṭmirṇṭu oṉṟē nkaiceyā mntirm\nnṭmciv liṅkm nlñcempu poṉṉē.",
+  "english_translation": null,
+  "content_hash": "06e74ecfea7840827dc526a8fbb63474e7d712306d7ceff802256f99d860e975",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "plant_tulsi",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_mantra",
+    "practice_kumbhaka"
+  ]
+}

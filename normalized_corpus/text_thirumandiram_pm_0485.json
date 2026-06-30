@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0485",
+  "text_id": "thirumandiram_pm_0485",
+  "title": "Thirumandiram - Verse 1043",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1043",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உகங்கண்ட ஒன்பது குண்டமும் ஒக்க\nஅகங்கண்ட யோகியுள் நாடி எழுப்பும்\nபகங்கண்டு கொண்டஇப் பாய்கரு வொப்பச்\nசகங்கண்டு கொண்டது சாதன மாமே.",
+  "transliteration": "ukṅkṇṭ oṉptu kuṇṭmum okk\nakṅkṇṭ yōkiyuḷ nāṭi eḻuppum\npkṅkṇṭu koṇṭip pāykru voppc\nckṅkṇṭu koṇṭtu cātṉ māmē.",
+  "english_translation": null,
+  "content_hash": "7e3f065c9bc07334de5ed71e74ed81270571f5fe0df50edfbd47fafe1fc39ce0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "siddhar_yugi",
+    "concept_kundalini",
+    "concept_nadi",
+    "body_eye",
+    "concept_yoga",
+    "siddhar_karuvoorar"
+  ]
+}

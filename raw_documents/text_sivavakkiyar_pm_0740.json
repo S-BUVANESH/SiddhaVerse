@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0740",
+  "text_id": "sivavakkiyar_pm_0740",
+  "title": "Sivavakkiyam - Verse 131",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "131",
+  "tamil_text": "எங்கள்தேவர் உங்கள்தேவர் என்றிரண்டு தேவரோ?\nஅங்கும்இங்கு மாய்இரண்டு தேவரே இருப்பரோ?\nஅங்கும்இங்கும் ஆகிநின்ற ஆதிமூர்த்தி ஒன்றலோ?\nவங்கவாரம் சொன்னபேர்கள் வாய்புழுத்து மாள்வரே.",
+  "transliteration": "eṅkḷtēvr uṅkḷtēvr eṉṟirṇṭu tēvrō?\naṅkumiṅku māyirṇṭu tēvrē irupprō?\naṅkumiṅkum ākiniṉṟ ātimūrtti oṉṟlō?\nvṅkvārm coṉṉpērkḷ vāypuḻuttu māḷvrē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "be9db6d01ec3ccd893b35c7d413ff7a916fc71c1b841aef600177c910a8b58e9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

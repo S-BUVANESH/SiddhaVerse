@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0519",
+  "text_id": "thirumandiram_pm_0519",
+  "title": "Thirumandiram - Verse 1077",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1077",
+  "tamil_text": "ஆகின்ற மூவரும் அங்கே அடங்குவர்\nபோகின்ற பூதம் பொருந்து புராதரர்\nசார்கின்ற சாரவுழிச் சாரார் கதிர்பெறப்\nபோகுந் திரிபுரை புண்ணியத் தோரே.",
+  "transliteration": "ākiṉṟ mūvrum aṅkē aṭṅkuvr\npōkiṉṟ pūtm poruntu purātrr\ncārkiṉṟ cārvuḻic cārār ktirpeṟp\npōkun tiripurai puṇṇiyt tōrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1a5567076836072a2f4151b37581f9dcd9fb77d91e7276662c8491fdd163384a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

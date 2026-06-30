@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0016",
+  "text_id": "thirumandiram_pm_0016",
+  "title": "Thirumandiram - Verse 16",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "16",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கோது குலாவிய கொன்றைக் குழற்சடை\nமாது குலாவிய வாள்நுதல் பாகனை\nயாது குலாவி அமரரும் தேவரும்\nகோது குலாவிக் குணம்பயில் வாரே.",
+  "transliteration": "kōtu kulāviy koṉṟaik kuḻṟcṭai\nmātu kulāviy vāḷnutl pākṉai\nyātu kulāvi amrrum tēvrum\nkōtu kulāvik kuṇmpyil vārē.",
+  "english_translation": null,
+  "content_hash": "f6f47b8d3e8024ea8f191fbec24526a2c6975eb3e59767e170de941d53eb56fb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_kundalini",
+    "place_kashi"
+  ]
+}

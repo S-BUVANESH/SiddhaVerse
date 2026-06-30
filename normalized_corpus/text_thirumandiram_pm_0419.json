@@ -1,0 +1,34 @@
+{
+  "document_id": "thirumandiram_pm_0419",
+  "text_id": "thirumandiram_pm_0419",
+  "title": "Thirumandiram - Verse 971",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "971",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நாலாம் எழுத்துஓசை ஞாலம் உருவது\nநாலாம் எழுத்தினுள் ஞாலம் அடங்கியது\nநாலாம் எழுத்தே நவிலவல் லார்கட்டு\nநாலாம் எழுத்தது நன்னெறி தானே.",
+  "transliteration": "nālām eḻuttuōcai ñālm uruvtu\nnālām eḻuttiṉuḷ ñālm aṭṅkiytu\nnālām eḻuttē nvilvl lārkṭṭu\nnālām eḻutttu nṉṉeṟi tāṉē.",
+  "english_translation": null,
+  "content_hash": "08310f4e00bedafc8aedb04a718606a547ae879dcbf7e670b069c78f3ca0eb42",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_vallarai"
+  ]
+}

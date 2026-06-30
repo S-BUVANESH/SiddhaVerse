@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0452",
+  "text_id": "thirumandiram_pm_0452",
+  "title": "Thirumandiram - Verse 1010",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1010",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருளும் வெளியும்போல் இரண்டாம் இதயம்\nமருளறி யாமையும் மன்னும் அறிவு\nமருளிவை விட்டெறி யாமை மயங்கும்\nமருளும் சிதைத்தோர் அவர்களாம் அன்றே.",
+  "transliteration": "iruḷum veḷiyumpōl irṇṭām itym\nmruḷṟi yāmaiyum mṉṉum aṟivu\nmruḷivai viṭṭeṟi yāmai myṅkum\nmruḷum citaittōr avrkḷām aṉṟē.",
+  "english_translation": null,
+  "content_hash": "cbe824b5ed151e7e4cdea80830894deac44e29443b694243fb6fc9d15550b2c5",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "practice_varma",
+    "body_heart",
+    "place_chidambaram",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}

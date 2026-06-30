@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0543",
+  "text_id": "thirumandiram_pm_0543",
+  "title": "Thirumandiram - Verse 1101",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1101",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வெளிப்படு வித்து விளைவுஅறி வித்துத்\nதெளிப்படு வித்துஎன் சிந்தையின் உள்ளே\nகளிப்படு வித்துக் கதிர்ப்படு சோதி\nஒளிப்படு வித்துஎன்னை உய்ய்க்கொண்டாளே.",
+  "transliteration": "veḷippṭu vittu viḷaivuaṟi vittut\nteḷippṭu vittueṉ cintaiyiṉ uḷḷē\nkḷippṭu vittuk ktirppṭu cōti\noḷippṭu vittueṉṉai uyykkoṇṭāḷē.",
+  "english_translation": null,
+  "content_hash": "3779cacc043e2847fb0124eda1a55ea0852248022993a0ecfaa538c0450129a0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "body_light",
+    "deity_vishnu"
+  ]
+}

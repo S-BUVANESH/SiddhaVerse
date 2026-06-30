@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0864",
+  "text_id": "sivavakkiyar_pm_0864",
+  "title": "Sivavakkiyam - Verse 255",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "255",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பாங்கினோடு இருந்துகொண்டு பரமன்அஞ் செழுத்துளே\nஓங்கிநாடி மேல்இருந்து உச்சரித்த மந்திரம்\nமூங்கில்வெட்டி நார்உரித்து முச்சில்செய் விதத்தினில்\nஆய்ந்தநூலில் தோன்றுமே அரிந்துணர்ந்து கொள்ளுமே.",
+  "transliteration": "pāṅkiṉōṭu iruntukoṇṭu prmṉañ ceḻuttuḷē\nōṅkināṭi mēliruntu uccritt mntirm\nmūṅkilveṭṭi nārurittu muccilcey vitttiṉil\nāyntnūlil tōṉṟumē arintuṇrntu koḷḷumē.",
+  "english_translation": null,
+  "content_hash": "34652fe69874d0056e4b6bdb1820ba4b01883e0c17a8ea1a446e959af8cd7c87",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "concept_nadi",
+    "deity_vishnu",
+    "plant_tulsi",
+    "concept_pranava",
+    "concept_brahman",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

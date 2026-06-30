@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0078",
+  "text_id": "thirumandiram_pm_0078",
+  "title": "Thirumandiram - Verse 80",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "80",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருந்தேன் இக்காயத்தே எண்ணிலி கோடி\nஇருந்தேன் இராப்பகல் அற்ற இடத்தே\nஇருந்தேன் இமையவர் ஏத்தும் பதத்தே\nஇருந்தேன் என்நந்தி இணையடிக் கீழே.",
+  "transliteration": "iruntēṉ ikkāyttē eṇṇili kōṭi\niruntēṉ irāppkl aṟṟ iṭttē\niruntēṉ imaiyvr ēttum ptttē\niruntēṉ eṉnnti iṇaiyṭik kīḻē.",
+  "english_translation": null,
+  "content_hash": "c27c19060e8eb89287faec9e92057779753ce9b1dd4d7e3ac727094056e4beb3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "place_himalaya",
+    "practice_kayakalpa",
+    "siddhar_ramadevar",
+    "siddhar_nandidevar",
+    "plant_keezhanelli"
+  ]
+}

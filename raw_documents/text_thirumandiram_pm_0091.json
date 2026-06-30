@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0091",
+  "text_id": "thirumandiram_pm_0091",
+  "title": "Thirumandiram - Verse 93",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "93",
+  "tamil_text": "இருக்கில் இருக்கும் எண்ணிலி கோடி\nஅருக்கின்ற மூலத்துள் அங்கே இருக்கும்\nஅருக்கனும் சோமனும் ஆரழல் வீச\nஉருக்கிய ரோமம் ஒளிவிடுந் தானே.",
+  "transliteration": "irukkil irukkum eṇṇili kōṭi\narukkiṉṟ mūlttuḷ aṅkē irukkum\narukkṉum cōmṉum ārḻl vīc\nurukkiy rōmm oḷiviṭun tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f8cef387e3a52bb56b9f6840767f3c144d6b325556796104305a9867ad04dafa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

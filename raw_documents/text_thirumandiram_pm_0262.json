@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0262",
+  "text_id": "thirumandiram_pm_0262",
+  "title": "Thirumandiram - Verse 265",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "265",
+  "tamil_text": "வழிநடப் பாரின்றி வானோர் உலகம்\nகழிநடப் பார்நடந் தார்கருப் பாரும்\nமழிநடக் கும்வினை மாசற ஓட்டிட்டு\nவழிநடப் பார்வினை ஓங்கிநின் றாரே.",
+  "transliteration": "vḻinṭp pāriṉṟi vāṉōr ulkm\nkḻinṭp pārnṭn tārkrup pārum\nmḻinṭk kumviṉai mācṟ ōṭṭiṭṭu\nvḻinṭp pārviṉai ōṅkiniṉ ṟārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a340d7612aad24dec4bb28ba1fd82d2e9db01d95dd284775df87781485b2464a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

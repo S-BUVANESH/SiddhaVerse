@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0424",
+  "text_id": "thirumandiram_pm_0424",
+  "title": "Thirumandiram - Verse 976",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "976",
+  "tamil_text": "நகார மகார சிகார நடுவாய்\nவகாரம் இரண்டும் வளியுடன் கூடி\nஓகார முதற்கொண்டு ஒருக்கால் உரைக்க\nமகார முதல்வன் மனத்தகத் தானே.",
+  "transliteration": "nkār mkār cikār nṭuvāy\nvkārm irṇṭum vḷiyuṭṉ kūṭi\nōkār mutṟkoṇṭu orukkāl uraikk\nmkār mutlvṉ mṉttkt tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "dda4029a74ef22d2a12a6910bbf7038679937a2cc7c72eedcfdcabb8ea782c3e",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0231",
+  "text_id": "thirumandiram_pm_0231",
+  "title": "Thirumandiram - Verse 234",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "234",
+  "tamil_text": "அந்தண்மை பூண்ட அருமறை அந்தத்துச்\nசிந்தைசெய் அந்தணர் சேரும் செழும்புவி\nநந்துதல் இல்லை நரபதி நன்றாகும்\nஅந்தியும் சந்தியும் ஆகுதி பண்ணுமே.",
+  "transliteration": "antṇmai pūṇṭ arumṟai antttuc\ncintaicey antṇr cērum ceḻumpuvi\nnntutl illai nrpti nṉṟākum\nantiyum cntiyum ākuti pṇṇumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2f583e474cd5558f98690f3203129edc510630327b6e85a095678b69e69a0723",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0251",
+  "text_id": "thirumandiram_pm_0251",
+  "title": "Thirumandiram - Verse 254",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "254",
+  "tamil_text": "அழுக்கினை ஓட்டி அறிவை நிறையீர்\nதழுக்கிய நாளில் தருமமும்செய்யீர்\nவிழித்திருந்து என்செய்வீர் வெம்மை பரந்து\nவிழிக்கஅன்று என்செய்வீர் ஏழைநெஞ்சீரே.",
+  "transliteration": "aḻukkiṉai ōṭṭi aṟivai niṟaiyīr\ntḻukkiy nāḷil trummumceyyīr\nviḻittiruntu eṉceyvīr vemmai prntu\nviḻikkaṉṟu eṉceyvīr ēḻaineñcīrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "878c28d300c41f11fb0bb23c1a5b99385071d976f15e03d0e928747e81925635",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0619",
+  "text_id": "sivavakkiyar_pm_0619",
+  "title": "Sivavakkiyam - Verse 10",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "10",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அந்திமாலை உச்சிமூன்றும் ஆடுகின்ற தீர்த்தமும்\nசந்திதர்ப் பணங்களும் தபங்களும் செபங்களும்\nசிந்தைமேவு ஞானமும் தினம்செபிக்கு மந்திரம்\nஎந்தைராம ராமராம ராமஎன்னும் நாமமே.",
+  "transliteration": "antimālai uccimūṉṟum āṭukiṉṟ tīrttmum\ncntitrp pṇṅkḷum tpṅkḷum cepṅkḷum\ncintaimēvu ñāṉmum tiṉmcepikku mntirm\nentairām rāmrām rāmeṉṉum nāmmē.",
+  "english_translation": null,
+  "content_hash": "3f5a53b42cd3dc6132d4c8c765ef2be763760a0c34dc0eb931a917ef41101873",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "siddhar_ramadevar",
+    "concept_mantra",
+    "body_fire"
+  ]
+}

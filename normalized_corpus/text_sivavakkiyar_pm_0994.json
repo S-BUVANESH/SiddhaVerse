@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0994",
+  "text_id": "sivavakkiyar_pm_0994",
+  "title": "Sivavakkiyam - Verse 385",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "385",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாடிலாத பூமலர்ந்து வண்டுரிசை நாவிலே\nஓடிநின்று உருவெடுத்து உகாரமாய் அலர்ந்ததும்\nஆடிஆடி அங்கமும் அகப்படக் கடந்தபின்\nகூடிநின்று உலாவுவமே குருவிருந்த கோலமே.",
+  "transliteration": "vāṭilāt pūmlrntu vṇṭuricai nāvilē\nōṭiniṉṟu uruveṭuttu ukārmāy alrnttum\nāṭiāṭi aṅkmum akppṭk kṭntpiṉ\nkūṭiniṉṟu ulāvuvmē kuruvirunt kōlmē.",
+  "english_translation": null,
+  "content_hash": "fae087b12b4d30d1c998e4b1ba6431b71a352451d551291ae4fd2e5742bc75b0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "deity_vishnu",
+    "deity_murugan",
+    "concept_guru"
+  ]
+}

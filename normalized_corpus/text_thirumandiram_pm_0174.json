@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0174",
+  "text_id": "thirumandiram_pm_0174",
+  "title": "Thirumandiram - Verse 177",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "177",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கிழக்கெழுந்த் தோடிய ஞாயிறு மேற்கே\nவிழக்கண்டும் தேறார் விழியிலா மாந்தர்\nகுழக்கன்று மூத்தெரு தாய்ச்சில நாளில்\nவிழக்கண்டும் தேறார் வியனுல கோரே.",
+  "transliteration": "kiḻkkeḻunt tōṭiy ñāyiṟu mēṟkē\nviḻkkṇṭum tēṟār viḻiyilā māntr\nkuḻkkṉṟu mūtteru tāyccil nāḷil\nviḻkkṇṭum tēṟār viyṉul kōrē.",
+  "english_translation": null,
+  "content_hash": "fdbeb9e757e753d3f22f6c55ae4db05b49919a272cc7da540097c0667492f7a6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_korakkar",
+    "body_eye"
+  ]
+}

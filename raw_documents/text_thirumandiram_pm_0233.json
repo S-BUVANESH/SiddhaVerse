@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0233",
+  "text_id": "thirumandiram_pm_0233",
+  "title": "Thirumandiram - Verse 236",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "236",
+  "tamil_text": "ஒன்றும் இரண்டும் ஒருங்கிய காலத்து\nநன்றும் இருந்தும் நலம்பல பேசினும்\nவென்று விளங்கும் விகிர்தனை நாடுவர்\nசென்று வணங்குந் திருவுடை யோரே.",
+  "transliteration": "oṉṟum irṇṭum oruṅkiy kālttu\nnṉṟum iruntum nlmpl pēciṉum\nveṉṟu viḷṅkum vikirtṉai nāṭuvr\nceṉṟu vṇṅkun tiruvuṭai yōrē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b727bcee074bd925fde24989fbb35a9f7b2ce6b815164482390d12c4ce3c34a4",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

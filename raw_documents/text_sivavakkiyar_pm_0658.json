@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0658",
+  "text_id": "sivavakkiyar_pm_0658",
+  "title": "Sivavakkiyam - Verse 49",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "49",
+  "tamil_text": "தூமைதூமை என்றுளே துவண்டுஅலையும் ஏழைகாள்!\nதூமையான பெண்ணிருக்கத் தூமைபோனது எவ்விடம்?\nஆமைபோல முழுகிவந்து அனேகவேதம் ஓதுறீர்\nதூமையும் திரண்டுருண்டு சொற்குருக்கள் ஆனதே.",
+  "transliteration": "tūmaitūmai eṉṟuḷē tuvṇṭualaiyum ēḻaikāḷ!\ntūmaiyāṉ peṇṇirukkt tūmaipōṉtu evviṭm?\nāmaipōl muḻukivntu aṉēkvētm ōtuṟīr\ntūmaiyum tirṇṭuruṇṭu coṟkurukkḷ āṉtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b117c627193361174f3d4fe0cba2f11cd95cf2e572a9b9f605d609da0ff6a927",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

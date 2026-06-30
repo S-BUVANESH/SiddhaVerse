@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0083",
+  "text_id": "thirumandiram_pm_0083",
+  "title": "Thirumandiram - Verse 85",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "85",
+  "tamil_text": "யான்பெற்ற இன்பம் பெறுக இவ் வையகம்\nவான்பற்றி நின்ற மறைப்பொருள் சொல்லிடின்\nஊன்பற்றி நின்ற உணர்வுறு மந்திரம்\nதான்பற்றப் பற்றத் தலைப்படுந் தானே.",
+  "transliteration": "yāṉpeṟṟ iṉpm peṟuk iv vaiykm\nvāṉpṟṟi niṉṟ mṟaipporuḷ colliṭiṉ\nūṉpṟṟi niṉṟ uṇrvuṟu mntirm\ntāṉpṟṟp pṟṟt tlaippṭun tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b0256df7f90dd7555a825f4516417c5653110c3738d3fc36d73cddab6b4bb590",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

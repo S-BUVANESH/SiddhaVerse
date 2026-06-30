@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0990",
+  "text_id": "sivavakkiyar_pm_0990",
+  "title": "Sivavakkiyam - Verse 381",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "381",
+  "tamil_text": "ஆனவன்னி மூன்றுகோணம் ஆறிரண்டு எட்டிலே\nஆனசீவன் அஞ்செழுத்து அகாரமிட்டு அலர்ந்ததும்\nஆனசோதி உண்மையும் அனாதியான உண்மையும்\nஆனதாய் தானதாய் அவலமாய் மறைந்திடும்.",
+  "transliteration": "āṉvṉṉi mūṉṟukōṇm āṟirṇṭu eṭṭilē\nāṉcīvṉ añceḻuttu akārmiṭṭu alrnttum\nāṉcōti uṇmaiyum aṉātiyāṉ uṇmaiyum\nāṉtāy tāṉtāy avlmāy mṟaintiṭum.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3f00bec6dfaca512508111d29d4bceb39352bfb3ee4ec448ed4df7e899e12a39",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

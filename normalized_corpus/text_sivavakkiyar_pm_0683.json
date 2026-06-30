@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0683",
+  "text_id": "sivavakkiyar_pm_0683",
+  "title": "Sivavakkiyam - Verse 74",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "74",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆத்துமா அனாதியோ? அனாத்துமா அனாதியோ?\nபூத்திருந்த ஐம்பொறி புலன்களும் அனாதியோ?\nதர்க்கமிக்க நூல்களும் சதாசிவமும் அனாதியோ?\nவீக்கவந்த யோகிகாள்? விரைந்துரைக்க வேணுமே!",
+  "transliteration": "āttumā aṉātiyō? aṉāttumā aṉātiyō?\npūttirunt aimpoṟi pulṉkḷum aṉātiyō?\ntrkkmikk nūlkḷum ctācivmum aṉātiyō?\nvīkkvnt yōkikāḷ? virainturaikk vēṇumē!",
+  "english_translation": null,
+  "content_hash": "54798860667545123f4d6cf989828c50d946307e78b948a1d7b0f8211dff8cd2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_pancha_bootham",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "siddhar_yugi",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "place_tiruvannamalai",
+    "deity_vishnu",
+    "concept_yoga",
+    "deity_shiva",
+    "concept_atman",
+    "concept_dhyana"
+  ]
+}

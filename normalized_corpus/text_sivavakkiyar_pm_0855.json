@@ -1,0 +1,48 @@
+{
+  "document_id": "sivavakkiyar_pm_0855",
+  "text_id": "sivavakkiyar_pm_0855",
+  "title": "Sivavakkiyam - Verse 246",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "246",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பிடித்ததண்டும் உம்மதோ பிரமமான பித்தர்காள்\nதடித்தகோலம் அத்தைவிட்டு சாதிபேதங் கொண்மினோ,\nவடித்திருந்த தோர்சிவத்தை வாய்மைகூற வல்லீரேல்\nதிடுக்கமுற்ற ஈசனைச் சென்றுகூட லாகுமே.",
+  "transliteration": "piṭitttṇṭum ummtō pirmmāṉ pittrkāḷ\ntṭittkōlm attaiviṭṭu cātipētṅ koṇmiṉō,\nvṭittirunt tōrcivttai vāymaikūṟ vllīrēl\ntiṭukkmuṟṟ īcṉaic ceṉṟukūṭ lākumē.",
+  "english_translation": null,
+  "content_hash": "2ed8e94471dafd525f237efa33e69d65ebf997acb6a505ced48d8fce03bdb48d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "plant_vallarai",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "deity_shiva",
+    "plant_thippili",
+    "practice_kumbhaka"
+  ]
+}

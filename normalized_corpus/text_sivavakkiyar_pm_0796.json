@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0796",
+  "text_id": "sivavakkiyar_pm_0796",
+  "title": "Sivavakkiyam - Verse 187",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "187",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உருவும்அல்ல ஒளியும் அல்ல ஒன்றதாகி நின்றதே\nமருவும்அல்ல கந்தம்அல்ல மந்தநாடி உற்றதல்ல\nபெரியதல்ல சிறியதல்ல பேசும்ஆவி தானும்அல்ல\nஅரியதாக நின்றநேர்மை யாவர்காண வல்லிரே.",
+  "transliteration": "uruvumall oḷiyum all oṉṟtāki niṉṟtē\nmruvumall kntmall mntnāṭi uṟṟtll\nperiytll ciṟiytll pēcumāvi tāṉumall\nariytāk niṉṟnērmai yāvrkāṇ vllirē.",
+  "english_translation": null,
+  "content_hash": "17e308c5de0c28ed347b935ca7d75affc594b74826962f3d0f95a46f72776da0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "plant_vallarai",
+    "body_light",
+    "concept_nadi",
+    "concept_mantra"
+  ]
+}

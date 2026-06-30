@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0968",
+  "text_id": "sivavakkiyar_pm_0968",
+  "title": "Sivavakkiyam - Verse 359",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "359",
+  "tamil_text": "திவாகரம் - சூரிய ஒளி\n\nதேசிகன் சுழன்றதே திரிமுனையின் வாலையில்\nவேசமோடு வாலையில் வியன்இருந்த மூலையில்\nநேசசந்தி ரோதயம் நிறைந்திருந்த வாயிலில்\nவீசிவீசி நின்றதே விரிந்துநின்ற மோனமே.",
+  "transliteration": "tivākrm - cūriy oḷi\n\ntēcikṉ cuḻṉṟtē tirimuṉaiyiṉ vālaiyil\nvēcmōṭu vālaiyil viyṉirunt mūlaiyil\nnēccnti rōtym niṟaintirunt vāyilil\nvīcivīci niṉṟtē virintuniṉṟ mōṉmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "77f34dbbecc5abaa744b69094f9eea63a01310eaf0bd4bd3ad2ae732cb30ef95",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

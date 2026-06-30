@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0677",
+  "text_id": "sivavakkiyar_pm_0677",
+  "title": "Sivavakkiyam - Verse 68",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "68",
+  "tamil_text": "உழலும்வாச லுக்குஇரங்கி ஊசலாடும் ஊமைகாள்?\nஉழலும்வாச லைத்திறந்து உண்மைசேர எண்ணிலீர்?\nஉழலும்வாச லைத்திறந்து உண்மைநீர் உணர்ந்தபின்\nஉழலும்வாசல் உள்ளிருந்த உண்மைதானும் ஆவிரே.",
+  "transliteration": "uḻlumvāc lukkuirṅki ūclāṭum ūmaikāḷ?\nuḻlumvāc laittiṟntu uṇmaicēr eṇṇilīr?\nuḻlumvāc laittiṟntu uṇmainīr uṇrntpiṉ\nuḻlumvācl uḷḷirunt uṇmaitāṉum āvirē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f8e35a3ec1f60a3629ff08a01374c5ee728083bc8836b9ecd4b3d2a5f33339b3",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

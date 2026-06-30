@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0688",
+  "text_id": "sivavakkiyar_pm_0688",
+  "title": "Sivavakkiyam - Verse 79",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "79",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அறிவு நிலை\n\nமண்கலம் கவிழ்ந்தபோது வைத்துவைத்து அடுக்குவார்\nவெங்கலம் கவிழ்ந்தபோது வேணும்என்று பேணுவார்;\nநம்கலம் கவிழ்ந்தபோது நாறும்என்று போடுவார்\nஎண்கலந்து நின்றமாயம் என்னமாயம் ஈசனே.",
+  "transliteration": "aṟivu nilai\n\nmṇklm kviḻntpōtu vaittuvaittu aṭukkuvār\nveṅklm kviḻntpōtu vēṇumeṉṟu pēṇuvār;\nnmklm kviḻntpōtu nāṟumeṉṟu pōṭuvār\neṇklntu niṉṟmāym eṉṉmāym īcṉē.",
+  "english_translation": null,
+  "content_hash": "62f771358edc46b7b063cd529818b278564672ba899357c07d0e8e6a7330af17",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "deity_vishnu",
+    "concept_maya",
+    "place_kashi"
+  ]
+}

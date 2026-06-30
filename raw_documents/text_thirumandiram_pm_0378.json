@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0378",
+  "text_id": "thirumandiram_pm_0378",
+  "title": "Thirumandiram - Verse 927",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "927",
+  "tamil_text": "அதுவாம் அகார இகார உகாரம்\nஅதுவாம் எகாரம் ஓகாரமது ஐந்தாம்\nஅதுவாகும் சக்கர வட்டமேல் வட்டம்\nபொதுவாம் இடைவெளி பொங்குநம் பேரே.",
+  "transliteration": "atuvām akār ikār ukārm\natuvām ekārm ōkārmtu aintām\natuvākum ckkr vṭṭmēl vṭṭm\npotuvām iṭaiveḷi poṅkunm pērē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7c2ecdfc139b877a3e8d5cffb21419bd98d6f2932e3996be766e015c3737bffa",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

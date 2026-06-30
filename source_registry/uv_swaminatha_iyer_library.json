@@ -1,0 +1,25 @@
+{
+  "title": "Dr. U. V. Swaminatha Iyer Library",
+  "url": "http://www.uvesalibrary.org",
+  "organization": "Dr. U. V. Swaminatha Iyer Library Trust, Chennai",
+  "source_type": "Palm Leaf",
+  "license_status": "mixed",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 6,
+  "coverage": {
+    "siddhars": 20,
+    "plants": 5,
+    "formulations": 10,
+    "diseases": 10,
+    "manuscripts": 50,
+    "research": 5
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Digitized Tamil Classics",
+    "Palm-leaf Transcripts by U.V. Swaminatha Iyer",
+    "Rare Medical Catalogues"
+  ],
+  "notes": "Holds a major collection of classical Tamil palm leaves. Important reference for verifying textual variations."
+}

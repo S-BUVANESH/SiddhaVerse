@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0868",
+  "text_id": "sivavakkiyar_pm_0868",
+  "title": "Sivavakkiyam - Verse 259",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "259",
+  "tamil_text": "உள்ளதோ புறம்பதோ உயிர்ஒடுங்கி நின்றிடம்\nமெள்ளவந்து கிட்டிநீர் வினவவேணும் என்கிறீர்?\nஉள்ளதும் புறம்பதும் ஒத்தபோது நாதமாம்\nகள்ளவாச லைத்திறந்து காணவேணும் மந்திரம்.",
+  "transliteration": "uḷḷtō puṟmptō uyiroṭuṅki niṉṟiṭm\nmeḷḷvntu kiṭṭinīr viṉvvēṇum eṉkiṟīr?\nuḷḷtum puṟmptum ottpōtu nātmām\nkḷḷvāc laittiṟntu kāṇvēṇum mntirm.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1873dcdf67434f5f04b15197a697c757d92afa95697d6572ce45853c3c2c6f39",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

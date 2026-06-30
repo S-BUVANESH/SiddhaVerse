@@ -1,0 +1,43 @@
+{
+  "document_id": "thirumandiram_pm_0468",
+  "text_id": "thirumandiram_pm_0468",
+  "title": "Thirumandiram - Verse 1026",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1026",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எந்தை பிரானுக்கு இருமூன்று வட்டமாய்த்\nதந்தைதன் முன்னே சண்முகம் தோன்றலால்\nகந்தன் சுவாமி கலந்தங்கு இருந்தலான்\nமைந்தன் இவனென்று மாட்டிக்கொள் ளீரே.",
+  "transliteration": "entai pirāṉukku irumūṉṟu vṭṭmāyt\ntntaitṉ muṉṉē cṇmukm tōṉṟlāl\nkntṉ cuvāmi klntṅku iruntlāṉ\nmaintṉ ivṉeṉṟu māṭṭikkoḷ ḷīrē.",
+  "english_translation": null,
+  "content_hash": "6e6d0fac82e53d1a5bd2e360a17184d37d77f6380b8eca65a7105fc8af068568",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_tantra",
+    "concept_maya",
+    "deity_kali",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "body_breath",
+    "concept_mukti"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "pubmed_40036130",
+  "text_id": "pubmed_40036130",
+  "title": "Revisiting the tridosha paradigm of Ayurveda.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Krishna GL"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "8de220207abb079a3edeba8b271010fae7077c06a37a9849332040d99fb64e00",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "40036130",
+  "authors": [
+    "Krishna GL"
+  ],
+  "journal": "Indian journal of medical ethics",
+  "pubdate": "2025",
+  "doi": "10.20529/IJME.2025.014",
+  "abstract": "The tridosha paradigm is foundational to Ayurveda. Ayurveda uses it to explain life processes, classify illness states, and facilitate therapeutic choices. The paradigm has an aspect that is heuristic and practical; it has another aspect that is purely speculative and conjectural. The paper sheds light on the distinctness of these two aspects by tracing the plausible steps in the conceptual evolution of the tridosha scheme. It also proposes a reimagining of the paradigm by jettisoning the conjectures and retaining the heuristics. Sans this reimagining, the paradigm would be pseudoscientific and its use in medical decision making, unsafe and unethical.",
+  "search_text": "pubmed 40036130 Revisiting the tridosha paradigm of Ayurveda. PubMed Research Scientific Literature Krishna GL Tamil Tamil script open_access PubMed Central 40036130 Krishna GL Indian journal of medical ethics 2025 10.20529/IJME.2025.014 The tridosha paradigm is foundational to Ayurveda. Ayurveda uses it to explain life processes, classify illness states, and facilitate therapeutic choices. The paradigm has an aspect that is heuristic and practical; it has another aspect that is purely speculative and conjectural. The paper sheds light on the distinctness of these two aspects by tracing the plausible steps in the conceptual evolution of the tridosha scheme. It also proposes a reimagining of the paradigm by jettisoning the conjectures and retaining the heuristics. Sans this reimagining, the paradigm would be pseudoscientific and its use in medical decision making, unsafe and unethical."
+}

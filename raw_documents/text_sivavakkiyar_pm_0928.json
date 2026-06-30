@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0928",
+  "text_id": "sivavakkiyar_pm_0928",
+  "title": "Sivavakkiyam - Verse 319",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "319",
+  "tamil_text": "உதித்தமந் திரத்தினும் ஒடுங்கும் அக்கரத்தினும்\nமதித்தமண் டலத்தினும் மறைந்துநின்ற சோதிநீ,\nமதித்தமண் டலத்துளே மரித்துநீ இருந்தபின்\nசிரித்தமண் டலத்துளே சிறந்ததே சிவாயமே.",
+  "transliteration": "utittmn tirttiṉum oṭuṅkum akkrttiṉum\nmtittmṇ ṭlttiṉum mṟaintuniṉṟ cōtinī,\nmtittmṇ ṭlttuḷē mrittunī iruntpiṉ\ncirittmṇ ṭlttuḷē ciṟnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a368280c68a3ddfebdf55cde06ba7c3708b4a732cb0eeeafbb040d630bd84b3a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

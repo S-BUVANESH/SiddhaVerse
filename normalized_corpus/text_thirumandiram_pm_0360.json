@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0360",
+  "text_id": "thirumandiram_pm_0360",
+  "title": "Thirumandiram - Verse 908",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "908",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சொல்லும் ஒருகூட்டில் புக்குச் சுகிக்கலாம்\nநல்ல மடவார் நயத்துட னேவரும்\nசொல்லினும் பாசச் சுடர்ப்பாம்பு நீங்கிடும்\nசொல்லும் திருக்கூத்தின் சூக்குமம் தானே.",
+  "transliteration": "collum orukūṭṭil pukkuc cukikklām\nnll mṭvār nyttuṭ ṉēvrum\ncolliṉum pācc cuṭrppāmpu nīṅkiṭum\ncollum tirukkūttiṉ cūkkumm tāṉē.",
+  "english_translation": null,
+  "content_hash": "aeb13ae3dc0cfe9c19e3de6db0e6ded93766fbb07a9b3014f57e67d1dcf47071",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "siddhar_pambatti",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "practice_kumbhaka"
+  ]
+}

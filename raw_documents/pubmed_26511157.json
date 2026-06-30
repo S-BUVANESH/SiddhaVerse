@@ -1,0 +1,32 @@
+{
+  "pmid": "26511157",
+  "title": "Genome-wide analysis correlates Ayurveda Prakriti.",
+  "authors": [
+    "Govindaraj P",
+    "Nizamuddin S",
+    "Sharath A",
+    "Jyothi V",
+    "Rotti H",
+    "Raval R",
+    "Nayak J",
+    "Bhat BK",
+    "Prasanna BV",
+    "Shintre P",
+    "Sule M",
+    "Joshi KS",
+    "Dedge AP",
+    "Bharadwaj R",
+    "Gangadharan GG",
+    "Nair S",
+    "Gopinath PM",
+    "Patwardhan B",
+    "Kondaiah P",
+    "Satyamoorthy K",
+    "Valiathan MV",
+    "Thangaraj K"
+  ],
+  "journal": "Scientific reports",
+  "pubdate": "2015 Oct 29",
+  "doi": "10.1038/srep15786",
+  "abstract": "The practice of Ayurveda, the traditional medicine of India, is based on the concept of three major constitutional types (Vata, Pitta and Kapha) defined as \"Prakriti\". To the best of our knowledge, no study has convincingly correlated genomic variations with the classification of Prakriti. In the present study, we performed genome-wide SNP (single nucleotide polymorphism) analysis (Affymetrix, 6.0) of 262 well-classified male individuals (after screening 3416 subjects) belonging to three Prakritis. We found 52 SNPs (p ≤ 1 × 10(-5)) were significantly different between Prakritis, without any confounding effect of stratification, after 10(6) permutations. Principal component analysis (PCA) of these SNPs classified 262 individuals into their respective groups (Vata, Pitta and Kapha) irrespective of their ancestry, which represent its power in categorization. We further validated our finding with 297 Indian population samples with known ancestry. Subsequently, we found that PGM1 correlates with phenotype of Pitta as described in the ancient text of Caraka Samhita, suggesting that the phenotypic classification of India's traditional medicine has a genetic basis; and its Prakriti-based practice in vogue for many centuries resonates with personalized medicine."
+}

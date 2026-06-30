@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0630",
+  "text_id": "sivavakkiyar_pm_0630",
+  "title": "Sivavakkiyam - Verse 21",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "21",
+  "tamil_text": "அஞ்சும்அஞ்சும் அஞ்சுமே அனாதியானது அஞ்சுமே!\nபிஞ்சுபிஞ்சது அல்லவோ பித்தர்காள் பிதற்றுவீர்!\nநெஞ்சில்அஞ்சு கொண்டுநீர் நின்றுதொக்க வல்லீரேல்\nஅஞ்சும்இல்லை ஆறும்இல்லை அனாதியாகித் தோன்றுமே!",
+  "transliteration": "añcumañcum añcumē aṉātiyāṉtu añcumē!\npiñcupiñctu allvō pittrkāḷ pitṟṟuvīr!\nneñcilañcu koṇṭunīr niṉṟutokk vllīrēl\nañcumillai āṟumillai aṉātiyākit tōṉṟumē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e525b142134124d8f79d81ee7ce62b9fc2405816b3f90ccef586bffd3823bfc9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

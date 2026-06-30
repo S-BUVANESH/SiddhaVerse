@@ -1,0 +1,49 @@
+{
+  "document_id": "sivavakkiyar_pm_0908",
+  "text_id": "sivavakkiyar_pm_0908",
+  "title": "Sivavakkiyam - Verse 299",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "299",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அக்கரந்த அக்கரத்தில் உட்கரந்த அக்கரம்\nசக்கரத்து சிவ்வைருண்டு சம்புளத் திருந்ததும்\nஎள்கரந்த எண்ணெய்போல் எவ்வெழுத்தும் எம்பிரான்\nஉள்கரந்து நின்றநேர்மை யாவர்காண வல்லரே.",
+  "transliteration": "akkrnt akkrttil uṭkrnt akkrm\nckkrttu civvairuṇṭu cmpuḷt tirunttum\neḷkrnt eṇṇeypōl evveḻuttum empirāṉ\nuḷkrntu niṉṟnērmai yāvrkāṇ vllrē.",
+  "english_translation": null,
+  "content_hash": "5b445a150ca60fc0c9d3d6b75f9e19082691d4a9454ddedd36ec51bc4315f69f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "practice_varma",
+    "plant_vallarai",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "deity_shakti",
+    "concept_chakra",
+    "deity_shiva",
+    "body_fire"
+  ]
+}

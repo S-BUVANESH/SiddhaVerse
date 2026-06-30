@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0229",
+  "text_id": "thirumandiram_pm_0229",
+  "title": "Thirumandiram - Verse 232",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "232",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "திருநெறி யாகிய சித்தசித் தின்றிக்\nகுருநெறி யாலே குருபதம் சேர்ந்து\nகரும நியமாதி கைவிட்டுக் காணும்\nதுரிய சமாதியாந் தூய்மறை யோர்க்கே.",
+  "transliteration": "tiruneṟi yākiy cittcit tiṉṟik\nkuruneṟi yālē kuruptm cērntu\nkrum niymāti kaiviṭṭuk kāṇum\nturiy cmātiyān tūymṟai yōrkkē.",
+  "english_translation": null,
+  "content_hash": "8935564c5b7a996f7625961b522d209b17c8fad4101426cd69e45de06fbd1528",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "concept_guru",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "place_chidambaram",
+    "deity_vishnu",
+    "concept_samadhi",
+    "concept_mukti",
+    "concept_dhyana",
+    "siddhar_karuvoorar"
+  ]
+}

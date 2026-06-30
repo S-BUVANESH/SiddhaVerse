@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_37461276",
+  "text_id": "pubmed_37461276",
+  "title": "Rise of Siddha medicine: causes and constructions in the Madras Presidency (1920-1930s).",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Kanagarathinam DV",
+    "Lourdusamy JB"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "5f633502b981f3e789b73aa3113b6e195fa99bbc70d882dd06f882ee6fa12134",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "37461276",
+  "authors": [
+    "Kanagarathinam DV",
+    "Lourdusamy JB"
+  ],
+  "journal": "Medical history",
+  "pubdate": "2023 Jan",
+  "doi": "10.1017/mdh.2023.10",
+  "abstract": "This essay aims to situate the emergence of Siddha medicine as a separate medical system in the erstwhile Madras Presidency of colonial India within a broader socio-economic context. Scholars who have worked on Siddha medicine have stressed more on political dimensions like nationalism and sub-nationalism with inadequate attention to the interplay of various (other) factors including contemporary global developments, changes in the attitude of the colonial State and especially to the new promises held by the greater deference shown to indigenous medical systems from the 1920s. If the construction of 'national medicine' based on the Sanskrit texts and the accompanying marginalisation of regional texts and practices were the only reasons for the emergence of Siddha medicine as presented by scholars, it leaves open the question as to why this emergence happened only during the third decade of the twentieth century, though the marginalisation processes started during the first decade itself. This paper seeks to find an answer by analysing the formation of Siddha medical identity beyond the frameworks of nationalism and sub-nationalism. Further, it explicates how material factors served as immediate cause along with the other, and more ideational factors related to the rise of the Dravidian political and cultural movement.",
+  "search_text": "pubmed 37461276 Rise of Siddha medicine: causes and constructions in the Madras Presidency (1920-1930s). PubMed Research Scientific Literature Kanagarathinam DV Lourdusamy JB Tamil Tamil script open_access PubMed Central 37461276 Kanagarathinam DV Lourdusamy JB Medical history 2023 Jan 10.1017/mdh.2023.10 This essay aims to situate the emergence of Siddha medicine as a separate medical system in the erstwhile Madras Presidency of colonial India within a broader socio-economic context. Scholars who have worked on Siddha medicine have stressed more on political dimensions like nationalism and sub-nationalism with inadequate attention to the interplay of various (other) factors including contemporary global developments, changes in the attitude of the colonial State and especially to the new promises held by the greater deference shown to indigenous medical systems from the 1920s. If the construction of 'national medicine' based on the Sanskrit texts and the accompanying marginalisation of regional texts and practices were the only reasons for the emergence of Siddha medicine as presented by scholars, it leaves open the question as to why this emergence happened only during the third decade of the twentieth century, though the marginalisation processes started during the first decade itself. This paper seeks to find an answer by analysing the formation of Siddha medical identity beyond the frameworks of nationalism and sub-nationalism. Further, it explicates how material factors served as immediate cause along with the other, and more ideational factors related to the rise of the Dravidian political and cultural movement."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0716",
+  "text_id": "sivavakkiyar_pm_0716",
+  "title": "Sivavakkiyam - Verse 107",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "107",
+  "tamil_text": "ஒளியதான காசிமீது வந்துதங்கு வோர்க்கெலாம்\nவெளியதான சோதிமேனி விஸ்வநாத னானவன்\nதெளியுமங்கை உடன்இருந்து செப்புகின்ற தாரகம்\nஎளியதோர் இராமராம ராமமிர்த நாமமே.",
+  "transliteration": "oḷiytāṉ kācimītu vntutṅku vōrkkelām\nveḷiytāṉ cōtimēṉi visvnāt ṉāṉvṉ\nteḷiyumṅkai uṭṉiruntu ceppukiṉṟ tārkm\neḷiytōr irāmrām rāmmirt nāmmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c3b94ea997cf63f2f861eafe814e07b07a08288d364d151498010c3df587b599",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

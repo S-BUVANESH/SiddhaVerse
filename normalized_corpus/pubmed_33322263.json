@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_33322263",
+  "text_id": "pubmed_33322263",
+  "title": "Ayurveda and Epigenetics.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Sharma H",
+    "Keith Wallace R"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "eebe7975035b6baede9817337a81fc619928424aa532096efbadb4b87702451f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "33322263",
+  "authors": [
+    "Sharma H",
+    "Keith Wallace R"
+  ],
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pubdate": "2020 Dec 11",
+  "doi": "10.3390/medicina56120687",
+  "abstract": "Ayurveda is a comprehensive, natural health care system that originated in the ancient Vedic times of India. Epigenetics refers to the external modification of DNA that turns genes on and off, affecting gene expression. This occurs without changes in the basic structure of the DNA. This gene expression can have transgenerational effects. The major factors that cause epigenetic changes are lifestyle and behavior, diet and digestion, stress, and environmental factors. Ayurveda addresses these factors, thereby affecting the Deha (body) Prakriti (psychophysiological constitution), which corresponds to the phenotype, and indirectly the Janma (birth) Prakriti, which corresponds to the genotype. Thus, it is proposed that epigenetics is an important mechanism of Ayurveda. This correlation and understanding will lead to better communication and understanding with the current medical system, and lead to better integration of both sciences in the management of optimal health. In addition, research on Ayurvedic modalities affecting gene expression will further increase correlation and understanding between the current medical system and Ayurveda.",
+  "search_text": "pubmed 33322263 Ayurveda and Epigenetics. PubMed Research Scientific Literature Sharma H Keith Wallace R Tamil Tamil script open_access PubMed Central 33322263 Sharma H Keith Wallace R Medicina (Kaunas, Lithuania) 2020 Dec 11 10.3390/medicina56120687 Ayurveda is a comprehensive, natural health care system that originated in the ancient Vedic times of India. Epigenetics refers to the external modification of DNA that turns genes on and off, affecting gene expression. This occurs without changes in the basic structure of the DNA. This gene expression can have transgenerational effects. The major factors that cause epigenetic changes are lifestyle and behavior, diet and digestion, stress, and environmental factors. Ayurveda addresses these factors, thereby affecting the Deha (body) Prakriti (psychophysiological constitution), which corresponds to the phenotype, and indirectly the Janma (birth) Prakriti, which corresponds to the genotype. Thus, it is proposed that epigenetics is an important mechanism of Ayurveda. This correlation and understanding will lead to better communication and understanding with the current medical system, and lead to better integration of both sciences in the management of optimal health. In addition, research on Ayurvedic modalities affecting gene expression will further increase correlation and understanding between the current medical system and Ayurveda."
+}

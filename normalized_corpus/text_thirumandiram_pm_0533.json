@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0533",
+  "text_id": "thirumandiram_pm_0533",
+  "title": "Thirumandiram - Verse 1091",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1091",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தாமக் குழலி தயைக்கண்ணி உள்நின்ற\nஏமத்து இருளற வீசும் இளங்கொடி\nஓமப் பெருஞ்சுடர் உள்எழு நுண்புகை\nமேவித்து அழுதொடு மீண்டது காணே.",
+  "transliteration": "tāmk kuḻli tyaikkṇṇi uḷniṉṟ\nēmttu iruḷṟ vīcum iḷṅkoṭi\nōmp peruñcuṭr uḷeḻu nuṇpukai\nmēvittu aḻutoṭu mīṇṭtu kāṇē.",
+  "english_translation": null,
+  "content_hash": "1a21e8cab03dae663186c38d47c1ddba3e274e1e2283f959f6e36b948f39c7c2",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "body_eye"
+  ]
+}

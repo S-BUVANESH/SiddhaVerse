@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0823",
+  "text_id": "sivavakkiyar_pm_0823",
+  "title": "Sivavakkiyam - Verse 214",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "214",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அணுத்திரண்ட கண்டமாய் அனைத்துபல்லி யோனியாய்\nமனுப்பிறந்து ஓதிவைத்த நூலிலே மயங்குறீர்\nசனிப்பதுஏது; சாவதுஏது; தாபரத்தின் ஊடுபோய்\nநினைப்பதுஏது? நிற்பதுஏது; நீர்நினைந்து பாருமே.",
+  "transliteration": "aṇuttirṇṭ kṇṭmāy aṉaittuplli yōṉiyāy\nmṉuppiṟntu ōtivaitt nūlilē myṅkuṟīr\ncṉipptuētu; cāvtuētu; tāprttiṉ ūṭupōy\nniṉaipptuētu? niṟptuētu; nīrniṉaintu pārumē.",
+  "english_translation": null,
+  "content_hash": "a675192801b78ae5c0fc54552eb821e6184178c1d16d62b771e647bdcc1bca6b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_shakti"
+  ]
+}

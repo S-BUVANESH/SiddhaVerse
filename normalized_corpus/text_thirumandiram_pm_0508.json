@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0508",
+  "text_id": "thirumandiram_pm_0508",
+  "title": "Thirumandiram - Verse 1066",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1066",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நின்றாள் அவன்தன் உடலும் உயிருமாய்ச்\nசென்றான் சிவகதி சேரும் பராசத்தி\nஒன்றாக என்னுள் புகுந்துணர் வாகியே\nநின்றான் பரஞ்சுடர் ஏடங்கை யாளே.",
+  "transliteration": "niṉṟāḷ avṉtṉ uṭlum uyirumāyc\nceṉṟāṉ civkti cērum prāctti\noṉṟāk eṉṉuḷ pukuntuṇr vākiyē\nniṉṟāṉ prñcuṭr ēṭṅkai yāḷē.",
+  "english_translation": null,
+  "content_hash": "a5cf26da5af4ab93f42a4846eddf6bda61061dbac8a2b9bc9f02c23e966451fb",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "concept_maya",
+    "body_udal",
+    "siddhar_sivavakkiyar",
+    "deity_vishnu",
+    "body_uyir",
+    "deity_shakti",
+    "deity_shiva",
+    "concept_atman"
+  ]
+}

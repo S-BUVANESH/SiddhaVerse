@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0521",
+  "text_id": "thirumandiram_pm_0521",
+  "title": "Thirumandiram - Verse 1079",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1079",
+  "tamil_text": "தென்னன் திருநந்தி சேவகன் தன்னொடும்\nபொன்னங் கிரியில் பூதலம் போற்றிடும்\nபன்னும் பரிபிடி அந்தம் பகவனோடு\nஉன்னும் திரிபுரை ஓதிநின் றானுக்கே.",
+  "transliteration": "teṉṉṉ tirunnti cēvkṉ tṉṉoṭum\npoṉṉṅ kiriyil pūtlm pōṟṟiṭum\npṉṉum pripiṭi antm pkvṉōṭu\nuṉṉum tiripurai ōtiniṉ ṟāṉukkē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7da590af84fb642b449401a5f69b6152853c8bd5d4128bb56391ae39eebfb688",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

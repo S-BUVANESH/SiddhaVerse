@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0742",
+  "text_id": "sivavakkiyar_pm_0742",
+  "title": "Sivavakkiyam - Verse 133",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "133",
+  "tamil_text": "சத்தம்வந்த வெளியிலே சலமிருந்து வந்ததும்\nமத்தமாகி நீரிலே துவண்டுமூழ்கும் மூடரே!\nசுத்தம்ஏது? கட்டதேது? தூய்மைகண்டு நின்றதுஏது?\nபித்தர்காயம் உற்றதேது பேதம்ஏது போதமே?",
+  "transliteration": "cttmvnt veḷiyilē clmiruntu vnttum\nmttmāki nīrilē tuvṇṭumūḻkum mūṭrē!\ncuttmētu? kṭṭtētu? tūymaikṇṭu niṉṟtuētu?\npittrkāym uṟṟtētu pētmētu pōtmē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "441d7eac90c4349410658f510a7d43732f5d86228db48ad75161c9a1d2e3a5ea",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0305",
+  "text_id": "thirumandiram_pm_0305",
+  "title": "Thirumandiram - Verse 309",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "309",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வைத்துணர்ந் தான்மனத் தொடும்வாய் பேசி\nஒத்துணர்ந் தான்உரு ஒன்றொடொன்று ஒவ்வாது\nஅச்சுஉழன்று ஆணி கலங்கினும் ஆதியை\nநச்சு உணர்ந் தார்க்கே நணுகலு மாமே.",
+  "transliteration": "vaittuṇrn tāṉmṉt toṭumvāy pēci\nottuṇrn tāṉuru oṉṟoṭoṉṟu ovvātu\naccuuḻṉṟu āṇi klṅkiṉum ātiyai\nnccu uṇrn tārkkē nṇuklu māmē.",
+  "english_translation": null,
+  "content_hash": "69b075f8db627d4ef35c31b188f1159cf1ac592357b528c0726111c1afa4ada7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "deity_shakti",
+    "concept_dhyana"
+  ]
+}

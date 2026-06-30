@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0245",
+  "text_id": "thirumandiram_pm_0245",
+  "title": "Thirumandiram - Verse 248",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "248",
+  "tamil_text": "அமுதூறு மாமழை நீரத னாலே\nஅமுதூறும் பன்மரம் பார்மிசை தோற்றும்\nகமுகூறு தெங்கு கரும்பொடு வாழை\nஅமுதூறுங் காஞ்சிரை ஆங்கது வாமே.",
+  "transliteration": "amutūṟu māmḻai nīrt ṉālē\namutūṟum pṉmrm pārmicai tōṟṟum\nkmukūṟu teṅku krumpoṭu vāḻai\namutūṟuṅ kāñcirai āṅktu vāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c4604ef8d5723fa16bdfa2c37c4b2dd4036767eb5c33441afaae495438fea149",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

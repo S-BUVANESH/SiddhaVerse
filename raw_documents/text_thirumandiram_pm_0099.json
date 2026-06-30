@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0099",
+  "text_id": "thirumandiram_pm_0099",
+  "title": "Thirumandiram - Verse 101",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "101",
+  "tamil_text": "வந்த மடம்ஏழும் மன்னும்சன் மார்க்கத்தின்\nமுந்தி உதிக்கின்ற மூலன் மடம்வரை\nதந்திரம் ஒன்பது சார்வுமூ வாயிரம்\nசுந்தர ஆகமச் சொல்மொழிந் தானே.",
+  "transliteration": "vnt mṭmēḻum mṉṉumcṉ mārkkttiṉ\nmunti utikkiṉṟ mūlṉ mṭmvrai\ntntirm oṉptu cārvumū vāyirm\ncuntr ākmc colmoḻin tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "819f13aea730797dd2ec541b6d5bd011ec76047c4a704366543b1e28685ba204",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

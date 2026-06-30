@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0090",
+  "text_id": "thirumandiram_pm_0090",
+  "title": "Thirumandiram - Verse 92",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "92",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நந்தி அருளாலே மூலனை நாடிப்பின்\nநந்தி அருளாலே சதாசிவன் ஆயினேன்\nநந்தி அருளால்மெய்ஞானத்துள் நண்ணினேன்\nநந்தி அருளாலே நானிருந் தேனே.",
+  "transliteration": "nnti aruḷālē mūlṉai nāṭippiṉ\nnnti aruḷālē ctācivṉ āyiṉēṉ\nnnti aruḷālmeyñāṉttuḷ nṇṇiṉēṉ\nnnti aruḷālē nāṉirun tēṉē.",
+  "english_translation": null,
+  "content_hash": "0ec5b4cc96f1b0317098f6b971fe9d08c73c7bc6c35d494780fa93f7e51c614b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "concept_nadi",
+    "plant_tulsi",
+    "deity_brahma",
+    "body_moolam",
+    "deity_shiva",
+    "siddhar_nandidevar"
+  ]
+}

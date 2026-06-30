@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0770",
+  "text_id": "sivavakkiyar_pm_0770",
+  "title": "Sivavakkiyam - Verse 161",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "161",
+  "tamil_text": "நவ்வுமவ்வை யும்கடந்து நாடொணாத சியின்மேல்\nவவ்வுயவ்வு ளும்சிறந்த வண்மைஞான போதகம்\nஒவ்வுசத்தி யுள்நிறைந்து உச்சியூ டுருவியே\nஇவ்வகை அறிந்தபேர்கள் ஈசன்ஆணை ஈசனே.",
+  "transliteration": "nvvumvvai yumkṭntu nāṭoṇāt ciyiṉmēl\nvvvuyvvu ḷumciṟnt vṇmaiñāṉ pōtkm\novvuctti yuḷniṟaintu ucciyū ṭuruviyē\nivvkai aṟintpērkḷ īcṉāṇai īcṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "0ddac627d41a74f888a133913a60272595a45c9978c9e3df7f44307bb1d1800c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

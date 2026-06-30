@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0694",
+  "text_id": "sivavakkiyar_pm_0694",
+  "title": "Sivavakkiyam - Verse 85",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "85",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பருகிஓடி உம்முளே பறந்துவந்த வெளிதனை\nநிருவியே நினைந்துபார்க்கில் நின்மனம் அதாகுமே.\nஉருகிஓடி எங்குமாய் ஓடும்சோதி தன்னுளே\nகருதுவீர் உமக்குநல்ல காரணம் அதாகுமே.",
+  "transliteration": "prukiōṭi ummuḷē pṟntuvnt veḷitṉai\nniruviyē niṉaintupārkkil niṉmṉm atākumē.\nurukiōṭi eṅkumāy ōṭumcōti tṉṉuḷē\nkrutuvīr umkkunll kārṇm atākumē.",
+  "english_translation": null,
+  "content_hash": "1d451bfefcdbff95eea1c9f076addce40b3b18e7b0ecc09429f9819e713f2220",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "body_heart",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "body_light",
+    "practice_kumbhaka",
+    "siddhar_karuvoorar"
+  ]
+}

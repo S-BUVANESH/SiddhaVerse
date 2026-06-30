@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0735",
+  "text_id": "sivavakkiyar_pm_0735",
+  "title": "Sivavakkiyam - Verse 126",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "126",
+  "tamil_text": "ஏகபோகம் ஆகியே இருவரும் ஒருவராய்\nபோகமும் புணர்ச்சியும் பொருந்துமாறது எங்ஙனே?\nஆகலும் அழிதலும் அதன்கண்ணேயம் ஆனபின்\nசாகலும் பிறத்தலும் இல்லைஇல்லை இல்லையே!",
+  "transliteration": "ēkpōkm ākiyē iruvrum oruvrāy\npōkmum puṇrcciyum poruntumāṟtu eṅṅṉē?\nāklum aḻitlum atṉkṇṇēym āṉpiṉ\ncāklum piṟttlum illaiillai illaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9e1f336f12f687f62c98d2849509cfc0b7c0ef6be75ac28258272fba847b361c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

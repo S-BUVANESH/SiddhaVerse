@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0375",
+  "text_id": "thirumandiram_pm_0375",
+  "title": "Thirumandiram - Verse 924",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "924",
+  "tamil_text": "அடைவினில் ஐம்பதும் ஐஐந்து அறையின்\nஅடையும் அறையொன்றுக்கு ஈரெழுத்து ஆக்கி\nஅடையும் மகாரத்தில் அந்தமாம் க்ஷவ்வும்\nஅடைவின் எழுத்துஐம் பத்தொன்றும் அமர்ந்ததே.",
+  "transliteration": "aṭaiviṉil aimptum aiaintu aṟaiyiṉ\naṭaiyum aṟaiyoṉṟukku īreḻuttu ākki\naṭaiyum mkārttil antmām kṣvvum\naṭaiviṉ eḻuttuaim pttoṉṟum amrnttē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f1ccb38a996b91635dac6630183a55f125309f8f1b455d934e62701b9a90702d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

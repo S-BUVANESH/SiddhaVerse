@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0200",
+  "text_id": "thirumandiram_pm_0200",
+  "title": "Thirumandiram - Verse 203",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "203",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பொருள்கொண்ட கண்டனும் போதத்தை யாளும்\nஇருள்கொண்ட மின்வெளி கொண்டுநின் றோரும்\nமருள்கொணட மாதர் மயலுறு வார்கள்\nமருள்கொண்ட சிந்தையை மாற்றகில் லாரே.",
+  "transliteration": "poruḷkoṇṭ kṇṭṉum pōtttai yāḷum\niruḷkoṇṭ miṉveḷi koṇṭuniṉ ṟōrum\nmruḷkoṇṭ mātr myluṟu vārkḷ\nmruḷkoṇṭ cintaiyai māṟṟkil lārē.",
+  "english_translation": null,
+  "content_hash": "bfb16de714e9bac1d436b3f1e577c33b3abdb1d2016c93837e1ccfd91bea5a7a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_eye",
+    "place_kashi"
+  ]
+}

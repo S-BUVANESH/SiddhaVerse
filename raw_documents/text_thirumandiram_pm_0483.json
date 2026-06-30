@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0483",
+  "text_id": "thirumandiram_pm_0483",
+  "title": "Thirumandiram - Verse 1041",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1041",
+  "tamil_text": "மாதன மாக வளர்கின்ற வன்னியைச்\nசாதன மாகச் சமைந்த குருவென்று\nபோதன மாகப் பொருந்த உலகாளும்\nபாதன மாகப் பரிந்தது பார்த்தே.",
+  "transliteration": "mātṉ māk vḷrkiṉṟ vṉṉiyaic\ncātṉ mākc cmaint kuruveṉṟu\npōtṉ mākp porunt ulkāḷum\npātṉ mākp printtu pārttē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "30d4483979cfafe017b67243168e5a8d66a903ae94c3f8ac36604c0df9d366f5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

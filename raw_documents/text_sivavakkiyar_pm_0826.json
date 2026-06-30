@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0826",
+  "text_id": "sivavakkiyar_pm_0826",
+  "title": "Sivavakkiyam - Verse 217",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "217",
+  "tamil_text": "அஞ்சும்அஞ்சும் அஞ்சும்அஞ்சும் அல்லல்செய்து நிற்பதும்\nஅஞ்சும்அஞ்சும் அஞ்சுமே அமர்ந்துளே இருப்பதும்\nஅஞ்சும்அஞ்சும் அஞ்சுமே ஆதரிக்க வல்லீரேல்\nஅஞ்சும்அஞ்சும் உம்முளே அமர்ந்ததே சிவாயமே.",
+  "transliteration": "añcumañcum añcumañcum alllceytu niṟptum\nañcumañcum añcumē amrntuḷē irupptum\nañcumañcum añcumē ātrikk vllīrēl\nañcumañcum ummuḷē amrnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ecc356abb1b67e9de24fc630914a0939de360aa9c3fd579882872b6c53a7cc8d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

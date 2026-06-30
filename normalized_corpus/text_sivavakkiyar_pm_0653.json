@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0653",
+  "text_id": "sivavakkiyar_pm_0653",
+  "title": "Sivavakkiyam - Verse 44",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "44",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சித்தம்ஏது, சிந்தைஏது சீவன்ஏது! சித்தரே\nசத்திஏது? சம்புஏது சாதிபேத அற்றது\nமுத்திஏது? மூலம்ஏது மூலமந் திரங்கள்ஏது?\nவித்தில்லாத வித்திலே இதினெனதென்று இயம்புமே.",
+  "transliteration": "cittmētu, cintaiētu cīvṉētu! cittrē\ncttiētu? cmpuētu cātipēt aṟṟtu\nmuttiētu? mūlmētu mūlmn tirṅkḷētu?\nvittillāt vittilē itiṉeṉteṉṟu iympumē.",
+  "english_translation": null,
+  "content_hash": "3e8560cbed573a2fd7bfaff78378255ddbab0a6b113e9be7dc2fb5cfedf8022b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_moolam",
+    "practice_mudra",
+    "deity_shiva",
+    "concept_mantra",
+    "plant_thippili"
+  ]
+}

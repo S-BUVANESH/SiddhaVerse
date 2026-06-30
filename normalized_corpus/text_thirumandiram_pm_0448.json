@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0448",
+  "text_id": "thirumandiram_pm_0448",
+  "title": "Thirumandiram - Verse 1006",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1006",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எய்தி வழிப்படில் எய்தா தனஇல்லை\nஎய்தி வழிப்படில் இந்திரன் செல்வமுன்\nஎய்தி வழிப்படில் எண்சித்தி உண்டாகும்\nஎய்தி வழிப்படில் எய்திடும் முத்தியே.",
+  "transliteration": "eyti vḻippṭil eytā tṉillai\neyti vḻippṭil intirṉ celvmuṉ\neyti vḻippṭil eṇcitti uṇṭākum\neyti vḻippṭil eytiṭum muttiyē.",
+  "english_translation": null,
+  "content_hash": "657c339fec587e479e814aa912e117f02857728b3b161615aef4a030b94bbf88",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_mudra",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0275",
+  "text_id": "thirumandiram_pm_0275",
+  "title": "Thirumandiram - Verse 278",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "278",
+  "tamil_text": "நித்தலும் துஞ்சும் பிறப்பையும் செய்தவன்\nவைத்த பரிசு அறிந் தேயும் மனிதர்கள்\nஇச்சையு ளேவைப்பர் எந்தை பிரானென்று\nநச்சியே அண்ணலை நாடுகி லாரே.",
+  "transliteration": "nittlum tuñcum piṟppaiyum ceytvṉ\nvaitt pricu aṟin tēyum mṉitrkḷ\niccaiyu ḷēvaippr entai pirāṉeṉṟu\nncciyē aṇṇlai nāṭuki lārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "bf60207828f9fae7bb6d610d360f8b8275ef2281e29c9149cd1e7371b6da8f92",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

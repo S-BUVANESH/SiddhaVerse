@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0879",
+  "text_id": "sivavakkiyar_pm_0879",
+  "title": "Sivavakkiyam - Verse 270",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "270",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பத்தினோடு பத்துமாய் ஓர்ஏழினோடு ஒன்பதாய்\nபத்துநாற் திசைக்குள்நின்ற நாடுபெற்ற நன்மையால்\nபத்துமாய கொத்தமோடும் அத்தலமிக் காதிமால்\nபத்தர்கட் கலாதுமுத்தி முத்திமுத்தி யாகுமே.",
+  "transliteration": "pttiṉōṭu pttumāy ōrēḻiṉōṭu oṉptāy\npttunāṟ ticaikkuḷniṉṟ nāṭupeṟṟ nṉmaiyāl\npttumāy kottmōṭum attlmik kātimāl\npttrkṭ klātumutti muttimutti yākumē.",
+  "english_translation": null,
+  "content_hash": "5d29d999ea00c8d6e3b0fab894b3914be58bd93ac4f89ea666f8b506124fe70e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "concept_nadi",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_mudra",
+    "concept_mukti",
+    "practice_kumbhaka"
+  ]
+}

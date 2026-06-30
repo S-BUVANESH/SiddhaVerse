@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0447",
+  "text_id": "thirumandiram_pm_0447",
+  "title": "Thirumandiram - Verse 1005",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1005",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அன்புடனே நின்று அமுதமும் ஏற்றியே\nபொன்செய் விளக்கும் புகைதீபம் திசைதொறும்\nதுன்பம் அகற்றித் தொழுவோர் நினையுங்கால்\nஇன்புட னேவந்து எய்திடும் முத்தியே.",
+  "transliteration": "aṉpuṭṉē niṉṟu amutmum ēṟṟiyē\npoṉcey viḷkkum pukaitīpm ticaitoṟum\ntuṉpm akṟṟit toḻuvōr niṉaiyuṅkāl\niṉpuṭ ṉēvntu eytiṭum muttiyē.",
+  "english_translation": null,
+  "content_hash": "da3a5c25649847e7a28c3a30bd38027ea815656d4a03311893692dab264b275d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ashwagandha",
+    "symbol_three",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_mudra",
+    "body_light",
+    "practice_kumbhaka",
+    "body_fire",
+    "concept_dhyana"
+  ]
+}

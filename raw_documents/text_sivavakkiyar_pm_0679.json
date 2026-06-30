@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0679",
+  "text_id": "sivavakkiyar_pm_0679",
+  "title": "Sivavakkiyam - Verse 70",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "70",
+  "tamil_text": "இருக்கவேணும் என்றபோது இருத்தலாய் இருக்குமோ?\nமரிக்கவேணும் என்றலோ மண்ணுளே படைத்தனர்?\nசுருக்கமற்ற தம்பிரான் சொன்னஅஞ் செழுத்தையும்\nமரிக்குமுன் வணங்கிடீர் மருந்தெனப் பதம்கெடீர்.",
+  "transliteration": "irukkvēṇum eṉṟpōtu iruttlāy irukkumō?\nmrikkvēṇum eṉṟlō mṇṇuḷē pṭaittṉr?\ncurukkmṟṟ tmpirāṉ coṉṉañ ceḻuttaiyum\nmrikkumuṉ vṇṅkiṭīr mrunteṉp ptmkeṭīr.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f598e9d7aedc84d6a4f82aa7f6d7d2bab59c629e362f6e2e9dad4e27eeeac641",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

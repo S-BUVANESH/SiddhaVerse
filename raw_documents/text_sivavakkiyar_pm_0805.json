@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0805",
+  "text_id": "sivavakkiyar_pm_0805",
+  "title": "Sivavakkiyam - Verse 196",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "196",
+  "tamil_text": "அருக்கனோடு சோமனும் அதுக்கும் அப்புறத்திலே\nநெருக்கிஏறு தாரகை நெருங்கிநின்ற நேர்மையை\nஉருக்கிஓர் எழுத்துமே ஒப்பிலாத வெளியிலே\nஇருக்கவல்ல பேரலோ இனிப்பிறப்பது இல்லையே.",
+  "transliteration": "arukkṉōṭu cōmṉum atukkum appuṟttilē\nnerukkiēṟu tārkai neruṅkiniṉṟ nērmaiyai\nurukkiōr eḻuttumē oppilāt veḷiyilē\nirukkvll pērlō iṉippiṟpptu illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fb1e37fc0c1f8d5086cc40f028afd7a1dd7414feb4b1c562877df30fbff47bdb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

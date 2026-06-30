@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0634",
+  "text_id": "sivavakkiyar_pm_0634",
+  "title": "Sivavakkiyam - Verse 25",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "25",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உற்பத்தி நிலை\n\nஅண்ணலே அனாதியே அனாதிமுன் அனாதியே\nபெண்ணும்ஆணும் ஒன்றலோ பிறப்பதற்கு முன்னெலாம்\nகண்ணிலாணின் சுக்கிலம் கருவில்ஓங்கும் நாளிலே\nமண்ணுளோரும் விண்ணுளோரும் வந்தவாறு எங்ஙனே?",
+  "transliteration": "uṟptti nilai\n\naṇṇlē aṉātiyē aṉātimuṉ aṉātiyē\npeṇṇumāṇum oṉṟlō piṟpptṟku muṉṉelām\nkṇṇilāṇiṉ cukkilm kruvilōṅkum nāḷilē\nmṇṇuḷōrum viṇṇuḷōrum vntvāṟu eṅṅṉē?",
+  "english_translation": null,
+  "content_hash": "4e3db11a43fa89deed6cbbf1d3465486666824b6f896851b32027c50ea9e74c7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "siddhar_karuvoorar",
+    "body_eye",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0965",
+  "text_id": "sivavakkiyar_pm_0965",
+  "title": "Sivavakkiyam - Verse 356",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "356",
+  "tamil_text": "நின்றிருந்த சோதியை நிலத்தில்உற்ற மானிடர்\nகண்டறிந்து கண்குளிர்ந்து காதலுற்று உலாவுவோர்\nகண்டமுற்ற மேன்முனையில் காட்சிதன்னைக் காணுவார்\nகன்றிஅற்று நாலைபொங்கி நாதமும் மகிழ்ந்திடும்.",
+  "transliteration": "niṉṟirunt cōtiyai nilttiluṟṟ māṉiṭr\nkṇṭṟintu kṇkuḷirntu kātluṟṟu ulāvuvōr\nkṇṭmuṟṟ mēṉmuṉaiyil kāṭcitṉṉaik kāṇuvār\nkṉṟiaṟṟu nālaipoṅki nātmum mkiḻntiṭum.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f878fd2db402d81bb5e5fb1e25c011a850bfb3ee5a914c4e2148ac2dbf2b7ec9",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0807",
+  "text_id": "sivavakkiyar_pm_0807",
+  "title": "Sivavakkiyam - Verse 198",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "198",
+  "tamil_text": "சுக்கிலத் திசையுளே சுரோணிதத்தின் வாசலுள்\nமுத்துசரம் எட்டுளே மூலாதார வறையிலே\nஅச்சமற்ற சவ்வுளே அரிஅரன் அயனுமாய்\nஉச்சரிக்கும் மந்திரம் உண்மையே சிவாயமே.",
+  "transliteration": "cukkilt ticaiyuḷē curōṇitttiṉ vācluḷ\nmuttucrm eṭṭuḷē mūlātār vṟaiyilē\naccmṟṟ cvvuḷē ariarṉ ayṉumāy\nuccrikkum mntirm uṇmaiyē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "425b6cc6e0b7ae7ea11251bf8052a7fdfae60dbd6987d1e6618f3f60073b5859",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

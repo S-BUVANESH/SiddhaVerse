@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0342",
+  "text_id": "thirumandiram_pm_0342",
+  "title": "Thirumandiram - Verse 890",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "890",
+  "tamil_text": "தராதல மூலைக்குத் தற்பர மாபரன்\nதராதலம் வெப்பு நமசி வாயந்\nதராதலம் சொல்லில் தான்வா சியவாகும்\nதராதல யோகம் தயாவாசி யாமே.",
+  "transliteration": "trātl mūlaikkut tṟpr māprṉ\ntrātlm veppu nmci vāyn\ntrātlm collil tāṉvā ciyvākum\ntrātl yōkm tyāvāci yāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b83dead76805de525ccea6cd53fd30ae47ff20b2f3b964823b91fb3a16edc5fb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

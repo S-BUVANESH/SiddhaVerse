@@ -1,0 +1,34 @@
+{
+  "document_id": "sivavakkiyar_pm_0837",
+  "text_id": "sivavakkiyar_pm_0837",
+  "title": "Sivavakkiyam - Verse 228",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "228",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வானிலாதது ஒன்றுமில்லை வானுமில்லை வானிடில்\nஊனிலாதது ஒன்றுமில்லை ஊனுமில்லை ஊனிடில்\nநானிலாதது ஒன்றுமில்லை நானுமில்லை நண்ணிடில்\nதானிலாதது ஒன்றுமில்லை தயங்கி ஆடுகின்றதே!",
+  "transliteration": "vāṉilāttu oṉṟumillai vāṉumillai vāṉiṭil\nūṉilāttu oṉṟumillai ūṉumillai ūṉiṭil\nnāṉilāttu oṉṟumillai nāṉumillai nṇṇiṭil\ntāṉilāttu oṉṟumillai tyṅki āṭukiṉṟtē!",
+  "english_translation": null,
+  "content_hash": "4be975dbbf3cbe49a2f7cdd616c3c89a188378f2c6b53e8b39a51017de440080",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_brahma"
+  ]
+}

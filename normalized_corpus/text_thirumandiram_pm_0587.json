@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0587",
+  "text_id": "thirumandiram_pm_0587",
+  "title": "Thirumandiram - Verse 1146",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1146",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இருந்தனள் தன்முகம் ஆறொடு நாலாய்ப்\nபரந்தன வாயு திசை தோறும்\nகுவிந்தன முத்தின் முகவொளி நோக்கி\nநடந்தது தேறல் அதோமுகம் அம்பே.",
+  "transliteration": "iruntṉḷ tṉmukm āṟoṭu nālāyp\nprntṉ vāyu ticai tōṟum\nkuvintṉ muttiṉ mukvoḷi nōkki\nnṭnttu tēṟl atōmukm ampē.",
+  "english_translation": null,
+  "content_hash": "a01ba8a7afb51689eb0c6847da19f09ac9aa36b58d7ad07131997493e89b0f73",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_mukti",
+    "symbol_three",
+    "body_seed",
+    "deity_shakti",
+    "practice_mudra",
+    "deity_ganesha"
+  ]
+}

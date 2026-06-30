@@ -1,0 +1,45 @@
+{
+  "document_id": "siddhar_pambatti_siddhar",
+  "text_id": "siddhar_pambatti_siddhar",
+  "title": "Pambatti Siddhar",
+  "source_work": "Siddhar Biography",
+  "collection": "Siddhars",
+  "verse_number": null,
+  "author": "Pambatti Siddhar",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "பாம்பாட்டிச் சித்தர்",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "4d71ae8012d685cc177df58e28bf6722a7ab803f4a2aa9020c42404e47ef5c15",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "search_text": "Pambatti Siddhar Pambatti Siddhar பாம்பாட்டிச் சித்தர் c. 15th–17th century CE Known as the Snake Charmer Siddhar, Pambatti Siddhar used the imagery of the snake (cobra) as a metaphor for Kundalini and spiritual awakening. His songs use the refrain 'saami' (master/lord) as a poetic signature. Pambatti Siddhar Padalgal Kundalini yoga, Shaiva iconoclasm, spiritual alchemy siddhar_pambatti",
+  "translation_status": "unavailable",
+  "name": "Pambatti Siddhar",
+  "tamil_name": "பாம்பாட்டிச் சித்தர்",
+  "period": "c. 15th–17th century CE",
+  "biography": "Known as the Snake Charmer Siddhar, Pambatti Siddhar used the imagery of the snake (cobra) as a metaphor for Kundalini and spiritual awakening. His songs use the refrain 'saami' (master/lord) as a poetic signature.",
+  "texts": [
+    "Pambatti Siddhar Padalgal"
+  ],
+  "philosophy": "Kundalini yoga, Shaiva iconoclasm, spiritual alchemy",
+  "verse_corpus_entity": "siddhar_pambatti"
+}

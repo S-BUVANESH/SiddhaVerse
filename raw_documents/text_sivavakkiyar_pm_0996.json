@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0996",
+  "text_id": "sivavakkiyar_pm_0996",
+  "title": "Sivavakkiyam - Verse 387",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "387",
+  "tamil_text": "வானவர் நிறைந்தசோதி மானிடக் கருவிலே\nவானதேவர் அத்தனைக்குள் வந்தடைவர் வானவர்\nவானகமும் மண்ணகமும் வட்டவீடு அறிந்தபின்\nவானெலாம் நிறைந்தமன்னு மாணிக்கங்கள் ஆனவே.",
+  "transliteration": "vāṉvr niṟaintcōti māṉiṭk kruvilē\nvāṉtēvr attṉaikkuḷ vntṭaivr vāṉvr\nvāṉkmum mṇṇkmum vṭṭvīṭu aṟintpiṉ\nvāṉelām niṟaintmṉṉu māṇikkṅkḷ āṉvē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "500e5a794d36dc8bebb20d5bc8cb2d27798d182b418dbc66b5bfa0562468bb95",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

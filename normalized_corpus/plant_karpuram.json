@@ -1,0 +1,47 @@
+{
+  "document_id": "plant_karpuram",
+  "text_id": "plant_karpuram",
+  "title": "Camphor Tree",
+  "source_work": "Siddha Materia Medica",
+  "collection": "Medicinal Plants",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "கற்பூரம்",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "8cb8bf403501e0aa85d0efac1726f00dcf50ed9f16baf61203bb50e6993e447e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [
+    "plant_karpuram"
+  ],
+  "search_text": "Camphor Tree கற்பூரம் Camphor Tree Cinnamomum camphora Lauraceae Bark, wood, leaves Camphor, Safrole Ritual use, pain relief, skin infections, Siva puja Camphor oil, medicated smoke plant_karpuram",
+  "translation_status": "unavailable",
+  "tamil": "கற்பூரம்",
+  "english": "Camphor Tree",
+  "scientific": "Cinnamomum camphora",
+  "family": "Lauraceae",
+  "part": "Bark, wood, leaves",
+  "phytochem": "Camphor, Safrole",
+  "uses": "Ritual use, pain relief, skin infections, Siva puja",
+  "prep": "Camphor oil, medicated smoke",
+  "verse_entity": "plant_karpuram"
+}

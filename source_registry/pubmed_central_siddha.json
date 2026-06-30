@@ -1,0 +1,26 @@
+{
+  "title": "PubMed Central Siddha Medicine Articles",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+  "organization": "National Institutes of Health (NIH), USA",
+  "source_type": "Research Paper",
+  "license_status": "open_access",
+  "trust_score": "10.0/10",
+  "priority": "high",
+  "acquisition_difficulty": 1,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 30,
+    "formulations": 20,
+    "diseases": 20,
+    "manuscripts": 0,
+    "research": 30
+  },
+  "access_type": "open",
+  "contains": [
+    "Peer-reviewed Scientific Papers",
+    "Pharmacological Studies",
+    "Toxicological Reports",
+    "Clinical Trial Results"
+  ],
+  "notes": "Highest-trust scientific evidence layer. Download and extract full-text files that are marked Open Access/Creative Commons."
+}

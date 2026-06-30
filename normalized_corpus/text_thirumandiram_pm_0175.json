@@ -1,0 +1,34 @@
+{
+  "document_id": "thirumandiram_pm_0175",
+  "text_id": "thirumandiram_pm_0175",
+  "title": "Thirumandiram - Verse 178",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "178",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆண்டு பலவுங் கழிந்தன அப்பனைப்\nபூண்டுகொண் டாரும் புகுந்தறி வாரில்லை\nநீண்டன காலங்கள் நீண்டு கொடுக்கினும்\nதூண்டு விளக்கின் சுடரறி யாரே.",
+  "transliteration": "āṇṭu plvuṅ kḻintṉ appṉaip\npūṇṭukoṇ ṭārum pukuntṟi vārillai\nnīṇṭṉ kālṅkḷ nīṇṭu koṭukkiṉum\ntūṇṭu viḷkkiṉ cuṭrṟi yārē.",
+  "english_translation": null,
+  "content_hash": "74efaa4bea551f2008b8ec023b97124d94e72c569d28878c81f6818c826c8a5e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_kashi"
+  ]
+}

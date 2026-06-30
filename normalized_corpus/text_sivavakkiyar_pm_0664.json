@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0664",
+  "text_id": "sivavakkiyar_pm_0664",
+  "title": "Sivavakkiyam - Verse 55",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "55",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தில்லைநாய கன்அவன்; திருவரங் கனும்அவன்;\nஎல்லையான புவனமும் ஏகமுத்தி யானவன்\nபல்லுநாவும் உள்ளபேர் பகுத்துகூறி மகிழுவார்;\nவல்லபங்கள் பேசுவார் வாய்புழுத்து மாய்வரே.",
+  "transliteration": "tillaināy kṉavṉ; tiruvrṅ kṉumavṉ;\nellaiyāṉ puvṉmum ēkmutti yāṉvṉ\npllunāvum uḷḷpēr pkuttukūṟi mkiḻuvār;\nvllpṅkḷ pēcuvār vāypuḻuttu māyvrē.",
+  "english_translation": null,
+  "content_hash": "f8d0844025d6e9e1ccd9c3f6b8b0a484dae06bf4dda8b810adad2c2780e9480a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_maya",
+    "plant_vallarai",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "practice_mudra",
+    "siddhar_kudambai",
+    "place_kashi",
+    "body_breath"
+  ]
+}

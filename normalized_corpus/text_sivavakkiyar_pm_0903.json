@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0903",
+  "text_id": "sivavakkiyar_pm_0903",
+  "title": "Sivavakkiyam - Verse 294",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "294",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வாக்கினால் மனத்தினால் மதித்தகார ணத்தினால்\nநோக்கொணாத நோக்கையுன்னி நோக்கையாவர் நோக்குவார்\nநோக்கொணாத நோக்குவந்து நோக்கநோக்க நோக்கிடில்\nநோக்கொணாத நோக்குவந்து நோக்கைஎங்கண் நோக்குமே.",
+  "transliteration": "vākkiṉāl mṉttiṉāl mtittkār ṇttiṉāl\nnōkkoṇāt nōkkaiyuṉṉi nōkkaiyāvr nōkkuvār\nnōkkoṇāt nōkkuvntu nōkknōkk nōkkiṭil\nnōkkoṇāt nōkkuvntu nōkkaieṅkṇ nōkkumē.",
+  "english_translation": null,
+  "content_hash": "e8e64243ba94a1ebe0587dfead628e7d174fc8cf5742d8e3b5874b0fba2a3cf0",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "place_kashi",
+    "practice_kumbhaka"
+  ]
+}

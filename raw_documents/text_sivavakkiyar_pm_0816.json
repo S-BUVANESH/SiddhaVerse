@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0816",
+  "text_id": "sivavakkiyar_pm_0816",
+  "title": "Sivavakkiyam - Verse 207",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "207",
+  "tamil_text": "அசவை - அசுபா மந்திரம்\n\nஅஞ்செழுத்தும் மூன்றெழுத்தும் என்றுரைக்கும் அன்பர்காள்\nஅஞ்செழுத்தும் மூன்றெழுத்தும் அல்லகாணும் அப்பொருள்;\nஅஞ்செழுத்தும் நெஞ்சழுத்து அவ்வெழுத் தறிந்தபின்\nஅஞ்செழுத்தும் அவ்வின்வண்ணம் ஆனதே சிவாயமே.",
+  "transliteration": "acvai - acupā mntirm\n\nañceḻuttum mūṉṟeḻuttum eṉṟuraikkum aṉprkāḷ\nañceḻuttum mūṉṟeḻuttum allkāṇum apporuḷ;\nañceḻuttum neñcḻuttu avveḻut tṟintpiṉ\nañceḻuttum avviṉvṇṇm āṉtē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "073e7e100a15ed7c02772c720b8e427eac2c3c802864fe1c27a8c93df2f1d799",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

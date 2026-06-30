@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0917",
+  "text_id": "sivavakkiyar_pm_0917",
+  "title": "Sivavakkiyam - Verse 308",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "308",
+  "tamil_text": "உம்பர் வானகத்தினும் உலகபாரம் ஏழினும்\nநம்பர்நாடு தன்னிலும் நாவலென்ற தீவினும்\nசெம்பொன் மாடம் மல்குதில்லை அம்பலத்துள் ஆடுவான்\nஎம்பிரான் அலாதுதெய்வம் இல்லைஇல்லை இல்லையே.",
+  "transliteration": "umpr vāṉkttiṉum ulkpārm ēḻiṉum\nnmprnāṭu tṉṉilum nāvleṉṟ tīviṉum\ncempoṉ māṭm mlkutillai amplttuḷ āṭuvāṉ\nempirāṉ alātuteyvm illaiillai illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "99c089197bd699c1875cc548c5a6b3889573eaec2e9b1ea4c094f10801767322",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

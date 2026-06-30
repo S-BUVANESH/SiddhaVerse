@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0991",
+  "text_id": "sivavakkiyar_pm_0991",
+  "title": "Sivavakkiyam - Verse 382",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "382",
+  "tamil_text": "ஈன்றெழுந்த எம்பிரான் திருவரங்க வெளியிலே\nநான்றபாம்பின் வாயினால் நாலுதிக்கும் ஆயினான்\nமூன்றுமூன்று வளையமாய் முப்புரம் கடந்தபின்\nஈன்றெழுந்த அவ்வினோசை எங்குமாகி நின்றதே.",
+  "transliteration": "īṉṟeḻunt empirāṉ tiruvrṅk veḷiyilē\nnāṉṟpāmpiṉ vāyiṉāl nālutikkum āyiṉāṉ\nmūṉṟumūṉṟu vḷaiymāy muppurm kṭntpiṉ\nīṉṟeḻunt avviṉōcai eṅkumāki niṉṟtē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e04e2a01f365f947b2f90c2842a2de41e28156a0f9a715d256ca83050414540f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

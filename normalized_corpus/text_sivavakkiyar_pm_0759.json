@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0759",
+  "text_id": "sivavakkiyar_pm_0759",
+  "title": "Sivavakkiyam - Verse 150",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "150",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஓதிவைத்த நூல்களும் உணர்ந்துகற்ற கல்வியும்\nமாதுமக்கள் சுற்றுமும் மறக்கவந்த நித்திரை\nஏதுபுக் கொளித்ததோ எங்குமாகி நின்றதோ?\nசோதிபுக் கொளித்தமாயம் சொல்லடா சுவாமியே!",
+  "transliteration": "ōtivaitt nūlkḷum uṇrntukṟṟ klviyum\nmātumkkḷ cuṟṟumum mṟkkvnt nittirai\nētupuk koḷitttō eṅkumāki niṉṟtō?\ncōtipuk koḷittmāym collṭā cuvāmiyē!",
+  "english_translation": null,
+  "content_hash": "6e112fb716f84cb9686ab04c98d56641564240d49b1d2f8a94bb2f1be509fd95",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "body_breath",
+    "body_light",
+    "plant_thippili",
+    "practice_kumbhaka"
+  ]
+}

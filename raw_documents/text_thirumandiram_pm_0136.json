@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0136",
+  "text_id": "thirumandiram_pm_0136",
+  "title": "Thirumandiram - Verse 138",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "138",
+  "tamil_text": "திருவடி யேசிவ மாவது தோ஢ல்\nதிருவடி யேசிவ லோகஞ்சிந் திக்கில்\nதிருவடி யேசெல் கதியது செப்பில்\nதிருவடி யேதஞ்சம் உள்தெளி வார்க்கே.",
+  "transliteration": "tiruvṭi yēciv māvtu tō஢l\ntiruvṭi yēciv lōkñcin tikkil\ntiruvṭi yēcel ktiytu ceppil\ntiruvṭi yētñcm uḷteḷi vārkkē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "328463812a86356411c7b2ee22a21cd226f800ba752dcded145893c447b8f7dd",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

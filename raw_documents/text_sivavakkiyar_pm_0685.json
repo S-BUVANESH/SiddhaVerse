@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0685",
+  "text_id": "sivavakkiyar_pm_0685",
+  "title": "Sivavakkiyam - Verse 76",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "76",
+  "tamil_text": "அன்பு நிலை\n\nஇருவர்அரங்க மும்பொருந்தி என்புருகி நோக்கிலீர்;\nஉருவரங்கம் ஆகிநின்ற உண்மைஒன்றை ஓர்கிலீர்;\nகருஅரங்கம் ஆகிநின்ற கற்பனை கடந்துபின்\nதிருஅரங்கம் என்றுநீர் தெளிந்திருக்க வல்லீரே!",
+  "transliteration": "aṉpu nilai\n\niruvrarṅk mumporunti eṉpuruki nōkkilīr;\nuruvrṅkm ākiniṉṟ uṇmaioṉṟai ōrkilīr;\nkruarṅkm ākiniṉṟ kṟpṉai kṭntupiṉ\ntiruarṅkm eṉṟunīr teḷintirukk vllīrē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "601ba5cd3e24cc90fb5161490a6fec7a91f0d2d02a88d2baef320ecdb1836cb6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

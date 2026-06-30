@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0957",
+  "text_id": "sivavakkiyar_pm_0957",
+  "title": "Sivavakkiyam - Verse 348",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "348",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மோனமான வீதியில் முடுகிநின்ற நாதமே\nஈனமின்றி வேகமான வேகம்என்ன வேகமே\nகானமான மூலையில் கனிந்திருந்த வாலையில்\nஞானமான செஞ்சுடர் நடந்ததே சிவாயமே.",
+  "transliteration": "mōṉmāṉ vītiyil muṭukiniṉṟ nātmē\nīṉmiṉṟi vēkmāṉ vēkmeṉṉ vēkmē\nkāṉmāṉ mūlaiyil kṉintirunt vālaiyil\nñāṉmāṉ ceñcuṭr nṭnttē civāymē.",
+  "english_translation": null,
+  "content_hash": "fbd9c58e03305df6bcb7e907067c17dc5985f2bc54a314daef1e5b9e4d429de1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_moolam",
+    "deity_shiva",
+    "concept_dhyana"
+  ]
+}

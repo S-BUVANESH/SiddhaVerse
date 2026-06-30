@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0862",
+  "text_id": "sivavakkiyar_pm_0862",
+  "title": "Sivavakkiyam - Verse 253",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "253",
+  "tamil_text": "மூலமண்ட லத்திலே முச்சதுரம் ஆதியாய்\nநாலுவாசல் எம்பிரான் நடுஉதித்த மந்திரம்\nகோலிஎட்டு இதழுமாய் குளிர்ந்தலர்ந்த தீட்டமாய்\nமேலும்வேறு காண்கிலேன் விளைந்ததே சிவாயமே.",
+  "transliteration": "mūlmṇṭ lttilē muccturm ātiyāy\nnāluvācl empirāṉ nṭuutitt mntirm\nkōlieṭṭu itḻumāy kuḷirntlrnt tīṭṭmāy\nmēlumvēṟu kāṇkilēṉ viḷainttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7c1d63221b4221367dda185c6931ea6defa05fee31dc6b734e14094b205784b5",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

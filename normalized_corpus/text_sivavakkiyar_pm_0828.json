@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0828",
+  "text_id": "sivavakkiyar_pm_0828",
+  "title": "Sivavakkiyam - Verse 219",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "219",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உயிரிருந்தது எவ்விடம்? உடம்பெடுப்பு தன்முனம்?\nஉயிரதாவது ஏதடா? உடம்பதாவது ஏதடா?\nஉயிரையும் உடம்பையும் ஒன்றுவிப்பது ஏதடா?\nஉயிரினால் உடம்பெடுத்த உண்மைஞானி சொல்லடா.",
+  "transliteration": "uyirirunttu evviṭm? uṭmpeṭuppu tṉmuṉm?\nuyirtāvtu ētṭā? uṭmptāvtu ētṭā?\nuyiraiyum uṭmpaiyum oṉṟuvipptu ētṭā?\nuyiriṉāl uṭmpeṭutt uṇmaiñāṉi collṭā.",
+  "english_translation": null,
+  "content_hash": "5aec82e2a249d33d61404605c53f93e75396f9344950b7ec6031c31fbf94620d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_jnana",
+    "concept_atman",
+    "body_udal",
+    "body_uyir"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_22754059",
+  "text_id": "pubmed_22754059",
+  "title": "Introduction to 'Rasashaastra' the Iatrochemistry of Ayurveda.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Savrikar SS",
+    "Ravishankar B"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "4816d208b98d2844c778235d595f90e1e48b842bf8f63e9d2402a692f4b5c149",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "22754059",
+  "authors": [
+    "Savrikar SS",
+    "Ravishankar B"
+  ],
+  "journal": "African journal of traditional, complementary, and alternative medicines : AJTCAM",
+  "pubdate": "2011",
+  "doi": "10.4314/ajtcam.v8i5S.1",
+  "abstract": "The word Rasashaastra literally means the \"Science of Mercury\". It is a specialized branch of Ayurveda dealing mainly with materials which are known as 'Rasa dravyaas'. The products dealt under this discipline are an important component of Ayurvedic therapeutics. Considering the importance of this discipline in Ayurvedic therapeutics and the fact that there is dearth of comprehensive review on the subject an attempt has been made in this review to provide a brief but all encompassing coverage of different aspects related to it. The subjects covered in the review are: historical background of the evolvement of Rasashaastra as a specialized branch during different time periods; different aspects of classification 'Rasa dravyaas'; processing of metal and mineral products with a note on the methods used during different time periods; information about methods of pre and post preparation procedures for different kinds of 'Rasa dravyaas'; importance of mercury in Ayurveda, its processing methods and different preparations along with therapeutic indications. In addition attempt has been made to provide basic information on the metal and mineral based preparations mentioned in Ayurvedic Formulary of India; recent development in the field of Rasashaastra and future requirements for the proper development of the discipline. The main focus is to familiarize the readers, from non-ayurvedic background, on different aspects of this specialized discipline.",
+  "search_text": "pubmed 22754059 Introduction to 'Rasashaastra' the Iatrochemistry of Ayurveda. PubMed Research Scientific Literature Savrikar SS Ravishankar B Tamil Tamil script open_access PubMed Central 22754059 Savrikar SS Ravishankar B African journal of traditional, complementary, and alternative medicines : AJTCAM 2011 10.4314/ajtcam.v8i5S.1 The word Rasashaastra literally means the \"Science of Mercury\". It is a specialized branch of Ayurveda dealing mainly with materials which are known as 'Rasa dravyaas'. The products dealt under this discipline are an important component of Ayurvedic therapeutics. Considering the importance of this discipline in Ayurvedic therapeutics and the fact that there is dearth of comprehensive review on the subject an attempt has been made in this review to provide a brief but all encompassing coverage of different aspects related to it. The subjects covered in the review are: historical background of the evolvement of Rasashaastra as a specialized branch during different time periods; different aspects of classification 'Rasa dravyaas'; processing of metal and mineral products with a note on the methods used during different time periods; information about methods of pre and post preparation procedures for different kinds of 'Rasa dravyaas'; importance of mercury in Ayurveda, its processing methods and different preparations along with therapeutic indications. In addition attempt has been made to provide basic information on the metal and mineral based preparations mentioned in Ayurvedic Formulary of India; recent development in the field of Rasashaastra and future requirements for the proper development of the discipline. The main focus is to familiarize the readers, from non-ayurvedic background, on different aspects of this specialized discipline."
+}

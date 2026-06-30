@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0464",
+  "text_id": "thirumandiram_pm_0464",
+  "title": "Thirumandiram - Verse 1022",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1022",
+  "tamil_text": "நல்லதென் றாளே நமக்குற்ற நாயகம்\nசொல்லதென் றாளே சுடர்முடி பாதமோ\nமெல்லநின் றாளை வினவகில் லாதவர்\nகல்லதென் றாளையும் கற்றும் வின் வாளே.",
+  "transliteration": "nllteṉ ṟāḷē nmkkuṟṟ nāykm\ncollteṉ ṟāḷē cuṭrmuṭi pātmō\nmellniṉ ṟāḷai viṉvkil lātvr\nkllteṉ ṟāḷaiyum kṟṟum viṉ vāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "aea4c4f871efa55025242959891aabcc3f4ba1d6f487f56d6538a33af3e41dcc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

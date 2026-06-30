@@ -1,0 +1,81 @@
+{
+  "run_ts": "2026-06-25T14:54:20.107070+00:00",
+  "total_docs_after": 1174,
+  "translation_audit": {
+    "total_verse_docs": 0,
+    "translation_available": 0,
+    "translation_unavailable": 0,
+    "translation_partial": 0,
+    "coverage_pct": 0.0
+  },
+  "schema_unification": {
+    "docs_upgraded": 150,
+    "changes_count": 150
+  },
+  "multilingual_assets": {
+    "synonym_terms": 88,
+    "suffix_rules": 15,
+    "canonical_entity_keywords": 89
+  },
+  "enrichment": {
+    "plants_added": 10,
+    "formulations_added": 7,
+    "biographies_added": 5,
+    "manuscripts_added": 5,
+    "total_added": 27
+  },
+  "translation_notes": {
+    "Thirumandiram": {
+      "known_translations": [
+        {
+          "translator": "B. Natarajan",
+          "publisher": "Sri Ramakrishna Math, Madras",
+          "year": 1979,
+          "status": "copyrighted",
+          "availability": "not_public_domain",
+          "note": "Most complete English translation; copyright held by Sri Ramakrishna Math"
+        },
+        {
+          "translator": "T.N. Ganapathy",
+          "publisher": "Babaji's Kriya Yoga Publications",
+          "year": 1993,
+          "status": "copyrighted",
+          "availability": "not_public_domain",
+          "note": "8-volume series; copyrighted"
+        },
+        {
+          "translator": "Marshall Govindan Satchidananda",
+          "publisher": "Babaji's Kriya Yoga",
+          "year": 2013,
+          "status": "copyrighted",
+          "availability": "not_public_domain",
+          "note": "Selected translations; in print"
+        }
+      ],
+      "public_domain_status": "No verified public-domain English translation available as of 2026",
+      "acquisition_recommendation": "Contact Sri Ramakrishna Math regarding licensing for scholarly use"
+    },
+    "Sivavakkiyam": {
+      "known_translations": [
+        {
+          "translator": "David C. Buck",
+          "publisher": "Academic journals (partial)",
+          "year": 1981,
+          "status": "copyrighted",
+          "availability": "scattered_academic",
+          "note": "Partial translations in journal articles"
+        },
+        {
+          "translator": "Tamil Virtual Academy",
+          "publisher": "TVA Online",
+          "year": 2010,
+          "status": "online_with_restrictions",
+          "availability": "restricted_use",
+          "note": "Online translations; terms of use restrict redistribution"
+        }
+      ],
+      "public_domain_status": "No verified public-domain English translation available as of 2026",
+      "acquisition_recommendation": "Commission scholarly translations for Phase 2B-5"
+    }
+  }
+}

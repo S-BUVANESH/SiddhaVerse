@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0924",
+  "text_id": "sivavakkiyar_pm_0924",
+  "title": "Sivavakkiyam - Verse 315",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "315",
+  "tamil_text": "ஓதுவார்கள் ஓதுகின்ற ஓர்எழுத்தும் ஒன்றதே\nவேதம் என்ற தேகமாய் விளம்புகின்றது அன்றிது,\nநாதம்ஒன்று நான்முகன் மாலும்நானும் ஒன்றதே!\nஏதுமின்றி நின்றதொன்றை யான்உணர்ந்த நேர்மையே",
+  "transliteration": "ōtuvārkḷ ōtukiṉṟ ōreḻuttum oṉṟtē\nvētm eṉṟ tēkmāy viḷmpukiṉṟtu aṉṟitu,\nnātmoṉṟu nāṉmukṉ mālumnāṉum oṉṟtē!\nētumiṉṟi niṉṟtoṉṟai yāṉuṇrnt nērmaiyē",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "762a7011e97993f4acd0c8e96d4c9cee0646c6954cbe7985584f8b7c19bbb9c7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

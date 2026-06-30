@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_38634464",
+  "text_id": "pubmed_38634464",
+  "title": "Antimalarial potential of Kerala Ayurvedic Water \"Pathimugam\".",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Kaushik NK",
+    "Sahal D"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c7f0e12fef7dedc42fca438f239b946a5e8e54f1b77a93f62a6e626e14a12e1a",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "38634464",
+  "authors": [
+    "Kaushik NK",
+    "Sahal D"
+  ],
+  "journal": "Journal of vector borne diseases",
+  "pubdate": "2024 Jul 01",
+  "doi": "10.4103/JVBD.JVBD_18_24",
+  "abstract": "BACKGROUND OBJECTIVES: The persistent threat of drug resistant malaria demands new cures. Low prevalence of malaria in the Indian state of Kerala compared with other proximal states led us to explore if there is any traditional practice in Kerala which may confer protection against malaria. In this context, our attention was drawn to \"Pathimugam\" i.e., Ceasalpinia sappan whose heartwood is used to prepare a red aqueous extract which is a uniquely popular drink all over Kerala.\nMETHODS: Aqueous and methanolic extracts of various organs of C. sappan were prepared and tested against Plasmodium falciparum grown in vitro culture using SYBR Green-I assay. The cytotoxicity of active extracts/fractions was studied using mammalian HeLa cell line. In vivo efficacy was determined using Plasmodium berghei ANKA infected mice.\nRESULTS: The highest antiplasmodial activities in the alcoholic and aqueous extracts were observed in leaf methanolic extract (IC 2 μg/ml) and heartwood aqueous extract (IC 12.5 μg/ml). C. sappan extracts were equipotent against both chloroquine sensitive Pf3D7 and resistant Pf INDO strains and showed suppression of % parasitemia in P. berghei infected mice. Activity guided chromatographic fractionation of aqueous wood extract led to the fortification of antiplasmodial activity (IC 5 μg/ml).\nINTERPRETATION CONCLUSION: Our results establish the antiplasmodial potential of C. sappan and suggest that its regular use might have prophylactic or curative actions that may assist in keeping check on malaria in the Indian state of Kerala.",
+  "search_text": "pubmed 38634464 Antimalarial potential of Kerala Ayurvedic Water \"Pathimugam\". PubMed Research Scientific Literature Kaushik NK Sahal D Tamil Tamil script open_access PubMed Central 38634464 Kaushik NK Sahal D Journal of vector borne diseases 2024 Jul 01 10.4103/JVBD.JVBD_18_24 BACKGROUND OBJECTIVES: The persistent threat of drug resistant malaria demands new cures. Low prevalence of malaria in the Indian state of Kerala compared with other proximal states led us to explore if there is any traditional practice in Kerala which may confer protection against malaria. In this context, our attention was drawn to \"Pathimugam\" i.e., Ceasalpinia sappan whose heartwood is used to prepare a red aqueous extract which is a uniquely popular drink all over Kerala.\nMETHODS: Aqueous and methanolic extracts of various organs of C. sappan were prepared and tested against Plasmodium falciparum grown in vitro culture using SYBR Green-I assay. The cytotoxicity of active extracts/fractions was studied using mammalian HeLa cell line. In vivo efficacy was determined using Plasmodium berghei ANKA infected mice.\nRESULTS: The highest antiplasmodial activities in the alcoholic and aqueous extracts were observed in leaf methanolic extract (IC 2 μg/ml) and heartwood aqueous extract (IC 12.5 μg/ml). C. sappan extracts were equipotent against both chloroquine sensitive Pf3D7 and resistant Pf INDO strains and showed suppression of % parasitemia in P. berghei infected mice. Activity guided chromatographic fractionation of aqueous wood extract led to the fortification of antiplasmodial activity (IC 5 μg/ml).\nINTERPRETATION CONCLUSION: Our results establish the antiplasmodial potential of C. sappan and suggest that its regular use might have prophylactic or curative actions that may assist in keeping check on malaria in the Indian state of Kerala."
+}

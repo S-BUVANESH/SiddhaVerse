@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0743",
+  "text_id": "sivavakkiyar_pm_0743",
+  "title": "Sivavakkiyam - Verse 134",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "134",
+  "tamil_text": "மாதாமாதம் தூமைதான், மறந்துபோன தூமைதான்\nமாதம்அற்று நின்றுலோ வளர்ந்துரூபம் ஆனது?\nநாதம்ஏது, வேதம்ஏது, நற்குலங்கள் ஏதடா?\nவேதம்ஓதும் வேதியர் விளைந்தவாறு பேசடா?",
+  "transliteration": "mātāmātm tūmaitāṉ, mṟntupōṉ tūmaitāṉ\nmātmaṟṟu niṉṟulō vḷrnturūpm āṉtu?\nnātmētu, vētmētu, nṟkulṅkḷ ētṭā?\nvētmōtum vētiyr viḷaintvāṟu pēcṭā?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a8c1ba2df50b57728caf591f89698eb933390eee4bf4fa52ee45946173bc326a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

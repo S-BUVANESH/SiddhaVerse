@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0835",
+  "text_id": "sivavakkiyar_pm_0835",
+  "title": "Sivavakkiyam - Verse 226",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "226",
+  "tamil_text": "அவ்வெழுத்தில் உவ்வுவந்து அகாரமும் சனித்ததோ?\nஉவ்வெழுத்து மவ்வெழுத்தும் ஒன்றைஒன்றி நின்றதோ!\nசெவ்வைஒத்து நின்றலோ சிவபதங்கள் சேரினும்\nமிவ்வையொத்த ஞானிகாள், விரித்துரைக்க வேணுமே.",
+  "transliteration": "avveḻuttil uvvuvntu akārmum cṉitttō?\nuvveḻuttu mvveḻuttum oṉṟaioṉṟi niṉṟtō!\ncevvaiottu niṉṟlō civptṅkḷ cēriṉum\nmivvaiyott ñāṉikāḷ, viritturaikk vēṇumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8bcf392668a6a2aaa8f2d32b9230930afc4b8da1737bc6d1ca102440637c9937",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

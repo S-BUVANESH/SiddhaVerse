@@ -1,0 +1,37 @@
+{
+  "document_id": "sivavakkiyar_pm_0812",
+  "text_id": "sivavakkiyar_pm_0812",
+  "title": "Sivavakkiyam - Verse 203",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "203",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "பட்டமும் கயிறுபோல் பறக்கநின்ற சீவனைப்\nபட்டறிவினாலே பார்த்துநீ படுமுடிச்சு போடடா;\nதிட்டவும் படாதடா, சீவனை விடாதடா\nகட்டடாநீ சிக்கெனக் களவறிந்த கள்வனை.",
+  "transliteration": "pṭṭmum kyiṟupōl pṟkkniṉṟ cīvṉaip\npṭṭṟiviṉālē pārttunī pṭumuṭiccu pōṭṭā;\ntiṭṭvum pṭātṭā, cīvṉai viṭātṭā\nkṭṭṭānī cikkeṉk kḷvṟint kḷvṉai.",
+  "english_translation": null,
+  "content_hash": "199eb9753c3d8ef7c62efc06b27739dadb82acbb203eb418bbbb0b5a7ecf4e64",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_kailash",
+    "deity_shakti",
+    "symbol_three",
+    "concept_karma"
+  ]
+}

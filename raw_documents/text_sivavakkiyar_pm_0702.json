@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0702",
+  "text_id": "sivavakkiyar_pm_0702",
+  "title": "Sivavakkiyam - Verse 93",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "93",
+  "tamil_text": "என்னஎன்று சொல்லுவேன் இலக்கணம் இலாததை?\nபன்னுகின்ற செந்தமிழ்ப் பதம்கடந்த பண்பென\nமின்னகத்தில் மின்ஒடுங்கி மின்னதான வாறுபோல்\nஎன்னகத்துள் ஈசனும் யானும்அல்லது இல்லையே!",
+  "transliteration": "eṉṉeṉṟu colluvēṉ ilkkṇm ilāttai?\npṉṉukiṉṟ centmiḻp ptmkṭnt pṇpeṉ\nmiṉṉkttil miṉoṭuṅki miṉṉtāṉ vāṟupōl\neṉṉkttuḷ īcṉum yāṉumalltu illaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a67abdaf61323e9aaa9312f1d7f4e5e39a3e96a760997d70cf0af2171db01599",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

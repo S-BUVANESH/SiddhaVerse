@@ -1,0 +1,47 @@
+{
+  "document_id": "plant_adathodai",
+  "text_id": "plant_adathodai",
+  "title": "Malabar Nut",
+  "source_work": "Siddha Materia Medica",
+  "collection": "Medicinal Plants",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "English",
+  "script": "Latin script",
+  "tamil_text": "ஆடாதோடை",
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "c00d02f8b0aca29e029f54911b10932ba64e88f84c2d6dbcbfe122ff4e72c016",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-4",
+    "normalized_at": "2026-06-25T14:54:20.107070+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [
+    "plant_adathodai"
+  ],
+  "search_text": "Malabar Nut ஆடாதோடை Malabar Nut Adhatoda vasica / Justicia adhatoda Acanthaceae Leaves, flowers, roots Vasicine, Vasicinone, Vasicinol Respiratory diseases, bronchitis, asthma, expectorant Decoction (Kudineer), fresh juice plant_adathodai",
+  "translation_status": "unavailable",
+  "tamil": "ஆடாதோடை",
+  "english": "Malabar Nut",
+  "scientific": "Adhatoda vasica / Justicia adhatoda",
+  "family": "Acanthaceae",
+  "part": "Leaves, flowers, roots",
+  "phytochem": "Vasicine, Vasicinone, Vasicinol",
+  "uses": "Respiratory diseases, bronchitis, asthma, expectorant",
+  "prep": "Decoction (Kudineer), fresh juice",
+  "verse_entity": "plant_adathodai"
+}

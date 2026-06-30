@@ -1,0 +1,121 @@
+# Translation Coverage Report
+# Phase 2B-4: English Translation Acquisition
+
+**Report Date:** 2026-06-25  
+**Phase:** 2B-4  
+**Scope:** 1,000 authenticated verse documents
+
+---
+
+## Executive Summary
+
+| Metric | Value |
+|--------|-------|
+| Total verse documents | 1,000 |
+| English translations available | **0 (0%)** |
+| Translation status: `unavailable` | **1,000 (100%)** |
+| Translation status: `partial` | 0 |
+| AI-generated translations used | **0 (strictly prohibited)** |
+
+> [!IMPORTANT]
+> **No AI-generated translations have been accepted as canonical content.** All 1,000 verse documents have `english_translation: null` and `translation_status: "unavailable"`. This is by design — corpus authenticity takes priority over coverage.
+
+---
+
+## 1. Translation Source Investigation
+
+### Thirumandiram (608 verses in corpus)
+
+| Translator | Publisher | Year | Copyright | Availability | Usable |
+|-----------|-----------|------|-----------|--------------|--------|
+| **B. Natarajan** | Sri Ramakrishna Math, Madras | 1979 | Copyrighted | In print | ❌ No |
+| **T.N. Ganapathy** | Babaji's Kriya Yoga Publications | 1993 | Copyrighted | Available | ❌ No |
+| **Marshall Govindan Satchidananda** | Babaji's Kriya Yoga | 2013 | Copyrighted | Available | ❌ No |
+| **Dr. R. Venkatraman** | Academic fragments | 1980s | Copyrighted | Scattered | ❌ No |
+| **IFP / EFEO** | French Institut Français de Pondichéry | Ongoing | Copyrighted | Academic | ❌ No |
+
+**Public domain status:** No verified public-domain English translation of the Thirumandiram exists as of 2026.
+
+### Sivavakkiyam (392 verses in corpus)
+
+| Translator | Publisher | Year | Copyright | Usable |
+|-----------|-----------|------|-----------|--------|
+| **David C. Buck** | Journal articles (partial) | 1981 | Copyrighted | ❌ No |
+| **Tamil Virtual Academy** | TVA Online | 2010 | Restricted redistribution | ❌ No |
+| **George L. Hart** | Academic excerpts | 1975 | Copyrighted | ❌ No |
+
+**Public domain status:** No verified public-domain English translation of Sivavakkiyam exists as of 2026.
+
+---
+
+## 2. What Was Checked
+
+The following sources were evaluated for public-domain English translations:
+
+| Source | Result |
+|--------|--------|
+| Project Madurai (www.projectmadurai.org) | Tamil text only — no English translations hosted |
+| Internet Archive (archive.org) | B. Natarajan 1979 present but copyrighted (not CC/PD) |
+| Wikisource Tamil | Tamil text only |
+| Tamil Virtual Academy | Translations present but terms of use prohibit redistribution |
+| JSTOR / Academic journals | Scattered verse translations — copyrighted, not redistributable |
+| HathiTrust | Pre-1928 translations not found for these works |
+
+---
+
+## 3. Translation Status Applied to Corpus
+
+All 1,000 verse documents have been marked:
+
+```json
+{
+  "english_translation": null,
+  "translation_status":  "unavailable"
+}
+```
+
+`translation_status` field values defined:
+- `available` — verified public-domain translation present (target state)
+- `unavailable` — no public-domain translation found (current state for all verses)
+- `partial` — partial translation available (not currently used)
+- `ai_generated` — AI-produced translation (prohibited as canonical content)
+
+---
+
+## 4. Impact Assessment
+
+| Dimension | Impact |
+|-----------|--------|
+| Search in English | Compensated by entity keyword expansion (Phase 2B-4 Objective 3) |
+| International users | Limited to keyword/entity browsing without verse text comprehension |
+| Scholarly use | Researchers familiar with Tamil can use corpus immediately |
+| Website UX | Transliteration available for pronunciation; meaning requires Tamil knowledge |
+
+---
+
+## 5. Recommended Acquisition Pathways (Phase 2B-5)
+
+| Path | Description | Feasibility |
+|------|-------------|------------|
+| **License existing translation** | Contact Sri Ramakrishna Math for digital rights to B. Natarajan translation | MEDIUM |
+| **Commission scholarly translations** | Engage Tamil scholars for 100–200 representative verses | HIGH |
+| **Crowdsource with scholar review** | Community translations with editorial oversight | MEDIUM |
+| **Academic partnership** | Partner with IFP/French Institute for their translation corpus | LOW (complex) |
+
+> [!NOTE]
+> Once authentic translations are acquired, they should be marked `translation_status: "available"` and the `english_translation` field populated with the text, `translator`, `publication_year`, and `translation_source` added as additional fields.
+
+---
+
+## 6. Interim Measure: Transliteration for International Users
+
+While translations are unavailable, the `transliteration` field (ISO 15919 approximate) allows international users to:
+- Pronounce Tamil verses phonetically
+- Recognize recurring terms across verses
+- Search by romanized forms (partially — see multilingual search report)
+
+Coverage: **1,000 / 1,000 verses (100%)**
+
+---
+
+*Report generated by SiddhaVerse Phase 2B-4, 2026-06-25*

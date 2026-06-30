@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0166",
+  "text_id": "thirumandiram_pm_0166",
+  "title": "Thirumandiram - Verse 169",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "169",
+  "tamil_text": "இயக்குறு திங்கள் இரும்பிழப்பு ஒக்கும்\nதுயக்குறு செல்வத்தைச் சொல்லவும் வேண்டா\nமயக்கற நாடுமின் வானவர் கோனைப்\nபெயற்கொண்டல் போலப் பெருஞ்செல்வ மாமே.",
+  "transliteration": "iykkuṟu tiṅkḷ irumpiḻppu okkum\ntuykkuṟu celvttaic collvum vēṇṭā\nmykkṟ nāṭumiṉ vāṉvr kōṉaip\npeyṟkoṇṭl pōlp peruñcelv māmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "572ce6da2b6433c70f684e9206454557b9aa214ee89925db7864cadcd31ae977",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

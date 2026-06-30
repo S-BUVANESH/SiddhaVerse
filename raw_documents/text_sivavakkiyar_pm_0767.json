@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0767",
+  "text_id": "sivavakkiyar_pm_0767",
+  "title": "Sivavakkiyam - Verse 158",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "158",
+  "tamil_text": "ஆட்டிறைச்சி தின்றதில்லை அன்றும்இன்றும் வேதியர்\nஆட்டிறைச்சி அல்லவோ யாகம்நீங்கள் ஆற்றலோ?\nமாட்டிறைச்சி தின்றதில்லை அன்றும்இன்றும் வேதியர்\nமாட்டிறைச்சி அல்லவோ மரக்கறிக் கிடுவது?",
+  "transliteration": "āṭṭiṟaicci tiṉṟtillai aṉṟumiṉṟum vētiyr\nāṭṭiṟaicci allvō yākmnīṅkḷ āṟṟlō?\nmāṭṭiṟaicci tiṉṟtillai aṉṟumiṉṟum vētiyr\nmāṭṭiṟaicci allvō mrkkṟik kiṭuvtu?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "83b994a0c1324a85d87b6486c5fb990645b690bf6d95995048d3b3de43a97ebc",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

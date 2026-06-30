@@ -1,0 +1,46 @@
+{
+  "document_id": "sivavakkiyar_pm_0622",
+  "text_id": "sivavakkiyar_pm_0622",
+  "title": "Sivavakkiyam - Verse 13",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "13",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "யோக நிலை\n\nசாத்திரங்கள் ஓதுகின்ற சட்டநாத பட்டரே!\nவேர்த்துஇரைப்பு வந்தபோது வேதம்வந்து உதவுமோ?\nமாத்திரைப்போ தும்முளே யறிந்துதொக்க வல்லீரேல்\nசாத்திரப்பைநோய்கள் ஏது? சத்திமுத்தி சித்தியே!",
+  "transliteration": "yōk nilai\n\ncāttirṅkḷ ōtukiṉṟ cṭṭnāt pṭṭrē!\nvērttuiraippu vntpōtu vētmvntu utvumō?\nmāttiraippō tummuḷē yṟintutokk vllīrēl\ncāttirppainōykḷ ētu? cttimutti cittiyē!",
+  "english_translation": null,
+  "content_hash": "6c23e52f5f39752748be70decb88adde7cb00073f3e56a9eed0b47cf22f02b21",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "symbol_three",
+    "body_sound",
+    "plant_vallarai",
+    "siddhar_yugi",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "place_tiruvannamalai",
+    "deity_vishnu",
+    "practice_mudra",
+    "concept_yoga",
+    "siddhar_sattaimuni",
+    "concept_dhyana"
+  ]
+}

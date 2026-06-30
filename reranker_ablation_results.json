@@ -1,0 +1,146 @@
+{
+  "lexical": {
+    "mean_p5_raw": 0.17666666666666667,
+    "mean_p5_norm": 0.5472222222222223,
+    "mean_r10": 0.638888888888889,
+    "mrr": 0.49792148737485425,
+    "coverage_pct": 60.0,
+    "avg_latency_ms": 16.54306541652962,
+    "p50_latency_ms": 16.390549979405478,
+    "p95_latency_ms": 28.169979993253936,
+    "category_breakdown": {
+      "Tamil Verse": {
+        "p5_norm": 0.85,
+        "r10": 0.9,
+        "mrr": 0.7978787878787879,
+        "count": 20
+      },
+      "Romanized Suffix": {
+        "p5_norm": 0.525,
+        "r10": 0.6,
+        "mrr": 0.5166666666666667,
+        "count": 20
+      },
+      "English Synonym": {
+        "p5_norm": 0.65,
+        "r10": 0.75,
+        "mrr": 0.5044444444444445,
+        "count": 20
+      },
+      "Entity Search": {
+        "p5_norm": 0.575,
+        "r10": 0.8,
+        "mrr": 0.5058234126984127,
+        "count": 20
+      },
+      "Concept/Formulation/Biography": {
+        "p5_norm": 0.1,
+        "r10": 0.15,
+        "mrr": 0.10144110275689222,
+        "count": 20
+      },
+      "Adversarial": {
+        "p5_norm": 0.5833333333333333,
+        "r10": 0.6333333333333333,
+        "mrr": 0.5612745098039216,
+        "count": 20
+      }
+    }
+  },
+  "vector": {
+    "mean_p5_raw": 0.16,
+    "mean_p5_norm": 0.5027777777777778,
+    "mean_r10": 0.5611111111111111,
+    "mrr": 0.48120886738533797,
+    "coverage_pct": 54.166666666666664,
+    "avg_latency_ms": 216.26013208321334,
+    "p50_latency_ms": 240.4328999982681,
+    "p95_latency_ms": 303.60129499749746,
+    "category_breakdown": {
+      "Tamil Verse": {
+        "p5_norm": 0.45,
+        "r10": 0.6,
+        "mrr": 0.3220454545454545,
+        "count": 20
+      },
+      "Romanized Suffix": {
+        "p5_norm": 0.325,
+        "r10": 0.325,
+        "mrr": 0.3596376050420168,
+        "count": 20
+      },
+      "English Synonym": {
+        "p5_norm": 0.55,
+        "r10": 0.7,
+        "mrr": 0.4682090336134454,
+        "count": 20
+      },
+      "Entity Search": {
+        "p5_norm": 0.8,
+        "r10": 0.8,
+        "mrr": 0.7533333333333333,
+        "count": 20
+      },
+      "Concept/Formulation/Biography": {
+        "p5_norm": 0.45,
+        "r10": 0.45,
+        "mrr": 0.475,
+        "count": 20
+      },
+      "Adversarial": {
+        "p5_norm": 0.4416666666666667,
+        "r10": 0.4916666666666667,
+        "mrr": 0.5090277777777777,
+        "count": 20
+      }
+    }
+  },
+  "hybrid_rrf_only": {
+    "mean_p5_raw": 0.19666666666666668,
+    "mean_p5_norm": 0.6416666666666667,
+    "mean_r10": 0.7444444444444444,
+    "mrr": 0.5885350529100529,
+    "coverage_pct": 70.83333333333334,
+    "avg_latency_ms": 223.07629166413486,
+    "p50_latency_ms": 254.43744999938644,
+    "p95_latency_ms": 304.61865998804564,
+    "category_breakdown": {
+      "Tamil Verse": {
+        "p5_norm": 0.95,
+        "r10": 0.95,
+        "mrr": 0.8666666666666666,
+        "count": 20
+      },
+      "Romanized Suffix": {
+        "p5_norm": 0.525,
+        "r10": 0.6,
+        "mrr": 0.475,
+        "count": 20
+      },
+      "English Synonym": {
+        "p5_norm": 0.65,
+        "r10": 0.875,
+        "mrr": 0.5918452380952381,
+        "count": 20
+      },
+      "Entity Search": {
+        "p5_norm": 0.85,
+        "r10": 0.95,
+        "mrr": 0.7088095238095238,
+        "count": 20
+      },
+      "Concept/Formulation/Biography": {
+        "p5_norm": 0.275,
+        "r10": 0.425,
+        "mrr": 0.2772222222222222,
+        "count": 20
+      },
+      "Adversarial": {
+        "p5_norm": 0.6,
+        "r10": 0.6666666666666667,
+        "mrr": 0.6116666666666666,
+        "count": 20
+      }
+    }
+  }
+}

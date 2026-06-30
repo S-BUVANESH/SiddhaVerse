@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0209",
+  "text_id": "thirumandiram_pm_0209",
+  "title": "Thirumandiram - Verse 212",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "212",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தொடர்ந்தெழு சுற்றம் வினையினுந் தீய\nகடந்தோர் ஆவி கழிவதன் முன்னே\nஉடந்தொரு காலத்து உணர்விளக்கு ஏற்றித்\nதொடர்ந்துநின்று அவ்வழி தூர்க்கலு ம் ஆமே.",
+  "transliteration": "toṭrnteḻu cuṟṟm viṉaiyiṉun tīy\nkṭntōr āvi kḻivtṉ muṉṉē\nuṭntoru kālttu uṇrviḷkku ēṟṟit\ntoṭrntuniṉṟu avvḻi tūrkklu m āmē.",
+  "english_translation": null,
+  "content_hash": "653c4e4ca894252e69d79c3a1d079cb20addafb8b5943794cb5819d0c9abd28f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_fire",
+    "concept_karma"
+  ]
+}

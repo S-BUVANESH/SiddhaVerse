@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0717",
+  "text_id": "sivavakkiyar_pm_0717",
+  "title": "Sivavakkiyam - Verse 108",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "108",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விழியினோடு புனல்விளைந்த வில்லவல்லி யோனியும்\nவெளியிலே பிதற்றலாம் விளைவுநின்றது இல்லையே\nவெளிபரந்த தேசமும் வெளிக்குள்மூல வித்தையும்\nதெளியும் வல்லஞானிகள் தெளிந்திருத்தல் திண்ணமே.",
+  "transliteration": "viḻiyiṉōṭu puṉlviḷaint villvlli yōṉiyum\nveḷiyilē pitṟṟlām viḷaivuniṉṟtu illaiyē\nveḷiprnt tēcmum veḷikkuḷmūl vittaiyum\nteḷiyum vllñāṉikḷ teḷintiruttl tiṇṇmē.",
+  "english_translation": null,
+  "content_hash": "04a400d15402e2ec7edb3a520edd14fb4c8298d540882962cabe87b358796f53",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_moolam"
+  ]
+}

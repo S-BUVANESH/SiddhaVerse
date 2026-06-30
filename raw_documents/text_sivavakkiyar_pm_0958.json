@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0958",
+  "text_id": "sivavakkiyar_pm_0958",
+  "title": "Sivavakkiyam - Verse 349",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "349",
+  "tamil_text": "உச்சிமத்தி வீதியில் ஒழிந்திருந்த சாதியில்\nபச்சியுற்ற சோமனும் பரந்துநின்று லாவவே\nசெச்சியான தீபமே, தியானமான மோனமே,\nகச்சியான மோனமே, கடந்ததே சிவாயமே.",
+  "transliteration": "uccimtti vītiyil oḻintirunt cātiyil\npcciyuṟṟ cōmṉum prntuniṉṟu lāvvē\ncecciyāṉ tīpmē, tiyāṉmāṉ mōṉmē,\nkcciyāṉ mōṉmē, kṭnttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "ab423b6bb695e516286af2e49aca9b9692851db9add6b5746f0f879f4947fe1c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

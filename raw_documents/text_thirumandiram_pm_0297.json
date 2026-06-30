@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0297",
+  "text_id": "thirumandiram_pm_0297",
+  "title": "Thirumandiram - Verse 301",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "301",
+  "tamil_text": "தேவர் பிரானைத் திவ்விய மூர்த்தியை\nயாவர் ஒருவர் அறிவார் அறிந்தபின்\nஓதுமின் கேள்மின் உணர்மின் உணர்ந்தபின்\nஓதி உணர்ந்தவர் ஓங்கி நின்றாரே.",
+  "transliteration": "tēvr pirāṉait tivviy mūrttiyai\nyāvr oruvr aṟivār aṟintpiṉ\nōtumiṉ kēḷmiṉ uṇrmiṉ uṇrntpiṉ\nōti uṇrntvr ōṅki niṉṟārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c559a0d23c9fd07a3cdab8142079d654ea1f664e337d12eeff4f969285b52c39",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

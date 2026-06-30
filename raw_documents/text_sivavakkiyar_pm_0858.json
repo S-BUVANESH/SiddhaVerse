@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0858",
+  "text_id": "sivavakkiyar_pm_0858",
+  "title": "Sivavakkiyam - Verse 249",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "249",
+  "tamil_text": "உண்மையான சுக்கிலம் உபாயமாய் இருந்ததும்\nவெண்மையாகி நீரிலே விரைந்துநீர தானதும்\nதண்மையான காயமே தரித்துஉருவம் ஆனதும்\nதெண்மையான ஞானிகாள் தெளிந்துரைக்க வேணுமே.",
+  "transliteration": "uṇmaiyāṉ cukkilm upāymāy irunttum\nveṇmaiyāki nīrilē viraintunīr tāṉtum\ntṇmaiyāṉ kāymē trittuuruvm āṉtum\nteṇmaiyāṉ ñāṉikāḷ teḷinturaikk vēṇumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8b3ab601d8c5c6b52ba7f00671844356a728806cc726807c41a8621dd3f8cc8c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

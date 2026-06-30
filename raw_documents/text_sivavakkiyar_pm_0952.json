@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0952",
+  "text_id": "sivavakkiyar_pm_0952",
+  "title": "Sivavakkiyam - Verse 343",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "343",
+  "tamil_text": "ஆண்மைகூறும் மாந்தரே அருக்கனோடும் வீதியை\nகாண்மையாகக் காண்பீரே கசடறுக்க வல்லீரே\nதூண்மையான வாதிசூட்சம் சோபமாகும் ஆகுமே\nநாண்மையான வாயிலில் நடித்துநின்ற நாதமே.",
+  "transliteration": "āṇmaikūṟum māntrē arukkṉōṭum vītiyai\nkāṇmaiyākk kāṇpīrē kcṭṟukk vllīrē\ntūṇmaiyāṉ vāticūṭcm cōpmākum ākumē\nnāṇmaiyāṉ vāyilil nṭittuniṉṟ nātmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "83b6b6c6421144fbc8716f5220fa9c3d55d2a810941ceaf932f37548ddef036a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

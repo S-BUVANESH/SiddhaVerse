@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0248",
+  "text_id": "thirumandiram_pm_0248",
+  "title": "Thirumandiram - Verse 251",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "251",
+  "tamil_text": "தாமறி வார்அண்ணல் தாள்பணி வார்அவர்\nதாமறி வார்அறம் தாங்கிநின் றார்அவர்\nதாமறி வார்சில தத்துவர் ஆவர்கள்\nதாமறி வார்க்குத் தமர்பர னாமே.",
+  "transliteration": "tāmṟi vāraṇṇl tāḷpṇi vāravr\ntāmṟi vāraṟm tāṅkiniṉ ṟāravr\ntāmṟi vārcil tttuvr āvrkḷ\ntāmṟi vārkkut tmrpr ṉāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8946a4cd3a9bf88cdf65b1e1d6c2a800d23a0fd1f55b89756d7221efe216b07d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

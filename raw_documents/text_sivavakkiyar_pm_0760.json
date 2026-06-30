@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0760",
+  "text_id": "sivavakkiyar_pm_0760",
+  "title": "Sivavakkiyam - Verse 151",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "151",
+  "tamil_text": "ஈணெருமையின் கழுத்தில் இட்டபொட்ட ணங்கள்போல்\nமூணுநாலு சீலையில் முடிந்தவழ்க்கும் மூடர்காள்,\nமூணுநாலு லோகமும் முடிவிலாத மூர்த்தியை\nஊணிஊணி நீர்முடித்த உண்மைஎன்ன உண்மையே?",
+  "transliteration": "īṇerumaiyiṉ kḻuttil iṭṭpoṭṭ ṇṅkḷpōl\nmūṇunālu cīlaiyil muṭintvḻkkum mūṭrkāḷ,\nmūṇunālu lōkmum muṭivilāt mūrttiyai\nūṇiūṇi nīrmuṭitt uṇmaieṉṉ uṇmaiyē?",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2a09ef9c33e5d9de2f93c509a9ada4412d191588c031c25a1cb4e6834a01b0df",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

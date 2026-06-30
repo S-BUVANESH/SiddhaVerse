@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0326",
+  "text_id": "thirumandiram_pm_0326",
+  "title": "Thirumandiram - Verse 330",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "330",
+  "tamil_text": "மயங்குந் தியங்கும் கள்வாய்மை அழிக்கும்\nஇயங்கும் மடவார்தம் இன்பமே எய்தி\nமுயங்கும் நயங்கொண்ட ஞானத்து முந்தார்\nஇயங்கும் இடையறா ஆனந்தம் எய்துமே.",
+  "transliteration": "myṅkun tiyṅkum kḷvāymai aḻikkum\niyṅkum mṭvārtm iṉpmē eyti\nmuyṅkum nyṅkoṇṭ ñāṉttu muntār\niyṅkum iṭaiyṟā āṉntm eytumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f68a3b68d7d6ab64a8ac004a4c2bcb116f40a4590ac671e708e5394957a91e63",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

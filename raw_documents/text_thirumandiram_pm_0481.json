@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0481",
+  "text_id": "thirumandiram_pm_0481",
+  "title": "Thirumandiram - Verse 1039",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1039",
+  "tamil_text": "உத்தமன் சோதி உளனொரு பாலனாய்\nமத்திம னாகி மலர்ந்தங்கு இருந்திடும்\nபச்சிம திக்கும் பரந்து குழிந்தன\nசத்திமா னாகத் தழைத்த கொடியே.",
+  "transliteration": "uttmṉ cōti uḷṉoru pālṉāy\nmttim ṉāki mlrntṅku iruntiṭum\npccim tikkum prntu kuḻintṉ\ncttimā ṉākt tḻaitt koṭiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e0e9d4b325f523fb5dcf89b997ed0c2908715ecb614aea27ef26a07d988ef0e8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0620",
+  "text_id": "sivavakkiyar_pm_0620",
+  "title": "Sivavakkiyam - Verse 11",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "11",
+  "tamil_text": "கதாவுபஞ்ச பாதகங்க ளைத்துறந்த மந்திரம்\nஇதாம்இதாம் அதல்லஎன்று வைத்துழலும் ஏழைகள்\nசதாவிடாமல் ஓதுவார் தமக்குநல்ல மந்திரம்\nஇதாம்இதாம் ராமராம ராமஎன்னும் நாமமே.",
+  "transliteration": "ktāvupñc pātkṅk ḷaittuṟnt mntirm\nitāmitām atlleṉṟu vaittuḻlum ēḻaikḷ\nctāviṭāml ōtuvār tmkkunll mntirm\nitāmitām rāmrām rāmeṉṉum nāmmē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "093753b9d443ed48e5d242ad0396f4888583f6af288dd9d3c7678a5287e4e0f7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

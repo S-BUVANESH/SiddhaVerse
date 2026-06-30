@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0402",
+  "text_id": "thirumandiram_pm_0402",
+  "title": "Thirumandiram - Verse 952",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "952",
+  "tamil_text": "அற்ற இடத்தே அகாரமது ஆவது\nஉற்ற இடத்தே உறுபொருள் கண்டிடச்\nசெற்றம் அறுத்த செழுஞ்சுடர் மெய்ப்பொருள்\nகுற்றம் அறுத்த பொன்போலும் குளிகையே.",
+  "transliteration": "aṟṟ iṭttē akārmtu āvtu\nuṟṟ iṭttē uṟuporuḷ kṇṭiṭc\nceṟṟm aṟutt ceḻuñcuṭr meypporuḷ\nkuṟṟm aṟutt poṉpōlum kuḷikaiyē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5447712f75c295063c5ae5bff6c8f1525349d78a59a115363dfc29d23c69ddb2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

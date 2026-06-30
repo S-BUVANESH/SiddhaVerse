@@ -1,0 +1,45 @@
+{
+  "document_id": "sivavakkiyar_pm_0815",
+  "text_id": "sivavakkiyar_pm_0815",
+  "title": "Sivavakkiyam - Verse 206",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "206",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அங்கலிங்க பீடமும் அசவைமூன்று எழுத்தினும்\nசங்குசக் கரத்திலும் சகல வானத்திலும்\nபங்குகொண்ட யோகிகள் பரமவாசல் அஞ்சினும்\nசிங்கநாத ஓசையும் சிவாயம்அல்ல தில்லையே.",
+  "transliteration": "aṅkliṅk pīṭmum acvaimūṉṟu eḻuttiṉum\ncṅkuck krttilum ckl vāṉttilum\npṅkukoṇṭ yōkikḷ prmvācl añciṉum\nciṅknāt ōcaiyum civāymall tillaiyē.",
+  "english_translation": null,
+  "content_hash": "f33a7f1b16a086ac7b51084999874ffdb949da0164555d3d331b3261345a02bf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "body_sound",
+    "siddhar_sivavakkiyar",
+    "siddhar_yugi",
+    "place_chidambaram",
+    "concept_brahman",
+    "concept_yoga",
+    "deity_shakti",
+    "concept_chakra",
+    "deity_shiva"
+  ]
+}

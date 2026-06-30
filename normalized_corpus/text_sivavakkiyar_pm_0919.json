@@ -1,0 +1,48 @@
+{
+  "document_id": "sivavakkiyar_pm_0919",
+  "text_id": "sivavakkiyar_pm_0919",
+  "title": "Sivavakkiyam - Verse 310",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "310",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அந்தரத்தில் ஒன்றுமாய் அசைவுகால் இரண்டுமாய்\nசெந்தழலில் மூன்றுமாய்ச் சிறந்தஅப்பு நான்குமாய்\nஐந்துபாரில் ஐந்துமாய் அமர்ந்திருந்த நாதனைச்\nசிந்ததையில் தெளிந்தமாயை யாவர்காண வல்லரே.",
+  "transliteration": "antrttil oṉṟumāy acaivukāl irṇṭumāy\ncentḻlil mūṉṟumāyc ciṟntappu nāṉkumāy\naintupāril aintumāy amrntirunt nātṉaic\ncinttaiyil teḷintmāyai yāvrkāṇ vllrē.",
+  "english_translation": null,
+  "content_hash": "cc2f4508292f7e382b00614b00df4a4ee24453423b58a98c02f34564c6032e44",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "practice_varma",
+    "concept_maya",
+    "body_sound",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "siddhar_thirumoolar",
+    "symbol_five",
+    "deity_vishnu",
+    "deity_brahma",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "practice_kumbhaka"
+  ]
+}

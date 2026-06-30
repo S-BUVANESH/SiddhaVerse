@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0927",
+  "text_id": "sivavakkiyar_pm_0927",
+  "title": "Sivavakkiyam - Verse 318",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "318",
+  "tamil_text": "ஒடுக்குகின்ற சோதியும் உந்திநின்ற ஒருவனும்\nநடுத்தலத்தில் ஒருவனும் நடந்துகாலில் ஏறியே\nவிடுத்துநின்ற இருவரோடு மெய்யினோடு பொய்யுமாய்\nஅடுத்துநின்ற அறிமினோ அனாதிநின்ற ஆதியே.",
+  "transliteration": "oṭukkukiṉṟ cōtiyum untiniṉṟ oruvṉum\nnṭuttlttil oruvṉum nṭntukālil ēṟiyē\nviṭuttuniṉṟ iruvrōṭu meyyiṉōṭu poyyumāy\naṭuttuniṉṟ aṟimiṉō aṉātiniṉṟ ātiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2c7af290ae7ba45c05e6ff0ed53d4d0d9c154630914add3b94a06c5b2151c8c7",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

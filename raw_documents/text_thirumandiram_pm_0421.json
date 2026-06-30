@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0421",
+  "text_id": "thirumandiram_pm_0421",
+  "title": "Thirumandiram - Verse 973",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "973",
+  "tamil_text": "ஆமத்து இனிதிருந்து அன்ன மயத்தினை\nஓமத்தி லேயுதம் பண்ணும் ஒருத்திதன்\nநாம நமசிவ என்றிருப் பாருக்கு\nநேமத் தலைவி நிலவிநின் றாளே.",
+  "transliteration": "āmttu iṉitiruntu aṉṉ myttiṉai\nōmtti lēyutm pṇṇum oruttitṉ\nnām nmciv eṉṟirup pārukku\nnēmt tlaivi nilviniṉ ṟāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "84049675a79b2b05bad1b56f27fec89c3908c06b2aea17beeb858ec3694763f2",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

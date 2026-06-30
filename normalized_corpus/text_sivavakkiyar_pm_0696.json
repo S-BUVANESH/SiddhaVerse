@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0696",
+  "text_id": "sivavakkiyar_pm_0696",
+  "title": "Sivavakkiyam - Verse 87",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "87",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இறைவனால் எடுத்தமாடத் தில்லையம் பலத்திலே\nஅறிவினால் அடுத்தகாயம் அஞ்சினால் அமைந்ததே.\nகருவிநாதம் உண்டுபோய்க் கழன்றவாசல் ஒன்பதும்\nஒருவராய் ஒருவர்கோடி உள்ளுளே அமர்ந்ததே.",
+  "transliteration": "iṟaivṉāl eṭuttmāṭt tillaiym plttilē\naṟiviṉāl aṭuttkāym añciṉāl amainttē.\nkruvinātm uṇṭupōyk kḻṉṟvācl oṉptum\noruvrāy oruvrkōṭi uḷḷuḷē amrnttē.",
+  "english_translation": null,
+  "content_hash": "e268a5bbbee2e78cebc83ba41d3bd220f63a152f6395da600584f3cfddc1224b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "body_sound",
+    "place_chidambaram",
+    "body_seed",
+    "practice_kayakalpa",
+    "concept_karma",
+    "deity_ganesha",
+    "siddhar_karuvoorar"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0520",
+  "text_id": "thirumandiram_pm_0520",
+  "title": "Thirumandiram - Verse 1078",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1078",
+  "tamil_text": "புண்ணிய நந்தி புனிதன் திருவாகும்\nஎண்ணிய நாட்கள் இருபத்தேழ் சூழ்மதி\nபண்ணிய வன்னி பகலோன் மதியீறு\nதிண்ணிய சிந்தைதன் தென்னனும் ஆமே.",
+  "transliteration": "puṇṇiy nnti puṉitṉ tiruvākum\neṇṇiy nāṭkḷ irupttēḻ cūḻmti\npṇṇiy vṉṉi pklōṉ mtiyīṟu\ntiṇṇiy cintaitṉ teṉṉṉum āmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "97c03e13f2ca06d2b186b6fdd7bed9f72bcbeec4275a057d11328f38135f3b4f",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

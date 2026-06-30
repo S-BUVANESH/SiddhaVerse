@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0782",
+  "text_id": "sivavakkiyar_pm_0782",
+  "title": "Sivavakkiyam - Verse 173",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "173",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கோசமாய் எழுந்ததும் கூடுருவி நின்றதும்\nதேசமாய்ப் பிறந்ததும் சிவாயம்அஞ் செழுத்துமே\nஈசனார் அருந்திட அனேகனேக மந்திரம்\nஆசயம் நிறைந்துநின்ற ஐம்பத்தோர் எழுத்துமே.",
+  "transliteration": "kōcmāy eḻunttum kūṭuruvi niṉṟtum\ntēcmāyp piṟnttum civāymañ ceḻuttumē\nīcṉār aruntiṭ aṉēkṉēk mntirm\nācym niṟaintuniṉṟ aimpttōr eḻuttumē.",
+  "english_translation": null,
+  "content_hash": "501a0199f148a895bb5f8c5481cb5a0532f594132c6eb5858f1ca94597e7d0ba",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_pancha_bootham",
+    "concept_maya",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_samadhi",
+    "deity_shiva",
+    "concept_mantra"
+  ]
+}

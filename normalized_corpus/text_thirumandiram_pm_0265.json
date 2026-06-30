@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0265",
+  "text_id": "thirumandiram_pm_0265",
+  "title": "Thirumandiram - Verse 268",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "268",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கெடுவதும் ஆவதும் கேடில் புகழோன்\nநடுவல்ல செய்து இன்பம் நாடவும் ஒட்டான்\nஇடுவதும் ஈவதும் எண்ணுமின் இன்பம்\nபடுவது செய்யின் பசுவது வாமே.",
+  "transliteration": "keṭuvtum āvtum kēṭil pukḻōṉ\nnṭuvll ceytu iṉpm nāṭvum oṭṭāṉ\niṭuvtum īvtum eṇṇumiṉ iṉpm\npṭuvtu ceyyiṉ pcuvtu vāmē.",
+  "english_translation": null,
+  "content_hash": "170547162cea18f53da630796a89f04d80b6308381ff2d2818526a1589b8f3e3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_breath",
+    "concept_nadi",
+    "plant_vallarai"
+  ]
+}

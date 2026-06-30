@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0939",
+  "text_id": "sivavakkiyar_pm_0939",
+  "title": "Sivavakkiyam - Verse 330",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "330",
+  "tamil_text": "ஆகிகூவென் றேஉரைத்த அட்சரத்தின் ஆனந்தம்\nயோகியோகி என்பர்கோடி உற்றறிந்து கண்டிடார்\nபூகமாய் மனக்குரங்கு பொங்கும்மங்கும் இங்குமாய்\nஏகம்ஏக மாகவே இருப்பர்கோடி கோடியே.",
+  "transliteration": "ākikūveṉ ṟēuraitt aṭcrttiṉ āṉntm\nyōkiyōki eṉprkōṭi uṟṟṟintu kṇṭiṭār\npūkmāy mṉkkurṅku poṅkummṅkum iṅkumāy\nēkmēk mākvē irupprkōṭi kōṭiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "65c6ae6a62013a634cab0e95e09c822f34213f503040dc5f0c7e6fb97af25180",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

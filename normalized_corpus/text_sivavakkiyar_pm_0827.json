@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0827",
+  "text_id": "sivavakkiyar_pm_0827",
+  "title": "Sivavakkiyam - Verse 218",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "218",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அஞ்செழுத்தி னாதியாய் அமர்ந்துநின்றது ஏதடா?\nநெஞ்செழுத்தி நின்றுகொண்டு நீசெபிப்பது ஏதடா?\nஅஞ்செழுத்தின் வாளதால் அறுப்பதாவது ஏதடா?\nபிஞ்செழுத்தின் நேர்மைதான் பிரித்துரைக்க வேண்டுமே.",
+  "transliteration": "añceḻutti ṉātiyāy amrntuniṉṟtu ētṭā?\nneñceḻutti niṉṟukoṇṭu nīcepipptu ētṭā?\nañceḻuttiṉ vāḷtāl aṟupptāvtu ētṭā?\npiñceḻuttiṉ nērmaitāṉ piritturaikk vēṇṭumē.",
+  "english_translation": null,
+  "content_hash": "4a27800384b7e7a78e50d23c93fcaa92b77cf957f741b6da46463d9ce50c8f5e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "body_heart",
+    "deity_kali",
+    "deity_brahma",
+    "concept_pranava",
+    "practice_pranayama",
+    "concept_dhyana"
+  ]
+}

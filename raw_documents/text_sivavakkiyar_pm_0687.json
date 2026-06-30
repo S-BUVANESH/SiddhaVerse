@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0687",
+  "text_id": "sivavakkiyar_pm_0687",
+  "title": "Sivavakkiyam - Verse 78",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "78",
+  "tamil_text": "மண்ணிலே பிறக்கவும் வழக்கலாது உரைக்கவும்\nஎண்ணிலாத கோடிதேவர் என்னதுஉன்னது என்னவும்\nகண்ணிலேகண் மணிஇருக்கக் கண்மறைத்த வாறுபோல்\nஎண்ணில்கோடி தேவரும் இதன்கணால் விழிப்பதே.",
+  "transliteration": "mṇṇilē piṟkkvum vḻkklātu uraikkvum\neṇṇilāt kōṭitēvr eṉṉtuuṉṉtu eṉṉvum\nkṇṇilēkṇ mṇiirukkk kṇmṟaitt vāṟupōl\neṇṇilkōṭi tēvrum itṉkṇāl viḻipptē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2f31e13b830ab452378cbbebea337e122acc4944bb8bb8da5bed658f122b40ae",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

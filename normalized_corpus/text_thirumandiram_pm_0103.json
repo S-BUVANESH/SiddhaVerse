@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0103",
+  "text_id": "thirumandiram_pm_0103",
+  "title": "Thirumandiram - Verse 105",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "105",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஈசன் இருக்கும் இருவினைககு அப்புறம்\nபீசம் உலகல் பெருந்தெய்வம் ஆனது\nஈசன் அதுஇது என்பார் நினைப்பிலார்\nதூசு பிடித்தவர் தூரறிந் தார்களே.",
+  "transliteration": "īcṉ irukkum iruviṉaikku appuṟm\npīcm ulkl perunteyvm āṉtu\nīcṉ atuitu eṉpār niṉaippilār\ntūcu piṭittvr tūrṟin tārkḷē.",
+  "english_translation": null,
+  "content_hash": "2e175a6d742f25ada4e2b7c4e6c937d50aa6b3f0a88f3cc58e856bc2074c3a0b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "concept_karma",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

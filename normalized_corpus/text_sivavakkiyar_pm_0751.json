@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0751",
+  "text_id": "sivavakkiyar_pm_0751",
+  "title": "Sivavakkiyam - Verse 142",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "142",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எட்டுமண்ட லத்துளே இரண்டுமண்டலம் வளைத்து\nஇட்டமண்ட லத்துளே எண்ணிஆறு மண்டலம்\nதொட்டமண்ட லத்திலே தோன்றிமூன்று மண்டலம்\nநட்டமண்ட லத்துளே நாதன்ஆடி நின்றதே!",
+  "transliteration": "eṭṭumṇṭ lttuḷē irṇṭumṇṭlm vḷaittu\niṭṭmṇṭ lttuḷē eṇṇiāṟu mṇṭlm\ntoṭṭmṇṭ lttilē tōṉṟimūṉṟu mṇṭlm\nnṭṭmṇṭ lttuḷē nātṉāṭi niṉṟtē!",
+  "english_translation": null,
+  "content_hash": "d622b381e7f1e3bf71d35dcaab70dcd0d3bff223f498ec9d99a7078b31419781",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_sound",
+    "place_chidambaram",
+    "plant_tulsi",
+    "practice_ashta_siddhi",
+    "symbol_eight"
+  ]
+}

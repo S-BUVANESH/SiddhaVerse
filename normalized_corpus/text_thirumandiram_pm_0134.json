@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0134",
+  "text_id": "thirumandiram_pm_0134",
+  "title": "Thirumandiram - Verse 136",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "136",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அப்பினில் கூர்மை ஆதித்தன் வெம்மையால்\nஉப்பெனப் பேர்ப்பெற்று உருச்செய்த அவ்வுரு\nஅப்பினிற் கூடிய தொன்றாகு மாறுபோல்\nசெப்பினிற் சீவன் சிவத்துள் அடங்குமே.",
+  "transliteration": "appiṉil kūrmai ātittṉ vemmaiyāl\nuppeṉp pērppeṟṟu urucceyt avvuru\nappiṉiṟ kūṭiy toṉṟāku māṟupōl\nceppiṉiṟ cīvṉ civttuḷ aṭṅkumē.",
+  "english_translation": null,
+  "content_hash": "a64523d3e4e101dda3001e5675df3b0bf975b032b485fa7ba69110c33474d1e3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "plant_tulsi",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

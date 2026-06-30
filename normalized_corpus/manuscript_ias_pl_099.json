@@ -1,0 +1,42 @@
+{
+  "document_id": "manuscript_ias_pl_099",
+  "text_id": "manuscript_ias_pl_099",
+  "title": "Nandi Suthiram",
+  "source_work": "Manuscript Catalog",
+  "collection": "Palm-Leaf Manuscripts",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "df71949327952ab4a69d17a849e249e85e2592f282c6b6d52af4ac3fee56abed",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Various Repository Catalogs",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "catalog_id": "IAS-PL-099",
+  "repository": "Institute of Asian Studies",
+  "era": "17th Century",
+  "material": "Palm Leaf",
+  "subject": "Initiation Teachings",
+  "search_text": "manuscript ias pl 099 Nandi Suthiram Manuscript Catalog Palm-Leaf Manuscripts SiddhaVerse Corpus Tamil Tamil script public_domain Various Repository Catalogs IAS-PL-099 Institute of Asian Studies 17th Century Palm Leaf Initiation Teachings"
+}

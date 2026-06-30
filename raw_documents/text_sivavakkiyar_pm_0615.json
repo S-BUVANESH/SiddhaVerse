@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0615",
+  "text_id": "sivavakkiyar_pm_0615",
+  "title": "Sivavakkiyam - Verse 6",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "6",
+  "tamil_text": "ஞான நிலை\n\nஎன்னிலே இருந்தஒன்றை யான்அறிந்தது இல்லையே\nஎன்னிலே இருந்தஒன்றை யான்அறிந்து கொண்டபின்\nஎன்னிலே இருந்தஒன்றை யாவர்காண வல்லரோ?\nஎன்னிலே இருந்திருந்து யான்உணர்ந்து கொண்டனே.",
+  "transliteration": "ñāṉ nilai\n\neṉṉilē iruntoṉṟai yāṉaṟinttu illaiyē\neṉṉilē iruntoṉṟai yāṉaṟintu koṇṭpiṉ\neṉṉilē iruntoṉṟai yāvrkāṇ vllrō?\neṉṉilē iruntiruntu yāṉuṇrntu koṇṭṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "414bdd2230a533928faaed30646bb6043ff2b88580275bf6690a43ca2393eed0",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0822",
+  "text_id": "sivavakkiyar_pm_0822",
+  "title": "Sivavakkiyam - Verse 213",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "213",
+  "tamil_text": "அழுக்கறத் தினங்குளித்து அழுக்கறாத மாந்தரே,\nஅழுக்கிருந்தது எவ்விடம், அழகில்லாதது எவ்விடம்.\nஅழுக்கிருந்தது எவ்விடத்து அழுக்கறுக்க வல்லீரேல்\nஅழுக்கிலாதது சோதியோடு அணுகிவாழ லாகுமே.",
+  "transliteration": "aḻukkṟt tiṉṅkuḷittu aḻukkṟāt māntrē,\naḻukkirunttu evviṭm, aḻkillāttu evviṭm.\naḻukkirunttu evviṭttu aḻukkṟukk vllīrēl\naḻukkilāttu cōtiyōṭu aṇukivāḻ lākumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "0e63ce45cc06371d630fe30b5db70e22a4fa73966117dddb1f610b7b6a0dc89c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "thirumandiram_pm_0455",
+  "text_id": "thirumandiram_pm_0455",
+  "title": "Thirumandiram - Verse 1013",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1013",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நமவது ஆசனம் ஆன பசுவே\nசிவமது சித்திச் சிவமாம் பதியே\nநமவற ஆதி நாடுவது அன்றாம்\nசிவமாகும் மாமோனம் சேர்தல்மெய் வீடே.",
+  "transliteration": "nmvtu ācṉm āṉ pcuvē\ncivmtu cittic civmām ptiyē\nnmvṟ āti nāṭuvtu aṉṟām\ncivmākum māmōṉm cērtlmey vīṭē.",
+  "english_translation": null,
+  "content_hash": "c9e489df367a75c80d0b3578116b75231965fa0671b5fdbbc3120fe2a214708b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "concept_jnana",
+    "place_chidambaram",
+    "concept_nadi",
+    "symbol_eighteen",
+    "place_madurai",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "body_breath",
+    "deity_shiva",
+    "concept_mukti",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

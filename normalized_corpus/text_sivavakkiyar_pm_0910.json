@@ -1,0 +1,47 @@
+{
+  "document_id": "sivavakkiyar_pm_0910",
+  "text_id": "sivavakkiyar_pm_0910",
+  "title": "Sivavakkiyam - Verse 301",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "301",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மூலவாசல் மீதுளேஓர் முச்சரம் ஆகியே\nநாலுவாசல் எண்விரல் நடுஉதித்த மந்திரம்\nகோலம்ஒன்றும் அஞ்சுமாகும் இங்கலைந்து நின்றநீ\nவேறுவேறு கண்டிலேன் விளைந்ததே சிவாயமே.",
+  "transliteration": "mūlvācl mītuḷēōr muccrm ākiyē\nnāluvācl eṇvirl nṭuutitt mntirm\nkōlmoṉṟum añcumākum iṅklaintu niṉṟnī\nvēṟuvēṟu kṇṭilēṉ viḷainttē civāymē.",
+  "english_translation": null,
+  "content_hash": "b2f58b64bcdc6c3cd74f3153030f3993ac5172b2424b0d1c724169734bc42ef9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "plant_tulsi",
+    "deity_vishnu",
+    "body_eye",
+    "body_moolam",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "concept_mantra",
+    "practice_kumbhaka"
+  ]
+}

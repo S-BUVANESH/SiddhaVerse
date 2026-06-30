@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0865",
+  "text_id": "sivavakkiyar_pm_0865",
+  "title": "Sivavakkiyam - Verse 256",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "256",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "புண்டரீக மத்தியில் உதித்தெழந்த சோதியை\n\nமண்டலங்கள் மூன்றினோடு மன்னுகின்ற மாயனை\nஅண்டரண்டம் ஊடறுத்து அறிந்துணர வல்லீரேல்\nகண்டகோயில் தெய்வம்என்று கையெடுப்ப தில்லையே.",
+  "transliteration": "puṇṭrīk mttiyil utitteḻnt cōtiyai\n\nmṇṭlṅkḷ mūṉṟiṉōṭu mṉṉukiṉṟ māyṉai\naṇṭrṇṭm ūṭṟuttu aṟintuṇr vllīrēl\nkṇṭkōyil teyvmeṉṟu kaiyeṭupp tillaiyē.",
+  "english_translation": null,
+  "content_hash": "ed723d7489ceb4445ab44055075e8ef80b76d18895c08ae0b791df66ed7e11f6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "plant_vallarai",
+    "place_tiruvannamalai",
+    "place_chidambaram",
+    "deity_vishnu",
+    "body_eye",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

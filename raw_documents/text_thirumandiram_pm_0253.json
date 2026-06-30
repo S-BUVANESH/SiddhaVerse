@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0253",
+  "text_id": "thirumandiram_pm_0253",
+  "title": "Thirumandiram - Verse 256",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "256",
+  "tamil_text": "துறந்தான் வழிமுதல் சுற்றமும் இல்லை\nஇறந்தான் வழிமுதல் இன்பமும் இல்லை\nமறந்தான் வழிமுதல் வந்திலன் ஈசன்\nஅறந்தான் அறியும் அளவறி வாரே.",
+  "transliteration": "tuṟntāṉ vḻimutl cuṟṟmum illai\niṟntāṉ vḻimutl iṉpmum illai\nmṟntāṉ vḻimutl vntilṉ īcṉ\naṟntāṉ aṟiyum aḷvṟi vārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4ad7e5613acf33b29f4e419bcf86698c51c6c67737d2ab64987bd03e3fddff53",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

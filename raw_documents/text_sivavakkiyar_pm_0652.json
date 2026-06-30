@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0652",
+  "text_id": "sivavakkiyar_pm_0652",
+  "title": "Sivavakkiyam - Verse 43",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "43",
+  "tamil_text": "அம்பலத்தை அம்புகொண்டு அசங்கென்றால் சங்குமோ?\nகம்பமற்ற பாற்கடல் கலங்கென்றால் கலங்குமோ?\nஇன்பமற்ற யோகியை இருளும்வந்து அணுகுமோ?\nசெம்பொன் அம்பலத்துளே தெளிந்த சிவாயமே.",
+  "transliteration": "amplttai ampukoṇṭu acṅkeṉṟāl cṅkumō?\nkmpmṟṟ pāṟkṭl klṅkeṉṟāl klṅkumō?\niṉpmṟṟ yōkiyai iruḷumvntu aṇukumō?\ncempoṉ amplttuḷē teḷint civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "20321fe68d5d7bf46375caa970eece7933f93addd03dadcf82afd5886651aef6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

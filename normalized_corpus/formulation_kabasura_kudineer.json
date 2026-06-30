@@ -1,0 +1,49 @@
+{
+  "document_id": "formulation_kabasura_kudineer",
+  "text_id": "formulation_kabasura_kudineer",
+  "title": "Kabasura Kudineer",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "f4e72951e5d00799616bbc507a65cbbf2dd7dfe8a99385a616714c00d66bcef9",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Kabasura Kudineer",
+  "category": "Kudineer (Decoction)",
+  "ingredients": [
+    "Zingiber officinale (Sukku)",
+    "Piper longum (Thippili)",
+    "Syzygium aromaticum (Lavangam)",
+    "Adhatoda vasica (Adathodai)",
+    "Solanum trilobatum (Thoothuvalai)"
+  ],
+  "method": "Decoction method. Reduce to 1/8th and drink warm.",
+  "indications": "Respiratory illness, dry cough, phlegm, fever",
+  "dosage": "30-60 ml",
+  "search_text": "formulation kabasura kudineer Kabasura Kudineer Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Kabasura Kudineer Kudineer (Decoction) Zingiber officinale (Sukku) Piper longum (Thippili) Syzygium aromaticum (Lavangam) Adhatoda vasica (Adathodai) Solanum trilobatum (Thoothuvalai) Decoction method. Reduce to 1/8th and drink warm. Respiratory illness, dry cough, phlegm, fever 30-60 ml"
+}

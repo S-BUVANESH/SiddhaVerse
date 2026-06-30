@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0594",
+  "text_id": "thirumandiram_pm_0594",
+  "title": "Thirumandiram - Verse 1153",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1153",
+  "tamil_text": "தாவித தவப்பொருள் தான்அவன் எம்இறை\nபாவித்து உலகம் படைக்கின்ற காலத்து\nமேவிப் பராசக்தி மேலொடு கீழ்தொடர்ந்து\nஆவிக்கும் அப்பொருள் தானது தானே.",
+  "transliteration": "tāvit tvpporuḷ tāṉavṉ emiṟai\npāvittu ulkm pṭaikkiṉṟ kālttu\nmēvip prāckti mēloṭu kīḻtoṭrntu\nāvikkum apporuḷ tāṉtu tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2fd86e48a042671a2e35be46e25e9118f3d0f5bf195f72b204d7f266d550c47c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

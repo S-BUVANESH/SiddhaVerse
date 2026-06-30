@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0988",
+  "text_id": "sivavakkiyar_pm_0988",
+  "title": "Sivavakkiyam - Verse 379",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "379",
+  "tamil_text": "உருத்தரித்த போதுசீவன் ஒக்கநின்ற உண்மையும்\nதிருத்தமுள்ளது ஒன்றிலும் சிவாயம்அஞ் செழுத்துமாம்.\nஇருத்துநின்று உறுத்தடங்கி ஏகபோகம் ஆனபின்\nகருத்தினின்று உதித்ததே கபாலம்ஏந்தும் நாதனே.",
+  "transliteration": "uruttritt pōtucīvṉ okkniṉṟ uṇmaiyum\ntiruttmuḷḷtu oṉṟilum civāymañ ceḻuttumām.\niruttuniṉṟu uṟuttṭṅki ēkpōkm āṉpiṉ\nkruttiṉiṉṟu utitttē kpālmēntum nātṉē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "1bde8d12da2851549f2559e294db370b0dcdbc5fa6798c9f5b4f95b503313701",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

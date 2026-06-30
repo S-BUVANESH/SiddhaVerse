@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0338",
+  "text_id": "thirumandiram_pm_0338",
+  "title": "Thirumandiram - Verse 886",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "886",
+  "tamil_text": "தேவர் உறைகின்ற சிற்றம் பலம்என்றுந்\nதேவர் உறைகின்ற சிதம்பரம் என்றுந்\nதேவர் உறைகின்ற திருஅம் பலமென்றுந்\nதேவர் உறைகின்ற தென்பொது வாமே.",
+  "transliteration": "tēvr uṟaikiṉṟ ciṟṟm plmeṉṟun\ntēvr uṟaikiṉṟ citmprm eṉṟun\ntēvr uṟaikiṉṟ tiruam plmeṉṟun\ntēvr uṟaikiṉṟ teṉpotu vāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5fb9609a9534263b4f8d6c3aa54e27f9cac1c955a72c3b3bd75ba9a02082b901",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

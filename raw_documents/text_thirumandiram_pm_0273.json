@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0273",
+  "text_id": "thirumandiram_pm_0273",
+  "title": "Thirumandiram - Verse 276",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "276",
+  "tamil_text": "முன்படைத்து இன்பம் படைத்த முதலிடை\nஅன்புஅடைத்து எம்பெரு மானை அறிகிலார்\nவன்படைத்து இந்த அகலிடம் வாழ்வினில்\nஅன்புஅடைத் தான்தன் அகலிடத் தானே.",
+  "transliteration": "muṉpṭaittu iṉpm pṭaitt mutliṭai\naṉpuaṭaittu emperu māṉai aṟikilār\nvṉpṭaittu int akliṭm vāḻviṉil\naṉpuaṭait tāṉtṉ akliṭt tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4ff0c0e55fcc4eaea99eee94cdcaf2482661d9a9cf9f43dba28a2298cec7db5b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

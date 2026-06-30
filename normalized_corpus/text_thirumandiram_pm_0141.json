@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0141",
+  "text_id": "thirumandiram_pm_0141",
+  "title": "Thirumandiram - Verse 143",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "143",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மண்ணொன்று கண்டீர் இருவகைப் பாத்திரம்\nதிண்ணென்று இருந்தது தீவினைச் சேர்ந்தது\nவிண்ணின்று நீர்விழின் மீண்டுமண் ணானார்ப்போல்\nஎண்ணின்றி மாந்தர் இறக்கின்ற வாறே.",
+  "transliteration": "mṇṇoṉṟu kṇṭīr iruvkaip pāttirm\ntiṇṇeṉṟu irunttu tīviṉaic cērnttu\nviṇṇiṉṟu nīrviḻiṉ mīṇṭumṇ ṇāṉārppōl\neṇṇiṉṟi māntr iṟkkiṉṟ vāṟē.",
+  "english_translation": null,
+  "content_hash": "237cc80bbd7bda02791f32b38ff709a112b1350148133b440e3c8a856cfbbc38",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "body_eye",
+    "deity_vishnu",
+    "concept_karma",
+    "body_fire"
+  ]
+}

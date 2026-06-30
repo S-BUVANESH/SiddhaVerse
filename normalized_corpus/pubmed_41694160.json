@@ -1,0 +1,61 @@
+{
+  "document_id": "pubmed_41694160",
+  "text_id": "pubmed_41694160",
+  "title": "Cerebral Edema Secondary to Heavy Metal Toxicity From Siddha Medicine: A Case Report and Case-Based Review.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Tan Z",
+    "Chua BJG",
+    "Ng M",
+    "Reyes S",
+    "Setiawan S",
+    "Tan YJ",
+    "Tan BKK",
+    "R P"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "d143c741697dff9f68e333a7416bd04488f95099b950e15ffcd2f72127bcceaf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "41694160",
+  "authors": [
+    "Tan Z",
+    "Chua BJG",
+    "Ng M",
+    "Reyes S",
+    "Setiawan S",
+    "Tan YJ",
+    "Tan BKK",
+    "R P"
+  ],
+  "journal": "Case reports in neurological medicine",
+  "pubdate": "2026",
+  "doi": "10.1155/crnm/9945172",
+  "abstract": "BACKGROUND: Traditional Indian medicine has been used to treat a variety of illnesses for centuries. However, there are existing concerns surrounding its heavy metal content. Amongst the different systems of traditional Indian medicine, Ayurvedic medicine has been most frequently implicated in heavy metal toxicity, while Siddha medicine has only very rarely been reported in association with lead and mercury poisoning.\nCASE PRESENTATION: A 58-year-old woman presented twice with severe headache, vomiting, dysphasia, truncal ataxia, and tremors. In the second presentation, she also had a clinical seizure. Both times, brain imaging showed diffuse gyral edema, but blood and cerebrospinal fluid tests were unyielding for any explanatory biochemical or serological causes. Both times, the patient displayed clinical and radiologic improvement during her inpatient stay, without any definitive treatment instituted. Eventually, a history of daily Siddha medicine usage for 3 months prior to presentation, as well as in the intervening period between both admissions, was elicited. Blood tests showed high lead levels beyond the assay's limit for accurate quantification. Pharmaceutical analysis of her Siddha medicine capsules revealed contents of arsenic, mercury, and lead at levels that were several thousand times the safe limits. She was treated with oral dimercaptosuccinic acid with significant improvement in symptoms.\nCONCLUSION: We presented an unusual case of generalized cerebral edema caused by multiple metal toxicity from Siddha medicine use. Our case illustrates that Siddha medicine can cause a mixed toxidrome with toxicities from multiple metals at once. Our patient's highly unusual presenting syndrome, including diffuse cerebral edema on brain imaging and triphasic waves on electroencephalogram, will hopefully be informative for physicians faced with similar cases in future.",
+  "search_text": "pubmed 41694160 Cerebral Edema Secondary to Heavy Metal Toxicity From Siddha Medicine: A Case Report and Case-Based Review. PubMed Research Scientific Literature Tan Z Chua BJG Ng M Reyes S Setiawan S Tan YJ Tan BKK R P Tamil Tamil script open_access PubMed Central 41694160 Tan Z Chua BJG Ng M Reyes S Setiawan S Tan YJ Tan BKK R P Case reports in neurological medicine 2026 10.1155/crnm/9945172 BACKGROUND: Traditional Indian medicine has been used to treat a variety of illnesses for centuries. However, there are existing concerns surrounding its heavy metal content. Amongst the different systems of traditional Indian medicine, Ayurvedic medicine has been most frequently implicated in heavy metal toxicity, while Siddha medicine has only very rarely been reported in association with lead and mercury poisoning.\nCASE PRESENTATION: A 58-year-old woman presented twice with severe headache, vomiting, dysphasia, truncal ataxia, and tremors. In the second presentation, she also had a clinical seizure. Both times, brain imaging showed diffuse gyral edema, but blood and cerebrospinal fluid tests were unyielding for any explanatory biochemical or serological causes. Both times, the patient displayed clinical and radiologic improvement during her inpatient stay, without any definitive treatment instituted. Eventually, a history of daily Siddha medicine usage for 3 months prior to presentation, as well as in the intervening period between both admissions, was elicited. Blood tests showed high lead levels beyond the assay's limit for accurate quantification. Pharmaceutical analysis of her Siddha medicine capsules revealed contents of arsenic, mercury, and lead at levels that were several thousand times the safe limits. She was treated with oral dimercaptosuccinic acid with significant improvement in symptoms.\nCONCLUSION: We presented an unusual case of generalized cerebral edema caused by multiple metal toxicity from Siddha medicine use. Our case illustrates that Siddha medicine can cause a mixed toxidrome with toxicities from multiple metals at once. Our patient's highly unusual presenting syndrome, including diffuse cerebral edema on brain imaging and triphasic waves on electroencephalogram, will hopefully be informative for physicians faced with similar cases in future."
+}

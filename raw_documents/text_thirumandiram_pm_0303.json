@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0303",
+  "text_id": "thirumandiram_pm_0303",
+  "title": "Thirumandiram - Verse 307",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "307",
+  "tamil_text": "உறுதுணை யாவது உயிரும் உடம்பும்\nஉறுதுணை யாவது உலகுறு கேள்வி\nசெறிதுணை யாவது சிவனடிச் சிந்தை\nபெறுதுணை கேட்கிற் பிறப்பில்லை தானே.",
+  "transliteration": "uṟutuṇai yāvtu uyirum uṭmpum\nuṟutuṇai yāvtu ulkuṟu kēḷvi\nceṟituṇai yāvtu civṉṭic cintai\npeṟutuṇai kēṭkiṟ piṟppillai tāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "fc8d5c37fa006b4a11cfd2bc17b6b8c4171716416a4e544a359cfaf2fc95e789",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

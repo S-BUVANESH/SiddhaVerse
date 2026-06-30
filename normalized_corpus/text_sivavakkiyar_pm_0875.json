@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0875",
+  "text_id": "sivavakkiyar_pm_0875",
+  "title": "Sivavakkiyam - Verse 266",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "266",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மூன்றுமுப்பது ஆறினோடு மூன்றுமூன்று மாயமாய்\nமூன்றுமுத்தி ஆகிமூன்று மூன்றுமூன்று மூன்றுமாய்த்\nதோன்றுசோதி மூன்றுதாய் துலக்கமில் விளக்கதாய்\nஏன்றெனாவின் உள்புகுந்த தென்கோலோ நம்ஈசனே.",
+  "transliteration": "mūṉṟumupptu āṟiṉōṭu mūṉṟumūṉṟu māymāy\nmūṉṟumutti ākimūṉṟu mūṉṟumūṉṟu mūṉṟumāyt\ntōṉṟucōti mūṉṟutāy tulkkmil viḷkktāy\nēṉṟeṉāviṉ uḷpukunt teṉkōlō nmīcṉē.",
+  "english_translation": null,
+  "content_hash": "540d3139f776e19c98bb56cf4c987ff739f8ceb550283aa3ebb5e307ff9b4a19",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "symbol_three",
+    "plant_tulsi",
+    "deity_vishnu",
+    "concept_karma",
+    "practice_mudra",
+    "deity_shiva",
+    "body_light"
+  ]
+}

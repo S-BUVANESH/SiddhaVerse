@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0503",
+  "text_id": "thirumandiram_pm_0503",
+  "title": "Thirumandiram - Verse 1061",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1061",
+  "tamil_text": "நின்றவள் நேரிழை நீள்கலை யோடுற\nஎன்றன் அகம்படிந்து ஏழுல கும்தொழ\nமன்றது ஒன்றி மனோன்மனி மங்கலி\nஒன்றெனொடு ஒன்றிநின்று ஒத்துஅடைத்தாளே.",
+  "transliteration": "niṉṟvḷ nēriḻai nīḷklai yōṭuṟ\neṉṟṉ akmpṭintu ēḻul kumtoḻ\nmṉṟtu oṉṟi mṉōṉmṉi mṅkli\noṉṟeṉoṭu oṉṟiniṉṟu ottuaṭaittāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "15dcdff35ae83b67bbf67c9c379b2ac678f0f4ceb3cb6949d49edd040fb1f74d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

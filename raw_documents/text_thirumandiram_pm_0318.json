@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0318",
+  "text_id": "thirumandiram_pm_0318",
+  "title": "Thirumandiram - Verse 322",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "322",
+  "tamil_text": "நடுவுநின் றார்சிலர் ஞானிக ளாவார்\nநடுவுநின் றார்சிலர் தேவரு மாவார்\nநடுவுநின் றார்சிலர் நம்பனு மாவார்\nநடுவுநின் றாரொடு நானும்நின் றேனே.",
+  "transliteration": "nṭuvuniṉ ṟārcilr ñāṉik ḷāvār\nnṭuvuniṉ ṟārcilr tēvru māvār\nnṭuvuniṉ ṟārcilr nmpṉu māvār\nnṭuvuniṉ ṟāroṭu nāṉumniṉ ṟēṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b8f84caf569dc4750a7a310f54dce75267f840b6a18e87cf800ab0e0a192588a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

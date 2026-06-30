@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0962",
+  "text_id": "sivavakkiyar_pm_0962",
+  "title": "Sivavakkiyam - Verse 353",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "353",
+  "tamil_text": "பாய்ச்சலூர் வழியிலே பரன்இருந்த சுழியிலே\nகாய்ச்சகொம்பின் நுனியிலே கனியிருந்த மலையிலே\nவீச்சமானது ஏதடா? விரிவுதங்கும் இங்குமே\nமூச்சினோடு மூச்சைவாங்கு முட்டிநின்ற சோதியே.",
+  "transliteration": "pāycclūr vḻiyilē prṉirunt cuḻiyilē\nkāycckompiṉ nuṉiyilē kṉiyirunt mlaiyilē\nvīccmāṉtu ētṭā? virivutṅkum iṅkumē\nmūcciṉōṭu mūccaivāṅku muṭṭiniṉṟ cōtiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c6c0e6f8fb4029938f1eb9967c5655a7cd742f101df42eece2b7ee5f4b68f9d8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

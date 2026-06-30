@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0553",
+  "text_id": "thirumandiram_pm_0553",
+  "title": "Thirumandiram - Verse 1112",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1112",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கலைத்தலை நெற்றியோர் கண்ணுடைக் கண்ணுள்\nமுலைத்தலை மங்கை முயங்கி இருக்கும்\nசிலைத்தலை யாய தெரிவினை நோக்கி\nஅலைத்தபூங் கொம்பினள் அங்கிருந் தாளே.",
+  "transliteration": "klaittlai neṟṟiyōr kṇṇuṭaik kṇṇuḷ\nmulaittlai mṅkai muyṅki irukkum\ncilaittlai yāy teriviṉai nōkki\nalaittpūṅ kompiṉḷ aṅkirun tāḷē.",
+  "english_translation": null,
+  "content_hash": "69b9e62e5c6ec3403788b48e610596512a8593521cb07830f77b9ffbf3dd2e3c",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_karma",
+    "body_head",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0288",
+  "text_id": "thirumandiram_pm_0288",
+  "title": "Thirumandiram - Verse 291",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "291",
+  "tamil_text": "கற்றறி வாளர் கருதிய காலத்துக்\nகற்றறி வாளர் கருத்திலோர் கண்ணுண்டு\nகற்றறி வாளர் கருதி உரைசெய்யுங்\nகற்றறி காட்டக் கயல்உள வாக்குமே.",
+  "transliteration": "kṟṟṟi vāḷr krutiy kālttuk\nkṟṟṟi vāḷr kruttilōr kṇṇuṇṭu\nkṟṟṟi vāḷr kruti uraiceyyuṅ\nkṟṟṟi kāṭṭk kyluḷ vākkumē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "6c97da1c2e8400c82fbe35858adce5064942699e28c89b4365f07c0dfede7a11",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

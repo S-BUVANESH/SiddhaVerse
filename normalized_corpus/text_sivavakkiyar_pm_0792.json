@@ -1,0 +1,41 @@
+{
+  "document_id": "sivavakkiyar_pm_0792",
+  "text_id": "sivavakkiyar_pm_0792",
+  "title": "Sivavakkiyam - Verse 183",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "183",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வட்டமான கூட்டிலே வளர்ந்தெழுந்த அம்புலி\nசட்டசமீ பத்திலே சங்குசக் கரங்களாய்\nவிட்டதுஅச்சு வாசலில் கதவினால் அடைத்தபின்\nமுட்டையில் எழுந்தசிவன் விட்டவாறது எங்ஙனே?",
+  "transliteration": "vṭṭmāṉ kūṭṭilē vḷrnteḻunt ampuli\ncṭṭcmī pttilē cṅkuck krṅkḷāy\nviṭṭtuaccu vāclil ktviṉāl aṭaittpiṉ\nmuṭṭaiyil eḻuntcivṉ viṭṭvāṟtu eṅṅṉē?",
+  "english_translation": null,
+  "content_hash": "56ccf8073809779b514c23c53d1e51b9cc645f8c2d793c1ca654c365d84f109b",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "siddhar_sivavakkiyar",
+    "place_chidambaram",
+    "deity_shakti",
+    "concept_chakra",
+    "concept_karma",
+    "siddhar_sattaimuni",
+    "deity_shiva"
+  ]
+}

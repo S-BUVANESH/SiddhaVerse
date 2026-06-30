@@ -1,0 +1,50 @@
+{
+  "document_id": "sivavakkiyar_pm_0739",
+  "text_id": "sivavakkiyar_pm_0739",
+  "title": "Sivavakkiyam - Verse 130",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "130",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "காலைமாலை நீரிலே முழுகும்அந்த மூடர்காள்\nகாலைமாலை நீரிலே கிடந்ததேரை என்பெறும்\nகாலமே எழுந்திருந்து கண்கள்மூன்றில் ஒன்றினால்\nமூலமே நினைப்பிராகில் முத்திசித்தி யாகுமே.",
+  "transliteration": "kālaimālai nīrilē muḻukumant mūṭrkāḷ\nkālaimālai nīrilē kiṭnttērai eṉpeṟum\nkālmē eḻuntiruntu kṇkḷmūṉṟil oṉṟiṉāl\nmūlmē niṉaippirākil mutticitti yākumē.",
+  "english_translation": null,
+  "content_hash": "a7b175a3a07f24db08faae7df4e1de84fda28ad20d3e074842a1f08212461359",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "siddhar_theriyar",
+    "concept_prana",
+    "concept_siddhi",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "place_chidambaram",
+    "deity_vishnu",
+    "deity_brahma",
+    "body_moolam",
+    "body_eye",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "practice_mudra",
+    "practice_kumbhaka"
+  ]
+}

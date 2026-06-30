@@ -1,0 +1,44 @@
+{
+  "document_id": "sivavakkiyar_pm_0992",
+  "text_id": "sivavakkiyar_pm_0992",
+  "title": "Sivavakkiyam - Verse 383",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "383",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "எங்கும்எங்கும் ஒன்றலோ ஈரேழ்லோகமும் ஒன்றலோ?\nஅங்கும்இங்கும் ஒன்றலோ அனாதியானது ஒன்றலோ?\nதங்குதாபரங்களும் தரித்தவாரது ஒன்றலோ?\nஉங்கள்எங்கள் பங்கினில் உதித்ததே சிவாயமே.",
+  "transliteration": "eṅkumeṅkum oṉṟlō īrēḻlōkmum oṉṟlō?\naṅkumiṅkum oṉṟlō aṉātiyāṉtu oṉṟlō?\ntṅkutāprṅkḷum trittvārtu oṉṟlō?\nuṅkḷeṅkḷ pṅkiṉil utitttē civāymē.",
+  "english_translation": null,
+  "content_hash": "fbbd77c4da713c2fead07dcad56ac104c3d3e0fca53aa923575f83ccb8273843",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "concept_shiva_shakti",
+    "symbol_three",
+    "siddhar_sivavakkiyar",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "place_kashi",
+    "deity_shiva",
+    "practice_kumbhaka",
+    "concept_dhyana"
+  ]
+}

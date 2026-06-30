@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0501",
+  "text_id": "thirumandiram_pm_0501",
+  "title": "Thirumandiram - Verse 1059",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1059",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "வைத்த பொருளும் மருவுயிர்ப் பன்மையும்\nபத்து முகமும் பரையும் பராபரைச்\nசித்தக் கரணச் செயல்களும் செய்திடும்\nசத்தியும் வித்தைத் தலையவ ளாமே.",
+  "transliteration": "vaitt poruḷum mruvuyirp pṉmaiyum\npttu mukmum praiyum prāpraic\ncittk krṇc ceylkḷum ceytiṭum\ncttiyum vittait tlaiyv ḷāmē.",
+  "english_translation": null,
+  "content_hash": "b53d0fd93bd76cddae8759dd5a7b33213e83195e23ef1625fbc666a6012917ca",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "symbol_three",
+    "place_chidambaram",
+    "deity_shakti",
+    "body_head",
+    "concept_mukti",
+    "concept_dhyana"
+  ]
+}

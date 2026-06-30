@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0738",
+  "text_id": "sivavakkiyar_pm_0738",
+  "title": "Sivavakkiyam - Verse 129",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "129",
+  "tamil_text": "சாவதான தத்துவச் சடங்குசெய்யும் ஊமைகாள்\nதேவர்கல்லும் ஆவரோ? சிரிப்பதன்றி என்செய்வேன்?\nமூவராலும் அறியொணாத முக்கணன்முதற் கொழுந்து\nகாவலாக உம்முளே கலந்திருப்பன் காணுமே.",
+  "transliteration": "cāvtāṉ tttuvc cṭṅkuceyyum ūmaikāḷ\ntēvrkllum āvrō? ciripptṉṟi eṉceyvēṉ?\nmūvrālum aṟiyoṇāt mukkṇṉmutṟ koḻuntu\nkāvlāk ummuḷē klntiruppṉ kāṇumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "9d2c026d8e76e75fc4babd72624f2f154f608b0591053fea5288f66a5bb7df86",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

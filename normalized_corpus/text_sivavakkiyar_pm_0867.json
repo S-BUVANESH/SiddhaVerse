@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0867",
+  "text_id": "sivavakkiyar_pm_0867",
+  "title": "Sivavakkiyam - Verse 258",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "258",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அண்ணலாவது ஏதடா? அறிந்துரைத்த மந்திரம்\nதண்ணலாக வந்தவன் சகலபுராணம் கற்றவன்\nகண்ணனாக வந்ததன் காரணத் துதித்தவன்\nஒண்ணதாவது ஏதடா? உண்மையான மந்திரம்?",
+  "transliteration": "aṇṇlāvtu ētṭā? aṟinturaitt mntirm\ntṇṇlāk vntvṉ cklpurāṇm kṟṟvṉ\nkṇṇṉāk vnttṉ kārṇt tutittvṉ\noṇṇtāvtu ētṭā? uṇmaiyāṉ mntirm?",
+  "english_translation": null,
+  "content_hash": "1f5946b27af4ce2d8e0d8dc0ac93c20b3e6952571d571e11ee02b0bc0b89aecf",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_kali",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "body_eye",
+    "deity_murugan",
+    "concept_mantra"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "sivavakkiyar_pm_0733",
+  "text_id": "sivavakkiyar_pm_0733",
+  "title": "Sivavakkiyam - Verse 124",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "124",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மின்எழுந்து மின்பரந்து மின்ஒடுங்கு மாறுபோல்\nஎன்னுள்நின்ற என்னுள்ஈசன் என்னுள்ளே அடங்குமே,\nகண்ணுள்நின்ற கண்ணில்நேர் மைகண்அறி விலாமையால்\nஎன்னுள்நின்ற வென்னையன்றி யான்அறிந்ததில்லையே!",
+  "transliteration": "miṉeḻuntu miṉprntu miṉoṭuṅku māṟupōl\neṉṉuḷniṉṟ eṉṉuḷīcṉ eṉṉuḷḷē aṭṅkumē,\nkṇṇuḷniṉṟ kṇṇilnēr maikṇaṟi vilāmaiyāl\neṉṉuḷniṉṟ veṉṉaiyṉṟi yāṉaṟinttillaiyē!",
+  "english_translation": null,
+  "content_hash": "5bce09edfc52ae882f4924047ae4f66c983f92e4f00a2d288339e158f5c19b11",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_chidambaram",
+    "body_eye",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shiva",
+    "practice_kumbhaka"
+  ]
+}

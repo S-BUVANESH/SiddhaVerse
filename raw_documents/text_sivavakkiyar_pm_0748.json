@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0748",
+  "text_id": "sivavakkiyar_pm_0748",
+  "title": "Sivavakkiyam - Verse 139",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "139",
+  "tamil_text": "சிட்டர்ஓது வேதமும் சிறந்ததாக மங்களும்\nநட்டகார ணங்களும் நவின்றமெய்மை நூல்களும்\nகட்டிவைத்த போதகம் கதைக்குகந்த பித்தெலாம்\nபொட்டதாய் முடிந்ததே பிரானையான் அறிந்தபின்!",
+  "transliteration": "ciṭṭrōtu vētmum ciṟnttāk mṅkḷum\nnṭṭkār ṇṅkḷum nviṉṟmeymai nūlkḷum\nkṭṭivaitt pōtkm ktaikkuknt pittelām\npoṭṭtāy muṭinttē pirāṉaiyāṉ aṟintpiṉ!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "c7dfb6ae0dec8e940e4fbc2023f109fb37a6b8e27ffb1fd5f4d3cdcdf7dcc039",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

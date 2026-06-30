@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0143",
+  "text_id": "thirumandiram_pm_0143",
+  "title": "Thirumandiram - Verse 145",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "145",
+  "tamil_text": "ஊரெலாம் கூடி ஒலிக்க அழுதிட்டுப்\nபோ஢னை நீக்கிப் பிணமென்று போ஢ட்டுச்\nசூரையங் காட்டிடைக் கொண்டுபோய்ச் சுட்டிட்டு\nநீரினில் மூழ்கி நினைப்பொழிந் தார்களே.",
+  "transliteration": "ūrelām kūṭi olikk aḻutiṭṭup\npō஢ṉai nīkkip piṇmeṉṟu pō஢ṭṭuc\ncūraiyṅ kāṭṭiṭaik koṇṭupōyc cuṭṭiṭṭu\nnīriṉil mūḻki niṉaippoḻin tārkḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "a7e7d9293efaeba6f8b944e0e5095e77ba70a45d115f506d54b7fb0f1012d97d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

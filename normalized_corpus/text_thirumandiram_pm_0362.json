@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0362",
+  "text_id": "thirumandiram_pm_0362",
+  "title": "Thirumandiram - Verse 910",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "910",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆனந்தம் ஆனந்தம் ஒன்றென்று அறைந்திட\nஆனந்தம் ஆனந்தம் ஆஈஊஏஓம் என்று அறைந்திடும்\nஆனந்தம் ஆனந்தம் அஞ்சுமது ஆயிடும்\nஆனந்தம் ஆனந்தம் அம்ஹ்ரீம்அம் க்ஷம் ஆம்ஆகுமே.",
+  "transliteration": "āṉntm āṉntm oṉṟeṉṟu aṟaintiṭ\nāṉntm āṉntm āīūēōm eṉṟu aṟaintiṭum\nāṉntm āṉntm añcumtu āyiṭum\nāṉntm āṉntm amhrīmam kṣm āmākumē.",
+  "english_translation": null,
+  "content_hash": "02f3b81b5ad26e6b485fbe3831e0127573664421cd8a65ff47db563a9687ebc3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_madurai",
+    "deity_murugan",
+    "practice_pranayama",
+    "deity_shakti",
+    "concept_pranava",
+    "practice_kumbhaka"
+  ]
+}

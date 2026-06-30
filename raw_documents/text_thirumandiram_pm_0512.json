@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0512",
+  "text_id": "thirumandiram_pm_0512",
+  "title": "Thirumandiram - Verse 1070",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1070",
+  "tamil_text": "மேதாதி ஈரெட்டும் ஆகிய மெல்லியல்\nவேதாதி நூலின் விளங்கும் பராபரை\nஆதார மாகியே ஆயந்த பரப்பினள்\nநாதாதி நாதத்து நல்லரு ளாளே.",
+  "transliteration": "mētāti īreṭṭum ākiy melliyl\nvētāti nūliṉ viḷṅkum prāprai\nātār mākiyē āynt prppiṉḷ\nnātāti nātttu nllru ḷāḷē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "59a9fa554809acf801806fb7174b7a053ac0c67eef6b9e57b4d62fce0b6d295c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

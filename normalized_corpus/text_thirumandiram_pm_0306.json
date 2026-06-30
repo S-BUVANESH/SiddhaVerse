@@ -1,0 +1,37 @@
+{
+  "document_id": "thirumandiram_pm_0306",
+  "text_id": "thirumandiram_pm_0306",
+  "title": "Thirumandiram - Verse 310",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "310",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கல்லா தவரும் கருத்தறி காட்சியை\nவல்லார் எனில்அருட் கண்ணான் மதித்துளோர்\nகல்லாதார் உண்மைபற் றாநிற்பர் கற்றோரும்\nகல்லாதார் இன்பம் காணுகி லாரே.",
+  "transliteration": "kllā tvrum kruttṟi kāṭciyai\nvllār eṉilaruṭ kṇṇāṉ mtittuḷōr\nkllātār uṇmaipṟ ṟāniṟpr kṟṟōrum\nkllātār iṉpm kāṇuki lārē.",
+  "english_translation": null,
+  "content_hash": "90399223a4e65ccf960abd9f760a2b5a72f7c18cb4dd43c34cc0d6c5d6113ac8",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_tulsi",
+    "body_eye",
+    "plant_vallarai",
+    "siddhar_karuvoorar"
+  ]
+}

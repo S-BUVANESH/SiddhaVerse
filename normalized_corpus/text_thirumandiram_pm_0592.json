@@ -1,0 +1,41 @@
+{
+  "document_id": "thirumandiram_pm_0592",
+  "text_id": "thirumandiram_pm_0592",
+  "title": "Thirumandiram - Verse 1151",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1151",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தொடியார் தடக்கைச் சுகோதய சுந்தரி\nவடிவார் திரிபுரை யாமங்கை கங்கைச்\nசெடியார் வினைகெடச் சேர்வரை என்றென்\nஅடியார் வினைகெடுத்து ஆதியும் ஆமே.",
+  "transliteration": "toṭiyār tṭkkaic cukōty cuntri\nvṭivār tiripurai yāmṅkai kṅkaic\nceṭiyār viṉaikeṭc cērvrai eṉṟeṉ\naṭiyār viṉaikeṭuttu ātiyum āmē.",
+  "english_translation": null,
+  "content_hash": "88d15f0b7f1fba8208671e53cb700c147d670426019b2a241ccd7ec9716f8cf1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_ginger",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_shakti",
+    "concept_karma",
+    "place_kashi",
+    "concept_dhyana"
+  ]
+}

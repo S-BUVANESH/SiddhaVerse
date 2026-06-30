@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0370",
+  "text_id": "thirumandiram_pm_0370",
+  "title": "Thirumandiram - Verse 918",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "918",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மட்டவிழ் தாமரை மாதுநல் லாளுடன்\nஒட்டி இருந்த உபாயம் அறிகிலர்\nவிட்ட எழுத்தை விடாத எழுத்துடன்\nகட்டவில் லாருயிர் காக்கவல் லாரே.",
+  "transliteration": "mṭṭviḻ tāmrai mātunl lāḷuṭṉ\noṭṭi irunt upāym aṟikilr\nviṭṭ eḻuttai viṭāt eḻuttuṭṉ\nkṭṭvil lāruyir kākkvl lārē.",
+  "english_translation": null,
+  "content_hash": "34f87ea4b41e88aa65b789165cd3a90fcceccdb96254e682b99f4578c86cd5b4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "plant_lotus",
+    "plant_vallarai"
+  ]
+}

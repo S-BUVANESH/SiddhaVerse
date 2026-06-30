@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0943",
+  "text_id": "sivavakkiyar_pm_0943",
+  "title": "Sivavakkiyam - Verse 334",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "334",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆண்மைஆண்மை ஆண்மைஆண்மை ஆண்மைகூறும் அசடரே\nகாண்மையான வாதிரூபம் காலகால காலமும்\nபாண்மையாகி மோனமான பாசமாகி நின்றிடும்\nநாண்மையாகி நரலைவாயில் நங்குமிங்கும் அங்குமே.",
+  "transliteration": "āṇmaiāṇmai āṇmaiāṇmai āṇmaikūṟum acṭrē\nkāṇmaiyāṉ vātirūpm kālkāl kālmum\npāṇmaiyāki mōṉmāṉ pācmāki niṉṟiṭum\nnāṇmaiyāki nrlaivāyil nṅkumiṅkum aṅkumē.",
+  "english_translation": null,
+  "content_hash": "6f7223f8b50f23b4095ee1aa1d754a6e0ee9d781334bb48d6db38f53132857a3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_murugan",
+    "practice_pranayama",
+    "concept_samadhi",
+    "practice_kumbhaka"
+  ]
+}

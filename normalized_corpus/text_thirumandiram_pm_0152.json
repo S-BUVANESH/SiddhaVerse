@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0152",
+  "text_id": "thirumandiram_pm_0152",
+  "title": "Thirumandiram - Verse 155",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "155",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "மதுவூர் குழலியும் மாடும் மனையும்\nஇதுவூர் ஒழிய இதணம் தேறிப்\nபொதுவூர் புறஞ்சுடு காடது நோக்கி\nமதுவூர வாங்கியே வைத்தகன் றார்களே.",
+  "transliteration": "mtuvūr kuḻliyum māṭum mṉaiyum\nituvūr oḻiy itṇm tēṟip\npotuvūr puṟñcuṭu kāṭtu nōkki\nmtuvūr vāṅkiyē vaittkṉ ṟārkḷē.",
+  "english_translation": null,
+  "content_hash": "5274fe1c2d75c3697e27f675d3f5ac45e2a9437838a2629d1196fc63d8f1f277",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_madurai",
+    "place_potigai"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0351",
+  "text_id": "thirumandiram_pm_0351",
+  "title": "Thirumandiram - Verse 899",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "899",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஏழா யிரமாய் இருபதாய் முப்பதாய்\nஏழா யிரத்தும் ஏழுகோடி தானாகி\nஏழா யிரத்துயிர் எண்ணிலா மந்திரம்\nஏழா யிரண்டாய் இருக்கின்ற வாறே.",
+  "transliteration": "ēḻā yirmāy iruptāy mupptāy\nēḻā yirttum ēḻukōṭi tāṉāki\nēḻā yirttuyir eṇṇilā mntirm\nēḻā yirṇṭāy irukkiṉṟ vāṟē.",
+  "english_translation": null,
+  "content_hash": "dc580a87540878549c34874bf44c17b1e12052f3f820534728048f7ad6b2fa8f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "concept_mantra"
+  ]
+}

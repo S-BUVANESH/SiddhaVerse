@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0237",
+  "text_id": "thirumandiram_pm_0237",
+  "title": "Thirumandiram - Verse 240",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "240",
+  "tamil_text": "வேட நெறிநில்லார் வேடம்பூண் டென்பயன்\nவேட நெறிநிற்பார் வேடம்மெய் வேடமே\nவேட நெறிநில்லார் தம்மை விறல்வேந்தன்\nவேட நெறிசெய்தால் வீடது வாமே.",
+  "transliteration": "vēṭ neṟinillār vēṭmpūṇ ṭeṉpyṉ\nvēṭ neṟiniṟpār vēṭmmey vēṭmē\nvēṭ neṟinillār tmmai viṟlvēntṉ\nvēṭ neṟiceytāl vīṭtu vāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "7ef357a0ef34a54da78f2dff5f91bd46eee69279cdc6911ca01776b00d03419d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

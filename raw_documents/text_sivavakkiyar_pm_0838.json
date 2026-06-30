@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0838",
+  "text_id": "sivavakkiyar_pm_0838",
+  "title": "Sivavakkiyam - Verse 229",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "229",
+  "tamil_text": "சுழித்ததோர் எழுத்தைஉன்னி சொல்லுமுகத்து இருத்தியே\nதுன்ப்இன்ப முங்கடந்து சொல்லும்நாடி யூடுபோய்\nஅழுத்தமான அக்கிரத்தின் அங்கியை எழுப்பியே\nஆறுபங்க யம்கடந்து அப்புறத்து வெளியிலே.",
+  "transliteration": "cuḻitttōr eḻuttaiuṉṉi collumukttu iruttiyē\ntuṉpiṉp muṅkṭntu collumnāṭi yūṭupōy\naḻuttmāṉ akkirttiṉ aṅkiyai eḻuppiyē\nāṟupṅk ymkṭntu appuṟttu veḷiyilē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "aad67b4fb10eed3366fd8651c593f8fd782b71ddf13fd801c0bdfcb827ce7e63",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

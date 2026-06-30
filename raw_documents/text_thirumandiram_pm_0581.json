@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0581",
+  "text_id": "thirumandiram_pm_0581",
+  "title": "Thirumandiram - Verse 1140",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1140",
+  "tamil_text": "உடையவன் அங்கி உருத்திர சோதி\nவிடையவன் ஏறி விளங்கி இருக்கும்\nகடையவர் போயிடும் கண்டவர் நெஞ்சத்து\nஅடையது வாகிய சாதகர் தாமே.",
+  "transliteration": "uṭaiyvṉ aṅki uruttir cōti\nviṭaiyvṉ ēṟi viḷṅki irukkum\nkṭaiyvr pōyiṭum kṇṭvr neñcttu\naṭaiytu vākiy cātkr tāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "cfed92a92d2f6c243edd30a7b1a4ee374dae90813360217c4e53f3c5d329bca6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

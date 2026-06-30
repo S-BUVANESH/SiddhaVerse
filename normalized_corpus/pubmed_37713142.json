@@ -1,0 +1,49 @@
+{
+  "document_id": "pubmed_37713142",
+  "text_id": "pubmed_37713142",
+  "title": "Curiosity and Creative Experimentation Among Psychiatrists in India.",
+  "source_work": "PubMed Research",
+  "collection": "Scientific Literature",
+  "verse_number": null,
+  "author": [
+    "Lang C",
+    "Halliburton M"
+  ],
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "e678bad5f25af9f4356967d98bdaa18d73e801b041108f668e6da75e5f4a81d1",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "open_access",
+  "source_repository": "PubMed Central",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "pmid": "37713142",
+  "authors": [
+    "Lang C",
+    "Halliburton M"
+  ],
+  "journal": "Culture, medicine and psychiatry",
+  "pubdate": "2024 Jun",
+  "doi": "10.1007/s11013-023-09829-1",
+  "abstract": "Medical anthropologists have not paid enough attention to the variation at the level of the individual practitioners of biomedicine, and anthropological critiques of biomedical psychiatry as it is practiced in settings outside the Global North have tended to depict psychiatrists in monolithic terms. In this article, we attempt to demonstrate that, at least in the case of India, some psychiatrists perceive limitations in the biomedical model and the cultural assumptions behind biomedical practices and ideologies. This paper focuses on three practitioners who supplement their own practices with local and alternative healing modalities derived from South Asian psychologies, philosophies, systems of medicine and religious and ritual practices. The diverging psychiatric practices in this paper represent a rough continuum. They range from a bold and confident psychiatrist who uses various techniques including ritual healing to another who yearns to incorporate more Indian philosophy and psychology in psychiatric practice and encourages students of ayurvedic medicine to more fully embrace the science they are learning to a less proactive psychiatrist who does not describe a desire to change his practice but who is respectful and accepting of ayurvedic treatments that some patients also undergo. Rather than simply applying a hegemonic biomedical psychiatry, these psychiatrists offer the possibility of a more locally-attuned, context sensitive psychiatric practice.",
+  "search_text": "pubmed 37713142 Curiosity and Creative Experimentation Among Psychiatrists in India. PubMed Research Scientific Literature Lang C Halliburton M Tamil Tamil script open_access PubMed Central 37713142 Lang C Halliburton M Culture, medicine and psychiatry 2024 Jun 10.1007/s11013-023-09829-1 Medical anthropologists have not paid enough attention to the variation at the level of the individual practitioners of biomedicine, and anthropological critiques of biomedical psychiatry as it is practiced in settings outside the Global North have tended to depict psychiatrists in monolithic terms. In this article, we attempt to demonstrate that, at least in the case of India, some psychiatrists perceive limitations in the biomedical model and the cultural assumptions behind biomedical practices and ideologies. This paper focuses on three practitioners who supplement their own practices with local and alternative healing modalities derived from South Asian psychologies, philosophies, systems of medicine and religious and ritual practices. The diverging psychiatric practices in this paper represent a rough continuum. They range from a bold and confident psychiatrist who uses various techniques including ritual healing to another who yearns to incorporate more Indian philosophy and psychology in psychiatric practice and encourages students of ayurvedic medicine to more fully embrace the science they are learning to a less proactive psychiatrist who does not describe a desire to change his practice but who is respectful and accepting of ayurvedic treatments that some patients also undergo. Rather than simply applying a hegemonic biomedical psychiatry, these psychiatrists offer the possibility of a more locally-attuned, context sensitive psychiatric practice."
+}

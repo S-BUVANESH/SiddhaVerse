@@ -1,0 +1,42 @@
+{
+  "document_id": "sivavakkiyar_pm_0995",
+  "text_id": "sivavakkiyar_pm_0995",
+  "title": "Sivavakkiyam - Verse 386",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "386",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விட்டடி விரைத்ததோ அவ்வேர்உருக்கி நின்றதோ\nஎட்டிநின்ற சீவனும் ஈரேழ்லோகம் கண்டதோ?\nதட்டுருவம் ஆகிநின்ற சதாசிவத்து ஒளியதோ\nவட்டவீடு அறிந்தபேர்கள் வானதேவர் ஆவரோ.",
+  "transliteration": "viṭṭṭi viraitttō avvērurukki niṉṟtō\neṭṭiniṉṟ cīvṉum īrēḻlōkm kṇṭtō?\ntṭṭuruvm ākiniṉṟ ctācivttu oḷiytō\nvṭṭvīṭu aṟintpērkḷ vāṉtēvr āvrō.",
+  "english_translation": null,
+  "content_hash": "01c0dae2d318210006f452baf7354659d242d481e14fafcc705fd861917a2da4",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_shiva_shakti",
+    "practice_varma",
+    "siddhar_sivavakkiyar",
+    "body_light",
+    "body_eye",
+    "practice_ashta_siddhi",
+    "deity_shiva",
+    "concept_mukti",
+    "symbol_eight"
+  ]
+}

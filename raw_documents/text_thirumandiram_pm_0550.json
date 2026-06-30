@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0550",
+  "text_id": "thirumandiram_pm_0550",
+  "title": "Thirumandiram - Verse 1109",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1109",
+  "tamil_text": "அஞ்சொல் மொழியாள் அருந்தவப் பெண்பிள்ளை\nசெஞ்சொல் மடமொழி சீருடைச் சேயிழை\nதஞ்சமென்று எண்ணித்தன் சேவடி போற்றுவார்க்கு\nஇன்சொல் அளிக்கும் இறைவியென் றாரே.",
+  "transliteration": "añcol moḻiyāḷ aruntvp peṇpiḷḷai\nceñcol mṭmoḻi cīruṭaic cēyiḻai\ntñcmeṉṟu eṇṇittṉ cēvṭi pōṟṟuvārkku\niṉcol aḷikkum iṟaiviyeṉ ṟārē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "b8dd7e118794b8c0a7d48d43f9f31beefb1c30c4b9dd1712bf2492631b8b5c8c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0675",
+  "text_id": "sivavakkiyar_pm_0675",
+  "title": "Sivavakkiyam - Verse 66",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "66",
+  "tamil_text": "கண்டுநின்ற மாயையும் கலந்துநின்ற பூதமும்\nஉண்டுறங்கு மாறுநீர் உணர்ந்திருக்க வல்லீரேல்\nபண்டைஆறும் ஒன்றுமாய்ப் பயந்தவேத சுத்தனாய்\nஅண்டமுத்தி ஆகிநின்ற ஆதிமூலம் மூலமே!",
+  "transliteration": "kṇṭuniṉṟ māyaiyum klntuniṉṟ pūtmum\nuṇṭuṟṅku māṟunīr uṇrntirukk vllīrēl\npṇṭaiāṟum oṉṟumāyp pyntvēt cuttṉāy\naṇṭmutti ākiniṉṟ ātimūlm mūlmē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "3caa01edb421f9f9bc7a8c5664acbfb18ad2452fbe8a21c1054e0f899e935172",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

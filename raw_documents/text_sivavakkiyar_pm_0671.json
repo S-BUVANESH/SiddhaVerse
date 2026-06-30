@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0671",
+  "text_id": "sivavakkiyar_pm_0671",
+  "title": "Sivavakkiyam - Verse 62",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "62",
+  "tamil_text": "மைஅடர்ந்த கண்ணினார் மயக்கிடும் மயக்கிலே\nஐயிறந்து கொண்டுநீங்கள் அல்லல்அற்று இருப்பீர்கள்\nமெய்அறிந்த சிந்தையால் விளங்குஞானம் எய்தினால்\nஉய்யறிந்து கொண்டுநீங்கள் ஊழிகாலம் வாழ்வீரே.",
+  "transliteration": "maiaṭrnt kṇṇiṉār mykkiṭum mykkilē\naiyiṟntu koṇṭunīṅkḷ alllaṟṟu iruppīrkḷ\nmeyaṟint cintaiyāl viḷṅkuñāṉm eytiṉāl\nuyyṟintu koṇṭunīṅkḷ ūḻikālm vāḻvīrē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "28c56e945dc05a25acbc0c1a97c792d4c06eb193e4c0b8539cbf3cd2160038e8",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

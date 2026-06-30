@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0898",
+  "text_id": "sivavakkiyar_pm_0898",
+  "title": "Sivavakkiyam - Verse 289",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "289",
+  "tamil_text": "நின்றதன்று இருந்ததன்று நேரிதன்று கூறிதன்று\nபந்தமன்று வீடுமன்று பாவகங்கள் அற்றது.\nகெந்தமன்று கேள்வியன்று கேடிலாத வானிலே\nஅந்தமின்றி நின்றதொன்றை எங்ஙனே உரைப்பதே.",
+  "transliteration": "niṉṟtṉṟu irunttṉṟu nēritṉṟu kūṟitṉṟu\npntmṉṟu vīṭumṉṟu pāvkṅkḷ aṟṟtu.\nkentmṉṟu kēḷviyṉṟu kēṭilāt vāṉilē\nantmiṉṟi niṉṟtoṉṟai eṅṅṉē uraipptē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f88a6ce0b709aaa77a2cca506dc8f72d22b6753699ecc99d91a9087c9260d33d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0055",
+  "text_id": "thirumandiram_pm_0055",
+  "title": "Thirumandiram - Verse 55",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "55",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஆறங்க மாய்வரும் மாமறை ஓதியைக்\nகூறங்க மாகக் குணம்பயில் வாரில்லை\nவேறங்க மாக விளைவுசெய்து அப்புறம்\nபேறங்க மாகப் பெருக்குகின் றாரே.",
+  "transliteration": "āṟṅk māyvrum māmṟai ōtiyaik\nkūṟṅk mākk kuṇmpyil vārillai\nvēṟṅk māk viḷaivuceytu appuṟm\npēṟṅk mākp perukkukiṉ ṟārē.",
+  "english_translation": null,
+  "content_hash": "af96a84f2b82a22fd8b9da45291f52bb1a7cd57989827750e4e93434bfbe915f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "concept_kundalini",
+    "deity_vishnu",
+    "place_kashi",
+    "concept_dhyana"
+  ]
+}

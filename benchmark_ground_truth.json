@@ -1,0 +1,40 @@
+{
+  "version": "2B-4",
+  "queries": [
+    {
+      "query_id": "q001",
+      "category": "Tamil Verse Lookup",
+      "query_text": "நினைப்பதொன்று கண்டேன்",
+      "expected_documents": ["sivavakkiyar_pm_0616"],
+      "relevance_scores": {"sivavakkiyar_pm_0616": 1.0}
+    },
+    {
+      "query_id": "q002",
+      "category": "Romanized Suffix",
+      "query_text": "pranayamam",
+      "expected_documents": ["classic_thirumandiram", "sivavakkiyar_pm_0616"],
+      "relevance_scores": {"classic_thirumandiram": 1.0, "sivavakkiyar_pm_0616": 0.9}
+    },
+    {
+      "query_id": "q003",
+      "category": "English Synonym",
+      "query_text": "breath retention",
+      "expected_documents": ["classic_thirumandiram", "sivavakkiyar_pm_0616"],
+      "relevance_scores": {"classic_thirumandiram": 1.0, "sivavakkiyar_pm_0616": 0.9}
+    },
+    {
+      "query_id": "q004",
+      "category": "Entity Search",
+      "query_text": "holy basil",
+      "expected_documents": ["plant_tulsi", "plant_karunthulasi"],
+      "relevance_scores": {"plant_tulsi": 1.0, "plant_karunthulasi": 0.9}
+    },
+    {
+      "query_id": "q005",
+      "category": "Concept Query",
+      "query_text": "Kaya Kalpa rejuvenation",
+      "expected_documents": ["formulation_brahma_rasayanam", "classic_agasthiyar_soumya_sagaram"],
+      "relevance_scores": {"formulation_brahma_rasayanam": 1.0, "classic_agasthiyar_soumya_sagaram": 0.9}
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0575",
+  "text_id": "thirumandiram_pm_0575",
+  "title": "Thirumandiram - Verse 1134",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1134",
+  "tamil_text": "இரவும் பகலும் இலாத இடத்தே\nகுரவம் செய்கின்ற குழலியை நாடி\nஅரவம்செய் யாமல் அருளுடன் தூங்கப்\nபருவம்செய் யாததோர் பாலனும் ஆமே.",
+  "transliteration": "irvum pklum ilāt iṭttē\nkurvm ceykiṉṟ kuḻliyai nāṭi\narvmcey yāml aruḷuṭṉ tūṅkp\npruvmcey yāttōr pālṉum āmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "2b775511d0078bfa8f9f674d3726cec4ddf3f0f6ac0bec4caead42d08d3fa4f6",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

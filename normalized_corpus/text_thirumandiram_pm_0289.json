@@ -1,0 +1,32 @@
+{
+  "document_id": "thirumandiram_pm_0289",
+  "text_id": "thirumandiram_pm_0289",
+  "title": "Thirumandiram - Verse 292",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "292",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "நிற்கின்ற போதே நிலையுடை யான்கழல்\nகற்கின்ற செய்மின் கழிந்தறும் பாவங்கள்\nசொற்குன்றல் இன்றித் தொழுமின் தொழுதபின்\nமற்றொன்று இலாத மணிவிளக் காமே.",
+  "transliteration": "niṟkiṉṟ pōtē nilaiyuṭai yāṉkḻl\nkṟkiṉṟ ceymiṉ kḻintṟum pāvṅkḷ\ncoṟkuṉṟl iṉṟit toḻumiṉ toḻutpiṉ\nmṟṟoṉṟu ilāt mṇiviḷk kāmē.",
+  "english_translation": null,
+  "content_hash": "669783ca1d1fa4ef27f2e45bc8672e1622763a1317c9d2ba0fb093d4365327ba",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": []
+}

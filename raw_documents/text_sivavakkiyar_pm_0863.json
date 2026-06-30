@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0863",
+  "text_id": "sivavakkiyar_pm_0863",
+  "title": "Sivavakkiyam - Verse 254",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "254",
+  "tamil_text": "ஆதிநாடி நாடிஓடிக் காலைமாலை நீரிலே\nசோதிமூல மானநாடி சொல்லிறந்த தூவெளி\nஆதிகூடி நெற்பறித்தது அகாரமாதி ஆகமம்\nபேதபேதம் ஆகியே பிறந்துடல் இறந்ததே.",
+  "transliteration": "ātināṭi nāṭiōṭik kālaimālai nīrilē\ncōtimūl māṉnāṭi colliṟnt tūveḷi\nātikūṭi neṟpṟitttu akārmāti ākmm\npētpētm ākiyē piṟntuṭl iṟnttē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f522ada7082e8ec68f08f9b9815efc9bcfb54b071986dd41b7cdbfda6e1201ed",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

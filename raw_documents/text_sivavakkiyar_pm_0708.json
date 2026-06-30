@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0708",
+  "text_id": "sivavakkiyar_pm_0708",
+  "title": "Sivavakkiyam - Verse 99",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "99",
+  "tamil_text": "மூன்றுமண்ட லத்தினும் முட்டிநின்ற தூணிலும்\nநான்றபாம்பின் வாயிலும் நவின்றெழுந்த அட்சரம்;\nஈன்றதாயும் அப்பனும் எடுத்துரைத்த மந்திரம்;\nதோன்றும்ஓர் எழுத்துளே சொல்லஎங்கும் இல்லையே!",
+  "transliteration": "mūṉṟumṇṭ lttiṉum muṭṭiniṉṟ tūṇilum\nnāṉṟpāmpiṉ vāyilum nviṉṟeḻunt aṭcrm;\nīṉṟtāyum appṉum eṭutturaitt mntirm;\ntōṉṟumōr eḻuttuḷē colleṅkum illaiyē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "4391baa53e7c079f300f6cfd59c2b1570fa119b7d5d2bda7dba8cf5e84a8aa3b",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

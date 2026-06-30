@@ -1,0 +1,50 @@
+{
+  "document_id": "formulation_asta_choornam",
+  "text_id": "formulation_asta_choornam",
+  "title": "Asta Choornam",
+  "source_work": "Siddha Pharmacopoeia",
+  "collection": "Formulations",
+  "verse_number": null,
+  "author": "SiddhaVerse Corpus",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "bf293eb490c681debe8eb2a85342e1b6ac0e12e3a7d87647c2c764aafff5075e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "SiddhaVerse Corpus",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "name": "Asta Choornam",
+  "category": "Choornam (Powder)",
+  "ingredients": [
+    "Piper nigrum",
+    "Piper longum",
+    "Zingiber officinale",
+    "Carum copticum",
+    "Asafoetida",
+    "Rock salt"
+  ],
+  "method": "Dry roast and powder all components, mix together.",
+  "indications": "Loss of appetite, flatulence, abdominal pain, indigestion",
+  "dosage": "1-2 grams with ghee before meals",
+  "search_text": "formulation asta choornam Asta Choornam Siddha Pharmacopoeia Formulations SiddhaVerse Corpus Tamil Tamil script public_domain SiddhaVerse Corpus Asta Choornam Choornam (Powder) Piper nigrum Piper longum Zingiber officinale Carum copticum Asafoetida Rock salt Dry roast and powder all components, mix together. Loss of appetite, flatulence, abdominal pain, indigestion 1-2 grams with ghee before meals"
+}

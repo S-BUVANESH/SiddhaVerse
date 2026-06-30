@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0963",
+  "text_id": "sivavakkiyar_pm_0963",
+  "title": "Sivavakkiyam - Verse 354",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "354",
+  "tamil_text": "சோதிசோதி என்றுநாடித் தோற்பவர் சிலவரே\nஆதிஆதி என்றுநாடும் ஆடவர் சிலவரே\nவாதிவாதி என்றுசொல்லும் வம்பரும் சிலவரே\nநீதிநீதி நீதிநீதி நின்றிடும் முழுச்சுடர்.",
+  "transliteration": "cōticōti eṉṟunāṭit tōṟpvr cilvrē\nātiāti eṉṟunāṭum āṭvr cilvrē\nvātivāti eṉṟucollum vmprum cilvrē\nnītinīti nītinīti niṉṟiṭum muḻuccuṭr.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "212a2aef79f0b537a45b5a18d167f3ca2d0614d878c10f0d6bd8b315e78cb612",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0681",
+  "text_id": "sivavakkiyar_pm_0681",
+  "title": "Sivavakkiyam - Verse 72",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "72",
+  "tamil_text": "சிவாயம்என்ற அட்சரம் சிவன்இருக்கும் அட்சரம்\nஉபாயம்என்று நம்புதற்கு உண்மையான அட்சரம்\nகபாடமற்ற வாசலைக் கடந்துபோன வாயுவை\nஉபாயம்இட்டு அழைக்குமே சிவாயஅஞ் செழுத்துமே.",
+  "transliteration": "civāymeṉṟ aṭcrm civṉirukkum aṭcrm\nupāymeṉṟu nmputṟku uṇmaiyāṉ aṭcrm\nkpāṭmṟṟ vāclaik kṭntupōṉ vāyuvai\nupāymiṭṭu aḻaikkumē civāyañ ceḻuttumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "46fb2917d7dd0e87ab62c67c23d23daeeaa0e2b96f78c667e4fc077b8da00c2d",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

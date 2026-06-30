@@ -1,0 +1,40 @@
+{
+  "document_id": "classic_karuvoorar_pooja_vidhi",
+  "text_id": "classic_karuvoorar_pooja_vidhi",
+  "title": "Karuvoorar Pooja Vidhi",
+  "source_work": "Classical Siddha Literature",
+  "collection": "Classical Texts",
+  "verse_number": null,
+  "author": "Karuvoorar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": null,
+  "transliteration": null,
+  "english_translation": null,
+  "content_hash": "ee9342645b544891eaf01395a987df1b603fbc19ba4e077f4eb07a63af9c991e",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00",
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai / Academic Sources",
+  "source_url": null,
+  "acquisition_timestamp": "2026-06-25T14:54:20.107070+00:00",
+  "provenance_metadata": {
+    "method": "manual_curation",
+    "extractor": "SiddhaVerse Phase 2A.5",
+    "verified": true,
+    "synthetic": false,
+    "migrated_at": "2026-06-25T14:54:20.107070+00:00",
+    "migration": "Phase 2B-4 schema unification"
+  },
+  "entity_ids": [],
+  "era": "c. 11th Century CE",
+  "summary": "Focuses on the spiritual initiation, meditation, and psychological preparation of a Siddha physician.",
+  "verses_count": 300,
+  "search_text": "classic karuvoorar pooja vidhi Karuvoorar Pooja Vidhi Classical Siddha Literature Classical Texts Karuvoorar Tamil Tamil script public_domain Project Madurai / Academic Sources c. 11th Century CE Focuses on the spiritual initiation, meditation, and psychological preparation of a Siddha physician."
+}

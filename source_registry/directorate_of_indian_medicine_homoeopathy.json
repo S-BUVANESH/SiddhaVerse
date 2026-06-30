@@ -1,0 +1,25 @@
+{
+  "title": "Directorate of Indian Medicine and Homoeopathy (DIMH) Tamil Nadu",
+  "url": "https://www.tnhealth.tn.gov.in",
+  "organization": "Health and Family Welfare Department, Government of Tamil Nadu",
+  "source_type": "Government Publication",
+  "license_status": "copyrighted_metadata_only",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 0,
+    "plants": 20,
+    "formulations": 30,
+    "diseases": 30,
+    "manuscripts": 0,
+    "research": 20
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Government Medical Registers",
+    "Siddha Drug Licensing Guidelines",
+    "AYUSH Standard Operating Procedures"
+  ],
+  "notes": "State licensing authority for Siddha medicine. Reference source for official list of licensed formulations and standards."
+}

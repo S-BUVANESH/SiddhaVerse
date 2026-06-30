@@ -1,0 +1,2866 @@
+{
+  "category": "deities",
+  "entity_count": 7,
+  "generated_at": "2026-06-24T18:01:29.975753+00:00",
+  "entities": [
+    {
+      "entity_id": "deity_murugan",
+      "entity_category": "deities",
+      "entity_name": "Murugan",
+      "description": "Son of Shiva; Tamil deity of war and wisdom",
+      "occurrence_count": 349,
+      "max_confidence": 0.6,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0611",
+          "verse_number": "2",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0616",
+          "verse_number": "7",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0618",
+          "verse_number": "9",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0625",
+          "verse_number": "16",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0626",
+          "verse_number": "17",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0628",
+          "verse_number": "19",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0633",
+          "verse_number": "24",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0634",
+          "verse_number": "25",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0637",
+          "verse_number": "28",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0638",
+          "verse_number": "29",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0639",
+          "verse_number": "30",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0640",
+          "verse_number": "31",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0641",
+          "verse_number": "32",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0642",
+          "verse_number": "33",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0643",
+          "verse_number": "34",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0644",
+          "verse_number": "35",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0646",
+          "verse_number": "37",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0651",
+          "verse_number": "42",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0652",
+          "verse_number": "43",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0655",
+          "verse_number": "46",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0660",
+          "verse_number": "51",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0661",
+          "verse_number": "52",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0662",
+          "verse_number": "53",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0665",
+          "verse_number": "56",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0668",
+          "verse_number": "59",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0669",
+          "verse_number": "60",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0676",
+          "verse_number": "67",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0679",
+          "verse_number": "70",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0680",
+          "verse_number": "71",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0681",
+          "verse_number": "72",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0684",
+          "verse_number": "75",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0686",
+          "verse_number": "77",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0689",
+          "verse_number": "80",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0694",
+          "verse_number": "85",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0704",
+          "verse_number": "95",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0706",
+          "verse_number": "97",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "முருகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0707",
+          "verse_number": "98",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0708",
+          "verse_number": "99",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0709",
+          "verse_number": "100",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0710",
+          "verse_number": "101",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0713",
+          "verse_number": "104",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0718",
+          "verse_number": "109",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0723",
+          "verse_number": "114",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0725",
+          "verse_number": "116",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0726",
+          "verse_number": "117",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "கார்த்திகேயன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0733",
+          "verse_number": "124",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0734",
+          "verse_number": "125",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0739",
+          "verse_number": "130",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0740",
+          "verse_number": "131",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "குமரன்"
+        }
+      ],
+      "source_documents_total": 349
+    },
+    {
+      "entity_id": "deity_vishnu",
+      "entity_category": "deities",
+      "entity_name": "Vishnu",
+      "description": "Preserver deity; Vaishnava tradition",
+      "occurrence_count": 339,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6019,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0597",
+          "verse_number": "2",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "விஷ்ணு"
+        },
+        {
+          "document_id": "thirumandiram_pm_0599",
+          "verse_number": "4",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "விஷ்ணு"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0609",
+          "verse_number": "0",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0615",
+          "verse_number": "6",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0616",
+          "verse_number": "7",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0619",
+          "verse_number": "10",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0620",
+          "verse_number": "11",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0622",
+          "verse_number": "13",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0625",
+          "verse_number": "16",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0627",
+          "verse_number": "18",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0631",
+          "verse_number": "22",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0633",
+          "verse_number": "24",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0635",
+          "verse_number": "26",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0637",
+          "verse_number": "28",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0638",
+          "verse_number": "29",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0640",
+          "verse_number": "31",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0647",
+          "verse_number": "38",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0649",
+          "verse_number": "40",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0650",
+          "verse_number": "41",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0653",
+          "verse_number": "44",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0655",
+          "verse_number": "46",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0656",
+          "verse_number": "47",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0658",
+          "verse_number": "49",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0659",
+          "verse_number": "50",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0662",
+          "verse_number": "53",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0663",
+          "verse_number": "54",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0664",
+          "verse_number": "55",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0675",
+          "verse_number": "66",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0676",
+          "verse_number": "67",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0680",
+          "verse_number": "71",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0683",
+          "verse_number": "74",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0684",
+          "verse_number": "75",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0685",
+          "verse_number": "76",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0686",
+          "verse_number": "77",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0688",
+          "verse_number": "79",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0689",
+          "verse_number": "80",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0694",
+          "verse_number": "85",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0697",
+          "verse_number": "88",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0698",
+          "verse_number": "89",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0700",
+          "verse_number": "91",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0701",
+          "verse_number": "92",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0704",
+          "verse_number": "95",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0706",
+          "verse_number": "97",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0707",
+          "verse_number": "98",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0708",
+          "verse_number": "99",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0709",
+          "verse_number": "100",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0711",
+          "verse_number": "102",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0713",
+          "verse_number": "104",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "மாயோன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0717",
+          "verse_number": "108",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "திருமால்"
+        }
+      ],
+      "source_documents_total": 339
+    },
+    {
+      "entity_id": "deity_shiva",
+      "entity_category": "deities",
+      "entity_name": "Shiva",
+      "description": "Supreme deity of Shaiva Siddhanta; the Absolute",
+      "occurrence_count": 274,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6573,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0008",
+          "verse_number": "8",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0014",
+          "verse_number": "14",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0017",
+          "verse_number": "17",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0027",
+          "verse_number": "27",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0071",
+          "verse_number": "71",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0103",
+          "verse_number": "105",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0108",
+          "verse_number": "110",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0179",
+          "verse_number": "182",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0244",
+          "verse_number": "247",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0253",
+          "verse_number": "256",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0263",
+          "verse_number": "266",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0277",
+          "verse_number": "280",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0285",
+          "verse_number": "288",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0300",
+          "verse_number": "304",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0304",
+          "verse_number": "308",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0319",
+          "verse_number": "323",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0334",
+          "verse_number": "534",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0436",
+          "verse_number": "989",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0564",
+          "verse_number": "1123",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0583",
+          "verse_number": "1142",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "பரமன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0597",
+          "verse_number": "2",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0605",
+          "verse_number": "10",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0608",
+          "verse_number": "13",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0644",
+          "verse_number": "35",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0653",
+          "verse_number": "44",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சம்பு"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0681",
+          "verse_number": "72",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0722",
+          "verse_number": "113",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0733",
+          "verse_number": "124",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0749",
+          "verse_number": "140",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0770",
+          "verse_number": "161",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0785",
+          "verse_number": "176",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0792",
+          "verse_number": "183",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0833",
+          "verse_number": "224",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0864",
+          "verse_number": "255",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "பரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0871",
+          "verse_number": "262",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "ஈசன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0076",
+          "verse_number": "78",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0077",
+          "verse_number": "79",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0088",
+          "verse_number": "90",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0090",
+          "verse_number": "92",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0104",
+          "verse_number": "106",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0110",
+          "verse_number": "112",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0125",
+          "verse_number": "127",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0272",
+          "verse_number": "275",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0298",
+          "verse_number": "302",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0320",
+          "verse_number": "324",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0352",
+          "verse_number": "900",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0384",
+          "verse_number": "933",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0401",
+          "verse_number": "951",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0437",
+          "verse_number": "990",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சிவன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0609",
+          "verse_number": "0",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சிவன்"
+        }
+      ],
+      "source_documents_total": 274
+    },
+    {
+      "entity_id": "deity_shakti",
+      "entity_category": "deities",
+      "entity_name": "Shakti",
+      "description": "Divine feminine energy; consort of Shiva",
+      "occurrence_count": 201,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6147,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0567",
+          "verse_number": "1126",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0605",
+          "verse_number": "10",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0608",
+          "verse_number": "13",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0527",
+          "verse_number": "1085",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0561",
+          "verse_number": "1120",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0569",
+          "verse_number": "1128",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0577",
+          "verse_number": "1136",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0594",
+          "verse_number": "1153",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0597",
+          "verse_number": "2",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "thirumandiram_pm_0607",
+          "verse_number": "12",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0609",
+          "verse_number": "0",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0611",
+          "verse_number": "2",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0613",
+          "verse_number": "4",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0614",
+          "verse_number": "5",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0629",
+          "verse_number": "20",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0631",
+          "verse_number": "22",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0637",
+          "verse_number": "28",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பராசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0644",
+          "verse_number": "35",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0645",
+          "verse_number": "36",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0648",
+          "verse_number": "39",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0652",
+          "verse_number": "43",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0660",
+          "verse_number": "51",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0662",
+          "verse_number": "53",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0663",
+          "verse_number": "54",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0666",
+          "verse_number": "57",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பராசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0670",
+          "verse_number": "61",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பராசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0675",
+          "verse_number": "66",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0678",
+          "verse_number": "69",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0680",
+          "verse_number": "71",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0690",
+          "verse_number": "81",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0692",
+          "verse_number": "83",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0694",
+          "verse_number": "85",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0695",
+          "verse_number": "86",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0703",
+          "verse_number": "94",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0706",
+          "verse_number": "97",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0711",
+          "verse_number": "102",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0714",
+          "verse_number": "105",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பராசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0720",
+          "verse_number": "111",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0722",
+          "verse_number": "113",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0727",
+          "verse_number": "118",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0732",
+          "verse_number": "123",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0736",
+          "verse_number": "127",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0740",
+          "verse_number": "131",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0753",
+          "verse_number": "144",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0755",
+          "verse_number": "146",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0762",
+          "verse_number": "153",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0763",
+          "verse_number": "154",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "அம்பாள்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0768",
+          "verse_number": "159",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "ஆதிசக்தி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0772",
+          "verse_number": "163",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பார்வதி"
+        }
+      ],
+      "source_documents_total": 201
+    },
+    {
+      "entity_id": "deity_brahma",
+      "entity_category": "deities",
+      "entity_name": "Brahma",
+      "description": "Creator deity of the Hindu Trimurti",
+      "occurrence_count": 149,
+      "max_confidence": 1.0,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6134,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0897",
+          "verse_number": "288",
+          "source_work": "Sivavakkiyam",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0924",
+          "verse_number": "315",
+          "source_work": "Sivavakkiyam",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0069",
+          "verse_number": "69",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0234",
+          "verse_number": "237",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0571",
+          "verse_number": "1130",
+          "source_work": "Thirumandiram",
+          "confidence": 1.0,
+          "match_type": "exact_token",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0616",
+          "verse_number": "7",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0621",
+          "verse_number": "12",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0624",
+          "verse_number": "15",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0625",
+          "verse_number": "16",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0626",
+          "verse_number": "17",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0635",
+          "verse_number": "26",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0646",
+          "verse_number": "37",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0665",
+          "verse_number": "56",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0676",
+          "verse_number": "67",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0678",
+          "verse_number": "69",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0679",
+          "verse_number": "70",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0680",
+          "verse_number": "71",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0703",
+          "verse_number": "94",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0708",
+          "verse_number": "99",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0711",
+          "verse_number": "102",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0712",
+          "verse_number": "103",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0715",
+          "verse_number": "106",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0723",
+          "verse_number": "114",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0730",
+          "verse_number": "121",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0732",
+          "verse_number": "123",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0734",
+          "verse_number": "125",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0739",
+          "verse_number": "130",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0748",
+          "verse_number": "139",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0756",
+          "verse_number": "147",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0762",
+          "verse_number": "153",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0764",
+          "verse_number": "155",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0765",
+          "verse_number": "156",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0768",
+          "verse_number": "159",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0772",
+          "verse_number": "163",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0791",
+          "verse_number": "182",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0809",
+          "verse_number": "200",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0813",
+          "verse_number": "204",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0825",
+          "verse_number": "216",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0827",
+          "verse_number": "218",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0837",
+          "verse_number": "228",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0839",
+          "verse_number": "230",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0846",
+          "verse_number": "237",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0853",
+          "verse_number": "244",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0855",
+          "verse_number": "246",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0862",
+          "verse_number": "253",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0870",
+          "verse_number": "261",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "நான்முகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0872",
+          "verse_number": "263",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0881",
+          "verse_number": "272",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0885",
+          "verse_number": "276",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0887",
+          "verse_number": "278",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிரமன்"
+        }
+      ],
+      "source_documents_total": 149
+    },
+    {
+      "entity_id": "deity_kali",
+      "entity_category": "deities",
+      "entity_name": "Kali",
+      "description": "Fierce form of Shakti",
+      "occurrence_count": 88,
+      "max_confidence": 0.85,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6028,
+      "source_documents": [
+        {
+          "document_id": "thirumandiram_pm_0492",
+          "verse_number": "1050",
+          "source_work": "Thirumandiram",
+          "confidence": 0.85,
+          "match_type": "exact_substring",
+          "matched_term": "சண்டி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0618",
+          "verse_number": "9",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0623",
+          "verse_number": "14",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0624",
+          "verse_number": "15",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0626",
+          "verse_number": "17",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சண்டி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0629",
+          "verse_number": "20",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0630",
+          "verse_number": "21",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0633",
+          "verse_number": "24",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0636",
+          "verse_number": "27",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0637",
+          "verse_number": "28",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0645",
+          "verse_number": "36",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0649",
+          "verse_number": "40",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0658",
+          "verse_number": "49",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0668",
+          "verse_number": "59",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0672",
+          "verse_number": "63",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0673",
+          "verse_number": "64",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0676",
+          "verse_number": "67",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0677",
+          "verse_number": "68",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0683",
+          "verse_number": "74",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0686",
+          "verse_number": "77",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0689",
+          "verse_number": "80",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0708",
+          "verse_number": "99",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0715",
+          "verse_number": "106",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0724",
+          "verse_number": "115",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0725",
+          "verse_number": "116",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0737",
+          "verse_number": "128",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0738",
+          "verse_number": "129",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0739",
+          "verse_number": "130",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0743",
+          "verse_number": "134",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0760",
+          "verse_number": "151",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0761",
+          "verse_number": "152",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "சண்டி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0780",
+          "verse_number": "171",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0786",
+          "verse_number": "177",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0787",
+          "verse_number": "178",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0789",
+          "verse_number": "180",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0799",
+          "verse_number": "190",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0802",
+          "verse_number": "193",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0816",
+          "verse_number": "207",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0818",
+          "verse_number": "209",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0820",
+          "verse_number": "211",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0827",
+          "verse_number": "218",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0835",
+          "verse_number": "226",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0844",
+          "verse_number": "235",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0845",
+          "verse_number": "236",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0851",
+          "verse_number": "242",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0855",
+          "verse_number": "246",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0858",
+          "verse_number": "249",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0859",
+          "verse_number": "250",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0861",
+          "verse_number": "252",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "காளி"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0862",
+          "verse_number": "253",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "துர்கை"
+        }
+      ],
+      "source_documents_total": 88
+    },
+    {
+      "entity_id": "deity_ganesha",
+      "entity_category": "deities",
+      "entity_name": "Ganesha",
+      "description": "Elephant-headed deity; remover of obstacles",
+      "occurrence_count": 46,
+      "max_confidence": 0.6,
+      "min_confidence": 0.6,
+      "avg_confidence": 0.6,
+      "source_documents": [
+        {
+          "document_id": "sivavakkiyar_pm_0650",
+          "verse_number": "41",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0696",
+          "verse_number": "87",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0784",
+          "verse_number": "175",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0798",
+          "verse_number": "189",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0801",
+          "verse_number": "192",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0845",
+          "verse_number": "236",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0852",
+          "verse_number": "243",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0881",
+          "verse_number": "272",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0926",
+          "verse_number": "317",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0930",
+          "verse_number": "321",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0984",
+          "verse_number": "375",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "sivavakkiyar_pm_0987",
+          "verse_number": "378",
+          "source_work": "Sivavakkiyam",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0021",
+          "verse_number": "21",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0048",
+          "verse_number": "48",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0104",
+          "verse_number": "106",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0369",
+          "verse_number": "917",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0372",
+          "verse_number": "921",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0381",
+          "verse_number": "930",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0400",
+          "verse_number": "950",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0410",
+          "verse_number": "960",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0411",
+          "verse_number": "961",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0414",
+          "verse_number": "964",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0421",
+          "verse_number": "973",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0432",
+          "verse_number": "985",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0435",
+          "verse_number": "988",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0437",
+          "verse_number": "990",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0440",
+          "verse_number": "993",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0454",
+          "verse_number": "1012",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0490",
+          "verse_number": "1048",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0506",
+          "verse_number": "1064",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0510",
+          "verse_number": "1068",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0515",
+          "verse_number": "1073",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0529",
+          "verse_number": "1087",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0537",
+          "verse_number": "1095",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0550",
+          "verse_number": "1109",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0551",
+          "verse_number": "1110",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0558",
+          "verse_number": "1117",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0576",
+          "verse_number": "1135",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0579",
+          "verse_number": "1138",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0587",
+          "verse_number": "1146",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0591",
+          "verse_number": "1150",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "பிள்ளையார்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0599",
+          "verse_number": "4",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0600",
+          "verse_number": "5",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0601",
+          "verse_number": "6",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0604",
+          "verse_number": "9",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        },
+        {
+          "document_id": "thirumandiram_pm_0608",
+          "verse_number": "13",
+          "source_work": "Thirumandiram",
+          "confidence": 0.6,
+          "match_type": "root_match",
+          "matched_term": "விநாயகன்"
+        }
+      ],
+      "source_documents_total": 46
+    }
+  ]
+}

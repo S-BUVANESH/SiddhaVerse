@@ -1,0 +1,25 @@
+{
+  "title": "Connemara Public Library",
+  "url": "https://www.tnpl.tn.gov.in/",
+  "organization": "Directorate of Public Libraries, Government of Tamil Nadu",
+  "source_type": "Book",
+  "license_status": "mixed",
+  "trust_score": "9.8/10",
+  "priority": "high",
+  "acquisition_difficulty": 6,
+  "coverage": {
+    "siddhars": 15,
+    "plants": 10,
+    "formulations": 15,
+    "diseases": 15,
+    "manuscripts": 20,
+    "research": 25
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Depository Collections of Tamil Books",
+    "Ancient Medical Treatises",
+    "Nineteenth-century Printing Scans"
+  ],
+  "notes": "National depository library. Holds rare early-printed monographs on Siddha medicine which are in the public domain."
+}

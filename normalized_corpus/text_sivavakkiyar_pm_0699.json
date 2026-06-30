@@ -1,0 +1,38 @@
+{
+  "document_id": "sivavakkiyar_pm_0699",
+  "text_id": "sivavakkiyar_pm_0699",
+  "title": "Sivavakkiyam - Verse 90",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "90",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "உடம்புஉயிர் எடுத்ததோ, உயிர்உடம்பு எடுத்ததோ\nஉடம்புஉயிர் எடுத்தபோது உருவம்ஏது செப்புவீர்\nஉடம்புஉயிர் இறந்தபோது உயிர்இறப்பது இல்லையே\nஉடம்புமெய் மறந்துகண்டு உணர்ந்துஞானம் ஓதுமே.",
+  "transliteration": "uṭmpuuyir eṭutttō, uyiruṭmpu eṭutttō\nuṭmpuuyir eṭuttpōtu uruvmētu ceppuvīr\nuṭmpuuyir iṟntpōtu uyiriṟpptu illaiyē\nuṭmpumey mṟntukṇṭu uṇrntuñāṉm ōtumē.",
+  "english_translation": null,
+  "content_hash": "91b98a1c7d49c9d59991209e406d58cbe23b266844f4dfa507b284f3ec089667",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "body_udal",
+    "concept_jnana",
+    "body_eye",
+    "body_uyir",
+    "concept_atman"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0460",
+  "text_id": "thirumandiram_pm_0460",
+  "title": "Thirumandiram - Verse 1018",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1018",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கொண்டஇக் குண்டத்தின் உள்ளெழு சோதியாய்\nஅண்டங்கள் ஈரேழும் ஆக்கி அழிக்கலாம்\nபண்டையுள் வேதம் பரந்த பரப்பெலாம்\nஇன்றுசொல் நூலாய் எடுத்துரைத் தேனே.",
+  "transliteration": "koṇṭik kuṇṭttiṉ uḷḷeḻu cōtiyāy\naṇṭṅkḷ īrēḻum ākki aḻikklām\npṇṭaiyuḷ vētm prnt prppelām\niṉṟucol nūlāy eṭutturait tēṉē.",
+  "english_translation": null,
+  "content_hash": "5f10fa8e2ccd55a62a00a6ebefe63637cc47032ad266b4fdfc3dbd3b674cbec6",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_kali",
+    "concept_kundalini",
+    "concept_brahman",
+    "body_light",
+    "concept_dhyana"
+  ]
+}

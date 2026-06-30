@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0299",
+  "text_id": "thirumandiram_pm_0299",
+  "title": "Thirumandiram - Verse 303",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "303",
+  "tamil_text": "பெருமான் இவனென்று பேசி இருக்கும்\nதிருமானிடர் பின்னைத் தேவரும் ஆவர்\nவருமா தவர்க்கு மகிழ்ந்தருள் செய்யும்\nஅருமா தவத்தெங்கள் ஆதிப் பிரானே.",
+  "transliteration": "perumāṉ ivṉeṉṟu pēci irukkum\ntirumāṉiṭr piṉṉait tēvrum āvr\nvrumā tvrkku mkiḻntruḷ ceyyum\narumā tvtteṅkḷ ātip pirāṉē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "66e6c4d7c21f092de2ebdf25c3a58848308c2c35e5278e2bfed5bf25101bbe4a",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

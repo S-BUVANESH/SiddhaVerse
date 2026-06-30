@@ -1,0 +1,25 @@
+{
+  "title": "Journal of Siddha (JOS)",
+  "url": "https://www.nischennai.org/",
+  "organization": "National Institute of Siddha (NIS)",
+  "source_type": "Research Paper",
+  "license_status": "mixed",
+  "trust_score": "9.5/10",
+  "priority": "high",
+  "acquisition_difficulty": 3,
+  "coverage": {
+    "siddhars": 5,
+    "plants": 25,
+    "formulations": 25,
+    "diseases": 20,
+    "manuscripts": 5,
+    "research": 20
+  },
+  "access_type": "partially_open",
+  "contains": [
+    "Clinical Trial Publications",
+    "Siddha Literature Analyses",
+    "Safety & Efficacy Studies"
+  ],
+  "notes": "Academic journal published by NIS. Extract peer-reviewed data on clinical findings."
+}

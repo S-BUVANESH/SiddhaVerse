@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0914",
+  "text_id": "sivavakkiyar_pm_0914",
+  "title": "Sivavakkiyam - Verse 305",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "305",
+  "tamil_text": "மூலம்என்ற மந்திரம் முளைத்த அஞ்செழுத்துளே\nநாலுவேதம் நாவுளே நவின்றஞான மெய்யுளே\nஆலம்உண்ட கண்டனும் அரிஅயனும் ஆதலால்\nஓலம்என்ற மந்திரம் சிவாயமல்லது இல்லையே.",
+  "transliteration": "mūlmeṉṟ mntirm muḷaitt añceḻuttuḷē\nnāluvētm nāvuḷē nviṉṟñāṉ meyyuḷē\nālmuṇṭ kṇṭṉum ariayṉum ātlāl\nōlmeṉṟ mntirm civāymlltu illaiyē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f12b2b7c7017b02706f57b4fb7358962e2743883cd71928bb5b8a0ae43a6ae27",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

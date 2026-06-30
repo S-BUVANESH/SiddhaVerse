@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0793",
+  "text_id": "sivavakkiyar_pm_0793",
+  "title": "Sivavakkiyam - Verse 184",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "184",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "கோயில்பள்ளி ஏதடா? குறித்துநின்றது ஏதடா?\nவாயினால் தொழுதுநின்ற மந்திரங்கள் ஏதடா?\nஞானமான பள்ளியில் நன்மையாய் வணங்கினால்\nகாயமான பள்ளியில் காணலாம் இறையையே.",
+  "transliteration": "kōyilpḷḷi ētṭā? kuṟittuniṉṟtu ētṭā?\nvāyiṉāl toḻutuniṉṟ mntirṅkḷ ētṭā?\nñāṉmāṉ pḷḷiyil nṉmaiyāy vṇṅkiṉāl\nkāymāṉ pḷḷiyil kāṇlām iṟaiyaiyē.",
+  "english_translation": null,
+  "content_hash": "c4e096ae6624348d7265017fe643c76da790454bd8b35ebb0cb11deea7eb0316",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "place_tiruvannamalai",
+    "concept_jnana",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "practice_kayakalpa",
+    "concept_mantra"
+  ]
+}

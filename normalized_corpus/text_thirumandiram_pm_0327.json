@@ -1,0 +1,38 @@
+{
+  "document_id": "thirumandiram_pm_0327",
+  "text_id": "thirumandiram_pm_0327",
+  "title": "Thirumandiram - Verse 331",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "331",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "இராப்பகல் அற்ற இடத்தே இருந்து\nபராக்கற ஆனந்தத் தேறல் பருகார்\nஇராப்பகல் அற்ற இணையடி இன்பத்து\nஇராப்பகல் மாயை இரண்டிடத் தேனே.",
+  "transliteration": "irāppkl aṟṟ iṭttē iruntu\nprākkṟ āṉntt tēṟl prukār\nirāppkl aṟṟ iṇaiyṭi iṉpttu\nirāppkl māyai irṇṭiṭt tēṉē.",
+  "english_translation": null,
+  "content_hash": "c450f10534e59f73244a865f918b3f4908a4c51c73453b8cf2da6b7936f77633",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_maya",
+    "deity_vishnu",
+    "deity_murugan",
+    "deity_shakti",
+    "siddhar_ramadevar"
+  ]
+}

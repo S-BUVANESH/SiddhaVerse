@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0693",
+  "text_id": "sivavakkiyar_pm_0693",
+  "title": "Sivavakkiyam - Verse 84",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "84",
+  "tamil_text": "கானமற்ற காட்டகத்தில் வெந்தெழுந்த நீறுபோல்\nஞானம்உற்ற நெஞ்சகத்தில் நல்லதேதும் இல்லையே;\nஊனமற்ற சோதியோடு உணர்வுசேர்ந்து அடக்கினால்\nதேன்அகத்தின் ஊறல்போல் தெளிந்ததே சிவாயமே.",
+  "transliteration": "kāṉmṟṟ kāṭṭkttil venteḻunt nīṟupōl\nñāṉmuṟṟ neñckttil nlltētum illaiyē;\nūṉmṟṟ cōtiyōṭu uṇrvucērntu aṭkkiṉāl\ntēṉakttiṉ ūṟlpōl teḷinttē civāymē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "5ec6f760cc30f96fc130c84da48a32a1b011404de3d011d80a43ad002bf1bdeb",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

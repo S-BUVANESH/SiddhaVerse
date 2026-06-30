@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0239",
+  "text_id": "thirumandiram_pm_0239",
+  "title": "Thirumandiram - Verse 242",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "242",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "ஞானமி லாதார் சடைசிகை நூல்நண்ணி\nஞானிகள் போல நடிக்கின் றவர் தம்மை\nஞானிக ளாலே நரபதி சோதித்து\nஞானமுண் டாக்குதல் நலமாகும் நாட்டிற்கே.",
+  "transliteration": "ñāṉmi lātār cṭaicikai nūlnṇṇi\nñāṉikḷ pōl nṭikkiṉ ṟvr tmmai\nñāṉik ḷālē nrpti cōtittu\nñāṉmuṇ ṭākkutl nlmākum nāṭṭiṟkē.",
+  "english_translation": null,
+  "content_hash": "279254c3af80e0e5b152f2449991ee1efc55f315582102cfcb146f0e11e88648",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "practice_varma",
+    "concept_jnana",
+    "concept_nadi",
+    "symbol_eighteen",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "body_light",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "document_id": "thirumandiram_pm_0319",
+  "text_id": "thirumandiram_pm_0319",
+  "title": "Thirumandiram - Verse 323",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "323",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தோன்றிய எல்லாம் துடைப்பன் அவனன்றி\nஏன்றுநின் றாரென்றும் ஈசன் இணையடி\nமூன்றுநின் றார்முதல் வன்திரு நாமத்தை\nநான்றுநின் றார்நடு வாகிநின் றாரே.",
+  "transliteration": "tōṉṟiy ellām tuṭaippṉ avṉṉṟi\nēṉṟuniṉ ṟāreṉṟum īcṉ iṇaiyṭi\nmūṉṟuniṉ ṟārmutl vṉtiru nāmttai\nnāṉṟuniṉ ṟārnṭu vākiniṉ ṟārē.",
+  "english_translation": null,
+  "content_hash": "8c6f4d54c04c7f3b29911f589084fd3915be8100a6ad22c489203234d2f11f32",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "symbol_three",
+    "place_tiruvannamalai",
+    "siddhar_thirumoolar",
+    "deity_vishnu",
+    "deity_brahma",
+    "practice_mudra",
+    "deity_shiva"
+  ]
+}

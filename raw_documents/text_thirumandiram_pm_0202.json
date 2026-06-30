@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0202",
+  "text_id": "thirumandiram_pm_0202",
+  "title": "Thirumandiram - Verse 205",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "205",
+  "tamil_text": "மனைபுகு வார்கள் மனைவியை நாடில்\nசுனைபுகு நீர்போல் சுழித்துடன் வாங்கும்\nகனவது போலக் கசிந்தெழும் இன்பம்\nநனவது போலவும் நாடவொண் ணாதே.",
+  "transliteration": "mṉaipuku vārkḷ mṉaiviyai nāṭil\ncuṉaipuku nīrpōl cuḻittuṭṉ vāṅkum\nkṉvtu pōlk kcinteḻum iṉpm\nnṉvtu pōlvum nāṭvoṇ ṇātē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "f0607d5b3cf4059838ec3eeaa09ba333b0c113313f47177a9538900bf8f8b025",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "thirumandiram_pm_0439",
+  "text_id": "thirumandiram_pm_0439",
+  "title": "Thirumandiram - Verse 992",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "992",
+  "tamil_text": "கண்டெடுந் தேன்கம லம்மலர் உள்ளிடை\nகொண்டெழுந் தேன்உடன் கூடிய காலத்துப்\nபண்டழி யாத பதிவழி யேசென்று\nநண்பழி யாமே நமவென வாமே.",
+  "transliteration": "kṇṭeṭun tēṉkm lmmlr uḷḷiṭai\nkoṇṭeḻun tēṉuṭṉ kūṭiy kālttup\npṇṭḻi yāt ptivḻi yēceṉṟu\nnṇpḻi yāmē nmveṉ vāmē.",
+  "english_translation": null,
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "8c3fa3b3336a551eba99bccf1206c8be371316ee36fa1b31c0a90420e37c556c",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

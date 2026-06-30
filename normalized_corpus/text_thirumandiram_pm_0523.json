@@ -1,0 +1,36 @@
+{
+  "document_id": "thirumandiram_pm_0523",
+  "text_id": "thirumandiram_pm_0523",
+  "title": "Thirumandiram - Verse 1081",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "1081",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "சூலம் கபாலம் கை ஏந்திய சூலிக்கு\nநாலாங் கரமுள நாகபா சாங்குச\nமாலங் லயனறி யாத வடிவுக்கு\nமேல்அங்க மாய்நின்ற மெல்லிய லாளே.",
+  "transliteration": "cūlm kpālm kai ēntiy cūlikku\nnālāṅ krmuḷ nākpā cāṅkuc\nmālṅ lyṉṟi yāt vṭivukku\nmēlaṅk māyniṉṟ melliy lāḷē.",
+  "english_translation": null,
+  "content_hash": "2dd364abdd211b7bf5a285e769f6290a2d455c008e976e08078594d319e2a74f",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_vishnu",
+    "concept_maya",
+    "concept_dhyana"
+  ]
+}

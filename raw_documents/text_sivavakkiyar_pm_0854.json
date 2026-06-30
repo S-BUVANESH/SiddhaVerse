@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0854",
+  "text_id": "sivavakkiyar_pm_0854",
+  "title": "Sivavakkiyam - Verse 245",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "245",
+  "tamil_text": "உன்னையற்ப நேரமும் மறந்திருக்க லாகுமோ\nஉள்ளமீது உறைந்தெனை மறைப்பிலாத சோதியைப்\nபொன்னவென்ற பேரொளிப் பொருவில்லாத ஈசனே\nபொன்னடிப் பிறப்பில்லாமை என்றுநல்க வேணுமே.",
+  "transliteration": "uṉṉaiyṟp nērmum mṟntirukk lākumō\nuḷḷmītu uṟainteṉai mṟaippilāt cōtiyaip\npoṉṉveṉṟ pēroḷip poruvillāt īcṉē\npoṉṉṭip piṟppillāmai eṉṟunlk vēṇumē.",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "e2d4a7f3e623d75e8e4307eba6f6d57a4e5904cb6cff8ada365f42b1ba6d7941",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

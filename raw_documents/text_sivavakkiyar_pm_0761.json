@@ -1,0 +1,25 @@
+{
+  "document_id": "sivavakkiyar_pm_0761",
+  "text_id": "sivavakkiyar_pm_0761",
+  "title": "Sivavakkiyam - Verse 152",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "152",
+  "tamil_text": "சாவல்நாலு குஞ்சதஞ்சு தாயதான வாறுபோல்\nகாவலான கூட்டிலே கலந்துசண்டை கொள்ளுதே!\nகூவமான் கிழநரியக் கூட்டிலே புகுந்தபின்\nசாவல்நாலும் குஞ்சதஞ்சும் தான் இறந்து போனவே!",
+  "transliteration": "cāvlnālu kuñctñcu tāytāṉ vāṟupōl\nkāvlāṉ kūṭṭilē klntucṇṭai koḷḷutē!\nkūvmāṉ kiḻnriyk kūṭṭilē pukuntpiṉ\ncāvlnālum kuñctñcum tāṉ iṟntu pōṉvē!",
+  "english_translation": null,
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "content_hash": "36a624280590386b9608fd2122c36b27245cd0b6a3a6e4951a742683b5669d53",
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  }
+}

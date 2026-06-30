@@ -1,0 +1,44 @@
+{
+  "document_id": "thirumandiram_pm_0331",
+  "text_id": "thirumandiram_pm_0331",
+  "title": "Thirumandiram - Verse 335",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "335",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "யோகிகள் கால்கட்டி ஒண்மதி ஆனந்தப்\nபோத அமுதைப் பொசித்தவர் எண்சித்தி\nமோகியர் கள்ளுண்டு மூடராய் மோகமுற்று\nஆகும் மதத்தால் அறிவழிந் தாரே.",
+  "transliteration": "yōkikḷ kālkṭṭi oṇmti āṉntp\npōt amutaip pocittvr eṇcitti\nmōkiyr kḷḷuṇṭu mūṭrāy mōkmuṟṟu\nākum mtttāl aṟivḻin tārē.",
+  "english_translation": null,
+  "content_hash": "0e56925856e8a900dc30ea6a5a32ed9ba9d57e986ec31f122882f6d4e7e907ec",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_siddhi",
+    "plant_ashwagandha",
+    "practice_varma",
+    "symbol_three",
+    "siddhar_yugi",
+    "place_chidambaram",
+    "deity_murugan",
+    "concept_yoga",
+    "practice_pranayama",
+    "practice_mudra",
+    "practice_kumbhaka"
+  ]
+}

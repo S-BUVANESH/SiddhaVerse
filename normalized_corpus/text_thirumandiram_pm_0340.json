@@ -1,0 +1,35 @@
+{
+  "document_id": "thirumandiram_pm_0340",
+  "text_id": "thirumandiram_pm_0340",
+  "title": "Thirumandiram - Verse 888",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "888",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தாண்டவ மான தனியெழுத்து ஓரெழுத்து\nதாண்டவ மானது அனுக்கிரகத் தொழில்\nதாண்டவக் கூத்துததனிநின்ற தற்பரம்\nதாண்டவக் கூத்துத் தமனியந் தானே.",
+  "transliteration": "tāṇṭv māṉ tṉiyeḻuttu ōreḻuttu\ntāṇṭv māṉtu aṉukkirkt toḻil\ntāṇṭvk kūttuttṉiniṉṟ tṟprm\ntāṇṭvk kūttut tmṉiyn tāṉē.",
+  "english_translation": null,
+  "content_hash": "8743b452efd49a54d90cc2662d971eb32d7c3dc29f13ebe299d09035fefc2ba7",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "deity_shiva",
+    "concept_brahman"
+  ]
+}

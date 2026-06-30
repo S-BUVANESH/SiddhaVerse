@@ -1,0 +1,42 @@
+{
+  "document_id": "thirumandiram_pm_0045",
+  "text_id": "thirumandiram_pm_0045",
+  "title": "Thirumandiram - Verse 45",
+  "source_work": "Thirumandiram",
+  "collection": "Tantirams 1-2",
+  "verse_number": "45",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "விதிவழி அல்லதுஇவ் வேலை உலகம்\nவிதிவழி இன்பம் விருத்தமும் இல்லை\nதுதிவழி நித்தலும் சோதிப் பிரானும்\nபதிவழி காட்டும் பகலவ னாமே.",
+  "transliteration": "vitivḻi alltuiv vēlai ulkm\nvitivḻi iṉpm viruttmum illai\ntutivḻi nittlum cōtip pirāṉum\nptivḻi kāṭṭum pklv ṉāmē.",
+  "english_translation": null,
+  "content_hash": "174df652c3033d9a3f06c626b610919972b3110752749ac3c615341a560b339d",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_three",
+    "deity_brahma",
+    "symbol_eighteen",
+    "deity_murugan",
+    "concept_pranava",
+    "practice_pranayama",
+    "body_light",
+    "plant_thippili"
+  ]
+}

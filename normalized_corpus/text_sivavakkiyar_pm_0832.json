@@ -1,0 +1,40 @@
+{
+  "document_id": "sivavakkiyar_pm_0832",
+  "text_id": "sivavakkiyar_pm_0832",
+  "title": "Sivavakkiyam - Verse 223",
+  "source_work": "Sivavakkiyam",
+  "collection": "Sivavakkiyam (Complete)",
+  "verse_number": "223",
+  "author": "Sivavakkiyar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "அரியுமாகி அயனுமாகி அண்டமெங்கும் ஒன்றதாய்ப்\nபெரியதாகி உலகுதன்னில் நின்றபாதம் ஒன்றலோ\nவிரிவதென்று வேறுசெய்த வேடமிட்ட மூடரே,\nஅறிவினோடு பாரும்இங்கும் அங்கும் ஒன்றதே.",
+  "transliteration": "ariyumāki ayṉumāki aṇṭmeṅkum oṉṟtāyp\nperiytāki ulkutṉṉil niṉṟpātm oṉṟlō\nvirivteṉṟu vēṟuceyt vēṭmiṭṭ mūṭrē,\naṟiviṉōṭu pārumiṅkum aṅkum oṉṟtē.",
+  "english_translation": null,
+  "content_hash": "623e37f2e0cd8a366ea2f4d76e2ef899fa4b1efc9165f9121eeba9742285ca71",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0269.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "place_tiruvannamalai",
+    "deity_murugan",
+    "practice_pranayama",
+    "siddhar_kudambai",
+    "deity_shakti",
+    "concept_karma",
+    "practice_kumbhaka"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "thirumandiram_pm_0367",
+  "text_id": "thirumandiram_pm_0367",
+  "title": "Thirumandiram - Verse 915",
+  "source_work": "Thirumandiram",
+  "collection": "Tantiram 3 (Part 2)",
+  "verse_number": "915",
+  "author": "Thirumoolar",
+  "language": "Tamil",
+  "script": "Tamil script",
+  "tamil_text": "தான்ஒன்றி வாழிடம் தன்எழுத் தேயாகும்\nதான்ஒன்றும் அந்நான்கும் தன்பே ரெழுத்தாகும்\nதான்ஒன்று நாற்கோணம் தன்ஐந் தெழுத்தாகும்\nதான்ஒன்றி லேஒன்றும் அவ்அரன் தானே.",
+  "transliteration": "tāṉoṉṟi vāḻiṭm tṉeḻut tēyākum\ntāṉoṉṟum annāṉkum tṉpē reḻuttākum\ntāṉoṉṟu nāṟkōṇm tṉain teḻuttākum\ntāṉoṉṟi lēoṉṟum avarṉ tāṉē.",
+  "english_translation": null,
+  "content_hash": "0311b7daca7b6567a8c5d68f7ff780af21fc5c9b984eb2b8e6c7f837e53b81d3",
+  "normalization": {
+    "applied": false,
+    "changes": [],
+    "normalized_by": "SiddhaVerse Phase 2B-2",
+    "normalized_at": "2026-06-24T18:01:29.975753+00:00"
+  },
+  "copyright_status": "public_domain",
+  "source_repository": "Project Madurai",
+  "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0009_02.html",
+  "acquisition_timestamp": "2026-06-24T17:46:07.493552+00:00",
+  "provenance_metadata": {
+    "method": "direct_html_extraction",
+    "extractor": "SiddhaVerse Phase 2B-1R",
+    "verified": true,
+    "synthetic": false
+  },
+  "entity_ids": [
+    "concept_prana",
+    "symbol_five",
+    "deity_brahma",
+    "deity_murugan",
+    "practice_pranayama",
+    "practice_kumbhaka"
+  ]
+}
